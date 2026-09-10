@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: "LF2"
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - href: index.qmd
+        text: Home
+      - href: 01_Willkommen_Struktur.qmd
+        text: 01 Willkommen zu LF2 - Themen und Zeitplan
+
+format:
+  revealjs:
+    embed-resources: true
+    include-after-body: libs/backlink.html
+    css: libs/styles.css
+    logo: libs/_Images/logo-AFBB.svg
+    profile: public
+
+profiles:
+  internal:
+    # zum Zeigen, mit Bildern
+  public:
+    # zum Veröffentlichen, ohne manche Bilder
+
+publish:
+  gh-pages: true

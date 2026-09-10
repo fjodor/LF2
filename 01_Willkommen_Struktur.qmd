@@ -1,0 +1,66 @@
+---
+title: "Willkommen in LF2!"
+title-slide-attributes:
+  data-background-color: "#D7E6F4"
+subtitle: " "
+format:
+  revealjs:
+    theme: simple
+execute:
+  echo: false
+  eval: true
+  freeze: auto
+  warning: false
+  message: false
+callout-appearance: simple
+---
+
+## Willkommen in LF2!
+`Arbeitsplätze nach Kundenwunsch ausstatten`
+
+![](libs/_Images/Robot-Genie-AI_Superintelligence-Newsletter.jpeg)
+
+[Quelle: Superintelligence Newsletter]{style="font-size: 1.2rem"}
+
+
+## Willkommen in LF2!
+
+`Arbeitsplätze nach Kundenwunsch ausstatten`
+
+### Themenübersicht
+
+:::  {style="font-size: 2rem"}
+
+- Grundlagen moderner IT-Arbeitsplätze
+- Anforderungsanalyse und Konzeption
+- Hardware-, Software- und Lizenzmanagement
+- Projektmanagement, Service & Qualitätssicherung
+- Projektbewertung, Dokumentation, Nachfolgeprozesse
+
+:::
+
+
+## Zeitplan und Noten
+
+- 80 Unterrichtseinheiten (UE) vom 14. September 2026 bis 4. März 2027
+- **Klassenarbeit** am 17. November
+- **Klassenarbeit** am 26. Februar
+
+
+## SuS Vorträge {style="font-size: 1.7rem"}
+
+ca. 10 Minuten; Teamarbeit zu zweit möglich: dann tragen beide je einen Teil vor
+
+
+
+## <!-- -->
+
+![](libs/_Images/coffee.jpg){fig-align="center" width="50%"}
+
+::: {style="text-align: center; font-size: 1rem;"}
+[©torange.biz](https://torange.biz/cup-coffee-30851) CC-BY 4.0
+:::
+
+::: {style="color: green; text-align: center; font-size: 2.8rem"}
+**Viel Erfolg!**
+:::
