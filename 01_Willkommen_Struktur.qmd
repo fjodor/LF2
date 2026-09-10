@@ -49,8 +49,38 @@ callout-appearance: simple
 
 ## SuS Vorträge {style="font-size: 1.7rem"}
 
-ca. 10 Minuten; Teamarbeit zu zweit möglich: dann tragen beide je einen Teil vor
+#### Vorgaben
 
+- ca. 10 Minuten; mit Präsentation
+- Teamarbeit zu zweit möglich: dann tragen beide je einen Teil vor
+
+
+#### Themen
+
+:::: columns
+::: column
+
+**Freitag, 18.09.2026:** <br> Hardware - Aufbau, Bewertungs-Kriterien
+
+  + CPUs
+  + Motherboards
+  + RAM
+  + Datenspeicher
+  + Netzteile
+  + Grafikkarten
+  + Tablets
+
+:::
+
+::: column
+
+**Montag, 21.09.2026**
+
+  + **Lastenheft:** Zweck, Urheber, Inhalt, kurze Beispiele für gelungene Lastenheft-Einträge
+  + **Pflichtenheft:** Zweck, Urheber, Inhalt, kurze Beispiele für gelungene Pflichtenheft-Einträge
+
+:::
+:::: 
 
 
 ## <!-- -->

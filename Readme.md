@@ -2,7 +2,7 @@ Willkommen!
 
 Hier sammle ich Unterlagen zu LF2. Zum Lesen bitte hier klicken (führt zu GitHub Pages):
 
-[LF8 Unterlagen](https://fjodor.github.io/LF2/)
+[LF2 Unterlagen](https://fjodor.github.io/LF2/)
 
 Die Präsentationen werden erstellt mit
 
