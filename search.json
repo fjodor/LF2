@@ -48,5 +48,15 @@
     "crumbs": [
       "01 Willkommen zu LF2 - Themen und Zeitplan"
     ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LF2",
+    "section": "",
+    "text": "Willkommen!\nHier sammle ich Unterlagen zu LF2.\nDer Quellcode liegt hier: https://github.com/fjodor/LF2",
+    "crumbs": [
+      "Home"
+    ]
   }
 ]
