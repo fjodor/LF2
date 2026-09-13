@@ -47,7 +47,16 @@ callout-appearance: simple
 - **Klassenarbeit** am 26. Februar
 
 
-## SuS Vorträge {style="font-size: 1.7rem"}
+## Gemeinsame Notizen: Hedgedoc
+
+In Hedgedoc können wir gemeinsame Notizen zum Unterricht erstellen:
+
+<https://hedgedoc.c3d2.de/FI26_LF2>
+
+![](libs/_Images/QR_Hedgedoc_LF2-FI26.png)
+
+
+## SuS Vorträge {style="font-size: 1.6rem"}
 
 #### Vorgaben
 
@@ -60,7 +69,7 @@ callout-appearance: simple
 :::: columns
 ::: column
 
-**Freitag, 18.09.2026:** <br> Hardware - Aufbau, Bewertungs-Kriterien
+**Freitag, 18.09.2026 / Montag, 21.09:** <br> Hardware - Aufbau, Bewertungs-Kriterien
 
   + CPUs
   + Motherboards
@@ -75,7 +84,7 @@ callout-appearance: simple
 
 ::: column
 
-**Montag, 21.09.2026**
+**Montag / Dienstag, 21. / 22.09.2026**
 
   + **Lastenheft:** Zweck, Urheber, Inhalt, kurze Beispiele für gelungene Lastenheft-Einträge
   + **Pflichtenheft:** Zweck, Urheber, Inhalt, kurze Beispiele für gelungene Pflichtenheft-Einträge
