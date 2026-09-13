@@ -69,6 +69,7 @@ callout-appearance: simple
   + Netzteile
   + Grafikkarten
   + Tablets
+  + Drucker
 
 :::
 

@@ -1,0 +1,10 @@
+---
+title: "LF2"
+format: html
+---
+
+# Willkommen!
+
+Hier sammle ich Unterlagen zu LF2.
+
+Der Quellcode liegt hier: <https://github.com/fjodor/LF2>
