@@ -15,6 +15,114 @@ execute:
 callout-appearance: simple
 ---
 
+## Bedarfsanalyse
+
+- Gehört zum Projektmanagement
+- Typische Fragen:
+  + Welches Problem soll gelöst werden?
+  + Wer hat welchen Bedarf?
+  + Warum lohnt sich das Projekt?
+  + Welche Ziele sollen erreicht werden?
+
+
+## Bedarfsanalyse
+
+::: {style="font-size: 2rem"}
+
+**Definition:**
+
+- Analyseart zur Feststellung des **Bedarf**s **an Waren, Dienstleistungen, Gütern oder Personal**
+- für eine bestimmte Region / Land und / oder
+- für bestimmte Personengruppen und / oder
+- für einen bestimmten Zeitraum
+
+Zweck: Künftige Beschaffungsprozesse oder Projekte besser zu planen
+
+:::
+
+
+::: notes
+Lernkarte AP1 2025 Nr. 137
+:::
+
+
+## Bedarfsanalyse: Vorteile
+
+::: {.incremental style="font-size: 2rem"}
+
+- Der Vertrieb kann Wünsche, Motive und Ziele des Kunden ermitteln
+- Entscheider und Kundentypen können ermittelt werden
+- Das Vertrauen des Kunden wird gestärkt
+- Dem Kunden können individuelle Lösungen angeboten werden
+- Das Unternehmen hebt sich von der Konkurrenz ab
+- Umsatz des Unternehmens kann gesteigert werden
+- Langfristige Kundenbindung wird unterstützt
+
+:::
+
+::: notes
+Lernkarte AP1 2025 Nr. 138
+:::
+
+
+## Was sind Stakeholder in Software-Projekten?
+
+:::: {style="font-size: 1.8rem"}
+
+Alle, die an einem Projekt beteiligt sind oder von den Ergebnissen betroffen sind!
+
+::: {.incremental}
+
+- Auftraggeber
+- Nutzer / User
+- Mitarbeiter am Projekt
+  + Software-Entwickler, Software-Architekten, Software-Tester, ...
+  + Systemadministratoren
+  + Datenschutzbeauftragte
+- Kunden
+- Partnerunternehmen
+- Lieferanten
+
+:::
+::::
+
+
+## Bedarfsanalyse: Beispiel
+
+::::: {style="font-size: 1.9rem"}
+
+> Ein Unternehmen erhält täglich 300 Kundenanfragen per E-Mail.  
+> Die Bearbeitung dauert zu lange, Kunden sind unzufrieden.
+
+:::: columns
+::: {.column width="30%"}
+
+Kriterium | 
+----------|
+Problem |
+Ziel |
+Stakeholder |
+Nutzen |
+
+:::
+
+::: {.column .fragment width="70%"}
+
+| Ergebnis |
+|----------|
+| lange Bearbeitungszeit |
+| 30% schneller |
+| Kunden, Support-Team |
+| höhere Zufriedenheit, geringere Kosten |
+
+:::
+::::
+
+[Problem]
+
+:::::
+
+
 ## Arten von Anforderungen an Software
 
 - Geschäftsanforderungen
@@ -36,9 +144,7 @@ Lernkarte AP1 2025 Nr. 133
 
 ::: incremental
 
-- Kernfrage:
-  + **Warum?**
-  + **Warum existiert das Projekt?**
+- Kernfrage: ***Warum* existiert das Projekt?**
   + Ziele, Nutzen, strategische Motivation
 
 - Beispiele:
@@ -59,9 +165,7 @@ Lernkarte AP1 2025 Nr. 133
 
 ::: incremental
 
-- Kernfrage:
-  + **Was?**
-  + ***Was* braucht ein bestimmter Nutzer, um sein Ziel zu erreichen?**
+- Kernfrage: ***Was* braucht ein bestimmter Nutzer, um sein Ziel zu erreichen?**
 - Beispiele:
   + „Als Sachbearbeiter möchte ich Kundenanfragen durchsuchen können, damit ich schnell die passende Historie finde.“
   + „Als Kunde möchte ich meine Bestellung verfolgen können, damit ich weiß, wann sie ankommt.“
@@ -80,14 +184,12 @@ Lernkarte AP1 2025 Nr. 133
 
 ::: incremental
 
-- Kernfrage:
-  + **Wie?**
-  + ***Wie* soll sich das System verhalten?*** 
+- Kernfrage: ***Was* soll das System können?**
   + konkrete Funktionen
 - Beispiele:
-  + „Das System muss Berichte exportieren können.“
-  + „Das System muss Bestellungen automatisch per E‑Mail bestätigen.“
-  + „Das System muss Rollen und Berechtigungen verwalten können.“
+  + „Das System soll Berichte exportieren können.“
+  + „Das System soll Bestellungen automatisch per E‑Mail bestätigen.“
+  + „Das System soll Rollen und Berechtigungen verwalten können.“
 
 :::
 ::::
@@ -109,6 +211,15 @@ Lernkarte AP1 2025 Nr. 133
 
 :::
 ::::
+
+
+## Anforderungen an Software
+
+Spielerisch lernen:
+
+<https://learningapps.org/watch?v=pu2tvbzj526>
+
+![](libs/_Images/QR_learningapps_Anforderungen-Software.png)
 
 
 ## <!-- -->
