@@ -19,6 +19,7 @@ callout-appearance: simple
 
 
 
+
 ## <!-- -->
 
 ![](libs/_Images/coffee.jpg){fig-align="center" width="50%"}
