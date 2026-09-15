@@ -1,5 +1,5 @@
 ---
-title: "Anforderungsanalyse"
+title: "Bedarfs- und Anforderungsanalyse"
 title-slide-attributes:
   data-background-color: "#D7E6F4"
 subtitle: " "
@@ -14,6 +14,10 @@ execute:
   message: false
 callout-appearance: simple
 ---
+
+## Bedarfs- und Anforderungsanalyse
+
+Ziele:
 
 ## Bedarfsanalyse
 
@@ -118,7 +122,7 @@ Nutzen |
 :::
 ::::
 
-[Problem]
+[Problem erkannt, Ziel ermittelt - nun zur Umsetzung!]{.fragment}
 
 :::::
 
@@ -220,6 +224,73 @@ Spielerisch lernen:
 <https://learningapps.org/watch?v=pu2tvbzj526>
 
 ![](libs/_Images/QR_learningapps_Anforderungen-Software.png)
+
+
+## Vom Bedarf zur Anforderung
+
+:::: {style="font-size: 1.8rem"}
+
+Aufgabe: Ermitteln Sie zu jedem Bedarf mindestens eine
+
+- Geschäftsanforderung
+- Benutzeranforderung
+- funktionale Anforderung 
+- Projektanforderung
+
+::: {.incremental}
+
+- Bedarf 1: Kundenservice digitalisieren: Der Kundenservice soll schneller und transparenter werden.
+- Bedarf 2: Außendienst effizienter machen: Außendienstmitarbeiter sollen Kundendaten mobil erfassen können.
+- Bedarf 3: Sicherheit erhöhen: Die IT-Security verlangt höhere Zugriffssicherheit.
+
+:::
+::::
+
+
+## Kundenservice digitalisieren
+
+[Bedarf: Der Kundenservice soll schneller und transparenter werden.]{style="font-size: 1.8rem"}
+
+::: {style="font-size: 1.6rem"}
+
+Anforderung | Frage | Beispiel
+:----|:------|:---------------
+Geschäftsanforderung | Warum das Projekt? | Das Unternehmen möchte die Bearbeitungszeit von Kundenanfragen um 30% reduzieren.
+Benutzeranforderung | Was braucht ...? | Als Kunde möchte ich den Status meiner Anfrage online einsehen können.
+Funktionale Anforderung | Was soll das System tun? | Das System muss den aktuellen Bearbeitungsstatus einer Anfrage anzeigen.
+Projektanforderung | Unter welchen Bedingungen? | Die Lösung muss in der bestehenden AWS‑Cloud betrieben werden.
+
+:::
+
+
+## Außendienst effizienter machen
+
+[Bedarf: Außendienstmitarbeiter sollen Kundendaten mobil erfassen können.]{style="font-size: 1.8rem"}
+
+::: {style="font-size: 1.6rem"}
+
+Anforderung | Frage | Beispiel
+:----|:------|:---------------
+Geschäftsanforderung | Warum das Projekt? | Die Erfassung von Kundendaten soll vor Ort möglich sein, um Nachbearbeitungszeit im Büro zu reduzieren.
+Benutzeranforderung | Was braucht ...? | Als Außendienstmitarbeiter möchte ich Kundendaten offline erfassen können.
+Funktionale Anforderung | Was soll das System tun? | Die App muss Eingaben lokal speichern und später automatisch synchronisieren.
+Projektanforderung | Unter welchen Bedingungen? | Die mobile App muss auf iOS und Android lauffähig sein.
+:::
+
+
+## Sicherheit erhöhen
+
+[Bedarf: Die IT‑Security verlangt höhere Zugriffssicherheit.]{style="font-size: 1.8rem"}
+
+::: {style="font-size: 1.6rem"}
+
+Anforderung | Frage | Beispiel
+:----|:------|:---------------
+Geschäftsanforderung | Warum das Projekt? | Die Sicherheit sensibler Kundendaten muss verbessert werden, um Compliance‑Risiken zu reduzieren.
+Benutzeranforderung | Was braucht ...? | Als Administrator möchte ich Benutzerrollen verwalten können, um Zugriffe gezielt zu steuern.
+Funktionale Anforderung | Was soll das System tun? | Das System muss eine Zwei‑Faktor‑Authentifizierung anbieten.
+Projektanforderung | Unter welchen Bedingungen? | Die Lösung muss DSGVO‑konform sein.
+:::
 
 
 ## <!-- -->
