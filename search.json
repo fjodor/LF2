@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "02_IT-Systeme.html#it-systeme",
+    "href": "02_IT-Systeme.html#it-systeme",
+    "title": "Willkommen in LF2!",
+    "section": "IT-Systeme",
+    "text": "IT-Systeme"
+  },
+  {
+    "objectID": "02_IT-Systeme.html#section",
+    "href": "02_IT-Systeme.html#section",
+    "title": "Willkommen in LF2!",
+    "section": "",
+    "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!"
+  },
+  {
     "objectID": "01_Willkommen_Struktur.html#willkommen-in-lf2",
     "href": "01_Willkommen_Struktur.html#willkommen-in-lf2",
     "title": "Willkommen in LF2!",
@@ -44,7 +58,17 @@
     "href": "01_Willkommen_Struktur.html#sus-vorträge",
     "title": "Willkommen in LF2!",
     "section": "SuS Vorträge",
-    "text": "SuS Vorträge\nVorgaben\n\nca. 10 Minuten; mit Präsentation\nTeamarbeit zu zweit möglich: dann tragen beide je einen Teil vor\n\nThemen\n\n\nFreitag, 18.09.2026 / Montag, 21.09:  Hardware - Aufbau, Bewertungs-Kriterien\n\nCPUs\nMotherboards\nRAM\nDatenspeicher\nNetzteile\nGrafikkarten\nTablets\nDrucker\n\n\nMontag / Dienstag, 21. / 22.09.2026\n\nLastenheft: Zweck, Urheber, Inhalt, kurze Beispiele für gelungene Lastenheft-Einträge\nPflichtenheft: Zweck, Urheber, Inhalt, kurze Beispiele für gelungene Pflichtenheft-Einträge",
+    "text": "SuS Vorträge\nVorgaben\n\nca. 10 Minuten; mit Präsentation\nTeamarbeit zu zweit möglich: dann tragen beide je einen Teil vor\n\nThemen\n\n\nFreitag, 18.09.2026 / Montag, 21.09:  Hardware - Aufbau, Bewertungs-Kriterien\n\nCPUs\nMotherboards\nRAM\nDatenspeicher\nNetzteile\nGrafikkarten\nTablets\nDrucker\n\n\nMontag, 21.09.2026\n\nLastenheft: Zweck, Urheber, Inhalt, kurze Beispiele für gelungene Lastenheft-Einträge\nPflichtenheft: Zweck, Urheber, Inhalt, kurze Beispiele für gelungene Pflichtenheft-Einträge",
+    "crumbs": [
+      "01 Willkommen zu LF2 - Themen und Zeitplan"
+    ]
+  },
+  {
+    "objectID": "01_Willkommen_Struktur.html#weitere-vortragsthemen",
+    "href": "01_Willkommen_Struktur.html#weitere-vortragsthemen",
+    "title": "Willkommen in LF2!",
+    "section": "Weitere Vortragsthemen",
+    "text": "Weitere Vortragsthemen\n\nDienstag, 22.09.2026\n\nDesktop-PCs: Thick Client / Thin Client / Zero Client\nLeistungsmerkmale, Einsatzbereiche, Vor- und Nachteile\nNotebooks:\n\nVor- und Nachteile im Vergleich zu Desktop-PCs und Tablets\nLeistungsmerkmale, Einsatzbereiche, typische Anschlüsse\n\nTablets:\n\nVor- und Nachteile im Vergleich zu Notebooks\nLeistungsmerkmale, Einsatzbereiche, typische Anschlüsse",
     "crumbs": [
       "01 Willkommen zu LF2 - Themen und Zeitplan"
     ]
