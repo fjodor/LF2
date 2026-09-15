@@ -84,13 +84,31 @@ In Hedgedoc können wir gemeinsame Notizen zum Unterricht erstellen:
 
 ::: column
 
-**Montag / Dienstag, 21. / 22.09.2026**
+**Montag, 21.09.2026**
 
   + **Lastenheft:** Zweck, Urheber, Inhalt, kurze Beispiele für gelungene Lastenheft-Einträge
   + **Pflichtenheft:** Zweck, Urheber, Inhalt, kurze Beispiele für gelungene Pflichtenheft-Einträge
 
 :::
 :::: 
+
+
+## Weitere Vortragsthemen
+
+::: {style="font-size: 2rem"}
+
+#### Dienstag, 22.09.2026
+
+- Desktop-PCs: Thick Client / Thin Client / Zero Client  
+  Leistungsmerkmale, Einsatzbereiche, Vor- und Nachteile
+- Notebooks:
+  + Vor- und Nachteile im Vergleich zu Desktop-PCs und Tablets
+  + Leistungsmerkmale, Einsatzbereiche, typische Anschlüsse
+- Tablets: 
+  + Vor- und Nachteile im Vergleich zu Notebooks
+  + Leistungsmerkmale, Einsatzbereiche, typische Anschlüsse
+
+:::
 
 
 ## <!-- -->

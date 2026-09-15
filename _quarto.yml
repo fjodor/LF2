@@ -5,7 +5,8 @@ website:
   title: "LF2"
   sidebar:
     style: "docked"
-    search: true
+    # search: true
+    search: false     # bis auf Weiteres! Später true setzen (unveröffentlichte Dokumente nicht finden!)
     contents:
       - href: index.qmd
         text: Home
