@@ -17,7 +17,23 @@ callout-appearance: simple
 
 ## Bedarfs- und Anforderungsanalyse
 
-Ziele:
+:::: {style="font-size: 1.8rem"}
+
+### Ziele
+
+::: incremental
+
+- Bedarfsanalyse verstehen
+- Projektziele ermitteln
+- Stakeholder erkennen
+- Arten von Anforderungen unterscheiden:
+  + im Projektverlauf
+  + aus der Perspektive verschiedener Stakeholder
+- Kommunikation im Projekt verbessern
+
+:::
+::::
+
 
 ## Bedarfsanalyse
 
@@ -77,11 +93,11 @@ Alle, die an einem Projekt beteiligt sind oder von den Ergebnissen betroffen sin
 
 ::: {.incremental}
 
-- Auftraggeber
+- Auftraggeber (intern und / oder extern)
 - Nutzer / User
 - Mitarbeiter am Projekt
   + Software-Entwickler, Software-Architekten, Software-Tester, ...
-  + Systemadministratoren
+  + Projektleiter, Systemadministratoren
   + Datenschutzbeauftragte
 - Kunden
 - Partnerunternehmen
