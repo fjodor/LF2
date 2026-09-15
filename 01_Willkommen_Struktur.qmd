@@ -104,9 +104,9 @@ In Hedgedoc können wir gemeinsame Notizen zum Unterricht erstellen:
 - Notebooks:
   + Vor- und Nachteile im Vergleich zu Desktop-PCs und Tablets
   + Leistungsmerkmale, Einsatzbereiche, typische Anschlüsse
-- Tablets: 
-  + Vor- und Nachteile im Vergleich zu Notebooks
-  + Leistungsmerkmale, Einsatzbereiche, typische Anschlüsse
+- Videokonferenzsysteme
+  + Welche gibt es? (Beispiele)
+  + Nach welchen Kriterien kann man die Qualität bewerten und sich für eine Lösung entscheiden?
 
 :::
 
