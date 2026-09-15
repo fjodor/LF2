@@ -1,0 +1,124 @@
+---
+title: "Anforderungsanalyse"
+title-slide-attributes:
+  data-background-color: "#D7E6F4"
+subtitle: " "
+format:
+  revealjs:
+    theme: simple
+execute:
+  echo: false
+  eval: true
+  freeze: auto
+  warning: false
+  message: false
+callout-appearance: simple
+---
+
+## Arten von Anforderungen an Software
+
+- Geschäftsanforderungen
+- Benutzeranforderungen
+- Funktionale Anforderungen
+- Projektanforderungen
+
+::: notes
+Lernkarte AP1 2025 Nr. 133
+:::
+
+
+## Geschäftsanforderungen
+
+:::: {style="font-size: 1.8rem"}
+
+- Anforderungen, die sich aus der **Geschäftstätigkeit** des Kunden und den **Marktanforderungen** ergeben
+- Festlegung durch Management und Marketing
+
+::: incremental
+
+- Kernfrage:
+  + **Warum?**
+  + **Warum existiert das Projekt?**
+  + Ziele, Nutzen, strategische Motivation
+
+- Beispiele:
+  + "Das Unternehmen möchte die Bearbeitungszeit von Kundenanfragen um 30% reduzieren."
+  + "Die neue Plattform soll den Online-Umsatz steigern, indem Bestellungen auch mobil möglich sind."
+  + "Wir müssen gesetzliche Vorgaben zur Dokumentation erfüllen."
+
+:::
+::::
+
+
+## Benutzeranforderungen
+
+:::: {style="font-size: 1.8rem"}
+
+- für die **Benutzer** des Softwaresystems erforderliche Anforderungen, um die Geschäftsanforderungen zu erfüllen
+- Festlegung durch Geschäftsanalysten, Benutzer, Vertreter der Benutzer, Produktmanager
+
+::: incremental
+
+- Kernfrage:
+  + **Was?**
+  + ***Was* braucht ein bestimmter Nutzer, um sein Ziel zu erreichen?**
+- Beispiele:
+  + „Als Sachbearbeiter möchte ich Kundenanfragen durchsuchen können, damit ich schnell die passende Historie finde.“
+  + „Als Kunde möchte ich meine Bestellung verfolgen können, damit ich weiß, wann sie ankommt.“
+  + „Als Administrator möchte ich Benutzerrollen verwalten können, damit ich Zugriffe steuern kann.“
+
+:::
+::::
+
+
+## Funktionale Anforderungen
+
+:::: {style="font-size: 1.8rem"}
+
+- erfassen das **Verhalten**, welches eine Software erfüllen muss, um die Benutzeranforderungen zu gewährleisten
+- Festlegung durch Geschäftsanalysten und Produktmanager in Absprache mit Softwareentwicklung und Testabteilung
+
+::: incremental
+
+- Kernfrage:
+  + **Wie?**
+  + ***Wie* soll sich das System verhalten?*** 
+  + konkrete Funktionen
+- Beispiele:
+  + „Das System muss Berichte exportieren können.“
+  + „Das System muss Bestellungen automatisch per E‑Mail bestätigen.“
+  + „Das System muss Rollen und Berechtigungen verwalten können.“
+
+:::
+::::
+
+
+## Projektanforderungen
+
+:::: {style="font-size: 1.8rem"}
+
+- Anforderungen, die erfüllt sein müssen, um den Erfolg des Projekts zu sichern und das Produkt im Zuge des *Application Lifecycle Managements* (ALM) zu betreuen
+
+::: incremental
+
+- Kernfrage: **Unter welchen Bedingungen?**
+- Beispiele:
+  + „Die Lösung muss in der bestehenden Azure‑Cloud betrieben werden.“
+  + „Die Software muss bis Q4 fertiggestellt sein.“
+  + „Es dürfen nur Open‑Source‑Bibliotheken mit MIT‑Lizenz verwendet werden.“
+
+:::
+::::
+
+
+## <!-- -->
+
+![](libs/_Images/coffee.jpg){fig-align="center" width="50%"}
+
+::: {style="text-align: center; font-size: 1rem;"}
+[©torange.biz](https://torange.biz/cup-coffee-30851) CC-BY 4.0
+:::
+
+::: {style="color: green; text-align: center; font-size: 2.8rem"}
+**Viel Erfolg!**
+:::
