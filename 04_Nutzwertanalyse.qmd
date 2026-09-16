@@ -17,7 +17,151 @@ callout-appearance: simple
 
 ## Nutzwertanalyse
 
+- Entscheidungshilfe für komplexe Handlungsalternativen
+- Ziel: Produkte oder Services mit einem zahlenbasierten Bewertungssystem vergleichen
+- Nützlich, wenn mehrere Kriterien berücksichtigt werden sollen, nicht nur z. B. der Preis
 
+::: notes
+Lernkarte AP1 2025 Nr. 48
+:::
+
+
+## Vorgehen
+
+::: {.incremental style="font-size: 2.2rem"}
+
+1. Bewertungskriterien auswählen
+2. Kriterien gewichten
+3. Produkte nach diesen Kriterien bewerten
+4. Gesamtnutzen berechnen: Summe von (Bewertung mal Gewichtung)
+5. Gesamtnutzen vergleichen, Entscheidung treffen
+
+:::
+
+
+## Drei PC-Systeme vergleichen
+
+:::: {style="font-size: 1.7rem"}
+
+Kunde Max Mustermann erstellt technische Handbücher und arbeitet dazu unter anderem mit Grafik-Tools und CAD-Software (*Computer Aided Design*, für 3D-Modelle).
+
+::: fragment
+
+| **Merkmal** | **PC A – Office Basic** | **PC B – Allround Pro** | **PC C – Performance Plus** |
+| --- | --- | --- | --- |
+| **CPU** | Intel Core i5‑12400 (6 Cores, 4.4 GHz Boost) | AMD Ryzen 5 5600X (6 Cores, 4.6 GHz Boost) | Intel Core i7‑13700 (16 Cores, 5.2 GHz Boost) |
+| **RAM** | 16 GB DDR4‑3200 | 32 GB DDR4‑3600 | 32 GB DDR5‑5200 |
+| **SSD** | 512 GB NVMe | 1 TB NVMe | 1 TB NVMe Gen4 |
+| **Grafik** | Intel UHD 730 (iGPU) | NVIDIA GTX 1660 Super | NVIDIA RTX 4070 |
+| **Energieeffizienz** | 65 W TDP CPU | 65 W CPU + 125 W GPU | 125 W CPU + 200 W GPU |
+| **Preis** | ca. 750 € | ca. 1.200 € | ca. 2.000 € |
+
+:::
+::::
+
+
+## Kriterien für den Vergleich
+
+Wir vergleichen drei Systeme anhand von fünf Kriterien:
+
+- Leistung CPU - Gewichtung: 20%
+- RAM – Gewichtung: 20%
+- Grafik - Gewichtung: 10%
+- Speicher (SSD‑Größe) – Gewichtung: 10%
+- Energieeffizienz – Gewichtung: 10%
+- Preis – Gewichtung: 30%
+
+Bewertungsskala: 1 = schlecht, 5 = sehr gut
+
+[Die Gewichte sollen in Summe 100% ergeben!]{.fragment}
+
+
+## Bewertung: PC A
+
+:::: {style="font-size: 1.7rem"}
+
+| **Merkmal** | **Gewicht** | **PC A – Office Basic** | **Bewertung**
+| --- | --- | --- | --- |
+| **CPU** | 20% | Intel Core i5‑12400 (6 Cores, 4.4 GHz Boost) | 3
+| **RAM** | 20% | 16 GB DDR4‑3200 | 2
+| **SSD** | 10% | 512 GB NVMe | 3
+| **Grafik** | 10% | Intel UHD 730 (iGPU) | 3
+| **Energieeffizienz** | 10% | 65 W TDP CPU | 5
+| **Preis** | 30% | ca. 750 € | 5
+
+::: incremental
+
+- Nutzwert = 0.2 * 3 + 0.2 * 2 + 0.1 * 3 + 0.1 * 3 + 0.1 * 5 + 0.3 * 5
+- Nutzwert = 0.6 + 0.4 + 0.3 + 0.3 + 0.5 + 1.5
+- **Nutzwert = 3.6**
+
+:::
+::::
+
+
+## Bewertung: PC B
+
+:::: {style="font-size: 1.7rem"}
+
+| **Merkmal** | **Gewicht** | **PC B – Allround Pro** | **Bewertung** |
+| --- | --- | --- | --- |
+| **CPU** | 20% | AMD Ryzen 5 5600X (6 Cores, 4.6 GHz Boost) | 4
+| **RAM** | 20% | 32 GB DDR4‑3600 | 4
+| **SSD** | 10% | 1 TB NVMe | 4
+| **Grafik** | 10% | NVIDIA GTX 1660 Super | 4
+| **Energieeffizienz** | 10% | 65 W CPU + 125 W GPU | 3
+| **Preis** | 30% | ca. 1.200 € | 4
+
+::: incremental
+
+- Nutzwert = 0.2 * 4 + 0.2 * 4 + 0.1 * 4 + 0.1 * 4 + 0.1 * 3 + 0.3 * 4
+- Nutzwert = 0.8 + 0.8 + 0.4 + 0.4 + 0.3 + 1.2
+- **Nutzwert = 3.9**
+
+:::
+::::
+
+
+## Bewertung: PC C
+
+:::: {style="font-size: 1.7rem"}
+
+| **Merkmal** | **Gewicht** | **PC C – Performance Plus** | **Bewertung** |
+| --- | --- | --- | --- |
+| **CPU** | 20% | Intel Core i7‑13700 (16 Cores, 5.2 GHz Boost) | 5
+| **RAM** | 20% | 32 GB DDR5‑5200 | 5
+| **SSD** | 10% |1 TB NVMe Gen4 | 5
+| **Grafik** | 10% | NVIDIA RTX 4070 | 5
+| **Energieeffizienz** | 10% | 125 W CPU + 200 W GPU | 2
+| **Preis** | 30% | ca. 2.000 € | 2
+
+::: incremental
+
+- Nutzwert = 0.2 * 5 + 0.2 * 5 + 0.1 * 5 + 0.1 * 5 + 0.1 * 2 + 0.3 * 2
+- Nutzwert = 1 + 1 + 0.5 + 0.5 + 0.2 + 0.6
+- **Nutzwert = 3.8**
+
+:::
+::::
+
+
+## Ergebnis
+
+::: {style="font-size: 1.7rem"}
+
+| **Merkmal** | **PC A – Office Basic** | **PC B – Allround Pro** | **PC C – Performance Plus** |
+| --- | --- | --- | --- |
+| **CPU** | Intel Core i5‑12400 (6 Cores, 4.4 GHz Boost) | AMD Ryzen 5 5600X (6 Cores, 4.6 GHz Boost) | Intel Core i7‑13700 (16 Cores, 5.2 GHz Boost) |
+| **RAM** | 16 GB DDR4‑3200 | 32 GB DDR4‑3600 | 32 GB DDR5‑5200 |
+| **SSD** | 512 GB NVMe | 1 TB NVMe | 1 TB NVMe Gen4 |
+| **Grafik** | Intel UHD 730 (iGPU) | NVIDIA GTX 1660 Super | NVIDIA RTX 4070 |
+| **Energieeffizienz** | 65 W TDP CPU | 65 W CPU + 125 W GPU | 125 W CPU + 200 W GPU |
+| **Preis** | ca. 750 € | ca. 1.200 € | ca. 2.000 € |
+| **Nutzen** | 3.6 | **3.9** | 3.8 |
+
+Nach den vorgegeben Kriterien gewinnt **PC B - Allround Pro**.
+
+:::
 
 
 ## <!-- -->
