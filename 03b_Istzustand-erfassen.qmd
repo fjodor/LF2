@@ -151,8 +151,8 @@ Interview? Fragebogen? Beobachtung?
 ::: incremental
 
 1. Verbesserung des Webauftritts eines Unternehmens
-2. Erstellung eines Softwaremoduls für Einkauf, Lagerung und Verkauf von Waren.
-3. Entwicklung einer Softwaresimulation für ein Ampelkreuzungssystem.
+2. Erstellung eines Softwaremoduls für Einkauf, Lagerung und Verkauf von Waren
+3. Entwicklung einer Softwaresimulation für ein Ampelkreuzungssystem
 
 :::
 ::::
@@ -192,7 +192,7 @@ Interview? Fragebogen? Beobachtung?
 
 - hier wichtig: reales Verhalten und Interaktionen im Verkehrsumfeld zu verstehen
 - Beobachtung vor Ort: Informationen über Verkehrsfluss, Verhaltensmuster der Fahrer, Verkehrsprobleme
-- So kann realistische, effektive Simulation entwickelt werden, die den tatsächlichen Bedingungen entspricht
+- So kann eine realistische, effektive Simulation entwickelt werden, die den tatsächlichen Bedingungen entspricht
 
 :::
 

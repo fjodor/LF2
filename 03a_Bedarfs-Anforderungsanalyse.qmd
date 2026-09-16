@@ -267,7 +267,7 @@ Aufgabe: Ermitteln Sie zu jedem Bedarf mindestens eine
 
 [Bedarf: Der Kundenservice soll schneller und transparenter werden.]{style="font-size: 1.8rem"}
 
-::: {style="font-size: 1.6rem"}
+::: {.fragment style="font-size: 1.6rem"}
 
 Anforderung | Frage | Beispiel
 :----|:------|:---------------
@@ -283,7 +283,7 @@ Projektanforderung | Unter welchen Bedingungen? | Die Lösung muss in der besteh
 
 [Bedarf: Außendienstmitarbeiter sollen Kundendaten mobil erfassen können.]{style="font-size: 1.8rem"}
 
-::: {style="font-size: 1.6rem"}
+::: {.fragment style="font-size: 1.6rem"}
 
 Anforderung | Frage | Beispiel
 :----|:------|:---------------
@@ -298,7 +298,7 @@ Projektanforderung | Unter welchen Bedingungen? | Die mobile App muss auf iOS un
 
 [Bedarf: Die IT‑Security verlangt höhere Zugriffssicherheit.]{style="font-size: 1.8rem"}
 
-::: {style="font-size: 1.6rem"}
+::: {.fragment style="font-size: 1.6rem"}
 
 Anforderung | Frage | Beispiel
 :----|:------|:---------------
