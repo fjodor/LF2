@@ -141,7 +141,7 @@ Prozesse werden vor Ort direkt begleitet und analysiert.
 ::::::
 
 
-## Auwahl einer Methode
+## Auswahl einer Methode
 
 :::: {style="font-size: 1.9rem"}
 
