@@ -1,0 +1,87 @@
+---
+title: "IT Hardware"
+title-slide-attributes:
+  data-background-color: "#D7E6F4"
+subtitle: " "
+format:
+  revealjs:
+    theme: simple
+execute:
+  echo: false
+  eval: true
+  freeze: auto
+  warning: false
+  message: false
+callout-appearance: simple
+---
+
+## CPU: Cache
+
+::: {.incremental style="font-size: 1.8rem"}
+
+- **CPU-Cache:** Zusätzlicher Speicher auf dem Prozessor ("Zwischenspeicher")
+- soll Zugriffszeiten auf Daten verkürzen
+- **L1-Cache:** *First-Level-Cache*
+  + schnellster und kleinster Zwischenspeicher
+- **L2-Cache:** *Second-Level-Cache*
+  + etwas langsamer, etwas größer
+- **L3-Cache:** *Third-Level-Cache*
+  + langsamster, größter Zwischenspeicher
+- Alle drei:
+  + Arbeitsspeicher entlasten
+  + der CPU schnellen Zugriff auf Daten und Befehle ermöglichen
+
+:::
+
+::: notes
+Lernkarte AP1 2025 Nr. 114
+:::
+
+
+## CPU: Logische Prozessoren
+
+::: {.incremental style="font-size: 1.8rem"}
+
+- virtuelle Prozessoren, die durch **Hyper-Threading-Technologie (HTT)** oder **Simultaneous Multithreading (SMT)** unterstützt werden
+- d. h. Prozessor tut so, als habe er mehr Kerne, als physisch vorhanden sind
+- dadurch werden ineffiziente Wartezeiten reduziert, Performance steigt
+- HT: Intel Markenname, seit Pentium 4 (2002); SMT: generischer Begriff (AMD, IBM, ARM)
+- sicherheitskritisch; manche Cloudanbieter deaktivieren zeitweise Hyperthreading / Simultaneous Multithreading
+- Anwendungen müssen HTT / SMT unterstützen, um es nutzbar zu machen
+- Siehe Taskmanager
+
+:::
+
+::: notes
+Lernkarte AP1 2025 Nr. 57, ergänzt, anders formuliert (Karte schlecht geschrieben!)
+:::
+
+
+## CPU: Wärmeleitpaste
+
+::: {.incremental style="font-size: 1.8rem"}
+
+- Wärmeleitpaste sorgt dafür, dass Wäre von der CPU effizient zum Kühler abgeleitet wird
+- Kontaktflächen zwischen CPU und Kühler haben bauweisenbedingt nicht überall perfekten Übergang
+- Wärmeleitpaste gleicht solche Unebenheiten aus
+- verhindert Leistungseinbußen, Systemabstürze, dauerhafte Schäden an CPU
+- Montage: als Wärmepad oder als erbsengroßer Klecks zwischen CPU und Kühler
+
+:::
+
+::: notes
+Lernkarte AP1 2025 Nr. 115
+:::
+
+
+## <!-- -->
+
+![](libs/_Images/coffee.jpg){fig-align="center" width="50%"}
+
+::: {style="text-align: center; font-size: 1rem;"}
+[©torange.biz](https://torange.biz/cup-coffee-30851) CC-BY 4.0
+:::
+
+::: {style="color: green; text-align: center; font-size: 2.8rem"}
+**Viel Erfolg!**
+:::
