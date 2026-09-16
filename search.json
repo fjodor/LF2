@@ -1,15 +1,183 @@
 [
   {
-    "objectID": "02_IT-Systeme.html#it-systeme",
-    "href": "02_IT-Systeme.html#it-systeme",
-    "title": "Willkommen in LF2!",
-    "section": "IT-Systeme",
-    "text": "IT-Systeme"
+    "objectID": "04_Nutzwertanalyse.html#nutzwertanalyse",
+    "href": "04_Nutzwertanalyse.html#nutzwertanalyse",
+    "title": "Nutzwertanalyse",
+    "section": "Nutzwertanalyse",
+    "text": "Nutzwertanalyse\n\nEntscheidungshilfe für komplexe Handlungsalternativen\nZiel: Produkte oder Services mit einem zahlenbasierten Bewertungssystem vergleichen\nNützlich, wenn mehrere Kriterien berücksichtigt werden sollen, nicht nur z. B. der Preis\n\n\nLernkarte AP1 2025 Nr. 48"
   },
   {
-    "objectID": "02_IT-Systeme.html#section",
-    "href": "02_IT-Systeme.html#section",
-    "title": "Willkommen in LF2!",
+    "objectID": "04_Nutzwertanalyse.html#vorgehen",
+    "href": "04_Nutzwertanalyse.html#vorgehen",
+    "title": "Nutzwertanalyse",
+    "section": "Vorgehen",
+    "text": "Vorgehen\n\n\nBewertungskriterien auswählen\nKriterien gewichten\nProdukte nach diesen Kriterien bewerten\nGesamtnutzen berechnen: Summe von (Bewertung mal Gewichtung)\nGesamtnutzen vergleichen, Entscheidung treffen"
+  },
+  {
+    "objectID": "04_Nutzwertanalyse.html#drei-pc-systeme-vergleichen",
+    "href": "04_Nutzwertanalyse.html#drei-pc-systeme-vergleichen",
+    "title": "Nutzwertanalyse",
+    "section": "Drei PC-Systeme vergleichen",
+    "text": "Drei PC-Systeme vergleichen\n\nKunde Max Mustermann erstellt technische Handbücher und arbeitet dazu unter anderem mit Grafik-Tools und CAD-Software (Computer Aided Design, für 3D-Modelle).\n\n\n\n\n\n\n\n\n\n\nMerkmal\nPC A – Office Basic\nPC B – Allround Pro\nPC C – Performance Plus\n\n\n\n\nCPU\nIntel Core i5‑12400 (6 Cores, 4.4 GHz Boost)\nAMD Ryzen 5 5600X (6 Cores, 4.6 GHz Boost)\nIntel Core i7‑13700 (16 Cores, 5.2 GHz Boost)\n\n\nRAM\n16 GB DDR4‑3200\n32 GB DDR4‑3600\n32 GB DDR5‑5200\n\n\nSSD\n512 GB NVMe\n1 TB NVMe\n1 TB NVMe Gen4\n\n\nGrafik\nIntel UHD 730 (iGPU)\nNVIDIA GTX 1660 Super\nNVIDIA RTX 4070\n\n\nEnergieeffizienz\n65 W TDP CPU\n65 W CPU + 125 W GPU\n125 W CPU + 200 W GPU\n\n\nPreis\nca. 750 €\nca. 1.200 €\nca. 2.000 €"
+  },
+  {
+    "objectID": "04_Nutzwertanalyse.html#kriterien-für-den-vergleich",
+    "href": "04_Nutzwertanalyse.html#kriterien-für-den-vergleich",
+    "title": "Nutzwertanalyse",
+    "section": "Kriterien für den Vergleich",
+    "text": "Kriterien für den Vergleich\nWir vergleichen drei Systeme anhand von fünf Kriterien:\n\nLeistung CPU - Gewichtung: 20%\nRAM – Gewichtung: 20%\nGrafik - Gewichtung: 10%\nSpeicher (SSD‑Größe) – Gewichtung: 10%\nEnergieeffizienz – Gewichtung: 10%\nPreis – Gewichtung: 30%\n\nBewertungsskala: 1 = schlecht, 5 = sehr gut\nDie Gewichte sollen in Summe 100% ergeben!"
+  },
+  {
+    "objectID": "04_Nutzwertanalyse.html#bewertung-pc-a",
+    "href": "04_Nutzwertanalyse.html#bewertung-pc-a",
+    "title": "Nutzwertanalyse",
+    "section": "Bewertung: PC A",
+    "text": "Bewertung: PC A\n\n\n\n\nMerkmal\nGewicht\nPC A – Office Basic\nBewertung\n\n\n\n\nCPU\n20%\nIntel Core i5‑12400 (6 Cores, 4.4 GHz Boost)\n3\n\n\nRAM\n20%\n16 GB DDR4‑3200\n2\n\n\nSSD\n10%\n512 GB NVMe\n3\n\n\nGrafik\n10%\nIntel UHD 730 (iGPU)\n3\n\n\nEnergieeffizienz\n10%\n65 W TDP CPU\n5\n\n\nPreis\n30%\nca. 750 €\n5\n\n\n\n\nNutzwert = 0.2 * 3 + 0.2 * 2 + 0.1 * 3 + 0.1 * 3 + 0.1 * 5 + 0.3 * 5\nNutzwert = 0.6 + 0.4 + 0.3 + 0.3 + 0.5 + 1.5\nNutzwert = 3.6"
+  },
+  {
+    "objectID": "04_Nutzwertanalyse.html#bewertung-pc-b",
+    "href": "04_Nutzwertanalyse.html#bewertung-pc-b",
+    "title": "Nutzwertanalyse",
+    "section": "Bewertung: PC B",
+    "text": "Bewertung: PC B\n\n\n\n\nMerkmal\nGewicht\nPC B – Allround Pro\nBewertung\n\n\n\n\nCPU\n20%\nAMD Ryzen 5 5600X (6 Cores, 4.6 GHz Boost)\n4\n\n\nRAM\n20%\n32 GB DDR4‑3600\n4\n\n\nSSD\n10%\n1 TB NVMe\n4\n\n\nGrafik\n10%\nNVIDIA GTX 1660 Super\n4\n\n\nEnergieeffizienz\n10%\n65 W CPU + 125 W GPU\n3\n\n\nPreis\n30%\nca. 1.200 €\n4\n\n\n\n\nNutzwert = 0.2 * 4 + 0.2 * 4 + 0.1 * 4 + 0.1 * 4 + 0.1 * 3 + 0.3 * 4\nNutzwert = 0.8 + 0.8 + 0.4 + 0.4 + 0.3 + 1.2\nNutzwert = 3.9"
+  },
+  {
+    "objectID": "04_Nutzwertanalyse.html#bewertung-pc-c",
+    "href": "04_Nutzwertanalyse.html#bewertung-pc-c",
+    "title": "Nutzwertanalyse",
+    "section": "Bewertung: PC C",
+    "text": "Bewertung: PC C\n\n\n\n\n\n\n\n\n\n\nMerkmal\nGewicht\nPC C – Performance Plus\nBewertung\n\n\n\n\nCPU\n20%\nIntel Core i7‑13700 (16 Cores, 5.2 GHz Boost)\n5\n\n\nRAM\n20%\n32 GB DDR5‑5200\n5\n\n\nSSD\n10%\n1 TB NVMe Gen4\n5\n\n\nGrafik\n10%\nNVIDIA RTX 4070\n5\n\n\nEnergieeffizienz\n10%\n125 W CPU + 200 W GPU\n2\n\n\nPreis\n30%\nca. 2.000 €\n2\n\n\n\n\nNutzwert = 0.2 * 5 + 0.2 * 5 + 0.1 * 5 + 0.1 * 5 + 0.1 * 2 + 0.3 * 2\nNutzwert = 1 + 1 + 0.5 + 0.5 + 0.2 + 0.6\nNutzwert = 3.8"
+  },
+  {
+    "objectID": "04_Nutzwertanalyse.html#ergebnis",
+    "href": "04_Nutzwertanalyse.html#ergebnis",
+    "title": "Nutzwertanalyse",
+    "section": "Ergebnis",
+    "text": "Ergebnis\n\n\n\n\n\n\n\n\n\n\nMerkmal\nPC A – Office Basic\nPC B – Allround Pro\nPC C – Performance Plus\n\n\n\n\nCPU\nIntel Core i5‑12400 (6 Cores, 4.4 GHz Boost)\nAMD Ryzen 5 5600X (6 Cores, 4.6 GHz Boost)\nIntel Core i7‑13700 (16 Cores, 5.2 GHz Boost)\n\n\nRAM\n16 GB DDR4‑3200\n32 GB DDR4‑3600\n32 GB DDR5‑5200\n\n\nSSD\n512 GB NVMe\n1 TB NVMe\n1 TB NVMe Gen4\n\n\nGrafik\nIntel UHD 730 (iGPU)\nNVIDIA GTX 1660 Super\nNVIDIA RTX 4070\n\n\nEnergieeffizienz\n65 W TDP CPU\n65 W CPU + 125 W GPU\n125 W CPU + 200 W GPU\n\n\nPreis\nca. 750 €\nca. 1.200 €\nca. 2.000 €\n\n\nNutzen\n3.6\n3.9\n3.8\n\n\n\nNach den vorgegeben Kriterien gewinnt PC B - Allround Pro."
+  },
+  {
+    "objectID": "04_Nutzwertanalyse.html#section",
+    "href": "04_Nutzwertanalyse.html#section",
+    "title": "Nutzwertanalyse",
+    "section": "",
+    "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!"
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#bedarfs--und-anforderungsanalyse",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#bedarfs--und-anforderungsanalyse",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Bedarfs- und Anforderungsanalyse",
+    "text": "Bedarfs- und Anforderungsanalyse\n\nZiele\n\nBedarfsanalyse verstehen\nProjektziele ermitteln\nStakeholder erkennen\nArten von Anforderungen unterscheiden:\n\nim Projektverlauf\naus der Perspektive verschiedener Stakeholder\n\nKommunikation im Projekt verbessern"
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#bedarfsanalyse",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#bedarfsanalyse",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Bedarfsanalyse",
+    "text": "Bedarfsanalyse\n\nGehört zum Projektmanagement\nTypische Fragen:\n\nWelches Problem soll gelöst werden?\nWer hat welchen Bedarf?\nWarum lohnt sich das Projekt?\nWelche Ziele sollen erreicht werden?"
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#bedarfsanalyse-1",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#bedarfsanalyse-1",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Bedarfsanalyse",
+    "text": "Bedarfsanalyse\n\nDefinition:\n\nAnalyseart zur Feststellung des Bedarfs an Waren, Dienstleistungen, Gütern oder Personal\nfür eine bestimmte Region / Land und / oder\nfür bestimmte Personengruppen und / oder\nfür einen bestimmten Zeitraum\n\nZweck: Künftige Beschaffungsprozesse oder Projekte besser zu planen\n\n\nLernkarte AP1 2025 Nr. 137"
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#bedarfsanalyse-vorteile",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#bedarfsanalyse-vorteile",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Bedarfsanalyse: Vorteile",
+    "text": "Bedarfsanalyse: Vorteile\n\n\nDer Vertrieb kann Wünsche, Motive und Ziele des Kunden ermitteln\nEntscheider und Kundentypen können ermittelt werden\nDas Vertrauen des Kunden wird gestärkt\nDem Kunden können individuelle Lösungen angeboten werden\nDas Unternehmen hebt sich von der Konkurrenz ab\nUmsatz des Unternehmens kann gesteigert werden\nLangfristige Kundenbindung wird unterstützt\n\n\n\nLernkarte AP1 2025 Nr. 138"
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#was-sind-stakeholder-in-software-projekten",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#was-sind-stakeholder-in-software-projekten",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Was sind Stakeholder in Software-Projekten?",
+    "text": "Was sind Stakeholder in Software-Projekten?\n\nAlle, die an einem Projekt beteiligt sind oder von den Ergebnissen betroffen sind!\n\nAuftraggeber (intern und / oder extern)\nNutzer / User\nMitarbeiter am Projekt\n\nSoftware-Entwickler, Software-Architekten, Software-Tester, …\nProjektleiter, Systemadministratoren\nDatenschutzbeauftragte\n\nKunden\nPartnerunternehmen\nLieferanten"
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#bedarfsanalyse-beispiel",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#bedarfsanalyse-beispiel",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Bedarfsanalyse: Beispiel",
+    "text": "Bedarfsanalyse: Beispiel\n\n\nEin Unternehmen erhält täglich 300 Kundenanfragen per E-Mail.\nDie Bearbeitung dauert zu lange, Kunden sind unzufrieden.\n\n\n\n\n\n\nKriterium\n\n\n\n\nProblem\n\n\nZiel\n\n\nStakeholder\n\n\nNutzen\n\n\n\n\n\n\n\nErgebnis\n\n\n\n\nlange Bearbeitungszeit\n\n\n30% schneller\n\n\nKunden, Support-Team\n\n\nhöhere Zufriedenheit, geringere Kosten\n\n\n\n\nProblem erkannt, Ziel ermittelt - nun zur Umsetzung!"
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#arten-von-anforderungen-an-software",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#arten-von-anforderungen-an-software",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Arten von Anforderungen an Software",
+    "text": "Arten von Anforderungen an Software\n\nGeschäftsanforderungen\nBenutzeranforderungen\nFunktionale Anforderungen\nProjektanforderungen\n\n\nLernkarte AP1 2025 Nr. 133"
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#geschäftsanforderungen",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#geschäftsanforderungen",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Geschäftsanforderungen",
+    "text": "Geschäftsanforderungen\n\n\nAnforderungen, die sich aus der Geschäftstätigkeit des Kunden und den Marktanforderungen ergeben\nFestlegung durch Management und Marketing\n\n\nKernfrage: Warum existiert das Projekt?\n\nZiele, Nutzen, strategische Motivation\n\nBeispiele:\n\n“Das Unternehmen möchte die Bearbeitungszeit von Kundenanfragen um 30% reduzieren.”\n“Die neue Plattform soll den Online-Umsatz steigern, indem Bestellungen auch mobil möglich sind.”\n“Wir müssen gesetzliche Vorgaben zur Dokumentation erfüllen.”"
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#benutzeranforderungen",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#benutzeranforderungen",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Benutzeranforderungen",
+    "text": "Benutzeranforderungen\n\n\nfür die Benutzer des Softwaresystems erforderliche Anforderungen, um die Geschäftsanforderungen zu erfüllen\nFestlegung durch Geschäftsanalysten, Benutzer, Vertreter der Benutzer, Produktmanager\n\n\nKernfrage: Was braucht ein bestimmter Nutzer, um sein Ziel zu erreichen?\nBeispiele:\n\n„Als Sachbearbeiter möchte ich Kundenanfragen durchsuchen können, damit ich schnell die passende Historie finde.“\n„Als Kunde möchte ich meine Bestellung verfolgen können, damit ich weiß, wann sie ankommt.“\n„Als Administrator möchte ich Benutzerrollen verwalten können, damit ich Zugriffe steuern kann.“"
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#funktionale-anforderungen",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#funktionale-anforderungen",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Funktionale Anforderungen",
+    "text": "Funktionale Anforderungen\n\n\nerfassen das Verhalten, welches eine Software erfüllen muss, um die Benutzeranforderungen zu gewährleisten\nFestlegung durch Geschäftsanalysten und Produktmanager in Absprache mit Softwareentwicklung und Testabteilung\n\n\nKernfrage: Was soll das System können?\n\nkonkrete Funktionen\n\nBeispiele:\n\n„Das System soll Berichte exportieren können.“\n„Das System soll Bestellungen automatisch per E‑Mail bestätigen.“\n„Das System soll Rollen und Berechtigungen verwalten können.“"
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#projektanforderungen",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#projektanforderungen",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Projektanforderungen",
+    "text": "Projektanforderungen\n\n\nAnforderungen, die erfüllt sein müssen, um den Erfolg des Projekts zu sichern und das Produkt im Zuge des Application Lifecycle Managements (ALM) zu betreuen\n\n\nKernfrage: Unter welchen Bedingungen?\nBeispiele:\n\n„Die Lösung muss in der bestehenden Azure‑Cloud betrieben werden.“\n„Die Software muss bis Q4 fertiggestellt sein.“\n„Es dürfen nur Open‑Source‑Bibliotheken mit MIT‑Lizenz verwendet werden.“"
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#anforderungen-an-software",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#anforderungen-an-software",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Anforderungen an Software",
+    "text": "Anforderungen an Software\nSpielerisch lernen:\nhttps://learningapps.org/watch?v=pu2tvbzj526"
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#vom-bedarf-zur-anforderung",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#vom-bedarf-zur-anforderung",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Vom Bedarf zur Anforderung",
+    "text": "Vom Bedarf zur Anforderung\n\nAufgabe: Ermitteln Sie zu jedem Bedarf mindestens eine\n\nGeschäftsanforderung\nBenutzeranforderung\nfunktionale Anforderung\nProjektanforderung\n\n\nBedarf 1: Kundenservice digitalisieren: Der Kundenservice soll schneller und transparenter werden.\nBedarf 2: Außendienst effizienter machen: Außendienstmitarbeiter sollen Kundendaten mobil erfassen können.\nBedarf 3: Sicherheit erhöhen: Die IT-Security verlangt höhere Zugriffssicherheit."
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#kundenservice-digitalisieren",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#kundenservice-digitalisieren",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Kundenservice digitalisieren",
+    "text": "Kundenservice digitalisieren\nBedarf: Der Kundenservice soll schneller und transparenter werden.\n\n\n\n\n\n\n\n\n\nAnforderung\nFrage\nBeispiel\n\n\n\n\nGeschäftsanforderung\nWarum das Projekt?\nDas Unternehmen möchte die Bearbeitungszeit von Kundenanfragen um 30% reduzieren.\n\n\nBenutzeranforderung\nWas braucht …?\nAls Kunde möchte ich den Status meiner Anfrage online einsehen können.\n\n\nFunktionale Anforderung\nWas soll das System tun?\nDas System muss den aktuellen Bearbeitungsstatus einer Anfrage anzeigen.\n\n\nProjektanforderung\nUnter welchen Bedingungen?\nDie Lösung muss in der bestehenden AWS‑Cloud betrieben werden."
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#außendienst-effizienter-machen",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#außendienst-effizienter-machen",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Außendienst effizienter machen",
+    "text": "Außendienst effizienter machen\nBedarf: Außendienstmitarbeiter sollen Kundendaten mobil erfassen können.\n\n\n\n\n\n\n\n\n\nAnforderung\nFrage\nBeispiel\n\n\n\n\nGeschäftsanforderung\nWarum das Projekt?\nDie Erfassung von Kundendaten soll vor Ort möglich sein, um Nachbearbeitungszeit im Büro zu reduzieren.\n\n\nBenutzeranforderung\nWas braucht …?\nAls Außendienstmitarbeiter möchte ich Kundendaten offline erfassen können.\n\n\nFunktionale Anforderung\nWas soll das System tun?\nDie App muss Eingaben lokal speichern und später automatisch synchronisieren.\n\n\nProjektanforderung\nUnter welchen Bedingungen?\nDie mobile App muss auf iOS und Android lauffähig sein."
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#sicherheit-erhöhen",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#sicherheit-erhöhen",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Sicherheit erhöhen",
+    "text": "Sicherheit erhöhen\nBedarf: Die IT‑Security verlangt höhere Zugriffssicherheit.\n\n\n\n\n\n\n\n\n\nAnforderung\nFrage\nBeispiel\n\n\n\n\nGeschäftsanforderung\nWarum das Projekt?\nDie Sicherheit sensibler Kundendaten muss verbessert werden, um Compliance‑Risiken zu reduzieren.\n\n\nBenutzeranforderung\nWas braucht …?\nAls Administrator möchte ich Benutzerrollen verwalten können, um Zugriffe gezielt zu steuern.\n\n\nFunktionale Anforderung\nWas soll das System tun?\nDas System muss eine Zwei‑Faktor‑Authentifizierung anbieten.\n\n\nProjektanforderung\nUnter welchen Bedingungen?\nDie Lösung muss DSGVO‑konform sein."
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#section",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#section",
+    "title": "Bedarfs- und Anforderungsanalyse",
     "section": "",
     "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!"
   },
@@ -82,6 +250,90 @@
     "crumbs": [
       "01 Willkommen zu LF2 - Themen und Zeitplan"
     ]
+  },
+  {
+    "objectID": "02_IT-Systeme.html#it-systeme",
+    "href": "02_IT-Systeme.html#it-systeme",
+    "title": "IT-Systeme",
+    "section": "IT-Systeme",
+    "text": "IT-Systeme"
+  },
+  {
+    "objectID": "02_IT-Systeme.html#section",
+    "href": "02_IT-Systeme.html#section",
+    "title": "IT-Systeme",
+    "section": "",
+    "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!"
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#ist-zustand-erfassen",
+    "href": "03b_Istzustand-erfassen.html#ist-zustand-erfassen",
+    "title": "Istzustand erfassen",
+    "section": "Ist-Zustand erfassen",
+    "text": "Ist-Zustand erfassen\nZiele\n\nVorteile und Nachteile der Methoden verstehen:\n\nInterview\nFragebogen\nBeobachtung\n\nEntscheiden, welche Methode eingesetzt wird"
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#interview",
+    "href": "03b_Istzustand-erfassen.html#interview",
+    "title": "Istzustand erfassen",
+    "section": "Interview",
+    "text": "Interview\n\nDirekte Befragung der Beteiligten zu einem oder mehreren Themenkomplexen.\n\n\nVorteile\n\npersönlicher Kontakt fördert Bereitschaft zur Auskunft\nUnklarheiten können sofort geklärt werden\n\n\nNachteile\n\nhoher Zeitaufwand\nAntworten oft subjektiv geprägt\nFakten schwerer zu erfassen"
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#fragebogen",
+    "href": "03b_Istzustand-erfassen.html#fragebogen",
+    "title": "Istzustand erfassen",
+    "section": "Fragebogen",
+    "text": "Fragebogen\n\n\nKann geschlossene oder offene Fragen enthalten\nGeschlossen: Single Choice (Radiobuttons) oder Multiple Choice (Checkboxes)\n\n\n\nVorteile\n\nmehr Personen befragbar als beim Interview\ngeringerer Zeitaufwand\nkeine zusätzliche Dokumentation der Antworten\nautomatische Auswertung möglich\n\n\nNachteile\n\nhöherer Vorbereitungsaufwand\noft geringer Rücklauf\nVerzerrungen bei Nicht-Teilnahme möglich!\nUnklarheiten schwerer zu klären"
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#fragebogen-1",
+    "href": "03b_Istzustand-erfassen.html#fragebogen-1",
+    "title": "Istzustand erfassen",
+    "section": "Fragebogen",
+    "text": "Fragebogen"
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#beobachtung",
+    "href": "03b_Istzustand-erfassen.html#beobachtung",
+    "title": "Istzustand erfassen",
+    "section": "Beobachtung",
+    "text": "Beobachtung\n\nProzesse werden vor Ort direkt begleitet und analysiert.\n\n\nVorteile\n\nProzesse weitgehend objektiv beobachtbar\neffektive Erfassung möglich\nfür zeitliche und quantitative Informationen über den Prozess geeignet\n\n\nNachteile\n\nhoher Zeitaufwand\nmanchmal können nur kleine Ausschnitte eines Prozesses beobachtet werden\nBeobachtungen werden meist als unangenehm empfunden"
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#auwahl-einer-methode",
+    "href": "03b_Istzustand-erfassen.html#auwahl-einer-methode",
+    "title": "Istzustand erfassen",
+    "section": "Auwahl einer Methode",
+    "text": "Auwahl einer Methode\n\nAufgabe: Entscheiden Sie sich jeweils für eine Methode der Informationserfassung. Begründen Sie Ihre Entscheidung.\nInterview? Fragebogen? Beobachtung?\n\nVerbesserung des Webauftritts eines Unternehmens\nErstellung eines Softwaremoduls für Einkauf, Lagerung und Verkauf von Waren.\nEntwicklung einer Softwaresimulation für ein Ampelkreuzungssystem."
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#webauftritt-verbessern",
+    "href": "03b_Istzustand-erfassen.html#webauftritt-verbessern",
+    "title": "Istzustand erfassen",
+    "section": "Webauftritt verbessern",
+    "text": "Webauftritt verbessern\nVorschlag: Fragebogen\n\n\nEs geht darum, die Bedürfnisse und Präferenzen der Nutzer zu verstehen\nFragebogen gut geeignet, um Feedback von größerer Personengruppe zu erhalten: verschiedene Nutzergruppen\nFragen z. B. zu Benutzerfreundlichkeit, gewünschte Funktionen, Design"
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#softwaremodul-für-waren",
+    "href": "03b_Istzustand-erfassen.html#softwaremodul-für-waren",
+    "title": "Istzustand erfassen",
+    "section": "Softwaremodul für Waren",
+    "text": "Softwaremodul für Waren\nVorschlag: Interview\n\n\nSoftwaremodul für Geschäftsprozesse: erfordert detaillierte Erfassung der Anforderungen von Personen, die direkt mit den Prozessen arbeiten\nInterviews mit Einkaufs-, Lager- und Verkaufspersonal: präzise Erfassung der Abläufe, Anforderungen an die Datenverarbeitung, erforderliche Funktionen\nermöglicht genaue Ausrichtung des Softwaremoduls auf die tatsächlichen Geschäftsbedürfnisse"
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#softwaresimulation-für-ampelkreuzungssystem",
+    "href": "03b_Istzustand-erfassen.html#softwaresimulation-für-ampelkreuzungssystem",
+    "title": "Istzustand erfassen",
+    "section": "Softwaresimulation für Ampelkreuzungssystem",
+    "text": "Softwaresimulation für Ampelkreuzungssystem\nVorschlag: Beobachtung\n\n\nhier wichtig: reales Verhalten und Interaktionen im Verkehrsumfeld zu verstehen\nBeobachtung vor Ort: Informationen über Verkehrsfluss, Verhaltensmuster der Fahrer, Verkehrsprobleme\nSo kann realistische, effektive Simulation entwickelt werden, die den tatsächlichen Bedingungen entspricht"
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#section",
+    "href": "03b_Istzustand-erfassen.html#section",
+    "title": "Istzustand erfassen",
+    "section": "",
+    "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!"
   },
   {
     "objectID": "index.html",
