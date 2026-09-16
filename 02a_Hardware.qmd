@@ -43,9 +43,9 @@ Lernkarte AP1 2025 Nr. 114
 ::: {.incremental style="font-size: 1.8rem"}
 
 - virtuelle Prozessoren, die durch **Hyper-Threading-Technologie (HTT)** oder **Simultaneous Multithreading (SMT)** unterstützt werden
-- d. h. Prozessor tut so, als habe er mehr Kerne, als physisch vorhanden sind
+- Prozessor "tut so", als habe er mehr Kerne, als physisch vorhanden sind
 - dadurch werden ineffiziente Wartezeiten reduziert, Performance steigt
-- HT: Intel Markenname, seit Pentium 4 (2002); SMT: generischer Begriff (AMD, IBM, ARM)
+- HT: Intel Markenname, seit Pentium 4 (2002); <br> SMT: generischer Begriff (AMD, IBM, ARM)
 - sicherheitskritisch; manche Cloudanbieter deaktivieren zeitweise Hyperthreading / Simultaneous Multithreading
 - Anwendungen müssen HTT / SMT unterstützen, um es nutzbar zu machen
 - Siehe Taskmanager
@@ -59,7 +59,7 @@ Lernkarte AP1 2025 Nr. 57, ergänzt, anders formuliert (Karte schlecht geschrieb
 
 ## CPU: Wärmeleitpaste
 
-::: {.incremental style="font-size: 1.8rem"}
+::: {.incremental style="font-size: 2rem"}
 
 - Wärmeleitpaste sorgt dafür, dass Wäre von der CPU effizient zum Kühler abgeleitet wird
 - Kontaktflächen zwischen CPU und Kühler haben bauweisenbedingt nicht überall perfekten Übergang
@@ -72,6 +72,80 @@ Lernkarte AP1 2025 Nr. 57, ergänzt, anders formuliert (Karte schlecht geschrieb
 ::: notes
 Lernkarte AP1 2025 Nr. 115
 :::
+
+
+## Thin Clients
+
+::: {.incremental style="font-size: 1.8rem"}
+
+- schlanker Arbeitsplatz-Computer fast ohne eigene Rechenleistung
+- Anwendungen laufen auf Server; Thin Client dient als Eingabe- / Ausgabe-Terminal
+- Vorteile:
+  + geringerer Stromverbrauch, geringes Gewicht, geringer Platzbedarf
+  + geräuschloser Arbeitsplatzcomputer
+  + leicht austauschbar
+  + umweltfreundlich: weniger Materialeinsatz, weniger Abwärme
+  + flexibel einsetzbar: es muss kein Betriebssystem installiert werden
+  + keine Chance für Viren, Würmer, Trojaner: *Read-Only-Betriebssystem*
+
+:::
+
+::: notes
+Lernkarte AP1 2025 Nr. 146
+:::
+
+
+## Notebooks: Dockingstation
+
+::: {.incremental style="font-size: 1.8rem"}
+
+- engl. *to dock:* andocken, koppeln
+- verwendet, um mobile Geräte (Notebooks, PDAs) mit festem Netz zu verbinden
+- Dockingstation als Portreplikator:
+  + vorhandene Ports werden an die Dockingstation "durchgereicht"
+  + zusätzliche Schnittstellen, z. B. PS/2, Seriell- und Parallelport, DVI, DisplayPort, HDMI, Sound, Firewire
+  + diese Schnittstellen fehlen in mobilen Geräten oft aus Platzgründen
+  + oft 2x HDMI, 2x DVI oder 2x Displayport
+:::
+
+::: notes
+Lernkarte AP1 2025 Nr. 54
+:::
+
+
+## Speicher: Vorteile USB-C vs. <br> USB-A, USB-B
+
+::: {.incremental style="font-size: 2rem"}
+
+- reversible Steckrichtung
+- höhere Leistungsfähigkeit
+- kompaktes Design
+- schnellere Ladezeiten
+- bidirektionale Stromversorgung
+- Zukunftssicherheit
+
+:::
+
+
+## Grafik: Schnittstellen für 4K, 8K
+
+::: {style="font-size: 1.7rem"}
+
+Schnittstelle | max. Übertragungsrate | max. Auflösung
+--------------|-----------------------|---------------
+HDMI 1.4 | 10,2 GBit/s | Full-HD (1920x1080)
+HDMI 2.0 | 18,0 GBit/s | 4K (3840 x 2160)
+HDMI 2.1 | 38,4 GBit/s | 8K (7680 x 4320)
+DisplayPort 1.3 | 25,9 GBit/s | 8K (7680 x 4320)
+DisplayPort 1.4 | 32,4 GBit/s | 8K (7680 x 4320)
+
+<br>
+
+Kinostandard DCI-4K: 4096 x 2160; ca. 17:9  
+Kinostandard DCI-8K: 8192 x 4320; ca. 17:9
+
+:::
+
 
 
 ## <!-- -->
