@@ -93,6 +93,11 @@ Voraussetzung ist, dass die eingebauten Speichermodule baugleich sind, eine iden
 :::
 ::::
 
+::: notes
+Lernkarte AP1 2025 Nr. 58
+:::
+
+
 ## RAM: Dual Channel Mode
 
 :::: {style="font-size: 1.8rem"}
@@ -108,6 +113,10 @@ Welche Bedingungen müssen beim Einsatz von Arbeitsspeichern im **Dual Channel M
 
 :::
 ::::
+
+::: notes
+Lernkarte AP1 2025 Nr. 183
+:::
 
 
 ## Thin Clients
@@ -207,6 +216,10 @@ Lernkarte AP1 2025 Nr. 54
 
 UHD 4K wird heute auch als UHD-1 bezeichnet und lehnt sich am Cinema 4K (4096 x 2160 Pixel) an. Die Hersteller spezifizieren jedoch ihre Geräte mit 3840 x 2160 Pixeln heute oftmals auch als UHD 4K.
 
+:::
+
+::: notes
+Lernkarte AP1 2025 Nr. 59
 :::
 
 
