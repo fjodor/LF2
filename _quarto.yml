@@ -11,7 +11,13 @@ website:
       - href: index.qmd
         text: Home
       - href: 01_Willkommen_Struktur.qmd
-        text: 01 Willkommen zu LF2 - Themen und Zeitplan
+        text: Willkommen zu LF2 - Themen und Zeitplan
+      - href: 03a_Bedarfs-Anforderungsanalyse.qmd
+        text: Bedarfs- und Anforderungsanalyse
+      - href: 03b_Istzustand-erfassen.qmd
+        text: Istzustand erfassen - Interview, Fragebogen, Beobachtung
+      - href: 04_Nutzwertanalyse.qmd
+        text: Nutzwertanalyse
 
 format:
   revealjs:

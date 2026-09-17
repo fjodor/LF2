@@ -89,7 +89,7 @@ Wir vergleichen drei Systeme anhand von fünf Kriterien:
 - Energieeffizienz – Gewichtung: 10%
 - Preis – Gewichtung: 30%
 
-Bewertungsskala: 1 = schlecht, 5 = sehr gut
+Bewertungsskala: 1 = sehr schlecht, 5 = sehr gut
 
 [Die Gewichte sollen in Summe 100% ergeben!]{.fragment}
 
