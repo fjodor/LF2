@@ -15,6 +15,24 @@ execute:
 callout-appearance: simple
 ---
 
+## Aufgabe: Kaufberatung
+
+:::: {style="font-size: 1.7rem"}
+
+| **Merkmal** | **PC A – Office Basic** | **PC B – Allround Pro** | **PC C – Performance Plus** |
+| --- | --- | --- | --- |
+| **CPU** | Intel Core i5‑12400 (6 Cores, 4.4 GHz Boost) | AMD Ryzen 5 5600X (6 Cores, 4.6 GHz Boost) | Intel Core i7‑13700 (16 Cores, 5.2 GHz Boost) |
+| **RAM** | 16 GB DDR4‑3200 | 32 GB DDR4‑3600 | 32 GB DDR5‑5200 |
+| **SSD** | 512 GB NVMe | 1 TB NVMe | 1 TB NVMe Gen4 |
+| **Grafik** | Intel UHD 730 (iGPU) | NVIDIA GTX 1660 Super | NVIDIA RTX 4070 |
+| **Energieeffizienz** | 65 W TDP CPU | 65 W CPU + 125 W GPU | 125 W CPU + 200 W GPU |
+| **Preis** | ca. 750 € | ca. 1.200 € | ca. 2.000 € |
+
+::::
+
+Wie kommen Sie zu einer Kaufempfehlung für den Kunden?
+
+
 ## Nutzwertanalyse
 
 - Entscheidungshilfe für komplexe Handlungsalternativen
