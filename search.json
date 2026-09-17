@@ -245,11 +245,39 @@
     "text": "CPU: Wärmeleitpaste\n\n\nWärmeleitpaste sorgt dafür, dass Wäre von der CPU effizient zum Kühler abgeleitet wird\nKontaktflächen zwischen CPU und Kühler haben bauweisenbedingt nicht überall perfekten Übergang\nWärmeleitpaste gleicht solche Unebenheiten aus\nverhindert Leistungseinbußen, Systemabstürze, dauerhafte Schäden an CPU\nMontage: als Wärmepad oder als erbsengroßer Klecks zwischen CPU und Kühler\n\n\n\nLernkarte AP1 2025 Nr. 115"
   },
   {
+    "objectID": "02a_Hardware.html#ram-dual-channel-mode",
+    "href": "02a_Hardware.html#ram-dual-channel-mode",
+    "title": "IT Hardware",
+    "section": "RAM: Dual Channel Mode",
+    "text": "RAM: Dual Channel Mode\n\nWelchen Vorteil bringt der Einsatz von Dual-Channel-Technik bei Speichermodulen?\n\nMithilfe der Dual-Channel-Technik kann der Speicherkontroller des Prozessors die Daten auf zwei Arbeitsspeichermodule gleichzeitig aufteilen und somit parallel schreiben und lesen. Dadurch verdoppelt sich die Datenrate.\n\n\nVoraussetzung ist, dass die eingebauten Speichermodule baugleich sind, eine identische Modulkapazität besitzen sowie paarweise verteilt werden."
+  },
+  {
+    "objectID": "02a_Hardware.html#ram-dual-channel-mode-1",
+    "href": "02a_Hardware.html#ram-dual-channel-mode-1",
+    "title": "IT Hardware",
+    "section": "RAM: Dual Channel Mode",
+    "text": "RAM: Dual Channel Mode\n\nWelche Bedingungen müssen beim Einsatz von Arbeitsspeichern im Dual Channel Mode erfüllt sein?\n\nSpeichermodule müssen baugleich sein\nSpeichermodule müssen die gleiche Speicherkapazität besitzen\nSpeichermodule sollten vom Hersteller für den Einsatz auf dem Motherboard bzw. Prozessor zertifiziert sein\nSpeichermodule müssen immer paarweise ergänzt bzw. entfernt werden"
+  },
+  {
     "objectID": "02a_Hardware.html#thin-clients",
     "href": "02a_Hardware.html#thin-clients",
     "title": "IT Hardware",
     "section": "Thin Clients",
     "text": "Thin Clients\n\n\nschlanker Arbeitsplatz-Computer fast ohne eigene Rechenleistung\nAnwendungen laufen auf Server; Thin Client dient als Eingabe- / Ausgabe-Terminal\nVorteile:\n\ngeringerer Stromverbrauch, geringes Gewicht, geringer Platzbedarf\ngeräuschloser Arbeitsplatzcomputer\nleicht austauschbar\numweltfreundlich: weniger Materialeinsatz, weniger Abwärme\nflexibel einsetzbar: es muss kein Betriebssystem installiert werden\nkeine Chance für Viren, Würmer, Trojaner: Read-Only-Betriebssystem\n\n\n\n\nLernkarte AP1 2025 Nr. 146"
+  },
+  {
+    "objectID": "02a_Hardware.html#pc-verarbeitungsgeschwindigkeit-verbessern",
+    "href": "02a_Hardware.html#pc-verarbeitungsgeschwindigkeit-verbessern",
+    "title": "IT Hardware",
+    "section": "PC: Verarbeitungsgeschwindigkeit verbessern",
+    "text": "PC: Verarbeitungsgeschwindigkeit verbessern\n\n\nAustausch von SATA HDDs mit geringer Umdrehungszahl gegen HDDs mit 10K/rpm\nEinsatz von SSD/M.2 gegenüber SATA HDDs\nAufteilung des Betriebssystems und der Anwendungsprogramme auf unterschiedlichen Datenträgern (OS auf M.2, Daten auf SSD)\nAustausch 100 Mbit/s Netzwerkkarte gegen 1 Gbit/s Netzwerkkarte\n\n\n\nLernkarte AP1 2025 Nr. 111"
+  },
+  {
+    "objectID": "02a_Hardware.html#notebooks-technische-merkmale",
+    "href": "02a_Hardware.html#notebooks-technische-merkmale",
+    "title": "IT Hardware",
+    "section": "Notebooks: Technische Merkmale",
+    "text": "Notebooks: Technische Merkmale\n\n\nteilweise Anschluss für Dockingstation\nteilweise Mini-PCI-Express-Slot\nteilweise 4-in-1 Kartenlesegerät\nteilweise integriertes Bluetooth, WLAN und WWAN\ninterne Netzwerkkarte\neigenes Display, teilweise Videokamera\nexterne Schnittstellen wie USB, HDMI, DisplayPort (mini), VGA, Firewire\nintegrierte Lautsprecher und Mikrofone\nAkku, externes Netzteil\n\n\n\nLernkarte AP1 2025 Nr. 56"
   },
   {
     "objectID": "02a_Hardware.html#notebooks-dockingstation",
@@ -259,11 +287,18 @@
     "text": "Notebooks: Dockingstation\n\n\nengl. to dock: andocken, koppeln\nverwendet, um mobile Geräte (Notebooks, PDAs) mit festem Netz zu verbinden\nDockingstation als Portreplikator:\n\nvorhandene Ports werden an die Dockingstation “durchgereicht”\nzusätzliche Schnittstellen, z. B. PS/2, Seriell- und Parallelport, DVI, DisplayPort, HDMI, Sound, Firewire\ndiese Schnittstellen fehlen in mobilen Geräten oft aus Platzgründen\noft 2x HDMI, 2x DVI oder 2x Displayport\n\n\n\n\nLernkarte AP1 2025 Nr. 54"
   },
   {
-    "objectID": "02a_Hardware.html#speicher-vorteile-usb-c-vs.-usb-a-usb-b",
-    "href": "02a_Hardware.html#speicher-vorteile-usb-c-vs.-usb-a-usb-b",
+    "objectID": "02a_Hardware.html#vorteile-usb-c-vs.-usb-a-usb-b",
+    "href": "02a_Hardware.html#vorteile-usb-c-vs.-usb-a-usb-b",
     "title": "IT Hardware",
-    "section": "Speicher: Vorteile USB-C vs.  USB-A, USB-B",
-    "text": "Speicher: Vorteile USB-C vs.  USB-A, USB-B\n\n\nreversible Steckrichtung\nhöhere Leistungsfähigkeit\nkompaktes Design\nschnellere Ladezeiten\nbidirektionale Stromversorgung\nZukunftssicherheit"
+    "section": "Vorteile USB-C vs.  USB-A, USB-B",
+    "text": "Vorteile USB-C vs.  USB-A, USB-B\n\n\nreversible Steckrichtung\nhöhere Leistungsfähigkeit\nkompaktes Design\nschnellere Ladezeiten\nbidirektionale Stromversorgung\nZukunftssicherheit"
+  },
+  {
+    "objectID": "02a_Hardware.html#bildschirm-was-bedeutet-uhd-4k",
+    "href": "02a_Hardware.html#bildschirm-was-bedeutet-uhd-4k",
+    "title": "IT Hardware",
+    "section": "Bildschirm: Was bedeutet UHD 4K?",
+    "text": "Bildschirm: Was bedeutet UHD 4K?\n\nUHD (Ultra High Definition) 4K bezeichnet ein digitales Videoformat der International Telecommunication Union (ITU) für Ultra High Definition Television (UHDTV oder Ultra HDTV) sowie Ultra High Definition Video (UHDV).\nUHD 4K wird heute auch als UHD-1 bezeichnet und lehnt sich am Cinema 4K (4096 x 2160 Pixel) an. Die Hersteller spezifizieren jedoch ihre Geräte mit 3840 x 2160 Pixeln heute oftmals auch als UHD 4K."
   },
   {
     "objectID": "02a_Hardware.html#grafik-schnittstellen-für-4k-8k",
@@ -397,6 +432,13 @@
     "title": "Bedarfs- und Anforderungsanalyse",
     "section": "",
     "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!"
+  },
+  {
+    "objectID": "04_Nutzwertanalyse.html#aufgabe-kaufberatung",
+    "href": "04_Nutzwertanalyse.html#aufgabe-kaufberatung",
+    "title": "Nutzwertanalyse",
+    "section": "Aufgabe: Kaufberatung",
+    "text": "Aufgabe: Kaufberatung\n\n\n\n\n\n\n\n\n\n\nMerkmal\nPC A – Office Basic\nPC B – Allround Pro\nPC C – Performance Plus\n\n\n\n\nCPU\nIntel Core i5‑12400 (6 Cores, 4.4 GHz Boost)\nAMD Ryzen 5 5600X (6 Cores, 4.6 GHz Boost)\nIntel Core i7‑13700 (16 Cores, 5.2 GHz Boost)\n\n\nRAM\n16 GB DDR4‑3200\n32 GB DDR4‑3600\n32 GB DDR5‑5200\n\n\nSSD\n512 GB NVMe\n1 TB NVMe\n1 TB NVMe Gen4\n\n\nGrafik\nIntel UHD 730 (iGPU)\nNVIDIA GTX 1660 Super\nNVIDIA RTX 4070\n\n\nEnergieeffizienz\n65 W TDP CPU\n65 W CPU + 125 W GPU\n125 W CPU + 200 W GPU\n\n\nPreis\nca. 750 €\nca. 1.200 €\nca. 2.000 €\n\n\n\n\nWie kommen Sie zu einer Kaufempfehlung für den Kunden?"
   },
   {
     "objectID": "04_Nutzwertanalyse.html#nutzwertanalyse",
