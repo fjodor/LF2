@@ -74,6 +74,42 @@ Lernkarte AP1 2025 Nr. 115
 :::
 
 
+## RAM: Dual Channel Mode
+
+:::: {style="font-size: 1.8rem"}
+
+Welchen Vorteil bringt der Einsatz von Dual-Channel-Technik bei Speichermodulen?
+
+::: fragment
+
+Mithilfe der **Dual-Channel-Technik** kann der Speicherkontroller des Prozessors die Daten auf zwei Arbeitsspeichermodule gleichzeitig aufteilen und somit parallel schreiben und lesen. Dadurch verdoppelt sich die Datenrate.
+
+:::
+
+::: fragment
+
+Voraussetzung ist, dass die eingebauten Speichermodule baugleich sind, eine identische Modulkapazität besitzen sowie paarweise verteilt werden.
+
+:::
+::::
+
+## RAM: Dual Channel Mode
+
+:::: {style="font-size: 1.8rem"}
+
+Welche Bedingungen müssen beim Einsatz von Arbeitsspeichern im **Dual Channel Mode** erfüllt sein?
+
+::: incremental
+
+- Speichermodule müssen baugleich sein
+- Speichermodule müssen die gleiche Speicherkapazität besitzen
+- Speichermodule sollten vom Hersteller für den Einsatz auf dem Motherboard bzw. Prozessor zertifiziert sein
+- Speichermodule müssen immer paarweise ergänzt bzw. entfernt werden
+
+:::
+::::
+
+
 ## Thin Clients
 
 ::: {.incremental style="font-size: 1.8rem"}
@@ -95,6 +131,42 @@ Lernkarte AP1 2025 Nr. 146
 :::
 
 
+## PC: Verarbeitungsgeschwindigkeit verbessern
+
+::: {.incremental style="font-size: 1.9rem"}
+
+- Austausch von SATA HDDs mit geringer Umdrehungszahl gegen HDDs mit 10K/rpm
+- Einsatz von SSD/M.2 gegenüber SATA HDDs
+- Aufteilung des Betriebssystems und der Anwendungsprogramme auf unterschiedlichen Datenträgern (OS auf M.2, Daten auf SSD)
+- Austausch 100 Mbit/s Netzwerkkarte gegen 1 Gbit/s Netzwerkkarte
+:::
+
+::: notes
+Lernkarte AP1 2025 Nr. 111
+:::
+
+
+## Notebooks: Technische Merkmale
+
+::: {.incremental style="font-size: 1.6rem"}
+
+- teilweise Anschluss für Dockingstation
+- teilweise Mini-PCI-Express-Slot
+- teilweise 4-in-1 Kartenlesegerät
+- teilweise integriertes Bluetooth, WLAN und WWAN
+- interne Netzwerkkarte
+- eigenes Display, teilweise Videokamera
+- externe Schnittstellen wie USB, HDMI, DisplayPort (mini), VGA, Firewire
+- integrierte Lautsprecher und Mikrofone
+- Akku, externes Netzteil
+
+:::
+
+::: notes
+Lernkarte AP1 2025 Nr. 56
+:::
+
+
 ## Notebooks: Dockingstation
 
 ::: {.incremental style="font-size: 1.8rem"}
@@ -113,7 +185,7 @@ Lernkarte AP1 2025 Nr. 54
 :::
 
 
-## Speicher: Vorteile USB-C vs. <br> USB-A, USB-B
+## Vorteile USB-C vs. <br> USB-A, USB-B
 
 ::: {.incremental style="font-size: 2rem"}
 
@@ -123,6 +195,17 @@ Lernkarte AP1 2025 Nr. 54
 - schnellere Ladezeiten
 - bidirektionale Stromversorgung
 - Zukunftssicherheit
+
+:::
+
+
+## Bildschirm: Was bedeutet UHD 4K?
+
+::: {style="font-size: 1.9rem"}
+
+**UHD (Ultra High Definition) 4K** bezeichnet ein digitales Videoformat der *International Telecommunication Union (ITU)* für Ultra High Definition Television (**UHDTV** oder **Ultra HDTV**) sowie Ultra High Definition Video (**UHDV**).
+
+UHD 4K wird heute auch als UHD-1 bezeichnet und lehnt sich am Cinema 4K (4096 x 2160 Pixel) an. Die Hersteller spezifizieren jedoch ihre Geräte mit 3840 x 2160 Pixeln heute oftmals auch als UHD 4K.
 
 :::
 
