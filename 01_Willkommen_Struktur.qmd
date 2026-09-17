@@ -95,7 +95,7 @@ In Hedgedoc können wir gemeinsame Notizen zum Unterricht erstellen:
 
 ## Weitere Vortragsthemen
 
-::: {style="font-size: 2rem"}
+::: {style="font-size: 1.8rem"}
 
 #### Dienstag, 22.09.2026
 
@@ -107,6 +107,7 @@ In Hedgedoc können wir gemeinsame Notizen zum Unterricht erstellen:
 - Videokonferenzsysteme
   + Welche gibt es? (Beispiele)
   + Nach welchen Kriterien kann man die Qualität bewerten und sich für eine Lösung entscheiden?
+- Bildschirme: Anschlüsse, Auflösungen, Kennzahlen, Entscheidungskriterien
 
 :::
 
