@@ -1,0 +1,56 @@
+---
+title: "Projektorganisation"
+title-slide-attributes:
+  data-background-color: "#D7E6F4"
+subtitle: " "
+format:
+  revealjs:
+    theme: simple
+execute:
+  echo: false
+  eval: true
+  freeze: auto
+  warning: false
+  message: false
+callout-appearance: simple
+---
+
+## Was ist ein Projekt?
+
+### Merkmale eines Projekts
+
+:::: {.incremental style="font-size: 1.8rem"}
+
+- **Einmaligkeit:** Ein Projekt wird in der Regel nur einmal ausgeführt und ist kein Prozess, der sich regelmäßig wiederholt.
+- **Klares Ziel:** In jedem Projekt wird ein bestimmtes Ergebnis oder Ziel verfolgt.
+- **Zeitliche Befristung:** Projekte haben einen festgelegten Start- und Endzeitpunkt.
+- **Interdisziplinär:** Eine Notwendigkeit ist oft die Zusammenarbeit mit verschiedenen Fachbereichen.
+- **Risikobehaftet:** Projekte sind mit Unsicherheiten und Risiken verbunden.
+- **Rahmenbedingungen:** Ein Projekt hat begrenzte Ressourcen, wie Geld, Personal, Zeit und hat klare Abgrenzungen zu anderen Projekten.
+
+::::
+
+::: notes
+Lernkarte AP1 2025 Nr. 1
+:::
+
+
+## Projektstrukturplan
+
+
+## Gantt-Diagramm
+
+
+
+
+## <!-- -->
+
+![](libs/_Images/coffee.jpg){fig-align="center" width="50%"}
+
+::: {style="text-align: center; font-size: 1rem;"}
+[©torange.biz](https://torange.biz/cup-coffee-30851) CC-BY 4.0
+:::
+
+::: {style="color: green; text-align: center; font-size: 2.8rem"}
+**Viel Erfolg!**
+:::
