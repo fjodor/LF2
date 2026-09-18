@@ -37,6 +37,31 @@ Lernkarte AP1 2025 Nr. 1
 
 ## Projektstrukturplan
 
+:::: columns
+::: {.column .incremental style="font-size: 1.8rem"}
+
+- Werkzeug zur Projektleitung
+- engl. *Work Break Down Structure*
+- deutsch auch Arbeitsstrukturplan
+- enthält gesamten Leistungsumfang
+- hierarchisch aufgebaut
+
+:::
+
+::: {.column .fragment}
+
+![](libs/_Images/PSP-drawio.png)
+
+::: {.incremental style="font-size: 1.7rem"}
+
+- oberste Hierarchiestufe: Projekt als Ganzes
+- zweite Ebene: Teilprojekte / Teilaufgaben
+- dritte Ebene: Arbeitspakete (AP)
+
+:::
+:::
+::::
+
 
 ## Gantt-Diagramm
 

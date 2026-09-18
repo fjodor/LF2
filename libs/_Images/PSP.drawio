@@ -1,0 +1,124 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Seite-1" id="1HED9sR_kH3yIVEEzQ8n">
+    <mxGraphModel dx="1406" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5Qub42GoMYA_OOdbGMTL-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Gesamtprojekt&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="210" x="270" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qub42GoMYA_OOdbGMTL-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="370" y="120" as="sourcePoint" />
+            <mxPoint x="370" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Qub42GoMYA_OOdbGMTL-3" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="200" y="120" as="sourcePoint" />
+            <mxPoint x="560" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Qub42GoMYA_OOdbGMTL-4" edge="1" parent="1" source="5Qub42GoMYA_OOdbGMTL-9" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="200" y="160" as="sourcePoint" />
+            <mxPoint x="200" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Qub42GoMYA_OOdbGMTL-6" edge="1" parent="1" source="5Qub42GoMYA_OOdbGMTL-11" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="300" y="160" as="sourcePoint" />
+            <mxPoint x="300" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Qub42GoMYA_OOdbGMTL-7" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="440" y="160" as="sourcePoint" />
+            <mxPoint x="440" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Qub42GoMYA_OOdbGMTL-8" edge="1" parent="1" source="5Qub42GoMYA_OOdbGMTL-14" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="560" y="160" as="sourcePoint" />
+            <mxPoint x="560" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Qub42GoMYA_OOdbGMTL-10" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" target="5Qub42GoMYA_OOdbGMTL-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="200" y="160" as="sourcePoint" />
+            <mxPoint x="200" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Qub42GoMYA_OOdbGMTL-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Teilaufgabe&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="160" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qub42GoMYA_OOdbGMTL-12" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" target="5Qub42GoMYA_OOdbGMTL-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="300" y="160" as="sourcePoint" />
+            <mxPoint x="300" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Qub42GoMYA_OOdbGMTL-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Teilaufgabe&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="260" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qub42GoMYA_OOdbGMTL-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Teilaufgabe&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="400" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qub42GoMYA_OOdbGMTL-15" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" target="5Qub42GoMYA_OOdbGMTL-14" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="560" y="160" as="sourcePoint" />
+            <mxPoint x="560" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Qub42GoMYA_OOdbGMTL-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Teilaufgabe&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="520" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qub42GoMYA_OOdbGMTL-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b style=&quot;font-family: Verdana;&quot;&gt;Arbeits-paket&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="310" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qub42GoMYA_OOdbGMTL-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b style=&quot;font-family: Verdana;&quot;&gt;Arbeits-paket&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="420" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qub42GoMYA_OOdbGMTL-22" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="299.5" y="220" as="sourcePoint" />
+            <mxPoint x="299.5" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Qub42GoMYA_OOdbGMTL-23" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="240" y="220" as="sourcePoint" />
+            <mxPoint x="450" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Qub42GoMYA_OOdbGMTL-27" edge="1" parent="1" source="5Qub42GoMYA_OOdbGMTL-16" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="239.5" y="250" as="sourcePoint" />
+            <mxPoint x="239.5" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Qub42GoMYA_OOdbGMTL-32" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" target="5Qub42GoMYA_OOdbGMTL-16" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="239.5" y="250" as="sourcePoint" />
+            <mxPoint x="239.5" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Qub42GoMYA_OOdbGMTL-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Arbeits-paket&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="200" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qub42GoMYA_OOdbGMTL-35" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="350.5" y="250" as="sourcePoint" />
+            <mxPoint x="350" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Qub42GoMYA_OOdbGMTL-36" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="450.5" y="250" as="sourcePoint" />
+            <mxPoint x="450" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
