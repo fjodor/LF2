@@ -76,7 +76,7 @@ Lernkarte AP1 2025 Nr. 115
 
 ## RAM: Dual Channel Mode
 
-:::: {style="font-size: 1.8rem"}
+:::: {style="font-size: 2.1rem"}
 
 Welchen Vorteil bringt der Einsatz von Dual-Channel-Technik bei Speichermodulen?
 
@@ -100,7 +100,7 @@ Lernkarte AP1 2025 Nr. 58
 
 ## RAM: Dual Channel Mode
 
-:::: {style="font-size: 1.8rem"}
+:::: {style="font-size: 2.1rem"}
 
 Welche Bedingungen müssen beim Einsatz von Arbeitsspeichern im **Dual Channel Mode** erfüllt sein?
 
@@ -142,7 +142,7 @@ Lernkarte AP1 2025 Nr. 146
 
 ## PC: Verarbeitungsgeschwindigkeit verbessern
 
-::: {.incremental style="font-size: 1.9rem"}
+::: {.incremental style="font-size: 2rem"}
 
 - Austausch von SATA HDDs mit geringer Umdrehungszahl gegen HDDs mit 10K/rpm
 - Einsatz von SSD/M.2 gegenüber SATA HDDs
@@ -157,7 +157,7 @@ Lernkarte AP1 2025 Nr. 111
 
 ## Notebooks: Technische Merkmale
 
-::: {.incremental style="font-size: 1.6rem"}
+::: {.incremental style="font-size: 1.8rem"}
 
 - teilweise Anschluss für Dockingstation
 - teilweise Mini-PCI-Express-Slot
@@ -178,7 +178,7 @@ Lernkarte AP1 2025 Nr. 56
 
 ## Notebooks: Dockingstation
 
-::: {.incremental style="font-size: 1.8rem"}
+::: {.incremental style="font-size: 2rem"}
 
 - engl. *to dock:* andocken, koppeln
 - verwendet, um mobile Geräte (Notebooks, PDAs) mit festem Netz zu verbinden
@@ -210,7 +210,9 @@ Lernkarte AP1 2025 Nr. 54
 
 ## Bildschirm: Was bedeutet UHD 4K?
 
-::: {style="font-size: 1.9rem"}
+<br>
+
+::: {style="font-size: 2.1rem"}
 
 **UHD (Ultra High Definition) 4K** bezeichnet ein digitales Videoformat der *International Telecommunication Union (ITU)* für Ultra High Definition Television (**UHDTV** oder **Ultra HDTV**) sowie Ultra High Definition Video (**UHDV**).
 
