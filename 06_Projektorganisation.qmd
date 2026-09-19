@@ -6,6 +6,7 @@ subtitle: " "
 format:
   revealjs:
     theme: simple
+    mermaid: {}
 execute:
   echo: false
   eval: true
@@ -15,11 +16,9 @@ execute:
 callout-appearance: simple
 ---
 
-## Was ist ein Projekt?
+## Was ist ein Projekt? Merkmale
 
-### Merkmale eines Projekts
-
-:::: {.incremental style="font-size: 1.8rem"}
+:::: {.incremental style="font-size: 1.9rem"}
 
 - **Einmaligkeit:** Ein Projekt wird in der Regel nur einmal ausgeführt und ist kein Prozess, der sich regelmäßig wiederholt.
 - **Klares Ziel:** In jedem Projekt wird ein bestimmtes Ergebnis oder Ziel verfolgt.
@@ -65,7 +64,104 @@ Lernkarte AP1 2025 Nr. 1
 
 ## Gantt-Diagramm
 
+```{mermaid}
+%%{init: {'themeVariables': { 'fontSize': '18px' }}}%%
+gantt
+    title Einfaches Gantt-Diagramm
+    dateFormat  YYYY-MM-DD
+    axisFormat  %d.%m.
 
+    section Planung
+    Konzeptphase        :done,    des1, 2024-01-01, 2024-01-10
+    Design              :active,  des2, 2024-01-11, 2024-01-20
+
+    section Umsetzung
+    Entwicklung         :crit,    dev1, 2024-01-21, 2024-02-15
+    Tests               :         dev2, 2024-02-11, 2024-02-20
+
+```
+
+::: {.incremental style="font-size: 1.8rem"}
+- Balkendiagramm zur Terminplanung
+- stellt zeitliche Abfolge von Aktivitäten grafisch als Balken auf einer Zeitachse dar
+- erste Spalte enthält Aktivitäten
+- erste oder letzte Zeile stellt Zeitachse dar
+- Aktivitäten können sich überschneiden (siehe Entwicklung und Tests)
+:::
+
+
+## Gantt-Diagramm: Mermaid
+
+:::: {.columns style="font-size: 1.6rem"}
+::: {.column .incremental width="45%"}
+
+- Mermaid ("Meerjungfrau") ist eine vereinfachte Auszeichnungssprache und ein JavaScript-basiertes Open Source-Tool zur Diagrammerstellung
+- inspiriert von Markdown
+- kann mit einem Renderer komplexe Diagramme erstellen und verändern
+:::
+
+::: {.column .fragment}
+
+```text
+gantt
+    title Einfaches Gantt-Diagramm
+    dateFormat  YYYY-MM-DD
+    axisFormat  %d.%m.
+
+    section Planung
+    Konzeptphase    :done,    des1, 2024-01-01, 2024-01-10
+    Design          :active,  des2, 2024-01-11, 2024-01-20
+
+    section Umsetzung
+    Entwicklung     :crit,    dev1, 2024-01-21, 2024-02-15
+    Tests           :         dev2, 2024-02-11, 2024-02-20
+
+```
+
+:::
+::::
+
+```{mermaid}
+%%{init: {'themeVariables': { 'fontSize': '18px' }}}%%
+gantt
+    title Einfaches Gantt-Diagramm
+    dateFormat  YYYY-MM-DD
+    axisFormat  %d.%m.
+
+    section Planung
+    Konzeptphase        :done,    des1, 2024-01-01, 2024-01-10
+    Design              :active,  des2, 2024-01-11, 2024-01-20
+
+    section Umsetzung
+    Entwicklung         :crit,    dev1, 2024-01-21, 2024-02-15
+    Tests               :         dev2, 2024-02-11, 2024-02-20
+
+```
+
+
+## Netzplan
+
+
+## Projektmanagement: SMART
+
+:::: {style="font-size: 1.8rem"}
+
+**Beschreibe die fünf Punkte der SMART-Methode im Projektmanagement.**
+
+::: incremental
+
+- **S** ***Spezifisch:*** Die Projektziele sind so konkret wie möglich zu formulieren.
+- **M** ***Messbar:*** Die Projektziele müssen messbar sein.
+- **A** ***Aktivierend / Attraktiv:*** Die Projektziele müssen Motivation zur Umsetzung geben.
+- **R** ***Realistisch:*** Die Projektziele müssen innerhalb des gesetzten Zeitrahmens umsetzbar sein.
+- **T** ***Terminiert:*** Die Projektziele müssen zeitlich bindend sein. <br>Welche Aufgaben sind bis wann zu erledigen?
+
+:::
+::::
+
+::: notes
+Lernkarte AP1 2025 Nr. 226
+:::
 
 
 ## <!-- -->
