@@ -1,8 +1,8 @@
 ---
-title: "Software"
+title: "Marktgängige IT-Systeme: Software"
 title-slide-attributes:
   data-background-color: "#D7E6F4"
-subtitle: " "
+subtitle: "Prüfungsrelevante Grundlagen"
 format:
   revealjs:
     theme: simple
@@ -15,21 +15,188 @@ execute:
 callout-appearance: simple
 ---
 
-## CMS-System
+## Ziele
+
+#### Grundlegende Software-Systeme kennen und beurteilen können
+
+- Unternehmensanwendungen
+- Datenhaltungssysteme
+- Kommunikationssysteme
+
+#### Grundverständnis für Benutzeroberflächen
 
 
+---
 
-## ERP-System
+### Unternehmensanwendungen: CMS-System
+
+:::: {style="font-size: 1.7rem"}
+
+[**CMS:** *Content Management System*]{.fragment}
+
+[Stellt ein Managementsystem zum Verwalten, zur Konfiguration und der redaktionellen Bearbeitung von Inhalten (z. B. für Webseiten) dar.]{.fragment}
+
+#### Beispiele
+
+::: incremental
+
+- **Wordpress:** ca. 40% aller Websites; Open Source; sehr viele Plugins
+- **Joomla:** Open Source; stärker strukturiert als WordPress
+- **Drupal:** sehr leistungsfähig, sehr flexibel; mehr im Enterprise-Bereich
+- **Typo3:** Deutsches Enterprise-CMS, v. a. im DACH-Raum verbreitet
+- **Shopify:** E-Commerce-CMS; liefert komplette Websites inkl. Shop
+
+:::
+
+::: fragment
+
+Weitere: Wix (Website-Builder), Squarespace (design-fokussiert), Magento / Adobe Commerce (Enterprise), Ghost (für Blogs, Magazine), Webflow (CMS mit visuellem Design-Tool)
+
+:::
+::::
+
+::: notes
+Kurz erwähnt auf Lernkarte AP1 2025 Nr. 110
+:::
 
 
+---
 
-## CRM-System
+## Unternehmensanwendungen: ERP-System
+
+:::: {style="font-size: 1.6rem"}
+
+[**ERP:** *Enterprise Resource Planning System*]{.fragment}
+
+[Umfangreiches Werkzeug zur Unterstützung der Ressourcenplanung aller Prozesse eines Unternehmens, z. B. Produktion, Materialwirtschaft und Vertrieb.]{.fragment}
+
+#### Beispiele
+
+::: incremental
+
+- **SAP ERP / SAP S/4HANA:** global führend; extrem umfangreich, modular, in großen Unternehmen Standard
+- **Microsoft Dynamics 365 (ehemals NAV/AX):** v. a. im Mittelstand; stark in Microsoft-Ökosystem integriert (Azure, Office, Power Platform)
+- **Oracle ERP Cloud / Oracle NetSuite:**: ERP für große Unternehmen, NetSuite für Mittelstand; stark in Finanzmodulen
+- **Sage (Sage 100 / SageX3):** beliebt bei KMU (Kleinen und Mittleren Unternehmen); Europa, v. a. DACH
+- **Odoo:** Open Source, modular, flexibel, wächst; v. a. KMU und Startups
+
+:::
+
+::: fragment
+
+Weitere: Infor ERP (Produktion, Logistik), IFS (Industrie, Service), Epicor (Fertigung, Supply Chain), Workday (HR), ProAlpha (deutsch, Mittelstand)
+
+:::
+::::
+
+::: notes
+Kurz erwähnt auf Lernkarte AP1 2025 Nr. 110
+:::
+
+---
+
+### Unternehmensanwendungen: CRM-System
+
+:::: {style="font-size: 1.7rem"}
+
+[**CRM:** *Customer Relationship Management System*]{.fragment}
+
+[Werkzeug zur vollständigen Planung, Steuerung und Durchführung aller interaktiven Prozesse mit den Kunden; unterstützt die Kundenkommunikation]{.fragment}
+
+#### Beispiele
+
+::: incremental
+
+- **Salesforce:** weltweit führendes CRM; cloud-basiert, Standard im Enterprise-Bereich, großes Ökosystem
+- **Microsoft Dynamics 365 CRM:** v. a. im Mittelstand; stark in Microsoft-Ökosystem integriert (Azure, Office, Power Platform)
+- **Hubspot CRM:** v. a. bei KMU, Startups beliebt; kostenloser Einstieg
+- **SAP Customer Experience:** CRM-Suite von SAP
+- **Zoho CRM:** preisgünstig, modular, v. a. im KMU-Segment verbreitet
+
+:::
+
+::: fragment
+
+Weitere: Pipedrive (Vertrieb), Freshsales (Cloud-CRM für KMU), SugarCRM, Oracle CX (Enterprise), Insightly (Projekt- und CRM-Kombination)
+
+:::
+::::
+
+::: notes
+Kurz erwähnt auf Lernkarte AP1 2025 Nr. 110
+:::
+
+
+## Datenhaltungssysteme
+
+:::: {.columns style="font-size: 1.7rem"}
+::: column
+
+#### Relationale Datenbanksysteme (RDBMS)
+
+Speichern Daten in Tabellen, die durch Beziehungen miteinander verbunden sind
+
+Beispiele:
+
+- **MySQL:** Open Source, populär
+- **Oracle Database:** leistungsfähig, oft in großen Unternehmen
+- **Microsoft SQL Server:** Integration mit MS-Produkten
+
+:::
+
+::: {.column .fragment}
+
+#### NoSQL Datenbanksysteme
+
+- speichern unstrukturierte / semi-strukturierte Daten
+- skalierbarer, flexibler als relationale Datenbanken
+
+Anwendungsfelder:
+
+- Content Management
+- Soziale Netzwerke
+
+Beispiele:
+
+- **MongoDB:** Dokumentorientiert
+- **Cassandra:** graphenorientiert
+
+:::
+::::
+
+
+## Datenhaltungssysteme: OODBMS
+
+:::: {style="font-size: 1.7rem"}
+
+#### Objektorientierte Datenbank-Managementsysteme
+
+- speichern Daten direkt als Objekte
+- Objekte bleiben als Ganzes erhalten, inkl. Attribute und Methoden
+- Anwendungsbereiche: Simulationen, CAD/CAM, Telekommunikation, Echtzeit-Systeme
+
+Beispiele
+
+::: fragment
+
+- **db4o:** *Database for Objekts*, direkt in Java und .NET integrierbar
+- **ObjectDB:** java-basiert, oft in Enterprise-Java-Projekten genutzt
+- **Versant Object Database:** kommerziell, für große, komplexe Systeme
+
+:::
+
+Abgrenzung zu NoSQL: OODMBS speichern Methoden, unterstützen Vererbung, bieten vollständige Objekt-Persistenz
+
+::::
+
+
+## Kommunikationssysteme
+
 
 
 ## Benutzeroberflächen
 
 
-## Kommunikationssysteme
 
 
 ## <!-- -->
