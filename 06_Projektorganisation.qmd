@@ -175,10 +175,17 @@ Lernkarte AP1 2025 Nr. 3
 :::
 
 
+## Netzplan: Beispiel
+
+![](libs/_Images/netzplan-wissen-kompakt-t2informatik.avif)
+
+[Quelle: <https://t2informatik.de/wissen-kompakt/netzplan/>]{style="font-size: 1.2rem"}
+
+
 ## Netzplan: Kritischer Pfad
 
 ::: {.incremental style="font-size: 1.8rem"}
-- Der **Kritische Pfad** (=kritischer Weg) ist der Weg von Anfang bis Ende aller Aktivitäten eines Netzplans, auf die Summe aller Pufferzeit minimal oder Null wird.
+- Der **Kritische Pfad** (=kritischer Weg) ist der Weg von Anfang bis Ende aller Aktivitäten eines Netzplans, auf die Summe aller Pufferzeit (minimal oder) Null wird.
 - Die Gesamtprojektdauer wird somit durch den kritischen Pfad bestimmt.
 - DIN 69900:2009-01 Projektmanagement - Netzplantechnik
 - Einzelne Aktivitäten innerhalb des Projekts können im Rahmen ihrer Pufferzeit zeitlich verschoben oder verlängert werden, ohne dabei die Gesamtprojektdauer zu gefährden.
