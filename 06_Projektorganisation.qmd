@@ -175,34 +175,110 @@ Lernkarte AP1 2025 Nr. 3
 :::
 
 
+## Netzplan: Aufbau eines Knotens
+
+::: {style="font-size: 1.6rem"}
+
+Abkürzung | Name | Erklärung | Berechnung
+:---|------|:-----------|:--------
+**FAZ** | Frühester Anfangszeitpunkt | Wann kann die Aufgabe **frühestens** starten? | Maximum der FEZ aller Vorgänger
+**FEZ** | Frühester Endzeitpunkt | Wann ist die Aufgabe **frühestens** fertig? | FAZ + Dauer
+**SAZ** | Spätester Anfangszeitpunkt | Wann **muss** die Aufgabe spätestens starten? | SEZ - Dauer
+**SEZ** | Spätester Endzeitpunkt | Wann **muss** die Aufgabe spätestens fertig sein? | Minimum der SAZ aller Nachfolger
+**GP** | Gesamtpuffer | Wie viel Verzögerung ist möglich, ohne das **Projektende** zu gefährden? | SAZ - FAZ oder SEZ - FEZ
+**FP** | Freier Puffer | Wie viel Verzögerung ist möglich, ohne den **Nachfolger** zu gefährden? | FAZ(Nachfolger) - FEZ(Vorgang)
+**D** | Dauer | Wie lange dauert die Aufgabe? | Vorgegeben
+
+:::
+
+::: notes
+Quelle: https://it-lernapp.de/courses/7
+:::
+
+
 ## Netzplan: Beispiel
 
 ![](libs/_Images/netzplan-wissen-kompakt-t2informatik.avif)
 
+:::: columns
+::: {.column width="55%"}
+
 [Quelle: <https://t2informatik.de/wissen-kompakt/netzplan/>]{style="font-size: 1.2rem"}
+
+:::
+
+::: {.column .fragment width="45%"}
+
+![](libs/_Images/Netzplan-Schema.png)
+
+:::
+::::
 
 
 ## Netzplan: Kritischer Pfad
 
 ::: {.incremental style="font-size: 1.8rem"}
-- Der **Kritische Pfad** (=kritischer Weg) ist der Weg von Anfang bis Ende aller Aktivitäten eines Netzplans, auf die Summe aller Pufferzeit (minimal oder) Null wird.
+
+- Der **Kritische Pfad** (=kritischer Weg) ist der Weg von Anfang bis Ende aller Aktivitäten eines Netzplans, auf dem die Summe aller Pufferzeit (minimal oder) Null wird.
 - Die Gesamtprojektdauer wird somit durch den kritischen Pfad bestimmt.
 - DIN 69900:2009-01 Projektmanagement - Netzplantechnik
 - Einzelne Aktivitäten innerhalb des Projekts können im Rahmen ihrer Pufferzeit zeitlich verschoben oder verlängert werden, ohne dabei die Gesamtprojektdauer zu gefährden.
-- **Merke: Bei kritischen Pfad ist der Gesamtpuffer gleich Null.**
+- **Merke: Beim kritischen Pfad ist der Gesamtpuffer gleich Null.**
+
 :::
 
 ::: notes
 Lernkarte AP1 2025 Nr. 8
-:::
-
-
-## Netzplan: Beispiel
 
 https://it-lernapp.de/courses/7
 
 AP1 Frühjahr 2025 S. 8
 Vorwärtsberechnung, Rückwärtsberechnung ist drin!
+:::
+
+
+## Netzplan: Kritischer Pfad
+
+::: {.incremental style="font-size: 2.2rem"}
+
+- Bestimmt die **Mindestprojektdauer**
+- Alle Vorgänge auf dem kritischen Pfad haben GP = 0 (Gesamtpuffer = 0)
+- Eine Verzögerung eines einzigen kritischen Vorgangs verzögert das **gesamte Projekt**
+- Es gibt **mindestens einen** kritischen Pfad - manchmal auch mehrere
+
+:::
+
+::: notes
+Quelle: https://it-lernapp.de/courses/7
+:::
+
+
+---
+
+### Netzplan: Gesamtpuffer (GP) vs. Freier Puffer (FP)
+
+[Unterscheidung ist Klassiker in der Prüfung!]{style="font-size: 2rem"}
+
+::: {style="font-size: 1.6rem"}
+
+Pufferart | Frage, die er beantwortet | Formel | Auswirkung bei Überschreitung
+----------|---------------------------|--------|-------------------------------
+**GP** | Wie lange kann ich verzögern, ohne das **Projektende** zu gefährden? | SAZ - FAZ | Projektende verschiebt sich
+**FP** | Wie lange kann ich verzögern, ohne den **nächsten Vorgang** zu beeinflussen? | FAZ(Nachfolger) - FEZ | Nachfolger muss später starten
+
+:::
+
+
+## Netzplan berechnen
+
+::: {style="font-size: 2rem"}
+Gegeben sind nur die Vorgangsnummern und die Dauer.  
+Aufgabe: FAZ, SAZ, FEZ, SEZ sowie GP und FP berechnen.
+:::
+
+![](libs/_Images/netzplan-t2informatik_L%C3%BCcken.png)
+
+![](libs/_Images/Netzplan-Schema.png)
 
 
 ## Projektmanagement: SMART
