@@ -141,17 +141,8 @@ gantt
 
 ## Netzplan
 
-::: {.incremental style="font-size: 1.8rem"}
-
-- Werkzeug zur Projektplanung
-- zeigt die Dauer der Vorgänge an
-- zeigt an, wann Vorgänge frühestens und spätestens begonnen und beendet werden können
-- zeigt, wo Puffer bestehen und wo der **kritische Pfad** verläuft
-
-:::
-
 :::: columns
-::: {.column .fragment}
+::: {.column}
 
 ![](libs/_Images/Netzplan-Schema.png)
 
@@ -168,6 +159,35 @@ gantt
 - **FP** freier Puffer
 :::
 ::::
+
+::: {.incremental style="font-size: 1.7rem"}
+
+- hilft bei Terminplanung von Projekten
+- stellt Dauer von Vorgängen im Gesamtprojekt grafisch dar
+- Rechtecke für zeitliche Anordnung und logische Abhängigkeiten zwischen Vorgängen
+- Verbindung der Vorgänge als Pfad mit Pfeilen
+- Kritische Pfade und Pufferzeiten der einzelnen Vorgänge sowie Gesamtpufferzeiten sind jeweils gekennzeichnet
+
+::: notes
+Lernkarte AP1 2025 Nr. 3
+:::
+
+:::
+
+
+## Netzplan: Kritischer Pfad
+
+::: {.incremental style="font-size: 1.8rem"}
+- Der **Kritische Pfad** (=kritischer Weg) ist der Weg von Anfang bis Ende aller Aktivitäten eines Netzplans, auf die Summe aller Pufferzeit minimal oder Null wird.
+- Die Gesamtprojektdauer wird somit durch den kritischen Pfad bestimmt.
+- DIN 69900:2009-01 Projektmanagement - Netzplantechnik
+- Einzelne Aktivitäten innerhalb des Projekts können im Rahmen ihrer Pufferzeit zeitlich verschoben oder verlängert werden, ohne dabei die Gesamtprojektdauer zu gefährden.
+- **Merke: Bei kritischen Pfad ist der Gesamtpuffer gleich Null.**
+:::
+
+::: notes
+Lernkarte AP1 2025 Nr. 8
+:::
 
 
 ## Netzplan: Beispiel
