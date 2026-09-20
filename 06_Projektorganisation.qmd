@@ -272,13 +272,58 @@ Pufferart | Frage, die er beantwortet | Formel | Auswirkung bei Überschreitung
 ## Netzplan berechnen
 
 ::: {style="font-size: 2rem"}
+
 Gegeben sind nur die Vorgangsnummern und die Dauer.  
 Aufgabe: FAZ, SAZ, FEZ, SEZ sowie GP und FP berechnen.
+
 :::
 
 ![](libs/_Images/netzplan-t2informatik_L%C3%BCcken.png)
 
 ![](libs/_Images/Netzplan-Schema.png)
+
+
+## Netzplan: Vorwärtsrechnung - FAZ, FEZ
+
+::: {.incremental style="font-size: 2rem"}
+
+- Phase 1: **FAZ** und **FEZ** berechnen
+- Vorgehen: **von links nach rechts**
+- **Startknoten:** FAZ = 0, FEZ = 0 + Dauer
+- **Jeder weitere Knoten:** FAZ = **Maximum** aller FEZ der Vorgänger
+- FEZ = FAZ + Dauer
+- Warum Maximum?
+- Wenn Aufgabe zwei Vorgänger hat, kann sie erst starten, wenn **beide** fertig sind. -> Späteren Zeitpunkt auswählen
+
+:::
+
+## Netzplan: Rückwärtsrechnung - SAZ, SEZ
+
+::: {.incremental style="font-size: 2rem"}
+
+- Phase 2: **SAZ und SEZ** berechnen
+- Vorgehen: **von rechts nach links**, zurück
+- **Endknoten:** SEZ = FEZ, SAZ = SEZ - Dauer
+- **Jeder weitere Knoten:** SEZ = Minimum aller SAZ der **Nachfolger**
+- SAZ = SEZ - Dauer
+- Warum Minimum?
+- Wenn Aufgabe mehrere Nachfolger hat, muss sie so früh fertig sein, dass der **früheste** Nachfolger noch pünktlich starten kann.
+
+:::
+
+
+## Netzplan: Puffer berechnen
+
+- Gesamtpuffer (GP) = SAZ - FAZ = SEZ - FEZ
+- Freier Puffer (FP) = FAZ(Nachfolger) - FEZ(Vorgang)
+
+::: incremental
+
+- Achtung: FP ist immer <= GP!
+- Der freie Puffer kann nie größer als der Gesamtpuffer sein.
+- Vorgang auf dem kritischen Pfad: GP = FP = 0
+
+:::
 
 
 ## Projektmanagement: SMART
