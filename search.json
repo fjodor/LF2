@@ -1,348 +1,222 @@
 [
   {
-    "objectID": "05_Elektrik-Grundlagen.html#elektrische-größen-spannung",
-    "href": "05_Elektrik-Grundlagen.html#elektrische-größen-spannung",
-    "title": "Elektrik Grundlagen",
-    "section": "Elektrische Größen: Spannung",
-    "text": "Elektrische Größen: Spannung\n\n\nTreibende Kraft, “Druck”, der die elektrischen Ladungen antreibt\nEinheit: Volt (V)\nFormelzeichen: U\nTypische Spannungen:\n\nSteckdose: 230V Wechselspannung\nIn Computern: Niedrigere Gleichspannungen\n\nLeistungshungrige PC-Komponenten wie Grafikkarten (GPU), Prozessor-Spannungswandler, Lüfter: 12V\nFestplatten / SSD, USB-Anschlüsse, Standby-Funktionen: 5V\nArbeitsspeicher (RAM), PCIe-Steckplätze, Chipsatz auf Mainboard: 3,3V\nCPUs und GPUs arbeiten intern mit noch geringeren Spannungen"
+    "objectID": "06_Projektorganisation.html#was-ist-ein-projekt-merkmale",
+    "href": "06_Projektorganisation.html#was-ist-ein-projekt-merkmale",
+    "title": "Projektorganisation",
+    "section": "Was ist ein Projekt? Merkmale",
+    "text": "Was ist ein Projekt? Merkmale\n\n\nEinmaligkeit: Ein Projekt wird in der Regel nur einmal ausgeführt und ist kein Prozess, der sich regelmäßig wiederholt.\nKlares Ziel: In jedem Projekt wird ein bestimmtes Ergebnis oder Ziel verfolgt.\nZeitliche Befristung: Projekte haben einen festgelegten Start- und Endzeitpunkt.\nInterdisziplinär: Eine Notwendigkeit ist oft die Zusammenarbeit mit verschiedenen Fachbereichen.\nRisikobehaftet: Projekte sind mit Unsicherheiten und Risiken verbunden.\nRahmenbedingungen: Ein Projekt hat begrenzte Ressourcen, wie Geld, Personal, Zeit und hat klare Abgrenzungen zu anderen Projekten.\n\n\n\nLernkarte AP1 2025 Nr. 1"
   },
   {
-    "objectID": "05_Elektrik-Grundlagen.html#elektrische-größen-strom",
-    "href": "05_Elektrik-Grundlagen.html#elektrische-größen-strom",
-    "title": "Elektrik Grundlagen",
-    "section": "Elektrische Größen: Strom",
-    "text": "Elektrische Größen: Strom\n\n\nBernstein zieht leichte Körper an, wenn er vorher mit Tüchern gerieben wird\nElektrizität abgeleitet von griech. elektron für Bernstein\nStromstärke: Menge an Ladung, die pro Zeit durch den Leiter fließt\nEinheit: Ampere (A)\nFormelzeichen: I\nTypische Stromstärken im PC (erstaunlich hoch: hohe Leistung bei niedrigen Spannungen)\n\nauf 12V-Schiene: Größenordnung 30 bis &gt;70 Ampere\nauf 5V-Schiene: Größenordnung 15 bis 20 Ampere\nauf 3,3V-Schiene: Größenordnung 15 bis 20 Ampere"
+    "objectID": "06_Projektorganisation.html#projektstrukturplan",
+    "href": "06_Projektorganisation.html#projektstrukturplan",
+    "title": "Projektorganisation",
+    "section": "Projektstrukturplan",
+    "text": "Projektstrukturplan\n\n\n\nWerkzeug zur Projektleitung\nengl. Work Break Down Structure\ndeutsch auch Arbeitsstrukturplan\nenthält gesamten Leistungsumfang\nhierarchisch aufgebaut\n\n\n\n\n\noberste Hierarchiestufe: Projekt als Ganzes\nzweite Ebene: Teilprojekte / Teilaufgaben\ndritte Ebene: Arbeitspakete (AP)"
   },
   {
-    "objectID": "05_Elektrik-Grundlagen.html#elektrische-größen-widerstand",
-    "href": "05_Elektrik-Grundlagen.html#elektrische-größen-widerstand",
-    "title": "Elektrik Grundlagen",
-    "section": "Elektrische Größen: Widerstand",
-    "text": "Elektrische Größen: Widerstand\n\n\nHindernis, das dem Stromfluss entgegengesetzt wird\nEinheit: Ohm (Ω)\nFormelzeichen: R\nIm PC: Innenwiderstand von CPU und GPU dynamisch\n\nunter Last extrem niedrig für hohe Ströme\nim Leerlauf werden Transistoren geschlossen, Widerstand steigt massiv, es fließt kaum noch Strom"
+    "objectID": "06_Projektorganisation.html#gantt-diagramm",
+    "href": "06_Projektorganisation.html#gantt-diagramm",
+    "title": "Projektorganisation",
+    "section": "Gantt-Diagramm",
+    "text": "Gantt-Diagramm\n\n\n\n\n\n%%{init: {'themeVariables': { 'fontSize': '18px' }}}%%\ngantt\n    title Einfaches Gantt-Diagramm\n    dateFormat  YYYY-MM-DD\n    axisFormat  %d.%m.\n\n    section Planung\n    Konzeptphase        :done,    des1, 2024-01-01, 2024-01-10\n    Design              :active,  des2, 2024-01-11, 2024-01-20\n\n    section Umsetzung\n    Entwicklung         :crit,    dev1, 2024-01-21, 2024-02-15\n    Tests               :         dev2, 2024-02-11, 2024-02-20\n\n\n\n\n\n\n\n\n\nBalkendiagramm zur Terminplanung\nstellt zeitliche Abfolge von Aktivitäten grafisch als Balken auf einer Zeitachse dar\nerste Spalte enthält Aktivitäten\nerste oder letzte Zeile stellt Zeitachse dar\nAktivitäten können sich überschneiden (siehe Entwicklung und Tests)"
   },
   {
-    "objectID": "05_Elektrik-Grundlagen.html#ohmsches-gesetz",
-    "href": "05_Elektrik-Grundlagen.html#ohmsches-gesetz",
-    "title": "Elektrik Grundlagen",
-    "section": "Ohmsches Gesetz",
-    "text": "Ohmsches Gesetz\n\nEs betrachtet den Widerstand als konstant. Dann gilt:\nDie Stärke des durch ein Objekt fließenden elektrischen Stroms ist proportional der elektrischen Spannung.\nFormel, aufgelöst nach Spannung\n\n\\[\nU = R \\cdot I\n\\]\n\nFormel, aufgelöst nach Strom\n\n\\[\nI = \\frac{U}{R}\n\\]\n\nFormel, aufgelöst nach Widerstand\n\n\\[\nR = \\frac{U}{I}\n\\]"
+    "objectID": "06_Projektorganisation.html#gantt-diagramm-mermaid",
+    "href": "06_Projektorganisation.html#gantt-diagramm-mermaid",
+    "title": "Projektorganisation",
+    "section": "Gantt-Diagramm: Mermaid",
+    "text": "Gantt-Diagramm: Mermaid\n\n\n\nMermaid (“Meerjungfrau”) ist eine vereinfachte Auszeichnungssprache und ein JavaScript-basiertes Open Source-Tool zur Diagrammerstellung\ninspiriert von Markdown\nkann mit einem Renderer komplexe Diagramme erstellen und verändern\n\n\ngantt\n    title Einfaches Gantt-Diagramm\n    dateFormat  YYYY-MM-DD\n    axisFormat  %d.%m.\n\n    section Planung\n    Konzeptphase    :done,    des1, 2024-01-01, 2024-01-10\n    Design          :active,  des2, 2024-01-11, 2024-01-20\n\n    section Umsetzung\n    Entwicklung     :crit,    dev1, 2024-01-21, 2024-02-15\n    Tests           :         dev2, 2024-02-11, 2024-02-20\n\n\n\n\n\n\n%%{init: {'themeVariables': { 'fontSize': '18px' }}}%%\ngantt\n    title Einfaches Gantt-Diagramm\n    dateFormat  YYYY-MM-DD\n    axisFormat  %d.%m.\n\n    section Planung\n    Konzeptphase       :done,   des1, 2024-01-01, 2024-01-10\n    Design             :active, des2, 2024-01-11, 2024-01-20\n\n    section Umsetzung\n    Entwicklung        :crit,   dev1, 2024-01-21, 2024-02-15\n    Tests              :        dev2, 2024-02-11, 2024-02-20"
   },
   {
-    "objectID": "05_Elektrik-Grundlagen.html#elektrische-leistung",
-    "href": "05_Elektrik-Grundlagen.html#elektrische-leistung",
-    "title": "Elektrik Grundlagen",
-    "section": "Elektrische Leistung",
-    "text": "Elektrische Leistung"
+    "objectID": "06_Projektorganisation.html#netzplan",
+    "href": "06_Projektorganisation.html#netzplan",
+    "title": "Projektorganisation",
+    "section": "Netzplan",
+    "text": "Netzplan\n\n\n\n\n\nFAZ frühester Anfangszeitpunkt\nFEZ frühester Endzeitpunkt\nSAZ spätestens Anfangszeitpunkt\nSEZ spätester Endzeitpunkt\nD Dauer\nGP Gesamtpuffer\nFP freier Puffer\n\n\n\n\nhilft bei Terminplanung von Projekten\nstellt Dauer von Vorgängen im Gesamtprojekt grafisch dar\nRechtecke für zeitliche Anordnung und logische Abhängigkeiten zwischen Vorgängen\nVerbindung der Vorgänge als Pfad mit Pfeilen\nKritische Pfade und Pufferzeiten der einzelnen Vorgänge sowie Gesamtpufferzeiten sind jeweils gekennzeichnet\n\n\nLernkarte AP1 2025 Nr. 3"
   },
   {
-    "objectID": "05_Elektrik-Grundlagen.html#section",
-    "href": "05_Elektrik-Grundlagen.html#section",
-    "title": "Elektrik Grundlagen",
+    "objectID": "06_Projektorganisation.html#netzplan-aufbau-eines-knotens",
+    "href": "06_Projektorganisation.html#netzplan-aufbau-eines-knotens",
+    "title": "Projektorganisation",
+    "section": "Netzplan: Aufbau eines Knotens",
+    "text": "Netzplan: Aufbau eines Knotens\n\n\n\n\n\n\n\n\n\n\nAbkürzung\nName\nErklärung\nBerechnung\n\n\n\n\nFAZ\nFrühester Anfangszeitpunkt\nWann kann die Aufgabe frühestens starten?\nMaximum der FEZ aller Vorgänger\n\n\nFEZ\nFrühester Endzeitpunkt\nWann ist die Aufgabe frühestens fertig?\nFAZ + Dauer\n\n\nSAZ\nSpätester Anfangszeitpunkt\nWann muss die Aufgabe spätestens starten?\nSEZ - Dauer\n\n\nSEZ\nSpätester Endzeitpunkt\nWann muss die Aufgabe spätestens fertig sein?\nMinimum der SAZ aller Nachfolger\n\n\nGP\nGesamtpuffer\nWie viel Verzögerung ist möglich, ohne das Projektende zu gefährden?\nSAZ - FAZ oder SEZ - FEZ\n\n\nFP\nFreier Puffer\nWie viel Verzögerung ist möglich, ohne den Nachfolger zu gefährden?\nFAZ(Nachfolger) - FEZ(Vorgang)\n\n\nD\nDauer\nWie lange dauert die Aufgabe?\nVorgegeben\n\n\n\n\n\nQuelle: https://it-lernapp.de/courses/7"
+  },
+  {
+    "objectID": "06_Projektorganisation.html#netzplan-beispiel",
+    "href": "06_Projektorganisation.html#netzplan-beispiel",
+    "title": "Projektorganisation",
+    "section": "Netzplan: Beispiel",
+    "text": "Netzplan: Beispiel\n\n\n\nQuelle: https://t2informatik.de/wissen-kompakt/netzplan/"
+  },
+  {
+    "objectID": "06_Projektorganisation.html#netzplan-kritischer-pfad",
+    "href": "06_Projektorganisation.html#netzplan-kritischer-pfad",
+    "title": "Projektorganisation",
+    "section": "Netzplan: Kritischer Pfad",
+    "text": "Netzplan: Kritischer Pfad\n\n\nDer Kritische Pfad (=kritischer Weg) ist der Weg von Anfang bis Ende aller Aktivitäten eines Netzplans, auf dem die Summe aller Pufferzeit (minimal oder) Null wird.\nDie Gesamtprojektdauer wird somit durch den kritischen Pfad bestimmt.\nDIN 69900:2009-01 Projektmanagement - Netzplantechnik\nEinzelne Aktivitäten innerhalb des Projekts können im Rahmen ihrer Pufferzeit zeitlich verschoben oder verlängert werden, ohne dabei die Gesamtprojektdauer zu gefährden.\nMerke: Beim kritischen Pfad ist der Gesamtpuffer gleich Null.\n\n\n\nLernkarte AP1 2025 Nr. 8\nhttps://it-lernapp.de/courses/7\nAP1 Frühjahr 2025 S. 8 Vorwärtsberechnung, Rückwärtsberechnung ist drin!"
+  },
+  {
+    "objectID": "06_Projektorganisation.html#netzplan-kritischer-pfad-1",
+    "href": "06_Projektorganisation.html#netzplan-kritischer-pfad-1",
+    "title": "Projektorganisation",
+    "section": "Netzplan: Kritischer Pfad",
+    "text": "Netzplan: Kritischer Pfad\n\n\nBestimmt die Mindestprojektdauer\nAlle Vorgänge auf dem kritischen Pfad haben GP = 0 (Gesamtpuffer = 0)\nEine Verzögerung eines einzigen kritischen Vorgangs verzögert das gesamte Projekt\nEs gibt mindestens einen kritischen Pfad - manchmal auch mehrere\n\n\n\nQuelle: https://it-lernapp.de/courses/7"
+  },
+  {
+    "objectID": "06_Projektorganisation.html#netzplan-berechnen",
+    "href": "06_Projektorganisation.html#netzplan-berechnen",
+    "title": "Projektorganisation",
+    "section": "Netzplan berechnen",
+    "text": "Netzplan berechnen\n\nGegeben sind nur die Vorgangsnummern und die Dauer.\nAufgabe: FAZ, SAZ, FEZ, SEZ sowie GP und FP berechnen."
+  },
+  {
+    "objectID": "06_Projektorganisation.html#netzplan-vorwärtsrechnung---faz-fez",
+    "href": "06_Projektorganisation.html#netzplan-vorwärtsrechnung---faz-fez",
+    "title": "Projektorganisation",
+    "section": "Netzplan: Vorwärtsrechnung - FAZ, FEZ",
+    "text": "Netzplan: Vorwärtsrechnung - FAZ, FEZ\n\n\nPhase 1: FAZ und FEZ berechnen\nVorgehen: von links nach rechts\nStartknoten: FAZ = 0, FEZ = 0 + Dauer\nJeder weitere Knoten: FAZ = Maximum aller FEZ der Vorgänger\nFEZ = FAZ + Dauer\nWarum Maximum?\nWenn Aufgabe zwei Vorgänger hat, kann sie erst starten, wenn beide fertig sind. -&gt; Späteren Zeitpunkt auswählen"
+  },
+  {
+    "objectID": "06_Projektorganisation.html#netzplan-rückwärtsrechnung---saz-sez",
+    "href": "06_Projektorganisation.html#netzplan-rückwärtsrechnung---saz-sez",
+    "title": "Projektorganisation",
+    "section": "Netzplan: Rückwärtsrechnung - SAZ, SEZ",
+    "text": "Netzplan: Rückwärtsrechnung - SAZ, SEZ\n\n\nPhase 2: SAZ und SEZ berechnen\nVorgehen: von rechts nach links, zurück\nEndknoten: SEZ = FEZ, SAZ = SEZ - Dauer\nJeder weitere Knoten: SEZ = Minimum aller SAZ der Nachfolger\nSAZ = SEZ - Dauer\nWarum Minimum?\nWenn Aufgabe mehrere Nachfolger hat, muss sie so früh fertig sein, dass der früheste Nachfolger noch pünktlich starten kann."
+  },
+  {
+    "objectID": "06_Projektorganisation.html#netzplan-puffer-berechnen",
+    "href": "06_Projektorganisation.html#netzplan-puffer-berechnen",
+    "title": "Projektorganisation",
+    "section": "Netzplan: Puffer berechnen",
+    "text": "Netzplan: Puffer berechnen\n\nGesamtpuffer (GP) = SAZ - FAZ = SEZ - FEZ\nFreier Puffer (FP) = FAZ(Nachfolger) - FEZ(Vorgang)\n\n\nAchtung: FP ist immer &lt;= GP!\nDer freie Puffer kann nie größer als der Gesamtpuffer sein.\nVorgang auf dem kritischen Pfad: GP = FP = 0\n\n\nBeispiel für Netzplan, Schritt für Schritt: https://www.modu-learn.de/verstehen/management/netzplantechnik/"
+  },
+  {
+    "objectID": "06_Projektorganisation.html#netzplan-prüfungstipps",
+    "href": "06_Projektorganisation.html#netzplan-prüfungstipps",
+    "title": "Projektorganisation",
+    "section": "Netzplan: Prüfungstipps",
+    "text": "Netzplan: Prüfungstipps\n\nVorgehen für Netzplan-Aufgaben in der IHK-Prüfung:\n\nPlan abzeichnen, Dauern eintragen\nVorwärtsrechnung: FAZ und FEZ von links nach rechts - immer das Maximum der Vorgänger nehmen\nRückwärtsrechnung: SEZ und SAZ von rechts nach links - immer das Minimum der Nachfolger nehmen\nPuffer berechnen: GP = SAZ - FAZ\nKritischen Pfad markieren: Alle Vorgänge mit GP = 0\nKontrolle: Projektdauer ist der FEZ des letzten Knotens"
+  },
+  {
+    "objectID": "06_Projektorganisation.html#netzplan-typische-fallen",
+    "href": "06_Projektorganisation.html#netzplan-typische-fallen",
+    "title": "Projektorganisation",
+    "section": "Netzplan: Typische Fallen",
+    "text": "Netzplan: Typische Fallen\n\n\nVergessen, das Maximum bei mehreren Vorgängern zu nehmen (Vorwärtsrechnung)\nGP und FP verwechseln: GP bezieht sich auf Projektende, FP auf den Nachfolger\nDen kritischen Pfad nur am Anfang und Ende ablesen, statt alle Vorgänge mit GP = 0 zu prüfen\n\nNetzpläne üben: https://it-lernapp.de/courses/7 (kostenloses Login erstellen)\n\n\nQuelle: https://it-lernapp.de/courses/7"
+  },
+  {
+    "objectID": "06_Projektorganisation.html#projektmanagement-smart",
+    "href": "06_Projektorganisation.html#projektmanagement-smart",
+    "title": "Projektorganisation",
+    "section": "Projektmanagement: SMART",
+    "text": "Projektmanagement: SMART\n\nBeschreibe die fünf Punkte der SMART-Methode im Projektmanagement.\n\nS Spezifisch: Die Projektziele sind so konkret wie möglich zu formulieren.\nM Messbar: Die Projektziele müssen messbar sein.\nA Aktivierend / Attraktiv: Die Projektziele müssen Motivation zur Umsetzung geben.\nR Realistisch: Die Projektziele müssen innerhalb des gesetzten Zeitrahmens umsetzbar sein.\nT Terminiert: Die Projektziele müssen zeitlich bindend sein. Welche Aufgaben sind bis wann zu erledigen?\n\n\n\nLernkarte AP1 2025 Nr. 226"
+  },
+  {
+    "objectID": "06_Projektorganisation.html#section",
+    "href": "06_Projektorganisation.html#section",
+    "title": "Projektorganisation",
     "section": "",
     "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!"
   },
   {
-    "objectID": "03b_Istzustand-erfassen.html#ist-zustand-erfassen",
-    "href": "03b_Istzustand-erfassen.html#ist-zustand-erfassen",
-    "title": "Istzustand erfassen",
-    "section": "Ist-Zustand erfassen",
-    "text": "Ist-Zustand erfassen\nZiele\n\nVorteile und Nachteile der Methoden verstehen:\n\nInterview\nFragebogen\nBeobachtung\n\nEntscheiden, welche Methode eingesetzt wird",
+    "objectID": "04_Nutzwertanalyse.html#aufgabe-kaufberatung",
+    "href": "04_Nutzwertanalyse.html#aufgabe-kaufberatung",
+    "title": "Nutzwertanalyse",
+    "section": "Aufgabe: Kaufberatung",
+    "text": "Aufgabe: Kaufberatung\n\n\n\n\n\n\n\n\n\n\nMerkmal\nPC A – Office Basic\nPC B – Allround Pro\nPC C – Performance Plus\n\n\n\n\nCPU\nIntel Core i5‑12400 (6 Cores, 4.4 GHz Boost)\nAMD Ryzen 5 5600X (6 Cores, 4.6 GHz Boost)\nIntel Core i7‑13700 (16 Cores, 5.2 GHz Boost)\n\n\nRAM\n16 GB DDR4‑3200\n32 GB DDR4‑3600\n32 GB DDR5‑5200\n\n\nSSD\n512 GB NVMe\n1 TB NVMe\n1 TB NVMe Gen4\n\n\nGrafik\nIntel UHD 730 (iGPU)\nNVIDIA GTX 1660 Super\nNVIDIA RTX 4070\n\n\nEnergieeffizienz\n65 W TDP CPU\n65 W CPU + 125 W GPU\n125 W CPU + 200 W GPU\n\n\nPreis\nca. 750 €\nca. 1.200 €\nca. 2.000 €\n\n\n\n\nWie kommen Sie zu einer Kaufempfehlung für den Kunden?",
     "crumbs": [
-      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+      "Nutzwertanalyse"
     ]
   },
   {
-    "objectID": "03b_Istzustand-erfassen.html#interview",
-    "href": "03b_Istzustand-erfassen.html#interview",
-    "title": "Istzustand erfassen",
-    "section": "Interview",
-    "text": "Interview\n\nDirekte Befragung der Beteiligten zu einem oder mehreren Themenkomplexen.\n\n\nVorteile\n\npersönlicher Kontakt fördert Bereitschaft zur Auskunft\nUnklarheiten können sofort geklärt werden\n\n\nNachteile\n\nhoher Zeitaufwand\nAntworten oft subjektiv geprägt\nFakten schwerer zu erfassen",
+    "objectID": "04_Nutzwertanalyse.html#nutzwertanalyse",
+    "href": "04_Nutzwertanalyse.html#nutzwertanalyse",
+    "title": "Nutzwertanalyse",
+    "section": "Nutzwertanalyse",
+    "text": "Nutzwertanalyse\n\nEntscheidungshilfe für komplexe Handlungsalternativen\nZiel: Produkte oder Services mit einem zahlenbasierten Bewertungssystem vergleichen\nNützlich, wenn mehrere Kriterien berücksichtigt werden sollen, nicht nur z. B. der Preis\n\n\nLernkarte AP1 2025 Nr. 48",
     "crumbs": [
-      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+      "Nutzwertanalyse"
     ]
   },
   {
-    "objectID": "03b_Istzustand-erfassen.html#fragebogen",
-    "href": "03b_Istzustand-erfassen.html#fragebogen",
-    "title": "Istzustand erfassen",
-    "section": "Fragebogen",
-    "text": "Fragebogen\n\n\nKann geschlossene oder offene Fragen enthalten\nGeschlossen: Single Choice (Radiobuttons) oder Multiple Choice (Checkboxes)\n\n\n\nVorteile\n\nmehr Personen befragbar als beim Interview\ngeringerer Zeitaufwand\nkeine zusätzliche Dokumentation der Antworten\nautomatische Auswertung möglich\n\n\nNachteile\n\nhöherer Vorbereitungsaufwand\noft geringer Rücklauf\nVerzerrungen bei Nicht-Teilnahme möglich!\nUnklarheiten schwerer zu klären",
+    "objectID": "04_Nutzwertanalyse.html#vorgehen",
+    "href": "04_Nutzwertanalyse.html#vorgehen",
+    "title": "Nutzwertanalyse",
+    "section": "Vorgehen",
+    "text": "Vorgehen\n\n\nBewertungskriterien auswählen\nKriterien gewichten\nProdukte nach diesen Kriterien bewerten\nGesamtnutzen berechnen: Summe von (Bewertung mal Gewichtung)\nGesamtnutzen vergleichen, Entscheidung treffen",
     "crumbs": [
-      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+      "Nutzwertanalyse"
     ]
   },
   {
-    "objectID": "03b_Istzustand-erfassen.html#fragebogen-1",
-    "href": "03b_Istzustand-erfassen.html#fragebogen-1",
-    "title": "Istzustand erfassen",
-    "section": "Fragebogen",
-    "text": "Fragebogen",
+    "objectID": "04_Nutzwertanalyse.html#drei-pc-systeme-vergleichen",
+    "href": "04_Nutzwertanalyse.html#drei-pc-systeme-vergleichen",
+    "title": "Nutzwertanalyse",
+    "section": "Drei PC-Systeme vergleichen",
+    "text": "Drei PC-Systeme vergleichen\n\nKunde Max Mustermann erstellt technische Handbücher und arbeitet dazu unter anderem mit Grafik-Tools und CAD-Software (Computer Aided Design, für 3D-Modelle).\n\n\n\n\n\n\n\n\n\n\nMerkmal\nPC A – Office Basic\nPC B – Allround Pro\nPC C – Performance Plus\n\n\n\n\nCPU\nIntel Core i5‑12400 (6 Cores, 4.4 GHz Boost)\nAMD Ryzen 5 5600X (6 Cores, 4.6 GHz Boost)\nIntel Core i7‑13700 (16 Cores, 5.2 GHz Boost)\n\n\nRAM\n16 GB DDR4‑3200\n32 GB DDR4‑3600\n32 GB DDR5‑5200\n\n\nSSD\n512 GB NVMe\n1 TB NVMe\n1 TB NVMe Gen4\n\n\nGrafik\nIntel UHD 730 (iGPU)\nNVIDIA GTX 1660 Super\nNVIDIA RTX 4070\n\n\nEnergieeffizienz\n65 W TDP CPU\n65 W CPU + 125 W GPU\n125 W CPU + 200 W GPU\n\n\nPreis\nca. 750 €\nca. 1.200 €\nca. 2.000 €",
     "crumbs": [
-      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+      "Nutzwertanalyse"
     ]
   },
   {
-    "objectID": "03b_Istzustand-erfassen.html#beobachtung",
-    "href": "03b_Istzustand-erfassen.html#beobachtung",
-    "title": "Istzustand erfassen",
-    "section": "Beobachtung",
-    "text": "Beobachtung\n\nProzesse werden vor Ort direkt begleitet und analysiert.\n\n\nVorteile\n\nProzesse weitgehend objektiv beobachtbar\neffektive Erfassung möglich\nfür zeitliche und quantitative Informationen über den Prozess geeignet\n\n\nNachteile\n\nhoher Zeitaufwand\nmanchmal können nur kleine Ausschnitte eines Prozesses beobachtet werden\nBeobachtungen werden meist als unangenehm empfunden",
+    "objectID": "04_Nutzwertanalyse.html#kriterien-für-den-vergleich",
+    "href": "04_Nutzwertanalyse.html#kriterien-für-den-vergleich",
+    "title": "Nutzwertanalyse",
+    "section": "Kriterien für den Vergleich",
+    "text": "Kriterien für den Vergleich\nWir vergleichen drei Systeme anhand von fünf Kriterien:\n\nLeistung CPU - Gewichtung: 20%\nRAM – Gewichtung: 20%\nGrafik - Gewichtung: 10%\nSpeicher (SSD‑Größe) – Gewichtung: 10%\nEnergieeffizienz – Gewichtung: 10%\nPreis – Gewichtung: 30%\n\nBewertungsskala: 1 = sehr schlecht, 5 = sehr gut\nDie Gewichte sollen in Summe 100% ergeben!",
     "crumbs": [
-      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+      "Nutzwertanalyse"
     ]
   },
   {
-    "objectID": "03b_Istzustand-erfassen.html#auswahl-einer-methode",
-    "href": "03b_Istzustand-erfassen.html#auswahl-einer-methode",
-    "title": "Istzustand erfassen",
-    "section": "Auswahl einer Methode",
-    "text": "Auswahl einer Methode\n\nAufgabe: Entscheiden Sie sich jeweils für eine Methode der Informationserfassung. Begründen Sie Ihre Entscheidung.\nInterview? Fragebogen? Beobachtung?\n\nVerbesserung des Webauftritts eines Unternehmens\nErstellung eines Softwaremoduls für Einkauf, Lagerung und Verkauf von Waren\nEntwicklung einer Softwaresimulation für ein Ampelkreuzungssystem",
+    "objectID": "04_Nutzwertanalyse.html#bewertung-pc-a",
+    "href": "04_Nutzwertanalyse.html#bewertung-pc-a",
+    "title": "Nutzwertanalyse",
+    "section": "Bewertung: PC A",
+    "text": "Bewertung: PC A\n\n\n\n\nMerkmal\nGewicht\nPC A – Office Basic\nBewertung\n\n\n\n\nCPU\n20%\nIntel Core i5‑12400 (6 Cores, 4.4 GHz Boost)\n3\n\n\nRAM\n20%\n16 GB DDR4‑3200\n2\n\n\nSSD\n10%\n512 GB NVMe\n3\n\n\nGrafik\n10%\nIntel UHD 730 (iGPU)\n3\n\n\nEnergieeffizienz\n10%\n65 W TDP CPU\n5\n\n\nPreis\n30%\nca. 750 €\n5\n\n\n\n\nNutzwert = 0.2 * 3 + 0.2 * 2 + 0.1 * 3 + 0.1 * 3 + 0.1 * 5 + 0.3 * 5\nNutzwert = 0.6 + 0.4 + 0.3 + 0.3 + 0.5 + 1.5\nNutzwert = 3.6",
     "crumbs": [
-      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+      "Nutzwertanalyse"
     ]
   },
   {
-    "objectID": "03b_Istzustand-erfassen.html#webauftritt-verbessern",
-    "href": "03b_Istzustand-erfassen.html#webauftritt-verbessern",
-    "title": "Istzustand erfassen",
-    "section": "Webauftritt verbessern",
-    "text": "Webauftritt verbessern\nVorschlag: Fragebogen\n\n\nEs geht darum, die Bedürfnisse und Präferenzen der Nutzer zu verstehen\nFragebogen gut geeignet, um Feedback von größerer Personengruppe zu erhalten: verschiedene Nutzergruppen\nFragen z. B. zu Benutzerfreundlichkeit, gewünschte Funktionen, Design",
+    "objectID": "04_Nutzwertanalyse.html#bewertung-pc-b",
+    "href": "04_Nutzwertanalyse.html#bewertung-pc-b",
+    "title": "Nutzwertanalyse",
+    "section": "Bewertung: PC B",
+    "text": "Bewertung: PC B\n\n\n\n\nMerkmal\nGewicht\nPC B – Allround Pro\nBewertung\n\n\n\n\nCPU\n20%\nAMD Ryzen 5 5600X (6 Cores, 4.6 GHz Boost)\n4\n\n\nRAM\n20%\n32 GB DDR4‑3600\n4\n\n\nSSD\n10%\n1 TB NVMe\n4\n\n\nGrafik\n10%\nNVIDIA GTX 1660 Super\n4\n\n\nEnergieeffizienz\n10%\n65 W CPU + 125 W GPU\n3\n\n\nPreis\n30%\nca. 1.200 €\n4\n\n\n\n\nNutzwert = 0.2 * 4 + 0.2 * 4 + 0.1 * 4 + 0.1 * 4 + 0.1 * 3 + 0.3 * 4\nNutzwert = 0.8 + 0.8 + 0.4 + 0.4 + 0.3 + 1.2\nNutzwert = 3.9",
     "crumbs": [
-      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+      "Nutzwertanalyse"
     ]
   },
   {
-    "objectID": "03b_Istzustand-erfassen.html#softwaremodul-für-waren",
-    "href": "03b_Istzustand-erfassen.html#softwaremodul-für-waren",
-    "title": "Istzustand erfassen",
-    "section": "Softwaremodul für Waren",
-    "text": "Softwaremodul für Waren\nVorschlag: Interview\n\n\nSoftwaremodul für Geschäftsprozesse: erfordert detaillierte Erfassung der Anforderungen von Personen, die direkt mit den Prozessen arbeiten\nInterviews mit Einkaufs-, Lager- und Verkaufspersonal: präzise Erfassung der Abläufe, Anforderungen an die Datenverarbeitung, erforderliche Funktionen\nermöglicht genaue Ausrichtung des Softwaremoduls auf die tatsächlichen Geschäftsbedürfnisse",
+    "objectID": "04_Nutzwertanalyse.html#bewertung-pc-c",
+    "href": "04_Nutzwertanalyse.html#bewertung-pc-c",
+    "title": "Nutzwertanalyse",
+    "section": "Bewertung: PC C",
+    "text": "Bewertung: PC C\n\n\n\n\n\n\n\n\n\n\nMerkmal\nGewicht\nPC C – Performance Plus\nBewertung\n\n\n\n\nCPU\n20%\nIntel Core i7‑13700 (16 Cores, 5.2 GHz Boost)\n5\n\n\nRAM\n20%\n32 GB DDR5‑5200\n5\n\n\nSSD\n10%\n1 TB NVMe Gen4\n5\n\n\nGrafik\n10%\nNVIDIA RTX 4070\n5\n\n\nEnergieeffizienz\n10%\n125 W CPU + 200 W GPU\n2\n\n\nPreis\n30%\nca. 2.000 €\n2\n\n\n\n\nNutzwert = 0.2 * 5 + 0.2 * 5 + 0.1 * 5 + 0.1 * 5 + 0.1 * 2 + 0.3 * 2\nNutzwert = 1 + 1 + 0.5 + 0.5 + 0.2 + 0.6\nNutzwert = 3.8",
     "crumbs": [
-      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+      "Nutzwertanalyse"
     ]
   },
   {
-    "objectID": "03b_Istzustand-erfassen.html#softwaresimulation-für-ampelkreuzungssystem",
-    "href": "03b_Istzustand-erfassen.html#softwaresimulation-für-ampelkreuzungssystem",
-    "title": "Istzustand erfassen",
-    "section": "Softwaresimulation für Ampelkreuzungssystem",
-    "text": "Softwaresimulation für Ampelkreuzungssystem\nVorschlag: Beobachtung\n\n\nhier wichtig: reales Verhalten und Interaktionen im Verkehrsumfeld zu verstehen\nBeobachtung vor Ort: Informationen über Verkehrsfluss, Verhaltensmuster der Fahrer, Verkehrsprobleme\nSo kann eine realistische, effektive Simulation entwickelt werden, die den tatsächlichen Bedingungen entspricht",
+    "objectID": "04_Nutzwertanalyse.html#ergebnis",
+    "href": "04_Nutzwertanalyse.html#ergebnis",
+    "title": "Nutzwertanalyse",
+    "section": "Ergebnis",
+    "text": "Ergebnis\n\n\n\n\n\n\n\n\n\n\nMerkmal\nPC A – Office Basic\nPC B – Allround Pro\nPC C – Performance Plus\n\n\n\n\nCPU\nIntel Core i5‑12400 (6 Cores, 4.4 GHz Boost)\nAMD Ryzen 5 5600X (6 Cores, 4.6 GHz Boost)\nIntel Core i7‑13700 (16 Cores, 5.2 GHz Boost)\n\n\nRAM\n16 GB DDR4‑3200\n32 GB DDR4‑3600\n32 GB DDR5‑5200\n\n\nSSD\n512 GB NVMe\n1 TB NVMe\n1 TB NVMe Gen4\n\n\nGrafik\nIntel UHD 730 (iGPU)\nNVIDIA GTX 1660 Super\nNVIDIA RTX 4070\n\n\nEnergieeffizienz\n65 W TDP CPU\n65 W CPU + 125 W GPU\n125 W CPU + 200 W GPU\n\n\nPreis\nca. 750 €\nca. 1.200 €\nca. 2.000 €\n\n\nNutzen\n3.6\n3.9\n3.8\n\n\n\nNach den vorgegeben Kriterien gewinnt PC B - Allround Pro.",
     "crumbs": [
-      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+      "Nutzwertanalyse"
     ]
   },
   {
-    "objectID": "03b_Istzustand-erfassen.html#section",
-    "href": "03b_Istzustand-erfassen.html#section",
-    "title": "Istzustand erfassen",
+    "objectID": "04_Nutzwertanalyse.html#section",
+    "href": "04_Nutzwertanalyse.html#section",
+    "title": "Nutzwertanalyse",
     "section": "",
     "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!",
     "crumbs": [
-      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+      "Nutzwertanalyse"
     ]
-  },
-  {
-    "objectID": "02b_Software.html#cms-system",
-    "href": "02b_Software.html#cms-system",
-    "title": "Software",
-    "section": "CMS-System",
-    "text": "CMS-System"
-  },
-  {
-    "objectID": "02b_Software.html#erp-system",
-    "href": "02b_Software.html#erp-system",
-    "title": "Software",
-    "section": "ERP-System",
-    "text": "ERP-System"
-  },
-  {
-    "objectID": "02b_Software.html#crm-system",
-    "href": "02b_Software.html#crm-system",
-    "title": "Software",
-    "section": "CRM-System",
-    "text": "CRM-System"
-  },
-  {
-    "objectID": "02b_Software.html#benutzeroberflächen",
-    "href": "02b_Software.html#benutzeroberflächen",
-    "title": "Software",
-    "section": "Benutzeroberflächen",
-    "text": "Benutzeroberflächen"
-  },
-  {
-    "objectID": "02b_Software.html#kommunikationssysteme",
-    "href": "02b_Software.html#kommunikationssysteme",
-    "title": "Software",
-    "section": "Kommunikationssysteme",
-    "text": "Kommunikationssysteme"
-  },
-  {
-    "objectID": "02b_Software.html#section",
-    "href": "02b_Software.html#section",
-    "title": "Software",
-    "section": "",
-    "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!"
-  },
-  {
-    "objectID": "01_Willkommen_Struktur.html#willkommen-in-lf2",
-    "href": "01_Willkommen_Struktur.html#willkommen-in-lf2",
-    "title": "Willkommen in LF2!",
-    "section": "Willkommen in LF2!",
-    "text": "Willkommen in LF2!\nArbeitsplätze nach Kundenwunsch ausstatten\n\nQuelle: Superintelligence Newsletter",
-    "crumbs": [
-      "Willkommen zu LF2 - Themen und Zeitplan"
-    ]
-  },
-  {
-    "objectID": "01_Willkommen_Struktur.html#willkommen-in-lf2-1",
-    "href": "01_Willkommen_Struktur.html#willkommen-in-lf2-1",
-    "title": "Willkommen in LF2!",
-    "section": "Willkommen in LF2!",
-    "text": "Willkommen in LF2!\nArbeitsplätze nach Kundenwunsch ausstatten\nThemenübersicht\n\n\nGrundlagen moderner IT-Arbeitsplätze\nAnforderungsanalyse und Konzeption\nHardware-, Software- und Lizenzmanagement\nProjektmanagement, Service & Qualitätssicherung\nProjektbewertung, Dokumentation, Nachfolgeprozesse",
-    "crumbs": [
-      "Willkommen zu LF2 - Themen und Zeitplan"
-    ]
-  },
-  {
-    "objectID": "01_Willkommen_Struktur.html#zeitplan-und-noten",
-    "href": "01_Willkommen_Struktur.html#zeitplan-und-noten",
-    "title": "Willkommen in LF2!",
-    "section": "Zeitplan und Noten",
-    "text": "Zeitplan und Noten\n\n80 Unterrichtseinheiten (UE) vom 14. September 2026 bis 4. März 2027\nKlassenarbeit am 17. November\nKlassenarbeit am 26. Februar",
-    "crumbs": [
-      "Willkommen zu LF2 - Themen und Zeitplan"
-    ]
-  },
-  {
-    "objectID": "01_Willkommen_Struktur.html#gemeinsame-notizen-hedgedoc",
-    "href": "01_Willkommen_Struktur.html#gemeinsame-notizen-hedgedoc",
-    "title": "Willkommen in LF2!",
-    "section": "Gemeinsame Notizen: Hedgedoc",
-    "text": "Gemeinsame Notizen: Hedgedoc\nIn Hedgedoc können wir gemeinsame Notizen zum Unterricht erstellen:\nhttps://hedgedoc.c3d2.de/FI26_LF2",
-    "crumbs": [
-      "Willkommen zu LF2 - Themen und Zeitplan"
-    ]
-  },
-  {
-    "objectID": "01_Willkommen_Struktur.html#sus-vorträge",
-    "href": "01_Willkommen_Struktur.html#sus-vorträge",
-    "title": "Willkommen in LF2!",
-    "section": "SuS Vorträge",
-    "text": "SuS Vorträge\nVorgaben\n\nca. 10 Minuten; mit Präsentation\nTeamarbeit zu zweit möglich: dann tragen beide je einen Teil vor\n\nThemen\n\n\nFreitag, 18.09.2026 / Montag, 21.09:  Hardware - Aufbau, Bewertungs-Kriterien\n\nCPUs\nMotherboards\nRAM\nDatenspeicher\nNetzteile\nGrafikkarten\nTablets\nDrucker\n\n\nMontag, 21.09.2026\n\nLastenheft: Zweck, Urheber, Inhalt, kurze Beispiele für gelungene Lastenheft-Einträge\nPflichtenheft: Zweck, Urheber, Inhalt, kurze Beispiele für gelungene Pflichtenheft-Einträge",
-    "crumbs": [
-      "Willkommen zu LF2 - Themen und Zeitplan"
-    ]
-  },
-  {
-    "objectID": "01_Willkommen_Struktur.html#weitere-vortragsthemen",
-    "href": "01_Willkommen_Struktur.html#weitere-vortragsthemen",
-    "title": "Willkommen in LF2!",
-    "section": "Weitere Vortragsthemen",
-    "text": "Weitere Vortragsthemen\n\nDienstag, 22.09.2026\n\nDesktop-PCs: Thick Client / Thin Client / Zero Client\nLeistungsmerkmale, Einsatzbereiche, Vor- und Nachteile\nNotebooks:\n\nVor- und Nachteile im Vergleich zu Desktop-PCs und Tablets\nLeistungsmerkmale, Einsatzbereiche, typische Anschlüsse\n\nVideokonferenzsysteme\n\nWelche gibt es? (Beispiele)\nNach welchen Kriterien kann man die Qualität bewerten und sich für eine Lösung entscheiden?\n\nBildschirme: Anschlüsse, Auflösungen, Kennzahlen, Entscheidungskriterien",
-    "crumbs": [
-      "Willkommen zu LF2 - Themen und Zeitplan"
-    ]
-  },
-  {
-    "objectID": "01_Willkommen_Struktur.html#section",
-    "href": "01_Willkommen_Struktur.html#section",
-    "title": "Willkommen in LF2!",
-    "section": "",
-    "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!",
-    "crumbs": [
-      "Willkommen zu LF2 - Themen und Zeitplan"
-    ]
-  },
-  {
-    "objectID": "02a_Hardware.html#cpu-cache",
-    "href": "02a_Hardware.html#cpu-cache",
-    "title": "IT Hardware",
-    "section": "CPU: Cache",
-    "text": "CPU: Cache\n\n\nCPU-Cache: Zusätzlicher Speicher auf dem Prozessor (“Zwischenspeicher”)\nsoll Zugriffszeiten auf Daten verkürzen\nL1-Cache: First-Level-Cache\n\nschnellster und kleinster Zwischenspeicher\n\nL2-Cache: Second-Level-Cache\n\netwas langsamer, etwas größer\n\nL3-Cache: Third-Level-Cache\n\nlangsamster, größter Zwischenspeicher\n\nAlle drei:\n\nArbeitsspeicher entlasten\nder CPU schnellen Zugriff auf Daten und Befehle ermöglichen\n\n\n\n\nLernkarte AP1 2025 Nr. 114"
-  },
-  {
-    "objectID": "02a_Hardware.html#cpu-logische-prozessoren",
-    "href": "02a_Hardware.html#cpu-logische-prozessoren",
-    "title": "IT Hardware",
-    "section": "CPU: Logische Prozessoren",
-    "text": "CPU: Logische Prozessoren\n\n\nvirtuelle Prozessoren, die durch Hyper-Threading-Technologie (HTT) oder Simultaneous Multithreading (SMT) unterstützt werden\nProzessor “tut so”, als habe er mehr Kerne, als physisch vorhanden sind\ndadurch werden ineffiziente Wartezeiten reduziert, Performance steigt\nHT: Intel Markenname, seit Pentium 4 (2002);  SMT: generischer Begriff (AMD, IBM, ARM)\nsicherheitskritisch; manche Cloudanbieter deaktivieren zeitweise Hyperthreading / Simultaneous Multithreading\nAnwendungen müssen HTT / SMT unterstützen, um es nutzbar zu machen\nSiehe Taskmanager\n\n\n\nLernkarte AP1 2025 Nr. 57, ergänzt, anders formuliert (Karte schlecht geschrieben!)"
-  },
-  {
-    "objectID": "02a_Hardware.html#cpu-wärmeleitpaste",
-    "href": "02a_Hardware.html#cpu-wärmeleitpaste",
-    "title": "IT Hardware",
-    "section": "CPU: Wärmeleitpaste",
-    "text": "CPU: Wärmeleitpaste\n\n\nWärmeleitpaste sorgt dafür, dass Wäre von der CPU effizient zum Kühler abgeleitet wird\nKontaktflächen zwischen CPU und Kühler haben bauweisenbedingt nicht überall perfekten Übergang\nWärmeleitpaste gleicht solche Unebenheiten aus\nverhindert Leistungseinbußen, Systemabstürze, dauerhafte Schäden an CPU\nMontage: als Wärmepad oder als erbsengroßer Klecks zwischen CPU und Kühler\n\n\n\nLernkarte AP1 2025 Nr. 115"
-  },
-  {
-    "objectID": "02a_Hardware.html#ram-dual-channel-mode",
-    "href": "02a_Hardware.html#ram-dual-channel-mode",
-    "title": "IT Hardware",
-    "section": "RAM: Dual Channel Mode",
-    "text": "RAM: Dual Channel Mode\n\nWelchen Vorteil bringt der Einsatz von Dual-Channel-Technik bei Speichermodulen?\n\nMithilfe der Dual-Channel-Technik kann der Speicherkontroller des Prozessors die Daten auf zwei Arbeitsspeichermodule gleichzeitig aufteilen und somit parallel schreiben und lesen. Dadurch verdoppelt sich die Datenrate.\n\n\nVoraussetzung ist, dass die eingebauten Speichermodule baugleich sind, eine identische Modulkapazität besitzen sowie paarweise verteilt werden.\n\n\n\nLernkarte AP1 2025 Nr. 58"
-  },
-  {
-    "objectID": "02a_Hardware.html#ram-dual-channel-mode-1",
-    "href": "02a_Hardware.html#ram-dual-channel-mode-1",
-    "title": "IT Hardware",
-    "section": "RAM: Dual Channel Mode",
-    "text": "RAM: Dual Channel Mode\n\nWelche Bedingungen müssen beim Einsatz von Arbeitsspeichern im Dual Channel Mode erfüllt sein?\n\nSpeichermodule müssen baugleich sein\nSpeichermodule müssen die gleiche Speicherkapazität besitzen\nSpeichermodule sollten vom Hersteller für den Einsatz auf dem Motherboard bzw. Prozessor zertifiziert sein\nSpeichermodule müssen immer paarweise ergänzt bzw. entfernt werden\n\n\n\nLernkarte AP1 2025 Nr. 183"
-  },
-  {
-    "objectID": "02a_Hardware.html#thin-clients",
-    "href": "02a_Hardware.html#thin-clients",
-    "title": "IT Hardware",
-    "section": "Thin Clients",
-    "text": "Thin Clients\n\n\nschlanker Arbeitsplatz-Computer fast ohne eigene Rechenleistung\nAnwendungen laufen auf Server; Thin Client dient als Eingabe- / Ausgabe-Terminal\nVorteile:\n\ngeringerer Stromverbrauch, geringes Gewicht, geringer Platzbedarf\ngeräuschloser Arbeitsplatzcomputer\nleicht austauschbar\numweltfreundlich: weniger Materialeinsatz, weniger Abwärme\nflexibel einsetzbar: es muss kein Betriebssystem installiert werden\nkeine Chance für Viren, Würmer, Trojaner: Read-Only-Betriebssystem\n\n\n\n\nLernkarte AP1 2025 Nr. 146"
-  },
-  {
-    "objectID": "02a_Hardware.html#pc-verarbeitungsgeschwindigkeit-verbessern",
-    "href": "02a_Hardware.html#pc-verarbeitungsgeschwindigkeit-verbessern",
-    "title": "IT Hardware",
-    "section": "PC: Verarbeitungsgeschwindigkeit verbessern",
-    "text": "PC: Verarbeitungsgeschwindigkeit verbessern\n\n\nAustausch von SATA HDDs mit geringer Umdrehungszahl gegen HDDs mit 10K/rpm\nEinsatz von SSD/M.2 gegenüber SATA HDDs\nAufteilung des Betriebssystems und der Anwendungsprogramme auf unterschiedlichen Datenträgern (OS auf M.2, Daten auf SSD)\nAustausch 100 Mbit/s Netzwerkkarte gegen 1 Gbit/s Netzwerkkarte\n\n\n\nLernkarte AP1 2025 Nr. 111"
-  },
-  {
-    "objectID": "02a_Hardware.html#notebooks-technische-merkmale",
-    "href": "02a_Hardware.html#notebooks-technische-merkmale",
-    "title": "IT Hardware",
-    "section": "Notebooks: Technische Merkmale",
-    "text": "Notebooks: Technische Merkmale\n\n\nteilweise Anschluss für Dockingstation\nteilweise Mini-PCI-Express-Slot\nteilweise 4-in-1 Kartenlesegerät\nteilweise integriertes Bluetooth, WLAN und WWAN\ninterne Netzwerkkarte\neigenes Display, teilweise Videokamera\nexterne Schnittstellen wie USB, HDMI, DisplayPort (mini), VGA, Firewire\nintegrierte Lautsprecher und Mikrofone\nAkku, externes Netzteil\n\n\n\nLernkarte AP1 2025 Nr. 56"
-  },
-  {
-    "objectID": "02a_Hardware.html#notebooks-dockingstation",
-    "href": "02a_Hardware.html#notebooks-dockingstation",
-    "title": "IT Hardware",
-    "section": "Notebooks: Dockingstation",
-    "text": "Notebooks: Dockingstation\n\n\nengl. to dock: andocken, koppeln\nverwendet, um mobile Geräte (Notebooks, PDAs) mit festem Netz zu verbinden\nDockingstation als Portreplikator:\n\nvorhandene Ports werden an die Dockingstation “durchgereicht”\nzusätzliche Schnittstellen, z. B. PS/2, Seriell- und Parallelport, DVI, DisplayPort, HDMI, Sound, Firewire\ndiese Schnittstellen fehlen in mobilen Geräten oft aus Platzgründen\noft 2x HDMI, 2x DVI oder 2x Displayport\n\n\n\n\nLernkarte AP1 2025 Nr. 54"
-  },
-  {
-    "objectID": "02a_Hardware.html#vorteile-usb-c-vs.-usb-a-usb-b",
-    "href": "02a_Hardware.html#vorteile-usb-c-vs.-usb-a-usb-b",
-    "title": "IT Hardware",
-    "section": "Vorteile USB-C vs.  USB-A, USB-B",
-    "text": "Vorteile USB-C vs.  USB-A, USB-B\n\n\nreversible Steckrichtung\nhöhere Leistungsfähigkeit\nkompaktes Design\nschnellere Ladezeiten\nbidirektionale Stromversorgung\nZukunftssicherheit"
-  },
-  {
-    "objectID": "02a_Hardware.html#bildschirm-was-bedeutet-uhd-4k",
-    "href": "02a_Hardware.html#bildschirm-was-bedeutet-uhd-4k",
-    "title": "IT Hardware",
-    "section": "Bildschirm: Was bedeutet UHD 4K?",
-    "text": "Bildschirm: Was bedeutet UHD 4K?\n\nUHD (Ultra High Definition) 4K bezeichnet ein digitales Videoformat der International Telecommunication Union (ITU) für Ultra High Definition Television (UHDTV oder Ultra HDTV) sowie Ultra High Definition Video (UHDV).\nUHD 4K wird heute auch als UHD-1 bezeichnet und lehnt sich am Cinema 4K (4096 x 2160 Pixel) an. Die Hersteller spezifizieren jedoch ihre Geräte mit 3840 x 2160 Pixeln heute oftmals auch als UHD 4K.\n\n\nLernkarte AP1 2025 Nr. 59"
-  },
-  {
-    "objectID": "02a_Hardware.html#grafik-schnittstellen-für-4k-8k",
-    "href": "02a_Hardware.html#grafik-schnittstellen-für-4k-8k",
-    "title": "IT Hardware",
-    "section": "Grafik: Schnittstellen für 4K, 8K",
-    "text": "Grafik: Schnittstellen für 4K, 8K\n\n\n\n\nSchnittstelle\nmax. Übertragungsrate\nmax. Auflösung\n\n\n\n\nHDMI 1.4\n10,2 GBit/s\nFull-HD (1920x1080)\n\n\nHDMI 2.0\n18,0 GBit/s\n4K (3840 x 2160)\n\n\nHDMI 2.1\n38,4 GBit/s\n8K (7680 x 4320)\n\n\nDisplayPort 1.3\n25,9 GBit/s\n8K (7680 x 4320)\n\n\nDisplayPort 1.4\n32,4 GBit/s\n8K (7680 x 4320)\n\n\n\n\nKinostandard DCI-4K: 4096 x 2160; ca. 17:9\nKinostandard DCI-8K: 8192 x 4320; ca. 17:9"
-  },
-  {
-    "objectID": "02a_Hardware.html#section",
-    "href": "02a_Hardware.html#section",
-    "title": "IT Hardware",
-    "section": "",
-    "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!"
   },
   {
     "objectID": "03a_Bedarfs-Anforderungsanalyse.html#bedarfs--und-anforderungsanalyse",
@@ -515,104 +389,398 @@
     ]
   },
   {
-    "objectID": "04_Nutzwertanalyse.html#aufgabe-kaufberatung",
-    "href": "04_Nutzwertanalyse.html#aufgabe-kaufberatung",
-    "title": "Nutzwertanalyse",
-    "section": "Aufgabe: Kaufberatung",
-    "text": "Aufgabe: Kaufberatung\n\n\n\n\n\n\n\n\n\n\nMerkmal\nPC A – Office Basic\nPC B – Allround Pro\nPC C – Performance Plus\n\n\n\n\nCPU\nIntel Core i5‑12400 (6 Cores, 4.4 GHz Boost)\nAMD Ryzen 5 5600X (6 Cores, 4.6 GHz Boost)\nIntel Core i7‑13700 (16 Cores, 5.2 GHz Boost)\n\n\nRAM\n16 GB DDR4‑3200\n32 GB DDR4‑3600\n32 GB DDR5‑5200\n\n\nSSD\n512 GB NVMe\n1 TB NVMe\n1 TB NVMe Gen4\n\n\nGrafik\nIntel UHD 730 (iGPU)\nNVIDIA GTX 1660 Super\nNVIDIA RTX 4070\n\n\nEnergieeffizienz\n65 W TDP CPU\n65 W CPU + 125 W GPU\n125 W CPU + 200 W GPU\n\n\nPreis\nca. 750 €\nca. 1.200 €\nca. 2.000 €\n\n\n\n\nWie kommen Sie zu einer Kaufempfehlung für den Kunden?",
+    "objectID": "02a_Hardware.html#cpu-cache",
+    "href": "02a_Hardware.html#cpu-cache",
+    "title": "IT Hardware",
+    "section": "CPU: Cache",
+    "text": "CPU: Cache\n\n\nCPU-Cache: Zusätzlicher Speicher auf dem Prozessor (“Zwischenspeicher”)\nsoll Zugriffszeiten auf Daten verkürzen\nL1-Cache: First-Level-Cache\n\nschnellster und kleinster Zwischenspeicher\n\nL2-Cache: Second-Level-Cache\n\netwas langsamer, etwas größer\n\nL3-Cache: Third-Level-Cache\n\nlangsamster, größter Zwischenspeicher\n\nAlle drei:\n\nArbeitsspeicher entlasten\nder CPU schnellen Zugriff auf Daten und Befehle ermöglichen\n\n\n\n\nLernkarte AP1 2025 Nr. 114"
+  },
+  {
+    "objectID": "02a_Hardware.html#cpu-logische-prozessoren",
+    "href": "02a_Hardware.html#cpu-logische-prozessoren",
+    "title": "IT Hardware",
+    "section": "CPU: Logische Prozessoren",
+    "text": "CPU: Logische Prozessoren\n\n\nvirtuelle Prozessoren, die durch Hyper-Threading-Technologie (HTT) oder Simultaneous Multithreading (SMT) unterstützt werden\nProzessor “tut so”, als habe er mehr Kerne, als physisch vorhanden sind\ndadurch werden ineffiziente Wartezeiten reduziert, Performance steigt\nHT: Intel Markenname, seit Pentium 4 (2002);  SMT: generischer Begriff (AMD, IBM, ARM)\nsicherheitskritisch; manche Cloudanbieter deaktivieren zeitweise Hyperthreading / Simultaneous Multithreading\nAnwendungen müssen HTT / SMT unterstützen, um es nutzbar zu machen\nSiehe Taskmanager\n\n\n\nLernkarte AP1 2025 Nr. 57, ergänzt, anders formuliert (Karte schlecht geschrieben!)"
+  },
+  {
+    "objectID": "02a_Hardware.html#cpu-wärmeleitpaste",
+    "href": "02a_Hardware.html#cpu-wärmeleitpaste",
+    "title": "IT Hardware",
+    "section": "CPU: Wärmeleitpaste",
+    "text": "CPU: Wärmeleitpaste\n\n\nWärmeleitpaste sorgt dafür, dass Wäre von der CPU effizient zum Kühler abgeleitet wird\nKontaktflächen zwischen CPU und Kühler haben bauweisenbedingt nicht überall perfekten Übergang\nWärmeleitpaste gleicht solche Unebenheiten aus\nverhindert Leistungseinbußen, Systemabstürze, dauerhafte Schäden an CPU\nMontage: als Wärmepad oder als erbsengroßer Klecks zwischen CPU und Kühler\n\n\n\nLernkarte AP1 2025 Nr. 115"
+  },
+  {
+    "objectID": "02a_Hardware.html#ram-dual-channel-mode",
+    "href": "02a_Hardware.html#ram-dual-channel-mode",
+    "title": "IT Hardware",
+    "section": "RAM: Dual Channel Mode",
+    "text": "RAM: Dual Channel Mode\n\nWelchen Vorteil bringt der Einsatz von Dual-Channel-Technik bei Speichermodulen?\n\nMithilfe der Dual-Channel-Technik kann der Speicherkontroller des Prozessors die Daten auf zwei Arbeitsspeichermodule gleichzeitig aufteilen und somit parallel schreiben und lesen. Dadurch verdoppelt sich die Datenrate.\n\n\nVoraussetzung ist, dass die eingebauten Speichermodule baugleich sind, eine identische Modulkapazität besitzen sowie paarweise verteilt werden.\n\n\n\nLernkarte AP1 2025 Nr. 58"
+  },
+  {
+    "objectID": "02a_Hardware.html#ram-dual-channel-mode-1",
+    "href": "02a_Hardware.html#ram-dual-channel-mode-1",
+    "title": "IT Hardware",
+    "section": "RAM: Dual Channel Mode",
+    "text": "RAM: Dual Channel Mode\n\nWelche Bedingungen müssen beim Einsatz von Arbeitsspeichern im Dual Channel Mode erfüllt sein?\n\nSpeichermodule müssen baugleich sein\nSpeichermodule müssen die gleiche Speicherkapazität besitzen\nSpeichermodule sollten vom Hersteller für den Einsatz auf dem Motherboard bzw. Prozessor zertifiziert sein\nSpeichermodule müssen immer paarweise ergänzt bzw. entfernt werden\n\n\n\nLernkarte AP1 2025 Nr. 183"
+  },
+  {
+    "objectID": "02a_Hardware.html#speicher-sata-ssd",
+    "href": "02a_Hardware.html#speicher-sata-ssd",
+    "title": "IT Hardware",
+    "section": "Speicher: SATA-SSD",
+    "text": "Speicher: SATA-SSD\n\n\nVorteile\n\nKostengünstig: SATA-SSDs meist preiswerter als M.2-SSDs\nKompatibilität: Standard-SATA-Anschlüsse auf den meisten Mainboards vorhanden\nZuverlässigkeit: Breit einsetzbar, sowohl im 24/7-Betrieb als auch im Notebook-Bereich\n\n\nNachteile\n\nGeringe Geschwindigkeit gegenüber NVMe-SSDs (Non Volatile Memory express)\nBegrenzte Bandbreite durch die maximale Datenübertragungsrate der SATA-Schnittstelle (SATA III: 6 Gb/s, max. 600 MB/s)\nUngeeignet für High-End-Anwendungen wie Foto- und Videobearbeitung\n\n\n\nLernkarte AP1 2025 Nr. 113"
+  },
+  {
+    "objectID": "02a_Hardware.html#speicher-m.2-ssd",
+    "href": "02a_Hardware.html#speicher-m.2-ssd",
+    "title": "IT Hardware",
+    "section": "Speicher: M.2-SSD",
+    "text": "Speicher: M.2-SSD\n\n\nVorteile\n\nLesegeschwindigkeiten von bis zu 7.450 MB/s\nkleines kompaktes Design, das keinen zusätzlichen Platz benötigt\nkeine Verkabelung notwendig, wird direkt auf das Motherboard gesteckt\nNVMe-Unterstützung (Non Volatile Memory express)\n\n\nNachteile\n\nPreis: teurer als SATA-SSDs\nKompatibilität: noch nicht alle Motherboards unterstützen M.2-SSDs\nWärmeentwicklung: M.2-SSDs können bei intensiver Nutzung heiß werden\nSpeicherkapazität: M.2-SSDs bieten geringere Kapazitäten als SATA-SSDs\n\n\n\nLernkarte AP1 2025 Nr. 112"
+  },
+  {
+    "objectID": "02a_Hardware.html#speicher-nas",
+    "href": "02a_Hardware.html#speicher-nas",
+    "title": "IT Hardware",
+    "section": "Speicher: NAS",
+    "text": "Speicher: NAS\n\n\nNAS = Network Attached Storage; netzgebundener Speicher\neinfach zu verwaltender Dateiserver mit eigenem Dateisystem (Ext4 / Btrfs) und Management-Oberfläche\nEinsatz: Heimbereich und KMU (kleine und mittlere Unternehmen)\nbietet unabhängige Speicherkapazität in lokalem Rechnernetz\nManagementoberfläche: Einstellungen via HTTPS, z. B. Benutzerverwaltung, Integration Active Directory, Aktivierung von Services und Sync-Funktionen\nNAS hat einen oder mehrere Netzwerkanschlüsse (Ethernet / Fibre Channel) und oft 2 Netzteile\n\n\n\nLernkarte AP1 2025 Nr. 78"
+  },
+  {
+    "objectID": "02a_Hardware.html#speicher-san",
+    "href": "02a_Hardware.html#speicher-san",
+    "title": "IT Hardware",
+    "section": "Speicher: SAN",
+    "text": "Speicher: SAN\n\n\nSAN = Storage Area Network\nbietet blockbasierten Speicher, der das vom Server bereitgestellte Dateisystem über logische Festplatteneinheiten (LUNs, Logical Unit Number) verbindet\nohne eigenes Betriebssystem\nmehrfache Zugriffe von verschiedenen Servern möglich, abhängig vom bereitgestellten Dateisystem (z. B. VMFS)\nverschiedene Implementierungen, um auf SANs zuzugreifen, z. B. ISCSI, Fibre-Channel, ATA over Ethernet, InfiniBand\nRAID-Systeme (Redundant Array of Independent Discs) für Desaster-Toleranz bzw. Datenredundanz\n\n\n\nLernkarte AP1 2025 Nr. 79"
+  },
+  {
+    "objectID": "02a_Hardware.html#thin-clients",
+    "href": "02a_Hardware.html#thin-clients",
+    "title": "IT Hardware",
+    "section": "Thin Clients",
+    "text": "Thin Clients\n\n\nschlanker Arbeitsplatz-Computer fast ohne eigene Rechenleistung\nAnwendungen laufen auf Server; Thin Client dient als Eingabe- / Ausgabe-Terminal\nVorteile:\n\ngeringerer Stromverbrauch, geringes Gewicht, geringer Platzbedarf\ngeräuschloser Arbeitsplatzcomputer\nleicht austauschbar\numweltfreundlich: weniger Materialeinsatz, weniger Abwärme\nflexibel einsetzbar: es muss kein Betriebssystem installiert werden\nkeine Chance für Viren, Würmer, Trojaner: Read-Only-Betriebssystem\n\n\n\n\nLernkarte AP1 2025 Nr. 146"
+  },
+  {
+    "objectID": "02a_Hardware.html#pc-verarbeitungsgeschwindigkeit-verbessern",
+    "href": "02a_Hardware.html#pc-verarbeitungsgeschwindigkeit-verbessern",
+    "title": "IT Hardware",
+    "section": "PC: Verarbeitungsgeschwindigkeit verbessern",
+    "text": "PC: Verarbeitungsgeschwindigkeit verbessern\n\n\nAustausch von SATA HDDs mit geringer Umdrehungszahl gegen HDDs mit 10K/rpm\nEinsatz von SSD/M.2 gegenüber SATA HDDs\nAufteilung des Betriebssystems und der Anwendungsprogramme auf unterschiedlichen Datenträgern (OS auf M.2, Daten auf SSD)\nAustausch 100 Mbit/s Netzwerkkarte gegen 1 Gbit/s Netzwerkkarte\n\n\n\nLernkarte AP1 2025 Nr. 111"
+  },
+  {
+    "objectID": "02a_Hardware.html#notebooks-technische-merkmale",
+    "href": "02a_Hardware.html#notebooks-technische-merkmale",
+    "title": "IT Hardware",
+    "section": "Notebooks: Technische Merkmale",
+    "text": "Notebooks: Technische Merkmale\n\n\nteilweise Anschluss für Dockingstation\nteilweise Mini-PCI-Express-Slot\nteilweise 4-in-1 Kartenlesegerät\nteilweise integriertes Bluetooth, WLAN und WWAN\ninterne Netzwerkkarte\neigenes Display, teilweise Videokamera\nexterne Schnittstellen wie USB, HDMI, DisplayPort (mini), VGA, Firewire\nintegrierte Lautsprecher und Mikrofone\nAkku, externes Netzteil\n\n\n\nLernkarte AP1 2025 Nr. 56"
+  },
+  {
+    "objectID": "02a_Hardware.html#notebooks-dockingstation",
+    "href": "02a_Hardware.html#notebooks-dockingstation",
+    "title": "IT Hardware",
+    "section": "Notebooks: Dockingstation",
+    "text": "Notebooks: Dockingstation\n\n\nengl. to dock: andocken, koppeln\nverwendet, um mobile Geräte (Notebooks, PDAs) mit festem Netz zu verbinden\nDockingstation als Portreplikator:\n\nvorhandene Ports werden an die Dockingstation “durchgereicht”\nzusätzliche Schnittstellen, z. B. PS/2, Seriell- und Parallelport, DVI, DisplayPort, HDMI, Sound, Firewire\ndiese Schnittstellen fehlen in mobilen Geräten oft aus Platzgründen\noft 2x HDMI, 2x DVI oder 2x Displayport\n\n\n\n\nLernkarte AP1 2025 Nr. 54"
+  },
+  {
+    "objectID": "02a_Hardware.html#vorteile-usb-c-vs.-usb-a-usb-b",
+    "href": "02a_Hardware.html#vorteile-usb-c-vs.-usb-a-usb-b",
+    "title": "IT Hardware",
+    "section": "Vorteile USB-C vs.  USB-A, USB-B",
+    "text": "Vorteile USB-C vs.  USB-A, USB-B\n\n\nreversible Steckrichtung\nhöhere Leistungsfähigkeit\nkompaktes Design\nschnellere Ladezeiten\nbidirektionale Stromversorgung\nZukunftssicherheit"
+  },
+  {
+    "objectID": "02a_Hardware.html#bildschirm-was-bedeutet-uhd-4k",
+    "href": "02a_Hardware.html#bildschirm-was-bedeutet-uhd-4k",
+    "title": "IT Hardware",
+    "section": "Bildschirm: Was bedeutet UHD 4K?",
+    "text": "Bildschirm: Was bedeutet UHD 4K?\n\n\nUHD (Ultra High Definition) 4K bezeichnet ein digitales Videoformat der International Telecommunication Union (ITU) für Ultra High Definition Television (UHDTV oder Ultra HDTV) sowie Ultra High Definition Video (UHDV).\nUHD 4K wird heute auch als UHD-1 bezeichnet und lehnt sich am Cinema 4K (4096 x 2160 Pixel) an. Die Hersteller spezifizieren jedoch ihre Geräte mit 3840 x 2160 Pixeln heute oftmals auch als UHD 4K.\n\n\nLernkarte AP1 2025 Nr. 59"
+  },
+  {
+    "objectID": "02a_Hardware.html#grafik-schnittstellen-für-4k-8k",
+    "href": "02a_Hardware.html#grafik-schnittstellen-für-4k-8k",
+    "title": "IT Hardware",
+    "section": "Grafik: Schnittstellen für 4K, 8K",
+    "text": "Grafik: Schnittstellen für 4K, 8K\n\n\n\n\nSchnittstelle\nmax. Übertragungsrate\nmax. Auflösung\n\n\n\n\nHDMI 1.4\n10,2 GBit/s\nFull-HD (1920x1080)\n\n\nHDMI 2.0\n18,0 GBit/s\n4K (3840 x 2160)\n\n\nHDMI 2.1\n38,4 GBit/s\n8K (7680 x 4320)\n\n\nDisplayPort 1.3\n25,9 GBit/s\n8K (7680 x 4320)\n\n\nDisplayPort 1.4\n32,4 GBit/s\n8K (7680 x 4320)\n\n\n\n\nKinostandard DCI-4K: 4096 x 2160; ca. 17:9\nKinostandard DCI-8K: 8192 x 4320; ca. 17:9"
+  },
+  {
+    "objectID": "02a_Hardware.html#section",
+    "href": "02a_Hardware.html#section",
+    "title": "IT Hardware",
+    "section": "",
+    "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!"
+  },
+  {
+    "objectID": "01_Willkommen_Struktur.html#willkommen-in-lf2",
+    "href": "01_Willkommen_Struktur.html#willkommen-in-lf2",
+    "title": "Willkommen in LF2!",
+    "section": "Willkommen in LF2!",
+    "text": "Willkommen in LF2!\nArbeitsplätze nach Kundenwunsch ausstatten\n\nQuelle: Superintelligence Newsletter",
     "crumbs": [
-      "Nutzwertanalyse"
+      "Willkommen zu LF2 - Themen und Zeitplan"
     ]
   },
   {
-    "objectID": "04_Nutzwertanalyse.html#nutzwertanalyse",
-    "href": "04_Nutzwertanalyse.html#nutzwertanalyse",
-    "title": "Nutzwertanalyse",
-    "section": "Nutzwertanalyse",
-    "text": "Nutzwertanalyse\n\nEntscheidungshilfe für komplexe Handlungsalternativen\nZiel: Produkte oder Services mit einem zahlenbasierten Bewertungssystem vergleichen\nNützlich, wenn mehrere Kriterien berücksichtigt werden sollen, nicht nur z. B. der Preis\n\n\nLernkarte AP1 2025 Nr. 48",
+    "objectID": "01_Willkommen_Struktur.html#willkommen-in-lf2-1",
+    "href": "01_Willkommen_Struktur.html#willkommen-in-lf2-1",
+    "title": "Willkommen in LF2!",
+    "section": "Willkommen in LF2!",
+    "text": "Willkommen in LF2!\nArbeitsplätze nach Kundenwunsch ausstatten\nThemenübersicht\n\n\nGrundlagen moderner IT-Arbeitsplätze\nAnforderungsanalyse und Konzeption\nHardware-, Software- und Lizenzmanagement\nProjektmanagement, Service & Qualitätssicherung\nProjektbewertung, Dokumentation, Nachfolgeprozesse",
     "crumbs": [
-      "Nutzwertanalyse"
+      "Willkommen zu LF2 - Themen und Zeitplan"
     ]
   },
   {
-    "objectID": "04_Nutzwertanalyse.html#vorgehen",
-    "href": "04_Nutzwertanalyse.html#vorgehen",
-    "title": "Nutzwertanalyse",
-    "section": "Vorgehen",
-    "text": "Vorgehen\n\n\nBewertungskriterien auswählen\nKriterien gewichten\nProdukte nach diesen Kriterien bewerten\nGesamtnutzen berechnen: Summe von (Bewertung mal Gewichtung)\nGesamtnutzen vergleichen, Entscheidung treffen",
+    "objectID": "01_Willkommen_Struktur.html#zeitplan-und-noten",
+    "href": "01_Willkommen_Struktur.html#zeitplan-und-noten",
+    "title": "Willkommen in LF2!",
+    "section": "Zeitplan und Noten",
+    "text": "Zeitplan und Noten\n\n80 Unterrichtseinheiten (UE) vom 14. September 2026 bis 4. März 2027\nKlassenarbeit am 17. November\nKlassenarbeit am 26. Februar",
     "crumbs": [
-      "Nutzwertanalyse"
+      "Willkommen zu LF2 - Themen und Zeitplan"
     ]
   },
   {
-    "objectID": "04_Nutzwertanalyse.html#drei-pc-systeme-vergleichen",
-    "href": "04_Nutzwertanalyse.html#drei-pc-systeme-vergleichen",
-    "title": "Nutzwertanalyse",
-    "section": "Drei PC-Systeme vergleichen",
-    "text": "Drei PC-Systeme vergleichen\n\nKunde Max Mustermann erstellt technische Handbücher und arbeitet dazu unter anderem mit Grafik-Tools und CAD-Software (Computer Aided Design, für 3D-Modelle).\n\n\n\n\n\n\n\n\n\n\nMerkmal\nPC A – Office Basic\nPC B – Allround Pro\nPC C – Performance Plus\n\n\n\n\nCPU\nIntel Core i5‑12400 (6 Cores, 4.4 GHz Boost)\nAMD Ryzen 5 5600X (6 Cores, 4.6 GHz Boost)\nIntel Core i7‑13700 (16 Cores, 5.2 GHz Boost)\n\n\nRAM\n16 GB DDR4‑3200\n32 GB DDR4‑3600\n32 GB DDR5‑5200\n\n\nSSD\n512 GB NVMe\n1 TB NVMe\n1 TB NVMe Gen4\n\n\nGrafik\nIntel UHD 730 (iGPU)\nNVIDIA GTX 1660 Super\nNVIDIA RTX 4070\n\n\nEnergieeffizienz\n65 W TDP CPU\n65 W CPU + 125 W GPU\n125 W CPU + 200 W GPU\n\n\nPreis\nca. 750 €\nca. 1.200 €\nca. 2.000 €",
+    "objectID": "01_Willkommen_Struktur.html#gemeinsame-notizen-hedgedoc",
+    "href": "01_Willkommen_Struktur.html#gemeinsame-notizen-hedgedoc",
+    "title": "Willkommen in LF2!",
+    "section": "Gemeinsame Notizen: Hedgedoc",
+    "text": "Gemeinsame Notizen: Hedgedoc\nIn Hedgedoc können wir gemeinsame Notizen zum Unterricht erstellen:\nhttps://hedgedoc.c3d2.de/FI26_LF2",
     "crumbs": [
-      "Nutzwertanalyse"
+      "Willkommen zu LF2 - Themen und Zeitplan"
     ]
   },
   {
-    "objectID": "04_Nutzwertanalyse.html#kriterien-für-den-vergleich",
-    "href": "04_Nutzwertanalyse.html#kriterien-für-den-vergleich",
-    "title": "Nutzwertanalyse",
-    "section": "Kriterien für den Vergleich",
-    "text": "Kriterien für den Vergleich\nWir vergleichen drei Systeme anhand von fünf Kriterien:\n\nLeistung CPU - Gewichtung: 20%\nRAM – Gewichtung: 20%\nGrafik - Gewichtung: 10%\nSpeicher (SSD‑Größe) – Gewichtung: 10%\nEnergieeffizienz – Gewichtung: 10%\nPreis – Gewichtung: 30%\n\nBewertungsskala: 1 = schlecht, 5 = sehr gut\nDie Gewichte sollen in Summe 100% ergeben!",
+    "objectID": "01_Willkommen_Struktur.html#sus-vorträge",
+    "href": "01_Willkommen_Struktur.html#sus-vorträge",
+    "title": "Willkommen in LF2!",
+    "section": "SuS Vorträge",
+    "text": "SuS Vorträge\nVorgaben\n\nca. 10 Minuten; mit Präsentation\nTeamarbeit zu zweit möglich: dann tragen beide je einen Teil vor\n\nThemen\n\n\nFreitag, 18.09.2026 / Montag, 21.09:  Hardware - Aufbau, Bewertungs-Kriterien\n\nCPUs\nMotherboards\nRAM\nDatenspeicher\nNetzteile\nGrafikkarten\nTablets\nDrucker\n\n\nMontag, 21.09.2026\n\nLastenheft: Zweck, Urheber, Inhalt, kurze Beispiele für gelungene Lastenheft-Einträge\nPflichtenheft: Zweck, Urheber, Inhalt, kurze Beispiele für gelungene Pflichtenheft-Einträge",
     "crumbs": [
-      "Nutzwertanalyse"
+      "Willkommen zu LF2 - Themen und Zeitplan"
     ]
   },
   {
-    "objectID": "04_Nutzwertanalyse.html#bewertung-pc-a",
-    "href": "04_Nutzwertanalyse.html#bewertung-pc-a",
-    "title": "Nutzwertanalyse",
-    "section": "Bewertung: PC A",
-    "text": "Bewertung: PC A\n\n\n\n\nMerkmal\nGewicht\nPC A – Office Basic\nBewertung\n\n\n\n\nCPU\n20%\nIntel Core i5‑12400 (6 Cores, 4.4 GHz Boost)\n3\n\n\nRAM\n20%\n16 GB DDR4‑3200\n2\n\n\nSSD\n10%\n512 GB NVMe\n3\n\n\nGrafik\n10%\nIntel UHD 730 (iGPU)\n3\n\n\nEnergieeffizienz\n10%\n65 W TDP CPU\n5\n\n\nPreis\n30%\nca. 750 €\n5\n\n\n\n\nNutzwert = 0.2 * 3 + 0.2 * 2 + 0.1 * 3 + 0.1 * 3 + 0.1 * 5 + 0.3 * 5\nNutzwert = 0.6 + 0.4 + 0.3 + 0.3 + 0.5 + 1.5\nNutzwert = 3.6",
+    "objectID": "01_Willkommen_Struktur.html#weitere-vortragsthemen",
+    "href": "01_Willkommen_Struktur.html#weitere-vortragsthemen",
+    "title": "Willkommen in LF2!",
+    "section": "Weitere Vortragsthemen",
+    "text": "Weitere Vortragsthemen\n\nDienstag, 22.09.2026\n\nDesktop-PCs: Thick Client / Thin Client / Zero Client\nLeistungsmerkmale, Einsatzbereiche, Vor- und Nachteile\nNotebooks:\n\nVor- und Nachteile im Vergleich zu Desktop-PCs und Tablets\nLeistungsmerkmale, Einsatzbereiche, typische Anschlüsse\n\nVideokonferenzsysteme\n\nWelche gibt es? (Beispiele)\nNach welchen Kriterien kann man die Qualität bewerten und sich für eine Lösung entscheiden?\n\nBildschirme: Anschlüsse, Auflösungen, Kennzahlen, Entscheidungskriterien",
     "crumbs": [
-      "Nutzwertanalyse"
+      "Willkommen zu LF2 - Themen und Zeitplan"
     ]
   },
   {
-    "objectID": "04_Nutzwertanalyse.html#bewertung-pc-b",
-    "href": "04_Nutzwertanalyse.html#bewertung-pc-b",
-    "title": "Nutzwertanalyse",
-    "section": "Bewertung: PC B",
-    "text": "Bewertung: PC B\n\n\n\n\nMerkmal\nGewicht\nPC B – Allround Pro\nBewertung\n\n\n\n\nCPU\n20%\nAMD Ryzen 5 5600X (6 Cores, 4.6 GHz Boost)\n4\n\n\nRAM\n20%\n32 GB DDR4‑3600\n4\n\n\nSSD\n10%\n1 TB NVMe\n4\n\n\nGrafik\n10%\nNVIDIA GTX 1660 Super\n4\n\n\nEnergieeffizienz\n10%\n65 W CPU + 125 W GPU\n3\n\n\nPreis\n30%\nca. 1.200 €\n4\n\n\n\n\nNutzwert = 0.2 * 4 + 0.2 * 4 + 0.1 * 4 + 0.1 * 4 + 0.1 * 3 + 0.3 * 4\nNutzwert = 0.8 + 0.8 + 0.4 + 0.4 + 0.3 + 1.2\nNutzwert = 3.9",
-    "crumbs": [
-      "Nutzwertanalyse"
-    ]
-  },
-  {
-    "objectID": "04_Nutzwertanalyse.html#bewertung-pc-c",
-    "href": "04_Nutzwertanalyse.html#bewertung-pc-c",
-    "title": "Nutzwertanalyse",
-    "section": "Bewertung: PC C",
-    "text": "Bewertung: PC C\n\n\n\n\n\n\n\n\n\n\nMerkmal\nGewicht\nPC C – Performance Plus\nBewertung\n\n\n\n\nCPU\n20%\nIntel Core i7‑13700 (16 Cores, 5.2 GHz Boost)\n5\n\n\nRAM\n20%\n32 GB DDR5‑5200\n5\n\n\nSSD\n10%\n1 TB NVMe Gen4\n5\n\n\nGrafik\n10%\nNVIDIA RTX 4070\n5\n\n\nEnergieeffizienz\n10%\n125 W CPU + 200 W GPU\n2\n\n\nPreis\n30%\nca. 2.000 €\n2\n\n\n\n\nNutzwert = 0.2 * 5 + 0.2 * 5 + 0.1 * 5 + 0.1 * 5 + 0.1 * 2 + 0.3 * 2\nNutzwert = 1 + 1 + 0.5 + 0.5 + 0.2 + 0.6\nNutzwert = 3.8",
-    "crumbs": [
-      "Nutzwertanalyse"
-    ]
-  },
-  {
-    "objectID": "04_Nutzwertanalyse.html#ergebnis",
-    "href": "04_Nutzwertanalyse.html#ergebnis",
-    "title": "Nutzwertanalyse",
-    "section": "Ergebnis",
-    "text": "Ergebnis\n\n\n\n\n\n\n\n\n\n\nMerkmal\nPC A – Office Basic\nPC B – Allround Pro\nPC C – Performance Plus\n\n\n\n\nCPU\nIntel Core i5‑12400 (6 Cores, 4.4 GHz Boost)\nAMD Ryzen 5 5600X (6 Cores, 4.6 GHz Boost)\nIntel Core i7‑13700 (16 Cores, 5.2 GHz Boost)\n\n\nRAM\n16 GB DDR4‑3200\n32 GB DDR4‑3600\n32 GB DDR5‑5200\n\n\nSSD\n512 GB NVMe\n1 TB NVMe\n1 TB NVMe Gen4\n\n\nGrafik\nIntel UHD 730 (iGPU)\nNVIDIA GTX 1660 Super\nNVIDIA RTX 4070\n\n\nEnergieeffizienz\n65 W TDP CPU\n65 W CPU + 125 W GPU\n125 W CPU + 200 W GPU\n\n\nPreis\nca. 750 €\nca. 1.200 €\nca. 2.000 €\n\n\nNutzen\n3.6\n3.9\n3.8\n\n\n\nNach den vorgegeben Kriterien gewinnt PC B - Allround Pro.",
-    "crumbs": [
-      "Nutzwertanalyse"
-    ]
-  },
-  {
-    "objectID": "04_Nutzwertanalyse.html#section",
-    "href": "04_Nutzwertanalyse.html#section",
-    "title": "Nutzwertanalyse",
+    "objectID": "01_Willkommen_Struktur.html#section",
+    "href": "01_Willkommen_Struktur.html#section",
+    "title": "Willkommen in LF2!",
     "section": "",
     "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!",
     "crumbs": [
-      "Nutzwertanalyse"
+      "Willkommen zu LF2 - Themen und Zeitplan"
     ]
+  },
+  {
+    "objectID": "02b_Software.html#ziele",
+    "href": "02b_Software.html#ziele",
+    "title": "Marktgängige IT-Systeme: Software",
+    "section": "Ziele",
+    "text": "Ziele\nGrundlegende Software-Systeme kennen und beurteilen können\n\nUnternehmensanwendungen\nDatenhaltungssysteme\nKommunikationssysteme\nBIOS und UEFI\n\nGrundverständnis für Benutzeroberflächen"
+  },
+  {
+    "objectID": "02b_Software.html#unternehmensanwendungen-erp-system",
+    "href": "02b_Software.html#unternehmensanwendungen-erp-system",
+    "title": "Marktgängige IT-Systeme: Software",
+    "section": "Unternehmensanwendungen: ERP-System",
+    "text": "Unternehmensanwendungen: ERP-System\n\nERP: Enterprise Resource Planning System\nUmfangreiches Werkzeug zur Unterstützung der Ressourcenplanung aller Prozesse eines Unternehmens, z. B. Produktion, Materialwirtschaft und Vertrieb.\nBeispiele\n\nSAP ERP / SAP S/4HANA: global führend; extrem umfangreich, modular, in großen Unternehmen Standard\nMicrosoft Dynamics 365 (ehemals NAV/AX): v. a. im Mittelstand; stark in Microsoft-Ökosystem integriert (Azure, Office, Power Platform)\nOracle ERP Cloud / Oracle NetSuite:: ERP für große Unternehmen, NetSuite für Mittelstand; stark in Finanzmodulen\nSage (Sage 100 / SageX3): beliebt bei KMU (Kleinen und Mittleren Unternehmen); Europa, v. a. DACH\nOdoo: Open Source, modular, flexibel, wächst; v. a. KMU und Startups\n\n\nWeitere: Infor ERP (Produktion, Logistik), IFS (Industrie, Service), Epicor (Fertigung, Supply Chain), Workday (HR), ProAlpha (deutsch, Mittelstand)\n\n\n\nKurz erwähnt auf Lernkarte AP1 2025 Nr. 110"
+  },
+  {
+    "objectID": "02b_Software.html#datenhaltungssysteme",
+    "href": "02b_Software.html#datenhaltungssysteme",
+    "title": "Marktgängige IT-Systeme: Software",
+    "section": "Datenhaltungssysteme",
+    "text": "Datenhaltungssysteme\n\n\nRelationale Datenbanksysteme (RDBMS)\nSpeichern Daten in Tabellen, die durch Beziehungen miteinander verbunden sind\nBeispiele:\n\nMySQL: Open Source, populär\nOracle Database: leistungsfähig, oft in großen Unternehmen\nMicrosoft SQL Server: Integration mit MS-Produkten\n\n\nNoSQL Datenbanksysteme\n\nspeichern unstrukturierte / semi-strukturierte Daten\nskalierbarer, flexibler als relationale Datenbanken\n\nAnwendungsfelder:\n\nContent Management\nSoziale Netzwerke\n\nBeispiele:\n\nMongoDB: Dokumentorientiert\nCassandra: graphenorientiert"
+  },
+  {
+    "objectID": "02b_Software.html#datenhaltungssysteme-oodbms",
+    "href": "02b_Software.html#datenhaltungssysteme-oodbms",
+    "title": "Marktgängige IT-Systeme: Software",
+    "section": "Datenhaltungssysteme: OODBMS",
+    "text": "Datenhaltungssysteme: OODBMS\n\nObjektorientierte Datenbank-Managementsysteme\n\nspeichern Daten direkt als Objekte\nObjekte bleiben als Ganzes erhalten, inkl. Attribute und Methoden\nAnwendungsbereiche: Simulationen, CAD/CAM, Telekommunikation, Echtzeit-Systeme\n\nBeispiele\n\n\ndb4o: Database for Objekts, direkt in Java und .NET integrierbar\nObjectDB: java-basiert, oft in Enterprise-Java-Projekten genutzt\nVersant Object Database: kommerziell, für große, komplexe Systeme\n\n\nAbgrenzung zu NoSQL: OODMBS speichern Methoden, unterstützen Vererbung, bieten vollständige Objekt-Persistenz"
+  },
+  {
+    "objectID": "02b_Software.html#kommunikationssysteme",
+    "href": "02b_Software.html#kommunikationssysteme",
+    "title": "Marktgängige IT-Systeme: Software",
+    "section": "Kommunikationssysteme",
+    "text": "Kommunikationssysteme"
+  },
+  {
+    "objectID": "02b_Software.html#benutzeroberflächen",
+    "href": "02b_Software.html#benutzeroberflächen",
+    "title": "Marktgängige IT-Systeme: Software",
+    "section": "Benutzeroberflächen",
+    "text": "Benutzeroberflächen"
+  },
+  {
+    "objectID": "02b_Software.html#bios-und-uefi",
+    "href": "02b_Software.html#bios-und-uefi",
+    "title": "Marktgängige IT-Systeme: Software",
+    "section": "BIOS und UEFI",
+    "text": "BIOS und UEFI\nZum Starten eines PC-Systems setzte man lange Zeit auf das BIOS (Basic Input Output System). Der Nachfolger des lange bewährten BIOS ist das UEFI (Unified Extensible Firmware Interface).\nBitte vergleiche BIOS mit UEFI.\n\nLernkarte AP1 2025 Nr. 139"
+  },
+  {
+    "objectID": "02b_Software.html#bios-und-uefi-1",
+    "href": "02b_Software.html#bios-und-uefi-1",
+    "title": "Marktgängige IT-Systeme: Software",
+    "section": "BIOS und UEFI",
+    "text": "BIOS und UEFI\n\n\nBIOS (Basic Input Output System)\n\nkeine Mausbedienung möglich\nkann nur vom Master-Boot-Record starten\nkann nur von Laufwerken bis 2 TB booten\n\n\nUEFI (Unified Extensible Firmware Interface)\n\nkann auch von Laufwerken mit 2,2 TB oder mehr booten\ngrafische Benutzeroberfläche mit Mausbedienung\nunterstützt 64-Bit-Prozessoren nativ ab Werk\nTreiber lassen sich als Modul nachladen\nnutzt GPT-Partitionierungsschema (GUID Partition Table)\nkann von VM-Container starten\n\n\n\nLernkarte AP1 2025 Nr. 139"
+  },
+  {
+    "objectID": "02b_Software.html#section",
+    "href": "02b_Software.html#section",
+    "title": "Marktgängige IT-Systeme: Software",
+    "section": "",
+    "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!"
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#ist-zustand-erfassen",
+    "href": "03b_Istzustand-erfassen.html#ist-zustand-erfassen",
+    "title": "Istzustand erfassen",
+    "section": "Ist-Zustand erfassen",
+    "text": "Ist-Zustand erfassen\nZiele\n\nVorteile und Nachteile der Methoden verstehen:\n\nInterview\nFragebogen\nBeobachtung\n\nEntscheiden, welche Methode eingesetzt wird",
+    "crumbs": [
+      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+    ]
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#interview",
+    "href": "03b_Istzustand-erfassen.html#interview",
+    "title": "Istzustand erfassen",
+    "section": "Interview",
+    "text": "Interview\n\nDirekte Befragung der Beteiligten zu einem oder mehreren Themenkomplexen.\n\n\nVorteile\n\npersönlicher Kontakt fördert Bereitschaft zur Auskunft\nUnklarheiten können sofort geklärt werden\n\n\nNachteile\n\nhoher Zeitaufwand\nAntworten oft subjektiv geprägt\nFakten schwerer zu erfassen",
+    "crumbs": [
+      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+    ]
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#fragebogen",
+    "href": "03b_Istzustand-erfassen.html#fragebogen",
+    "title": "Istzustand erfassen",
+    "section": "Fragebogen",
+    "text": "Fragebogen\n\n\nKann geschlossene oder offene Fragen enthalten\nGeschlossen: Single Choice (Radiobuttons) oder Multiple Choice (Checkboxes)\n\n\n\nVorteile\n\nmehr Personen befragbar als beim Interview\ngeringerer Zeitaufwand\nkeine zusätzliche Dokumentation der Antworten\nautomatische Auswertung möglich\n\n\nNachteile\n\nhöherer Vorbereitungsaufwand\noft geringer Rücklauf\nVerzerrungen bei Nicht-Teilnahme möglich!\nUnklarheiten schwerer zu klären",
+    "crumbs": [
+      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+    ]
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#fragebogen-1",
+    "href": "03b_Istzustand-erfassen.html#fragebogen-1",
+    "title": "Istzustand erfassen",
+    "section": "Fragebogen",
+    "text": "Fragebogen",
+    "crumbs": [
+      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+    ]
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#beobachtung",
+    "href": "03b_Istzustand-erfassen.html#beobachtung",
+    "title": "Istzustand erfassen",
+    "section": "Beobachtung",
+    "text": "Beobachtung\n\nProzesse werden vor Ort direkt begleitet und analysiert.\n\n\nVorteile\n\nProzesse weitgehend objektiv beobachtbar\neffektive Erfassung möglich\nfür zeitliche und quantitative Informationen über den Prozess geeignet\n\n\nNachteile\n\nhoher Zeitaufwand\nmanchmal können nur kleine Ausschnitte eines Prozesses beobachtet werden\nBeobachtungen werden meist als unangenehm empfunden",
+    "crumbs": [
+      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+    ]
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#auswahl-einer-methode",
+    "href": "03b_Istzustand-erfassen.html#auswahl-einer-methode",
+    "title": "Istzustand erfassen",
+    "section": "Auswahl einer Methode",
+    "text": "Auswahl einer Methode\n\nAufgabe: Entscheiden Sie sich jeweils für eine Methode der Informationserfassung. Begründen Sie Ihre Entscheidung.\nInterview? Fragebogen? Beobachtung?\n\nVerbesserung des Webauftritts eines Unternehmens\nErstellung eines Softwaremoduls für Einkauf, Lagerung und Verkauf von Waren\nEntwicklung einer Softwaresimulation für ein Ampelkreuzungssystem",
+    "crumbs": [
+      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+    ]
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#webauftritt-verbessern",
+    "href": "03b_Istzustand-erfassen.html#webauftritt-verbessern",
+    "title": "Istzustand erfassen",
+    "section": "Webauftritt verbessern",
+    "text": "Webauftritt verbessern\nVorschlag: Fragebogen\n\n\nEs geht darum, die Bedürfnisse und Präferenzen der Nutzer zu verstehen\nFragebogen gut geeignet, um Feedback von größerer Personengruppe zu erhalten: verschiedene Nutzergruppen\nFragen z. B. zu Benutzerfreundlichkeit, gewünschte Funktionen, Design",
+    "crumbs": [
+      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+    ]
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#softwaremodul-für-waren",
+    "href": "03b_Istzustand-erfassen.html#softwaremodul-für-waren",
+    "title": "Istzustand erfassen",
+    "section": "Softwaremodul für Waren",
+    "text": "Softwaremodul für Waren\nVorschlag: Interview\n\n\nSoftwaremodul für Geschäftsprozesse: erfordert detaillierte Erfassung der Anforderungen von Personen, die direkt mit den Prozessen arbeiten\nInterviews mit Einkaufs-, Lager- und Verkaufspersonal: präzise Erfassung der Abläufe, Anforderungen an die Datenverarbeitung, erforderliche Funktionen\nermöglicht genaue Ausrichtung des Softwaremoduls auf die tatsächlichen Geschäftsbedürfnisse",
+    "crumbs": [
+      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+    ]
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#softwaresimulation-für-ampelkreuzungssystem",
+    "href": "03b_Istzustand-erfassen.html#softwaresimulation-für-ampelkreuzungssystem",
+    "title": "Istzustand erfassen",
+    "section": "Softwaresimulation für Ampelkreuzungssystem",
+    "text": "Softwaresimulation für Ampelkreuzungssystem\nVorschlag: Beobachtung\n\n\nhier wichtig: reales Verhalten und Interaktionen im Verkehrsumfeld zu verstehen\nBeobachtung vor Ort: Informationen über Verkehrsfluss, Verhaltensmuster der Fahrer, Verkehrsprobleme\nSo kann eine realistische, effektive Simulation entwickelt werden, die den tatsächlichen Bedingungen entspricht",
+    "crumbs": [
+      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+    ]
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#section",
+    "href": "03b_Istzustand-erfassen.html#section",
+    "title": "Istzustand erfassen",
+    "section": "",
+    "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!",
+    "crumbs": [
+      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+    ]
+  },
+  {
+    "objectID": "05_Elektrik-Grundlagen.html#elektrische-größen-spannung",
+    "href": "05_Elektrik-Grundlagen.html#elektrische-größen-spannung",
+    "title": "Elektrik Grundlagen",
+    "section": "Elektrische Größen: Spannung",
+    "text": "Elektrische Größen: Spannung\n\n\nTreibende Kraft, “Druck”, der die elektrischen Ladungen antreibt\nEinheit: Volt (V)\nFormelzeichen: U\nTypische Spannungen:\n\nSteckdose: 230V Wechselspannung\nIn Computern: Niedrigere Gleichspannungen\n\nLeistungshungrige PC-Komponenten wie Grafikkarten (GPU), Prozessor-Spannungswandler, Lüfter: 12V\nFestplatten / SSD, USB-Anschlüsse, Standby-Funktionen: 5V\nArbeitsspeicher (RAM), PCIe-Steckplätze, Chipsatz auf Mainboard: 3,3V\nCPUs und GPUs arbeiten intern mit noch geringeren Spannungen"
+  },
+  {
+    "objectID": "05_Elektrik-Grundlagen.html#elektrische-größen-strom",
+    "href": "05_Elektrik-Grundlagen.html#elektrische-größen-strom",
+    "title": "Elektrik Grundlagen",
+    "section": "Elektrische Größen: Strom",
+    "text": "Elektrische Größen: Strom\n\n\nBernstein zieht leichte Körper an, wenn er vorher mit Tüchern gerieben wird\nElektrizität abgeleitet von griech. elektron für Bernstein\nStromstärke: Menge an Ladung, die pro Zeit durch den Leiter fließt\nEinheit: Ampere (A)\nFormelzeichen: I\nTypische Stromstärken im PC (erstaunlich hoch: hohe Leistung bei niedrigen Spannungen)\n\nauf 12V-Schiene: Größenordnung 30 bis &gt;70 Ampere\nauf 5V-Schiene: Größenordnung 15 bis 20 Ampere\nauf 3,3V-Schiene: Größenordnung 15 bis 20 Ampere"
+  },
+  {
+    "objectID": "05_Elektrik-Grundlagen.html#elektrische-größen-widerstand",
+    "href": "05_Elektrik-Grundlagen.html#elektrische-größen-widerstand",
+    "title": "Elektrik Grundlagen",
+    "section": "Elektrische Größen: Widerstand",
+    "text": "Elektrische Größen: Widerstand\n\n\nHindernis, das dem Stromfluss entgegengesetzt wird\nEinheit: Ohm (Ω)\nFormelzeichen: R\nIm PC: Innenwiderstand von CPU und GPU dynamisch\n\nunter Last extrem niedrig für hohe Ströme\nim Leerlauf werden Transistoren geschlossen, Widerstand steigt massiv, es fließt kaum noch Strom"
+  },
+  {
+    "objectID": "05_Elektrik-Grundlagen.html#ohmsches-gesetz",
+    "href": "05_Elektrik-Grundlagen.html#ohmsches-gesetz",
+    "title": "Elektrik Grundlagen",
+    "section": "Ohmsches Gesetz",
+    "text": "Ohmsches Gesetz\n\nEs betrachtet den Widerstand als konstant. Dann gilt:\nDie Stärke des durch ein Objekt fließenden elektrischen Stroms ist proportional der elektrischen Spannung.\nFormel, aufgelöst nach Spannung\n\n\\[\nU = R \\cdot I\n\\]\n\nFormel, aufgelöst nach Strom\n\n\\[\nI = \\frac{U}{R}\n\\]\n\nFormel, aufgelöst nach Widerstand\n\n\\[\nR = \\frac{U}{I}\n\\]"
+  },
+  {
+    "objectID": "05_Elektrik-Grundlagen.html#elektrische-leistung",
+    "href": "05_Elektrik-Grundlagen.html#elektrische-leistung",
+    "title": "Elektrik Grundlagen",
+    "section": "Elektrische Leistung",
+    "text": "Elektrische Leistung"
+  },
+  {
+    "objectID": "05_Elektrik-Grundlagen.html#section",
+    "href": "05_Elektrik-Grundlagen.html#section",
+    "title": "Elektrik Grundlagen",
+    "section": "",
+    "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!"
   },
   {
     "objectID": "index.html",
