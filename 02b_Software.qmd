@@ -22,6 +22,7 @@ callout-appearance: simple
 - Unternehmensanwendungen
 - Datenhaltungssysteme
 - Kommunikationssysteme
+- BIOS und UEFI
 
 #### Grundverständnis für Benutzeroberflächen
 
@@ -197,6 +198,49 @@ Abgrenzung zu NoSQL: OODMBS speichern Methoden, unterstützen Vererbung, bieten 
 ## Benutzeroberflächen
 
 
+## BIOS und UEFI
+
+Zum Starten eines PC-Systems setzte man lange Zeit auf das **BIOS** *(Basic Input Output System)*. Der Nachfolger des lange bewährten BIOS ist das **UEFI** *(Unified Extensible Firmware Interface)*.
+
+**Bitte vergleiche BIOS mit UEFI.**
+
+::: notes
+Lernkarte AP1 2025 Nr. 139
+:::
+
+
+## BIOS und UEFI
+
+:::: {.columns style="font-size: 1.8rem"}
+::: column
+
+#### BIOS *(Basic Input Output System)*
+
+- keine Mausbedienung möglich
+- kann nur vom Master-Boot-Record starten
+- kann nur von Laufwerken bis 2 TB booten
+:::
+
+::: column
+
+#### UEFI *(Unified Extensible Firmware Interface)*
+
+::: incremental
+
+- kann auch von Laufwerken mit 2,2 TB oder mehr booten
+- grafische Benutzeroberfläche mit Mausbedienung
+- unterstützt 64-Bit-Prozessoren nativ ab Werk
+- Treiber lassen sich als Modul nachladen
+- nutzt GPT-Partitionierungsschema *(GUID Partition Table)*
+- kann von VM-Container starten
+
+:::
+:::
+::::
+
+::: notes
+Lernkarte AP1 2025 Nr. 139
+:::
 
 
 ## <!-- -->
