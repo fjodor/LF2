@@ -325,6 +325,48 @@ Aufgabe: FAZ, SAZ, FEZ, SEZ sowie GP und FP berechnen.
 
 :::
 
+::: notes
+Beispiel für Netzplan, Schritt für Schritt:
+https://www.modu-learn.de/verstehen/management/netzplantechnik/
+:::
+
+
+## Netzplan: Prüfungstipps
+
+:::: {style="font-size: 1.9rem"}
+
+Vorgehen für Netzplan-Aufgaben in der IHK-Prüfung:
+
+1. **Plan abzeichnen**, Dauern eintragen
+2. **Vorwärtsrechnung:** FAZ und FEZ von links nach rechts - immer das **Maximum** der Vorgänger nehmen
+3. **Rückwärtsrechnung:** SEZ und SAZ von rechts nach links - immer das **Minimum** der Nachfolger nehmen
+4. **Puffer berechnen:** GP = SAZ - FAZ
+5. **Kritischen Pfad markieren:** Alle Vorgänge mit GP = 0
+6. **Kontrolle:** Projektdauer ist der FEZ des letzten Knotens
+
+::::
+
+
+## Netzplan: Typische Fallen
+
+:::: {style="font-size: 2rem"}
+
+::: incremental
+
+- Vergessen, das **Maximum** bei mehreren Vorgängern zu nehmen (Vorwärtsrechnung)
+- **GP und FP verwechseln:** GP bezieht sich auf Projektende, FP auf den Nachfolger
+- Den kritischen Pfad nur am Anfang und Ende ablesen, statt **alle** Vorgänge mit GP = 0 zu prüfen
+
+:::
+
+Netzpläne üben: <https://it-lernapp.de/courses/7> (kostenloses Login erstellen)
+
+::::
+
+::: notes
+Quelle: https://it-lernapp.de/courses/7
+:::
+
 
 ## Projektmanagement: SMART
 
