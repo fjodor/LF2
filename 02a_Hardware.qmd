@@ -119,6 +119,102 @@ Lernkarte AP1 2025 Nr. 183
 :::
 
 
+## Speicher: SATA-SSD
+
+:::: {.columns style="font-size: 1.9rem"}
+::: {.column .incremental}
+
+### Vorteile
+
+- Kostengünstig: SATA-SSDs meist preiswerter als M.2-SSDs
+- Kompatibilität: Standard-SATA-Anschlüsse auf den meisten Mainboards vorhanden
+- Zuverlässigkeit: Breit einsetzbar, sowohl im 24/7-Betrieb als auch im Notebook-Bereich
+
+:::
+
+::: {.column .incremental}
+
+### Nachteile
+
+- Geringe Geschwindigkeit gegenüber NVMe-SSDs *(Non Volatile Memory express)*
+- Begrenzte Bandbreite durch die maximale Datenübertragungsrate der SATA-Schnittstelle <br>(SATA III: 6 Gb/s, max. 600 MB/s)
+- Ungeeignet für High-End-Anwendungen wie Foto- und Videobearbeitung
+
+:::
+::::
+
+::: notes
+Lernkarte AP1 2025 Nr. 113
+:::
+
+
+## Speicher: M.2-SSD
+
+:::: {.columns style="font-size: 1.8rem"}
+::: {.column .incremental}
+
+### Vorteile
+
+- Lesegeschwindigkeiten von bis zu 7.450 MB/s
+- kleines kompaktes Design, das keinen zusätzlichen Platz benötigt
+- keine Verkabelung notwendig, wird direkt auf das Motherboard gesteckt
+- NVMe-Unterstützung *(Non Volatile Memory express)*
+
+:::
+
+::: {.column .incremental}
+
+### Nachteile
+
+- Preis: teurer als SATA-SSDs
+- Kompatibilität: noch nicht alle Motherboards unterstützen M.2-SSDs
+- Wärmeentwicklung: M.2-SSDs können bei intensiver Nutzung heiß werden
+- Speicherkapazität: M.2-SSDs bieten geringere Kapazitäten als SATA-SSDs
+
+:::
+::::
+
+::: notes
+Lernkarte AP1 2025 Nr. 112
+:::
+
+
+## Speicher: NAS
+
+::: {.incremental style="font-size: 1.8rem"}
+
+- NAS = *Network Attached Storage*; **netzgebundener Speicher**
+- einfach zu verwaltender **Dateiserver** mit eigenem Dateisystem (Ext4 / Btrfs) und **Management-Oberfläche**
+- Einsatz: Heimbereich und KMU (kleine und mittlere Unternehmen)
+- bietet unabhängige Speicherkapazität in lokalem Rechnernetz
+- Managementoberfläche: Einstellungen via HTTPS, z. B. Benutzerverwaltung, Integration Active Directory, Aktivierung von Services und Sync-Funktionen
+- NAS hat einen oder mehrere Netzwerkanschlüsse (Ethernet / Fibre Channel) und oft 2 Netzteile
+
+:::
+
+::: notes
+Lernkarte AP1 2025 Nr. 78
+:::
+
+
+## Speicher: SAN
+
+::: {.incremental style="font-size: 1.8rem"}
+
+- SAN = *Storage Area Network*
+- bietet blockbasierten Speicher, der das vom Server bereitgestellte Dateisystem über logische Festplatteneinheiten (LUNs, *Logical Unit Number*) verbindet
+- ohne eigenes Betriebssystem
+- mehrfache Zugriffe von verschiedenen Servern möglich, abhängig vom bereitgestellten Dateisystem (z. B. VMFS)
+- verschiedene Implementierungen, um auf SANs zuzugreifen, z. B. ISCSI, Fibre-Channel, ATA over Ethernet, InfiniBand
+- RAID-Systeme *(Redundant Array of Independent Discs)* für Desaster-Toleranz bzw. Datenredundanz
+
+:::
+
+::: notes
+Lernkarte AP1 2025 Nr. 79
+:::
+  
+
 ## Thin Clients
 
 ::: {.incremental style="font-size: 1.8rem"}
@@ -212,7 +308,7 @@ Lernkarte AP1 2025 Nr. 54
 
 <br>
 
-::: {style="font-size: 2.1rem"}
+::: {.fragment style="font-size: 2.1rem"}
 
 **UHD (Ultra High Definition) 4K** bezeichnet ein digitales Videoformat der *International Telecommunication Union (ITU)* für Ultra High Definition Television (**UHDTV** oder **Ultra HDTV**) sowie Ultra High Definition Video (**UHDV**).
 
