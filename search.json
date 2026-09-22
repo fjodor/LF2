@@ -491,7 +491,14 @@
     "href": "02a_Hardware.html#thin-clients",
     "title": "IT Hardware",
     "section": "Thin Clients",
-    "text": "Thin Clients\n\n\nschlanker Arbeitsplatz-Computer fast ohne eigene Rechenleistung\nAnwendungen laufen auf Server; Thin Client dient als Eingabe- / Ausgabe-Terminal\nVorteile:\n\ngeringerer Stromverbrauch, geringes Gewicht, geringer Platzbedarf\ngeräuschloser Arbeitsplatzcomputer\nleicht austauschbar\numweltfreundlich: weniger Materialeinsatz, weniger Abwärme\nflexibel einsetzbar: es muss kein Betriebssystem installiert werden\nkeine Chance für Viren, Würmer, Trojaner: Read-Only-Betriebssystem\n\n\n\n\nLernkarte AP1 2025 Nr. 146"
+    "text": "Thin Clients\n\nUnternehmen, die ein Rechenzentrum betreiben, setzen vermehrt auf die Vorteile der Virtualisierung. In diesem Zusammenhang wird oftmals der Begriff Thin Client benutzt. Was versteht man darunter?\n\nThin Client = dünner, schlanker bzw. magerer Client\nComputer, der über ein Netzwerk Ressourcen nutzt, die ihm ein Server bereitstellt\nVDI: virtuelle Desktop-Infrastruktur setzt auf Thin Clients -&gt; Vorteile der Virtualisierung des kompletten Rechenzentrums\nThin Client, manchmal Zero-Clients genannt: lüfterlose Geräte\nAnschlüsse: USB, Netzwerk, Audio und Display\nVom Server: persönliche Benutzeroberfläche, Konfiguration, Zugriffe auf Verzeichnisse, installierte Programme\numwelt- und ressourcenschonend, geringe Leistungsaufnahme\n\n\n\nLernkarte AP1 2025 Nr. 60"
+  },
+  {
+    "objectID": "02a_Hardware.html#thin-clients-vorteile",
+    "href": "02a_Hardware.html#thin-clients-vorteile",
+    "title": "IT Hardware",
+    "section": "Thin Clients: Vorteile",
+    "text": "Thin Clients: Vorteile\n\n\nschlanker Arbeitsplatz-Computer fast ohne eigene Rechenleistung\nAnwendungen laufen auf Server; Thin Client dient als Eingabe- / Ausgabe-Terminal\nVorteile:\n\ngeringerer Stromverbrauch, geringes Gewicht, geringer Platzbedarf\ngeräuschloser Arbeitsplatzcomputer\nleicht austauschbar\numweltfreundlich: weniger Materialeinsatz, weniger Abwärme\nflexibel einsetzbar: es muss kein Betriebssystem installiert werden\nkeine Chance für Viren, Würmer, Trojaner: Read-Only-Betriebssystem\n\n\n\n\nLernkarte AP1 2025 Nr. 146"
   },
   {
     "objectID": "02a_Hardware.html#pc-verarbeitungsgeschwindigkeit-verbessern",
@@ -555,6 +562,13 @@
     "title": "IT Hardware",
     "section": "Grafik: Schnittstellen für 4K, 8K",
     "text": "Grafik: Schnittstellen für 4K, 8K\n\n\n\n\nSchnittstelle\nmax. Übertragungsrate\nmax. Auflösung\n\n\n\n\nHDMI 1.4\n10,2 GBit/s\nFull-HD (1920x1080)\n\n\nHDMI 2.0\n18,0 GBit/s\n4K (3840 x 2160)\n\n\nHDMI 2.1\n38,4 GBit/s\n8K (7680 x 4320)\n\n\nDisplayPort 1.3\n25,9 GBit/s\n8K (7680 x 4320)\n\n\nDisplayPort 1.4\n32,4 GBit/s\n8K (7680 x 4320)\n\n\n\n\nKinostandard DCI-4K: 4096 x 2160; ca. 17:9\nKinostandard DCI-8K: 8192 x 4320; ca. 17:9"
+  },
+  {
+    "objectID": "02a_Hardware.html#eingabe--vs.-ausgabegeräte",
+    "href": "02a_Hardware.html#eingabe--vs.-ausgabegeräte",
+    "title": "IT Hardware",
+    "section": "Eingabe- vs. Ausgabegeräte",
+    "text": "Eingabe- vs. Ausgabegeräte\n\n\nWelche IT-Komponenten sind Ein- oder Ausgabegeräte?\n\nDrucker\nScanner\nMaus\nDisplay\nTouchpad\n\n\nEingabe\n\nScanner\nMaus\nTouchpad\n\nAusgabe\n\nDrucker\nDisplay\n\n\n\nLernkarte AP1 2025 Nr. 61"
   },
   {
     "objectID": "02a_Hardware.html#section",
@@ -782,6 +796,16 @@
     "title": "Istzustand erfassen",
     "section": "Softwaresimulation für Ampelkreuzungssystem",
     "text": "Softwaresimulation für Ampelkreuzungssystem\nVorschlag: Beobachtung\n\n\nhier wichtig: reales Verhalten und Interaktionen im Verkehrsumfeld zu verstehen\nBeobachtung vor Ort: Informationen über Verkehrsfluss, Verhaltensmuster der Fahrer, Verkehrsprobleme\nSo kann eine realistische, effektive Simulation entwickelt werden, die den tatsächlichen Bedingungen entspricht",
+    "crumbs": [
+      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+    ]
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#kundenbefragungen-allgemein",
+    "href": "03b_Istzustand-erfassen.html#kundenbefragungen-allgemein",
+    "title": "Istzustand erfassen",
+    "section": "Kundenbefragungen allgemein",
+    "text": "Kundenbefragungen allgemein\n\nDurch Kundenbefragungen können zentrale Punkte beantwortet werden:\n\nKundenzufriedenheit\nTrends\ndas Image des Unternehmens\ndie Marktposition des Unternehmens\nKundenbindung\nErfolg von Werbemaßnahmen\n\n\n\nLernkarte AP1 2025 Nr. 39",
     "crumbs": [
       "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
     ]
