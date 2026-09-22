@@ -2,7 +2,7 @@
 title: "IT Hardware"
 title-slide-attributes:
   data-background-color: "#D7E6F4"
-subtitle: " "
+subtitle: "Anforderungen an Büroarbeitsplätze"
 format:
   revealjs:
     theme: simple
@@ -14,6 +14,55 @@ execute:
   message: false
 callout-appearance: simple
 ---
+
+## Büroarbeitsplatz: Ergonomie Bildschirm
+
+:::: {.incremental style="font-size: 1.6rem"}
+
+**Welche Anforderungen muss ein ergonomischer PC-Arbeitsplatz erfüllen?**
+
+- Allgemeine Ergonomie in **Richtlinie 90/270/EWG** geregelt
+- enthält Mindestvorschriften bzgl. Arbei an **Bildschirmgeräten**:
+- **Oberste** Bildschirm**zeile** des Monitors **leicht unterhalb der Sehachse** des Mitarbeitenden
+- **Mindestabstand** von **50cm** zum Bildschirm ist zu gewährleisten
+- Bildschirm so einrichten, dass er **frei von** störenden **Reflexionen und Blendungen** ist
+- Bildschirm muss **frei stehen** und **leicht drehbar** sowie **neigbar** sein
+- Arbeitshöhe und Sitzhöhe müssen sich an die Körperhöhe anpassen lassen
+- Winkel von **90° zwischen Ober- und Unterarm sowie Ober- und Unterschenkel** ist optimal
+- Genug Bewegungsspielraum für die Beine
+- Natürliche Körperhaltung muss möglich sein
+
+Weiteres: **Arbeitsstättenverordnung (ArbStättV)**
+
+::::
+
+::: notes
+Lernkarte AP1 2025 Nr. 223
+:::
+
+
+## Arbeitsstättenverordnung (ArbStättV)
+
+:::: {.incremental style="font-size: 1.7rem"}
+
+Regelungen zum Einrichten eines Bildschirmarbeitsplatzes:
+
+- Zeichen auf dem Bildschirm müssen **scharf, deutlich, ausreichend groß** dargestellt sein
+- Bild muss **stabil, flimmerfrei, ohne Verzerrungen** dargestellt werden
+- **Helligkeit** und **Kontrast** des Bildschirms müssen einstellbar sein
+- Bildschirm so einrichten, dass er **frei von** störenden **Reflexionen und Blendungen** ist
+- Bildschirm muss **frei stehen** und **leicht drehbar** sowie **neigbar** sein
+- **Tastatur** muss vom Bildschirmgerät getrennt und **neigbar** sein, damit eine ergonomische Arbeitshaltung eingenommen werden kann
+- **Tastatur** muss eine **Auflagemöglichkeit für die Hände** bieten
+- PC-Tastatur muss eine reflexionsarme Oberfläche besitzen
+- **Tastaturbeschriftung** muss sich vom Untergrund deutlich abheben und bei normaler Arbeitshaltung lesbar sein
+
+::::
+
+::: notes
+Lernkarte AP1 2025 Nr. 224
+:::
+
 
 ## CPU: Cache
 
