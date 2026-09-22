@@ -7,6 +7,20 @@
     "text": "Was ist ein Projekt? Merkmale\n\n\nEinmaligkeit: Ein Projekt wird in der Regel nur einmal ausgeführt und ist kein Prozess, der sich regelmäßig wiederholt.\nKlares Ziel: In jedem Projekt wird ein bestimmtes Ergebnis oder Ziel verfolgt.\nZeitliche Befristung: Projekte haben einen festgelegten Start- und Endzeitpunkt.\nInterdisziplinär: Eine Notwendigkeit ist oft die Zusammenarbeit mit verschiedenen Fachbereichen.\nRisikobehaftet: Projekte sind mit Unsicherheiten und Risiken verbunden.\nRahmenbedingungen: Ein Projekt hat begrenzte Ressourcen, wie Geld, Personal, Zeit und hat klare Abgrenzungen zu anderen Projekten.\n\n\n\nLernkarte AP1 2025 Nr. 1"
   },
   {
+    "objectID": "06_Projektorganisation.html#lastenheft",
+    "href": "06_Projektorganisation.html#lastenheft",
+    "title": "Projektorganisation",
+    "section": "Lastenheft",
+    "text": "Lastenheft\n\n\nLastenheft: Anforderungs- oder Kundenspezifikation\nbeschreibt Gesamtheit der Anforderungen bzw. Spezifikationen des Auftraggebers an die Lieferungen und Leistungen seines Auftragnehmers\nenthält die an das zu entwickelnde Produkt gestellten funktionalen sowie nicht-funktionalen Anforderungen (Gesetze / Vorschriften)\ndient als Basis für die Ausschreibung sowie Vertragsgestaltung\ntypische Angaben: Lieferzeit, Lieferumfang, Kosten\nDas akzeptierte Lastenheft ist für beide Parteien rechtlich bindend.\n\n\n\nLernkarte AP1 2025 Nr. 149"
+  },
+  {
+    "objectID": "06_Projektorganisation.html#pflichtenheft",
+    "href": "06_Projektorganisation.html#pflichtenheft",
+    "title": "Projektorganisation",
+    "section": "Pflichtenheft",
+    "text": "Pflichtenheft\n\n\nbeschreibt in detaillierter Form, wie der Auftragnehmer die Anforderungen des Auftraggebers umsetzen möchte\n“Wie und Womit” der Auftrag erfüllt werden soll\nIhalt des Pflichtenheftes für beide Parteien rechtlich bindend, solange nicht beide Parteien Änderungen / Ergänzungen zulassen\nUmsetzung durch Auftragnehmer beginnt erst, wenn Auftraggeber das Pflichtenheft akzeptiert!\nAgile Entwicklungsmodelle: Änderungen können in diesen Prozess einfließen\n\n\n\nLernkarte AP1 2025 Nr. 147"
+  },
+  {
     "objectID": "06_Projektorganisation.html#projektstrukturplan",
     "href": "06_Projektorganisation.html#projektstrukturplan",
     "title": "Projektorganisation",
@@ -389,6 +403,20 @@
     ]
   },
   {
+    "objectID": "02a_Hardware.html#büroarbeitsplatz-ergonomie-bildschirm",
+    "href": "02a_Hardware.html#büroarbeitsplatz-ergonomie-bildschirm",
+    "title": "IT Hardware",
+    "section": "Büroarbeitsplatz: Ergonomie Bildschirm",
+    "text": "Büroarbeitsplatz: Ergonomie Bildschirm\n\nWelche Anforderungen muss ein ergonomischer PC-Arbeitsplatz erfüllen?\n\nAllgemeine Ergonomie in Richtlinie 90/270/EWG geregelt\nenthält Mindestvorschriften bzgl. Arbei an Bildschirmgeräten:\nOberste Bildschirmzeile des Monitors leicht unterhalb der Sehachse des Mitarbeitenden\nMindestabstand von 50cm zum Bildschirm ist zu gewährleisten\nBildschirm so einrichten, dass er frei von störenden Reflexionen und Blendungen ist\nBildschirm muss frei stehen und leicht drehbar sowie neigbar sein\nArbeitshöhe und Sitzhöhe müssen sich an die Körperhöhe anpassen lassen\nWinkel von 90° zwischen Ober- und Unterarm sowie Ober- und Unterschenkel ist optimal\nGenug Bewegungsspielraum für die Beine\nNatürliche Körperhaltung muss möglich sein\n\nWeiteres: Arbeitsstättenverordnung (ArbStättV)\n\n\nLernkarte AP1 2025 Nr. 223"
+  },
+  {
+    "objectID": "02a_Hardware.html#arbeitsstättenverordnung-arbstättv",
+    "href": "02a_Hardware.html#arbeitsstättenverordnung-arbstättv",
+    "title": "IT Hardware",
+    "section": "Arbeitsstättenverordnung (ArbStättV)",
+    "text": "Arbeitsstättenverordnung (ArbStättV)\n\nRegelungen zum Einrichten eines Bildschirmarbeitsplatzes:\n\nZeichen auf dem Bildschirm müssen scharf, deutlich, ausreichend groß dargestellt sein\nBild muss stabil, flimmerfrei, ohne Verzerrungen dargestellt werden\nHelligkeit und Kontrast des Bildschirms müssen einstellbar sein\nBildschirm so einrichten, dass er frei von störenden Reflexionen und Blendungen ist\nBildschirm muss frei stehen und leicht drehbar sowie neigbar sein\nTastatur muss vom Bildschirmgerät getrennt und neigbar sein, damit eine ergonomische Arbeitshaltung eingenommen werden kann\nTastatur muss eine Auflagemöglichkeit für die Hände bieten\nPC-Tastatur muss eine reflexionsarme Oberfläche besitzen\nTastaturbeschriftung muss sich vom Untergrund deutlich abheben und bei normaler Arbeitshaltung lesbar sein\n\n\n\nLernkarte AP1 2025 Nr. 224"
+  },
+  {
     "objectID": "02a_Hardware.html#cpu-cache",
     "href": "02a_Hardware.html#cpu-cache",
     "title": "IT Hardware",
@@ -422,6 +450,13 @@
     "title": "IT Hardware",
     "section": "RAM: Dual Channel Mode",
     "text": "RAM: Dual Channel Mode\n\nWelche Bedingungen müssen beim Einsatz von Arbeitsspeichern im Dual Channel Mode erfüllt sein?\n\nSpeichermodule müssen baugleich sein\nSpeichermodule müssen die gleiche Speicherkapazität besitzen\nSpeichermodule sollten vom Hersteller für den Einsatz auf dem Motherboard bzw. Prozessor zertifiziert sein\nSpeichermodule müssen immer paarweise ergänzt bzw. entfernt werden\n\n\n\nLernkarte AP1 2025 Nr. 183"
+  },
+  {
+    "objectID": "02a_Hardware.html#speicher-smart",
+    "href": "02a_Hardware.html#speicher-smart",
+    "title": "IT Hardware",
+    "section": "Speicher: SMART",
+    "text": "Speicher: SMART\n\nDie Abkürzung SMART begegnet Euch in der IT-Ausbildung (mindestens) 2x.\nIm Projektmanagement: Ziele sollen Spezifisch, Messbar, Aktivierend / Attraktiv, Realistisch und Terminiert sein.\n\nBei Festplatten steht SMART für Self-Monitoring, Analysis and Reporting Technology.\n\n\nSystem zur Selbstüberwachung, Analyse und Statusmeldung\nStandardisiertes Überwachungswerkzeug von Datenträgern (HDD, SSD)\nZiel: frühzeitige Vorhersagen über möglichen Ausfall des gesamten Datenträgers oder einzelner Speicherblöcke\nSMART-Attribute:\n\nInfos wie Temperatur, Einschaltzeit, Laufzeit, Bad Blocks können ausgelesen werden\nnicht standardisiert!\n\n\n\n\nLernkarte AP2 2025 Nr. 179"
   },
   {
     "objectID": "02a_Hardware.html#speicher-sata-ssd",
@@ -473,11 +508,32 @@
     "text": "Notebooks: Technische Merkmale\n\n\nteilweise Anschluss für Dockingstation\nteilweise Mini-PCI-Express-Slot\nteilweise 4-in-1 Kartenlesegerät\nteilweise integriertes Bluetooth, WLAN und WWAN\ninterne Netzwerkkarte\neigenes Display, teilweise Videokamera\nexterne Schnittstellen wie USB, HDMI, DisplayPort (mini), VGA, Firewire\nintegrierte Lautsprecher und Mikrofone\nAkku, externes Netzteil\n\n\n\nLernkarte AP1 2025 Nr. 56"
   },
   {
+    "objectID": "02a_Hardware.html#notebooks-vor--und-nachteile",
+    "href": "02a_Hardware.html#notebooks-vor--und-nachteile",
+    "title": "IT Hardware",
+    "section": "Notebooks: Vor- und Nachteile",
+    "text": "Notebooks: Vor- und Nachteile\n\n\nVorteile\n\nnetzunabhängiges Arbeiten möglich durch Akku\nNetzwerkzugriff mithilfe von WWAN / WLAN Modulen (WWAN = Wireless Wide Area Network / L = Local)\nintegrierte Tastatur, Touchpad (Maus)\nbei stationärer Nutzung wenig Stellfläche notwendig\ngeringerer Stromverbrauch als Desktop PCs\narbeitet in der Regel leiser als ein PC\ndurch Dockingstation erweiterbar\n\n\nNachteile\n\nhohes Gewicht gegenüber Tablet oder Netbook\nproprietäres Netzteil\ngeringe Festplattenspeicherkapazitäten\ntechnische Aufrüstung oft umständlich oder gar nicht möglich\nDisplay oft kleiner als beim Desktop-Gerät\noftmals kein separater Ziffernblock auf der Tastatur verfügbar\n\n\n\nLernkarte AP1 2025 Nr. 152"
+  },
+  {
     "objectID": "02a_Hardware.html#notebooks-dockingstation",
     "href": "02a_Hardware.html#notebooks-dockingstation",
     "title": "IT Hardware",
     "section": "Notebooks: Dockingstation",
     "text": "Notebooks: Dockingstation\n\n\nengl. to dock: andocken, koppeln\nverwendet, um mobile Geräte (Notebooks, PDAs) mit festem Netz zu verbinden\nDockingstation als Portreplikator:\n\nvorhandene Ports werden an die Dockingstation “durchgereicht”\nzusätzliche Schnittstellen, z. B. PS/2, Seriell- und Parallelport, DVI, DisplayPort, HDMI, Sound, Firewire\ndiese Schnittstellen fehlen in mobilen Geräten oft aus Platzgründen\noft 2x HDMI, 2x DVI oder 2x Displayport\n\n\n\n\nLernkarte AP1 2025 Nr. 54"
+  },
+  {
+    "objectID": "02a_Hardware.html#tablets",
+    "href": "02a_Hardware.html#tablets",
+    "title": "IT Hardware",
+    "section": "Tablets",
+    "text": "Tablets\n\n\nVorteile\n\nleichte Handhabung\nlange Akkulaufzeit\nTouchbedienung oder mit Stift\nWLAN oder WWAN Verbindung\nplatzsparend\ngeringes Gewicht\n\n\nNachteile\n\nSchreiben auf der virtuellen Tastatur mit der Zeit anstrengend\ngeringere Speicherkapazität gegenüber Notebooks\nwenige Anschluss- und Verbindungsmöglichkeiten\nin der Regel nicht aufrüstbar\n\n\n\nLernkarte AP1 2025 Nr. 151"
+  },
+  {
+    "objectID": "02a_Hardware.html#convertible",
+    "href": "02a_Hardware.html#convertible",
+    "title": "IT Hardware",
+    "section": "Convertible",
+    "text": "Convertible\n\n\nengl. convertible = verwandelbar\nConvertible = Hybrid-PC, Two-in-One;  wenn Display abnehmbar: Detachable\nNotebook mit Klapp-, Dreh-, Schiebe- oder Klickmechanismus\nbesonders auf Mobilität ausgelegt\nkann in zwei Modi betrieben werden: als Notebook oder Tablet\nLaptop-Modus: Bedienung über Tastatur, Touchpad, Track Point\nTablet: Bedienung über Touchscreen, Digitizer, Eingabestift\n\n\n\nLernkarte AP1 2025 Nr. 150"
   },
   {
     "objectID": "02a_Hardware.html#vorteile-usb-c-vs.-usb-a-usb-b",
