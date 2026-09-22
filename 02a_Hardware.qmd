@@ -119,6 +119,31 @@ Lernkarte AP1 2025 Nr. 183
 :::
 
 
+## Speicher: SMART
+
+:::: {style="font-size: 1.8rem"}
+Die Abkürzung **SMART** begegnet Euch in der IT-Ausbildung (mindestens) 2x.  
+[Im **Projektmanagement**: Ziele sollen *Spezifisch, Messbar, Aktivierend / Attraktiv, Realistisch und Terminiert* sein.]{.fragment}
+
+::: fragment
+Bei Festplatten steht SMART für ***S**elf-**M**onitoring, **A**nalysis and **R**eporting **T**echnology*.
+:::
+
+::: incremental
+- System zur Selbstüberwachung, Analyse und Statusmeldung
+- Standardisiertes Überwachungswerkzeug von Datenträgern (HDD, SSD)
+- Ziel: frühzeitige Vorhersagen über möglichen Ausfall des gesamten Datenträgers oder einzelner Speicherblöcke
+- **SMART**-Attribute:
+  + Infos wie Temperatur, Einschaltzeit, Laufzeit, Bad Blocks können ausgelesen werden
+  + nicht standardisiert!
+:::
+::::
+
+::: notes
+Lernkarte AP2 2025 Nr. 179
+:::
+
+
 ## Speicher: SATA-SSD
 
 :::: {.columns style="font-size: 1.9rem"}
@@ -272,6 +297,42 @@ Lernkarte AP1 2025 Nr. 56
 :::
 
 
+## Notebooks: Vor- und Nachteile
+
+:::: {.columns style="font-size: 1.7rem"}
+::: {.column .incremental}
+
+### Vorteile
+
+- netzunabhängiges Arbeiten möglich durch Akku
+- Netzwerkzugriff mithilfe von WWAN / WLAN Modulen (WWAN = *Wireless Wide Area Network / L = Local*)
+- integrierte Tastatur, Touchpad (Maus)
+- bei stationärer Nutzung wenig Stellfläche notwendig
+- geringerer Stromverbrauch als Desktop PCs
+- arbeitet in der Regel leiser als ein PC
+- durch Dockingstation erweiterbar
+
+:::
+
+::: {.column .incremental}
+
+### Nachteile
+
+- hohes Gewicht gegenüber Tablet oder Netbook
+- proprietäres Netzteil
+- geringe Festplattenspeicherkapazitäten
+- technische Aufrüstung oft umständlich oder gar nicht möglich
+- Display oft kleiner als beim Desktop-Gerät
+- oftmals kein separater Ziffernblock auf der Tastatur verfügbar
+
+:::
+::::
+
+::: notes
+Lernkarte AP1 2025 Nr. 152
+:::
+
+
 ## Notebooks: Dockingstation
 
 ::: {.incremental style="font-size: 2rem"}
@@ -287,6 +348,56 @@ Lernkarte AP1 2025 Nr. 56
 
 ::: notes
 Lernkarte AP1 2025 Nr. 54
+:::
+
+
+## Tablets
+
+:::: {.columns style="font-size: 1.8rem"}
+::: {.column .incremental}
+
+### Vorteile
+
+- leichte Handhabung
+- lange Akkulaufzeit
+- Touchbedienung oder mit Stift
+- WLAN oder WWAN Verbindung
+- platzsparend
+- geringes Gewicht
+:::
+
+::: {.column .incremental}
+
+### Nachteile
+
+- Schreiben auf der virtuellen Tastatur mit der Zeit anstrengend
+- geringere Speicherkapazität gegenüber Notebooks
+- wenige Anschluss- und Verbindungsmöglichkeiten
+- in der Regel nicht aufrüstbar
+
+:::
+::::
+
+::: notes
+Lernkarte AP1 2025 Nr. 151
+:::
+
+
+## Convertible
+
+:::: {.incremental style="font-size: 1.9rem"}
+
+- engl. *convertible* = verwandelbar
+- **Convertible = Hybrid-PC, Two-in-One**; <br> wenn Display abnehmbar: **Detachable**
+- Notebook mit Klapp-, Dreh-, Schiebe- oder Klickmechanismus
+- besonders auf Mobilität ausgelegt
+- kann in zwei Modi betrieben werden: als **Notebook** oder **Tablet**
+- Laptop-Modus: Bedienung über Tastatur, Touchpad, Track Point
+- Tablet: Bedienung über Touchscreen, Digitizer, Eingabestift
+::::
+
+::: notes
+Lernkarte AP1 2025 Nr. 150
 :::
 
 
