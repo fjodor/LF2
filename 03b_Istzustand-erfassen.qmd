@@ -197,6 +197,29 @@ Interview? Fragebogen? Beobachtung?
 :::
 
 
+## Kundenbefragungen allgemein
+
+:::: {style="font-size: 2.2rem"}
+
+Durch **Kundenbefragungen** können zentrale Punkte beantwortet werden:
+
+::: incremental
+
+- Kundenzufriedenheit
+- Trends
+- das Image des Unternehmens
+- die Marktposition des Unternehmens
+- Kundenbindung
+- Erfolg von Werbemaßnahmen
+
+:::
+::::
+
+::: notes
+Lernkarte AP1 2025 Nr. 39
+:::
+
+
 ## <!-- -->
 
 ![](libs/_Images/coffee.jpg){fig-align="center" width="50%"}
