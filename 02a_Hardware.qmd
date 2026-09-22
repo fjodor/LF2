@@ -291,6 +291,29 @@ Lernkarte AP1 2025 Nr. 79
 
 ## Thin Clients
 
+:::: {style="font-size: 1.7rem"}
+Unternehmen, die ein Rechenzentrum betreiben, setzen vermehrt auf die Vorteile der Virtualisierung. In diesem Zusammenhang wird oftmals der Begriff **Thin Client** benutzt. Was versteht man darunter?
+
+::: incremental
+
+- Thin Client = *dünner, schlanker bzw. magerer Client*
+- Computer, der über ein **Netzwerk** Ressourcen nutzt, die ihm ein **Server** bereitstellt
+- **VDI**: *virtuelle Desktop-Infrastruktur* setzt auf Thin Clients -> Vorteile der Virtualisierung des kompletten Rechenzentrums
+- Thin Client, manchmal **Zero-Clients** genannt: lüfterlose Geräte
+- Anschlüsse: USB, Netzwerk, Audio und Display
+- **Vom Server:** persönliche Benutzeroberfläche, Konfiguration, Zugriffe auf Verzeichnisse, installierte Programme
+- umwelt- und ressourcenschonend, geringe Leistungsaufnahme
+
+:::
+::::
+
+::: notes
+Lernkarte AP1 2025 Nr. 60
+:::
+
+
+## Thin Clients: Vorteile
+
 ::: {.incremental style="font-size: 1.8rem"}
 
 - schlanker Arbeitsplatz-Computer fast ohne eigene Rechenleistung
@@ -500,6 +523,41 @@ Kinostandard DCI-8K: 8192 x 4320; ca. 17:9
 
 :::
 
+
+## Eingabe- vs. Ausgabegeräte
+
+:::: {.columns style="font-size: 1.9rem"}
+::: column
+
+Welche IT-Komponenten sind Ein- oder Ausgabegeräte?
+
+a) Drucker
+b) Scanner
+c) Maus
+d) Display
+e) Touchpad
+
+:::
+
+::: {.column .fragment}
+
+#### Eingabe
+
+a) Scanner
+c) Maus
+e) Touchpad
+
+#### Ausgabe
+
+a) Drucker
+d) Display
+
+:::
+::::
+
+::: notes
+Lernkarte AP1 2025 Nr. 61
+:::
 
 
 ## <!-- -->
