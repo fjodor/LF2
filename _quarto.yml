@@ -12,6 +12,8 @@ website:
         text: Home
       - href: 01_Willkommen_Struktur.qmd
         text: Willkommen zu LF2 - Themen und Zeitplan
+      - href: 02a_Hardware.qmd
+        text: Hardware
       - href: 03a_Bedarfs-Anforderungsanalyse.qmd
         text: Bedarfs- und Anforderungsanalyse
       - href: 03b_Istzustand-erfassen.qmd
