@@ -428,175 +428,250 @@
     "href": "02a_Hardware.html#büroarbeitsplatz-ergonomie-bildschirm",
     "title": "IT Hardware",
     "section": "Büroarbeitsplatz: Ergonomie Bildschirm",
-    "text": "Büroarbeitsplatz: Ergonomie Bildschirm\n\nWelche Anforderungen muss ein ergonomischer PC-Arbeitsplatz erfüllen?\n\nAllgemeine Ergonomie in Richtlinie 90/270/EWG geregelt\nenthält Mindestvorschriften bzgl. Arbei an Bildschirmgeräten:\nOberste Bildschirmzeile des Monitors leicht unterhalb der Sehachse des Mitarbeitenden\nMindestabstand von 50cm zum Bildschirm ist zu gewährleisten\nBildschirm so einrichten, dass er frei von störenden Reflexionen und Blendungen ist\nBildschirm muss frei stehen und leicht drehbar sowie neigbar sein\nArbeitshöhe und Sitzhöhe müssen sich an die Körperhöhe anpassen lassen\nWinkel von 90° zwischen Ober- und Unterarm sowie Ober- und Unterschenkel ist optimal\nGenug Bewegungsspielraum für die Beine\nNatürliche Körperhaltung muss möglich sein\n\nWeiteres: Arbeitsstättenverordnung (ArbStättV)\n\n\nLernkarte AP1 2025 Nr. 223"
+    "text": "Büroarbeitsplatz: Ergonomie Bildschirm\n\nWelche Anforderungen muss ein ergonomischer PC-Arbeitsplatz erfüllen?\n\nAllgemeine Ergonomie in Richtlinie 90/270/EWG geregelt\nenthält Mindestvorschriften bzgl. Arbei an Bildschirmgeräten:\nOberste Bildschirmzeile des Monitors leicht unterhalb der Sehachse des Mitarbeitenden\nMindestabstand von 50cm zum Bildschirm ist zu gewährleisten\nBildschirm so einrichten, dass er frei von störenden Reflexionen und Blendungen ist\nBildschirm muss frei stehen und leicht drehbar sowie neigbar sein\nArbeitshöhe und Sitzhöhe müssen sich an die Körperhöhe anpassen lassen\nWinkel von 90° zwischen Ober- und Unterarm sowie Ober- und Unterschenkel ist optimal\nGenug Bewegungsspielraum für die Beine\nNatürliche Körperhaltung muss möglich sein\n\nWeiteres: Arbeitsstättenverordnung (ArbStättV)\n\n\nLernkarte AP1 2025 Nr. 223",
+    "crumbs": [
+      "Hardware"
+    ]
   },
   {
     "objectID": "02a_Hardware.html#arbeitsstättenverordnung-arbstättv",
     "href": "02a_Hardware.html#arbeitsstättenverordnung-arbstättv",
     "title": "IT Hardware",
     "section": "Arbeitsstättenverordnung (ArbStättV)",
-    "text": "Arbeitsstättenverordnung (ArbStättV)\n\nRegelungen zum Einrichten eines Bildschirmarbeitsplatzes:\n\nZeichen auf dem Bildschirm müssen scharf, deutlich, ausreichend groß dargestellt sein\nBild muss stabil, flimmerfrei, ohne Verzerrungen dargestellt werden\nHelligkeit und Kontrast des Bildschirms müssen einstellbar sein\nBildschirm so einrichten, dass er frei von störenden Reflexionen und Blendungen ist\nBildschirm muss frei stehen und leicht drehbar sowie neigbar sein\nTastatur muss vom Bildschirmgerät getrennt und neigbar sein, damit eine ergonomische Arbeitshaltung eingenommen werden kann\nTastatur muss eine Auflagemöglichkeit für die Hände bieten\nPC-Tastatur muss eine reflexionsarme Oberfläche besitzen\nTastaturbeschriftung muss sich vom Untergrund deutlich abheben und bei normaler Arbeitshaltung lesbar sein\n\n\n\nLernkarte AP1 2025 Nr. 224"
+    "text": "Arbeitsstättenverordnung (ArbStättV)\n\nRegelungen zum Einrichten eines Bildschirmarbeitsplatzes:\n\nZeichen auf dem Bildschirm müssen scharf, deutlich, ausreichend groß dargestellt sein\nBild muss stabil, flimmerfrei, ohne Verzerrungen dargestellt werden\nHelligkeit und Kontrast des Bildschirms müssen einstellbar sein\nBildschirm so einrichten, dass er frei von störenden Reflexionen und Blendungen ist\nBildschirm muss frei stehen und leicht drehbar sowie neigbar sein\nTastatur muss vom Bildschirmgerät getrennt und neigbar sein, damit eine ergonomische Arbeitshaltung eingenommen werden kann\nTastatur muss eine Auflagemöglichkeit für die Hände bieten\nPC-Tastatur muss eine reflexionsarme Oberfläche besitzen\nTastaturbeschriftung muss sich vom Untergrund deutlich abheben und bei normaler Arbeitshaltung lesbar sein\n\n\n\nLernkarte AP1 2025 Nr. 224",
+    "crumbs": [
+      "Hardware"
+    ]
   },
   {
     "objectID": "02a_Hardware.html#cpu-cache",
     "href": "02a_Hardware.html#cpu-cache",
     "title": "IT Hardware",
     "section": "CPU: Cache",
-    "text": "CPU: Cache\n\n\nCPU-Cache: Zusätzlicher Speicher auf dem Prozessor (“Zwischenspeicher”)\nsoll Zugriffszeiten auf Daten verkürzen\nL1-Cache: First-Level-Cache\n\nschnellster und kleinster Zwischenspeicher\n\nL2-Cache: Second-Level-Cache\n\netwas langsamer, etwas größer\n\nL3-Cache: Third-Level-Cache\n\nlangsamster, größter Zwischenspeicher\n\nAlle drei:\n\nArbeitsspeicher entlasten\nder CPU schnellen Zugriff auf Daten und Befehle ermöglichen\n\n\n\n\nLernkarte AP1 2025 Nr. 114"
+    "text": "CPU: Cache\n\n\nCPU-Cache: Zusätzlicher Speicher auf dem Prozessor (“Zwischenspeicher”)\nsoll Zugriffszeiten auf Daten verkürzen\nL1-Cache: First-Level-Cache\n\nschnellster und kleinster Zwischenspeicher\n\nL2-Cache: Second-Level-Cache\n\netwas langsamer, etwas größer\n\nL3-Cache: Third-Level-Cache\n\nlangsamster, größter Zwischenspeicher\n\nAlle drei:\n\nArbeitsspeicher entlasten\nder CPU schnellen Zugriff auf Daten und Befehle ermöglichen\n\n\n\n\nLernkarte AP1 2025 Nr. 114",
+    "crumbs": [
+      "Hardware"
+    ]
   },
   {
     "objectID": "02a_Hardware.html#cpu-logische-prozessoren",
     "href": "02a_Hardware.html#cpu-logische-prozessoren",
     "title": "IT Hardware",
     "section": "CPU: Logische Prozessoren",
-    "text": "CPU: Logische Prozessoren\n\n\nvirtuelle Prozessoren, die durch Hyper-Threading-Technologie (HTT) oder Simultaneous Multithreading (SMT) unterstützt werden\nProzessor “tut so”, als habe er mehr Kerne, als physisch vorhanden sind\ndadurch werden ineffiziente Wartezeiten reduziert, Performance steigt\nHT: Intel Markenname, seit Pentium 4 (2002);  SMT: generischer Begriff (AMD, IBM, ARM)\nsicherheitskritisch; manche Cloudanbieter deaktivieren zeitweise Hyperthreading / Simultaneous Multithreading\nAnwendungen müssen HTT / SMT unterstützen, um es nutzbar zu machen\nSiehe Taskmanager\n\n\n\nLernkarte AP1 2025 Nr. 57, ergänzt, anders formuliert (Karte schlecht geschrieben!)"
+    "text": "CPU: Logische Prozessoren\n\n\nvirtuelle Prozessoren, die durch Hyper-Threading-Technologie (HTT) oder Simultaneous Multithreading (SMT) unterstützt werden\nProzessor “tut so”, als habe er mehr Kerne, als physisch vorhanden sind\ndadurch werden ineffiziente Wartezeiten reduziert, Performance steigt\nHT: Intel Markenname, seit Pentium 4 (2002);  SMT: generischer Begriff (AMD, IBM, ARM)\nsicherheitskritisch; manche Cloudanbieter deaktivieren zeitweise Hyperthreading / Simultaneous Multithreading\nAnwendungen müssen HTT / SMT unterstützen, um es nutzbar zu machen\nSiehe Taskmanager\n\n\n\nLernkarte AP1 2025 Nr. 57, ergänzt, anders formuliert (Karte schlecht geschrieben!)",
+    "crumbs": [
+      "Hardware"
+    ]
   },
   {
     "objectID": "02a_Hardware.html#cpu-wärmeleitpaste",
     "href": "02a_Hardware.html#cpu-wärmeleitpaste",
     "title": "IT Hardware",
     "section": "CPU: Wärmeleitpaste",
-    "text": "CPU: Wärmeleitpaste\n\n\nWärmeleitpaste sorgt dafür, dass Wäre von der CPU effizient zum Kühler abgeleitet wird\nKontaktflächen zwischen CPU und Kühler haben bauweisenbedingt nicht überall perfekten Übergang\nWärmeleitpaste gleicht solche Unebenheiten aus\nverhindert Leistungseinbußen, Systemabstürze, dauerhafte Schäden an CPU\nMontage: als Wärmepad oder als erbsengroßer Klecks zwischen CPU und Kühler\n\n\n\nLernkarte AP1 2025 Nr. 115"
+    "text": "CPU: Wärmeleitpaste\n\n\nWärmeleitpaste sorgt dafür, dass Wäre von der CPU effizient zum Kühler abgeleitet wird\nKontaktflächen zwischen CPU und Kühler haben bauweisenbedingt nicht überall perfekten Übergang\nWärmeleitpaste gleicht solche Unebenheiten aus\nverhindert Leistungseinbußen, Systemabstürze, dauerhafte Schäden an CPU\nMontage: als Wärmepad oder als erbsengroßer Klecks zwischen CPU und Kühler\n\n\n\nLernkarte AP1 2025 Nr. 115",
+    "crumbs": [
+      "Hardware"
+    ]
   },
   {
     "objectID": "02a_Hardware.html#ram-dual-channel-mode",
     "href": "02a_Hardware.html#ram-dual-channel-mode",
     "title": "IT Hardware",
     "section": "RAM: Dual Channel Mode",
-    "text": "RAM: Dual Channel Mode\n\nWelchen Vorteil bringt der Einsatz von Dual-Channel-Technik bei Speichermodulen?\n\nMithilfe der Dual-Channel-Technik kann der Speicherkontroller des Prozessors die Daten auf zwei Arbeitsspeichermodule gleichzeitig aufteilen und somit parallel schreiben und lesen. Dadurch verdoppelt sich die Datenrate.\n\n\nVoraussetzung ist, dass die eingebauten Speichermodule baugleich sind, eine identische Modulkapazität besitzen sowie paarweise verteilt werden.\n\n\n\nLernkarte AP1 2025 Nr. 58"
+    "text": "RAM: Dual Channel Mode\n\nWelchen Vorteil bringt der Einsatz von Dual-Channel-Technik bei Speichermodulen?\n\nMithilfe der Dual-Channel-Technik kann der Speicherkontroller des Prozessors die Daten auf zwei Arbeitsspeichermodule gleichzeitig aufteilen und somit parallel schreiben und lesen. Dadurch verdoppelt sich die Datenrate.\n\n\nVoraussetzung ist, dass die eingebauten Speichermodule baugleich sind, eine identische Modulkapazität besitzen sowie paarweise verteilt werden.\n\n\n\nLernkarte AP1 2025 Nr. 58",
+    "crumbs": [
+      "Hardware"
+    ]
   },
   {
     "objectID": "02a_Hardware.html#ram-dual-channel-mode-1",
     "href": "02a_Hardware.html#ram-dual-channel-mode-1",
     "title": "IT Hardware",
     "section": "RAM: Dual Channel Mode",
-    "text": "RAM: Dual Channel Mode\n\nWelche Bedingungen müssen beim Einsatz von Arbeitsspeichern im Dual Channel Mode erfüllt sein?\n\nSpeichermodule müssen baugleich sein\nSpeichermodule müssen die gleiche Speicherkapazität besitzen\nSpeichermodule sollten vom Hersteller für den Einsatz auf dem Motherboard bzw. Prozessor zertifiziert sein\nSpeichermodule müssen immer paarweise ergänzt bzw. entfernt werden\n\n\n\nLernkarte AP1 2025 Nr. 183"
+    "text": "RAM: Dual Channel Mode\n\nWelche Bedingungen müssen beim Einsatz von Arbeitsspeichern im Dual Channel Mode erfüllt sein?\n\nSpeichermodule müssen baugleich sein\nSpeichermodule müssen die gleiche Speicherkapazität besitzen\nSpeichermodule sollten vom Hersteller für den Einsatz auf dem Motherboard bzw. Prozessor zertifiziert sein\nSpeichermodule müssen immer paarweise ergänzt bzw. entfernt werden\n\n\n\nLernkarte AP1 2025 Nr. 183",
+    "crumbs": [
+      "Hardware"
+    ]
   },
   {
     "objectID": "02a_Hardware.html#speicher-smart",
     "href": "02a_Hardware.html#speicher-smart",
     "title": "IT Hardware",
     "section": "Speicher: SMART",
-    "text": "Speicher: SMART\n\nDie Abkürzung SMART begegnet Euch in der IT-Ausbildung (mindestens) 2x.\nIm Projektmanagement: Ziele sollen Spezifisch, Messbar, Aktivierend / Attraktiv, Realistisch und Terminiert sein.\n\nBei Festplatten steht SMART für Self-Monitoring, Analysis and Reporting Technology.\n\n\nSystem zur Selbstüberwachung, Analyse und Statusmeldung\nStandardisiertes Überwachungswerkzeug von Datenträgern (HDD, SSD)\nZiel: frühzeitige Vorhersagen über möglichen Ausfall des gesamten Datenträgers oder einzelner Speicherblöcke\nSMART-Attribute:\n\nInfos wie Temperatur, Einschaltzeit, Laufzeit, Bad Blocks können ausgelesen werden\nnicht standardisiert!\n\n\n\n\nLernkarte AP2 2025 Nr. 179"
+    "text": "Speicher: SMART\n\nDie Abkürzung SMART begegnet Euch in der IT-Ausbildung (mindestens) 2x.\nIm Projektmanagement: Ziele sollen Spezifisch, Messbar, Aktivierend / Attraktiv, Realistisch und Terminiert sein.\n\nBei Festplatten steht SMART für Self-Monitoring, Analysis and Reporting Technology.\n\n\nSystem zur Selbstüberwachung, Analyse und Statusmeldung\nStandardisiertes Überwachungswerkzeug von Datenträgern (HDD, SSD)\nZiel: frühzeitige Vorhersagen über möglichen Ausfall des gesamten Datenträgers oder einzelner Speicherblöcke\nSMART-Attribute:\n\nInfos wie Temperatur, Einschaltzeit, Laufzeit, Bad Blocks können ausgelesen werden\nnicht standardisiert!\n\n\n\n\nLernkarte AP2 2025 Nr. 179",
+    "crumbs": [
+      "Hardware"
+    ]
   },
   {
     "objectID": "02a_Hardware.html#speicher-sata-ssd",
     "href": "02a_Hardware.html#speicher-sata-ssd",
     "title": "IT Hardware",
     "section": "Speicher: SATA-SSD",
-    "text": "Speicher: SATA-SSD\n\n\nVorteile\n\nKostengünstig: SATA-SSDs meist preiswerter als M.2-SSDs\nKompatibilität: Standard-SATA-Anschlüsse auf den meisten Mainboards vorhanden\nZuverlässigkeit: Breit einsetzbar, sowohl im 24/7-Betrieb als auch im Notebook-Bereich\n\n\nNachteile\n\nGeringe Geschwindigkeit gegenüber NVMe-SSDs (Non Volatile Memory express)\nBegrenzte Bandbreite durch die maximale Datenübertragungsrate der SATA-Schnittstelle (SATA III: 6 Gb/s, max. 600 MB/s)\nUngeeignet für High-End-Anwendungen wie Foto- und Videobearbeitung\n\n\n\nLernkarte AP1 2025 Nr. 113"
+    "text": "Speicher: SATA-SSD\n\n\nVorteile\n\nKostengünstig: SATA-SSDs meist preiswerter als M.2-SSDs\nKompatibilität: Standard-SATA-Anschlüsse auf den meisten Mainboards vorhanden\nZuverlässigkeit: Breit einsetzbar, sowohl im 24/7-Betrieb als auch im Notebook-Bereich\n\n\nNachteile\n\nGeringe Geschwindigkeit gegenüber NVMe-SSDs (Non Volatile Memory express)\nBegrenzte Bandbreite durch die maximale Datenübertragungsrate der SATA-Schnittstelle (SATA III: 6 Gb/s, max. 600 MB/s)\nUngeeignet für High-End-Anwendungen wie Foto- und Videobearbeitung\n\n\n\nLernkarte AP1 2025 Nr. 113",
+    "crumbs": [
+      "Hardware"
+    ]
   },
   {
     "objectID": "02a_Hardware.html#speicher-m.2-ssd",
     "href": "02a_Hardware.html#speicher-m.2-ssd",
     "title": "IT Hardware",
     "section": "Speicher: M.2-SSD",
-    "text": "Speicher: M.2-SSD\n\n\nVorteile\n\nLesegeschwindigkeiten von bis zu 7.450 MB/s\nkleines kompaktes Design, das keinen zusätzlichen Platz benötigt\nkeine Verkabelung notwendig, wird direkt auf das Motherboard gesteckt\nNVMe-Unterstützung (Non Volatile Memory express)\n\n\nNachteile\n\nPreis: teurer als SATA-SSDs\nKompatibilität: noch nicht alle Motherboards unterstützen M.2-SSDs\nWärmeentwicklung: M.2-SSDs können bei intensiver Nutzung heiß werden\nSpeicherkapazität: M.2-SSDs bieten geringere Kapazitäten als SATA-SSDs\n\n\n\nLernkarte AP1 2025 Nr. 112"
+    "text": "Speicher: M.2-SSD\n\n\nVorteile\n\nLesegeschwindigkeiten von bis zu 7.450 MB/s\nkleines kompaktes Design, das keinen zusätzlichen Platz benötigt\nkeine Verkabelung notwendig, wird direkt auf das Motherboard gesteckt\nNVMe-Unterstützung (Non Volatile Memory express)\n\n\nNachteile\n\nPreis: teurer als SATA-SSDs\nKompatibilität: noch nicht alle Motherboards unterstützen M.2-SSDs\nWärmeentwicklung: M.2-SSDs können bei intensiver Nutzung heiß werden\nSpeicherkapazität: M.2-SSDs bieten geringere Kapazitäten als SATA-SSDs\n\n\n\nLernkarte AP1 2025 Nr. 112",
+    "crumbs": [
+      "Hardware"
+    ]
   },
   {
     "objectID": "02a_Hardware.html#speicher-nas",
     "href": "02a_Hardware.html#speicher-nas",
     "title": "IT Hardware",
     "section": "Speicher: NAS",
-    "text": "Speicher: NAS\n\n\nNAS = Network Attached Storage; netzgebundener Speicher\neinfach zu verwaltender Dateiserver mit eigenem Dateisystem (Ext4 / Btrfs) und Management-Oberfläche\nEinsatz: Heimbereich und KMU (kleine und mittlere Unternehmen)\nbietet unabhängige Speicherkapazität in lokalem Rechnernetz\nManagementoberfläche: Einstellungen via HTTPS, z. B. Benutzerverwaltung, Integration Active Directory, Aktivierung von Services und Sync-Funktionen\nNAS hat einen oder mehrere Netzwerkanschlüsse (Ethernet / Fibre Channel) und oft 2 Netzteile\n\n\n\nLernkarte AP1 2025 Nr. 78"
+    "text": "Speicher: NAS\n\n\nNAS = Network Attached Storage; netzgebundener Speicher\neinfach zu verwaltender Dateiserver mit eigenem Dateisystem (Ext4 / Btrfs) und Management-Oberfläche\nEinsatz: Heimbereich und KMU (kleine und mittlere Unternehmen)\nbietet unabhängige Speicherkapazität in lokalem Rechnernetz\nManagementoberfläche: Einstellungen via HTTPS, z. B. Benutzerverwaltung, Integration Active Directory, Aktivierung von Services und Sync-Funktionen\nNAS hat einen oder mehrere Netzwerkanschlüsse (Ethernet / Fibre Channel) und oft 2 Netzteile\n\n\n\nLernkarte AP1 2025 Nr. 78",
+    "crumbs": [
+      "Hardware"
+    ]
   },
   {
     "objectID": "02a_Hardware.html#speicher-san",
     "href": "02a_Hardware.html#speicher-san",
     "title": "IT Hardware",
     "section": "Speicher: SAN",
-    "text": "Speicher: SAN\n\n\nSAN = Storage Area Network\nbietet blockbasierten Speicher, der das vom Server bereitgestellte Dateisystem über logische Festplatteneinheiten (LUNs, Logical Unit Number) verbindet\nohne eigenes Betriebssystem\nmehrfache Zugriffe von verschiedenen Servern möglich, abhängig vom bereitgestellten Dateisystem (z. B. VMFS)\nverschiedene Implementierungen, um auf SANs zuzugreifen, z. B. ISCSI, Fibre-Channel, ATA over Ethernet, InfiniBand\nRAID-Systeme (Redundant Array of Independent Discs) für Desaster-Toleranz bzw. Datenredundanz\n\n\n\nLernkarte AP1 2025 Nr. 79"
+    "text": "Speicher: SAN\n\n\nSAN = Storage Area Network\nbietet blockbasierten Speicher, der das vom Server bereitgestellte Dateisystem über logische Festplatteneinheiten (LUNs, Logical Unit Number) verbindet\nohne eigenes Betriebssystem\nmehrfache Zugriffe von verschiedenen Servern möglich, abhängig vom bereitgestellten Dateisystem (z. B. VMFS)\nverschiedene Implementierungen, um auf SANs zuzugreifen, z. B. ISCSI, Fibre-Channel, ATA over Ethernet, InfiniBand\nRAID-Systeme (Redundant Array of Independent Discs) für Desaster-Toleranz bzw. Datenredundanz\n\n\n\nLernkarte AP1 2025 Nr. 79",
+    "crumbs": [
+      "Hardware"
+    ]
   },
   {
     "objectID": "02a_Hardware.html#thin-clients",
     "href": "02a_Hardware.html#thin-clients",
     "title": "IT Hardware",
     "section": "Thin Clients",
-    "text": "Thin Clients\n\nUnternehmen, die ein Rechenzentrum betreiben, setzen vermehrt auf die Vorteile der Virtualisierung. In diesem Zusammenhang wird oftmals der Begriff Thin Client benutzt. Was versteht man darunter?\n\nThin Client = dünner, schlanker bzw. magerer Client\nComputer, der über ein Netzwerk Ressourcen nutzt, die ihm ein Server bereitstellt\nVDI: virtuelle Desktop-Infrastruktur setzt auf Thin Clients -&gt; Vorteile der Virtualisierung des kompletten Rechenzentrums\nThin Client, manchmal Zero-Clients genannt: lüfterlose Geräte\nAnschlüsse: USB, Netzwerk, Audio und Display\nVom Server: persönliche Benutzeroberfläche, Konfiguration, Zugriffe auf Verzeichnisse, installierte Programme\numwelt- und ressourcenschonend, geringe Leistungsaufnahme\n\n\n\nLernkarte AP1 2025 Nr. 60"
+    "text": "Thin Clients\n\nUnternehmen, die ein Rechenzentrum betreiben, setzen vermehrt auf die Vorteile der Virtualisierung. In diesem Zusammenhang wird oftmals der Begriff Thin Client benutzt. Was versteht man darunter?\n\nThin Client = dünner, schlanker bzw. magerer Client\nComputer, der über ein Netzwerk Ressourcen nutzt, die ihm ein Server bereitstellt\nVDI: virtuelle Desktop-Infrastruktur setzt auf Thin Clients -&gt; Vorteile der Virtualisierung des kompletten Rechenzentrums\nThin Client, manchmal Zero-Clients genannt: lüfterlose Geräte\nAnschlüsse: USB, Netzwerk, Audio und Display\nVom Server: persönliche Benutzeroberfläche, Konfiguration, Zugriffe auf Verzeichnisse, installierte Programme\numwelt- und ressourcenschonend, geringe Leistungsaufnahme\n\n\n\nLernkarte AP1 2025 Nr. 60",
+    "crumbs": [
+      "Hardware"
+    ]
   },
   {
     "objectID": "02a_Hardware.html#thin-clients-vorteile",
     "href": "02a_Hardware.html#thin-clients-vorteile",
     "title": "IT Hardware",
     "section": "Thin Clients: Vorteile",
-    "text": "Thin Clients: Vorteile\n\n\nschlanker Arbeitsplatz-Computer fast ohne eigene Rechenleistung\nAnwendungen laufen auf Server; Thin Client dient als Eingabe- / Ausgabe-Terminal\nVorteile:\n\ngeringerer Stromverbrauch, geringes Gewicht, geringer Platzbedarf\ngeräuschloser Arbeitsplatzcomputer\nleicht austauschbar\numweltfreundlich: weniger Materialeinsatz, weniger Abwärme\nflexibel einsetzbar: es muss kein Betriebssystem installiert werden\nkeine Chance für Viren, Würmer, Trojaner: Read-Only-Betriebssystem\n\n\n\n\nLernkarte AP1 2025 Nr. 146"
+    "text": "Thin Clients: Vorteile\n\n\nschlanker Arbeitsplatz-Computer fast ohne eigene Rechenleistung\nAnwendungen laufen auf Server; Thin Client dient als Eingabe- / Ausgabe-Terminal\nVorteile:\n\ngeringerer Stromverbrauch, geringes Gewicht, geringer Platzbedarf\ngeräuschloser Arbeitsplatzcomputer\nleicht austauschbar\numweltfreundlich: weniger Materialeinsatz, weniger Abwärme\nflexibel einsetzbar: es muss kein Betriebssystem installiert werden\nkeine Chance für Viren, Würmer, Trojaner: Read-Only-Betriebssystem\n\n\n\n\nLernkarte AP1 2025 Nr. 146",
+    "crumbs": [
+      "Hardware"
+    ]
   },
   {
     "objectID": "02a_Hardware.html#pc-verarbeitungsgeschwindigkeit-verbessern",
     "href": "02a_Hardware.html#pc-verarbeitungsgeschwindigkeit-verbessern",
     "title": "IT Hardware",
     "section": "PC: Verarbeitungsgeschwindigkeit verbessern",
-    "text": "PC: Verarbeitungsgeschwindigkeit verbessern\n\n\nAustausch von SATA HDDs mit geringer Umdrehungszahl gegen HDDs mit 10K/rpm\nEinsatz von SSD/M.2 gegenüber SATA HDDs\nAufteilung des Betriebssystems und der Anwendungsprogramme auf unterschiedlichen Datenträgern (OS auf M.2, Daten auf SSD)\nAustausch 100 Mbit/s Netzwerkkarte gegen 1 Gbit/s Netzwerkkarte\n\n\n\nLernkarte AP1 2025 Nr. 111"
+    "text": "PC: Verarbeitungsgeschwindigkeit verbessern\n\n\nAustausch von SATA HDDs mit geringer Umdrehungszahl gegen HDDs mit 10K/rpm\nEinsatz von SSD/M.2 gegenüber SATA HDDs\nAufteilung des Betriebssystems und der Anwendungsprogramme auf unterschiedlichen Datenträgern (OS auf M.2, Daten auf SSD)\nAustausch 100 Mbit/s Netzwerkkarte gegen 1 Gbit/s Netzwerkkarte\n\n\n\nLernkarte AP1 2025 Nr. 111",
+    "crumbs": [
+      "Hardware"
+    ]
   },
   {
     "objectID": "02a_Hardware.html#notebooks-technische-merkmale",
     "href": "02a_Hardware.html#notebooks-technische-merkmale",
     "title": "IT Hardware",
     "section": "Notebooks: Technische Merkmale",
-    "text": "Notebooks: Technische Merkmale\n\n\nteilweise Anschluss für Dockingstation\nteilweise Mini-PCI-Express-Slot\nteilweise 4-in-1 Kartenlesegerät\nteilweise integriertes Bluetooth, WLAN und WWAN\ninterne Netzwerkkarte\neigenes Display, teilweise Videokamera\nexterne Schnittstellen wie USB, HDMI, DisplayPort (mini), VGA, Firewire\nintegrierte Lautsprecher und Mikrofone\nAkku, externes Netzteil\n\n\n\nLernkarte AP1 2025 Nr. 56"
+    "text": "Notebooks: Technische Merkmale\n\n\nteilweise Anschluss für Dockingstation\nteilweise Mini-PCI-Express-Slot\nteilweise 4-in-1 Kartenlesegerät\nteilweise integriertes Bluetooth, WLAN und WWAN\ninterne Netzwerkkarte\neigenes Display, teilweise Videokamera\nexterne Schnittstellen wie USB, HDMI, DisplayPort (mini), VGA, Firewire\nintegrierte Lautsprecher und Mikrofone\nAkku, externes Netzteil\n\n\n\nLernkarte AP1 2025 Nr. 56",
+    "crumbs": [
+      "Hardware"
+    ]
   },
   {
     "objectID": "02a_Hardware.html#notebooks-vor--und-nachteile",
     "href": "02a_Hardware.html#notebooks-vor--und-nachteile",
     "title": "IT Hardware",
     "section": "Notebooks: Vor- und Nachteile",
-    "text": "Notebooks: Vor- und Nachteile\n\n\nVorteile\n\nnetzunabhängiges Arbeiten möglich durch Akku\nNetzwerkzugriff mithilfe von WWAN / WLAN Modulen (WWAN = Wireless Wide Area Network / L = Local)\nintegrierte Tastatur, Touchpad (Maus)\nbei stationärer Nutzung wenig Stellfläche notwendig\ngeringerer Stromverbrauch als Desktop PCs\narbeitet in der Regel leiser als ein PC\ndurch Dockingstation erweiterbar\n\n\nNachteile\n\nhohes Gewicht gegenüber Tablet oder Netbook\nproprietäres Netzteil\ngeringe Festplattenspeicherkapazitäten\ntechnische Aufrüstung oft umständlich oder gar nicht möglich\nDisplay oft kleiner als beim Desktop-Gerät\noftmals kein separater Ziffernblock auf der Tastatur verfügbar\n\n\n\nLernkarte AP1 2025 Nr. 152"
+    "text": "Notebooks: Vor- und Nachteile\n\n\nVorteile\n\nnetzunabhängiges Arbeiten möglich durch Akku\nNetzwerkzugriff mithilfe von WWAN / WLAN Modulen (WWAN = Wireless Wide Area Network / L = Local)\nintegrierte Tastatur, Touchpad (Maus)\nbei stationärer Nutzung wenig Stellfläche notwendig\ngeringerer Stromverbrauch als Desktop PCs\narbeitet in der Regel leiser als ein PC\ndurch Dockingstation erweiterbar\n\n\nNachteile\n\nhohes Gewicht gegenüber Tablet oder Netbook\nproprietäres Netzteil\ngeringe Festplattenspeicherkapazitäten\ntechnische Aufrüstung oft umständlich oder gar nicht möglich\nDisplay oft kleiner als beim Desktop-Gerät\noftmals kein separater Ziffernblock auf der Tastatur verfügbar\n\n\n\nLernkarte AP1 2025 Nr. 152",
+    "crumbs": [
+      "Hardware"
+    ]
   },
   {
     "objectID": "02a_Hardware.html#notebooks-dockingstation",
     "href": "02a_Hardware.html#notebooks-dockingstation",
     "title": "IT Hardware",
     "section": "Notebooks: Dockingstation",
-    "text": "Notebooks: Dockingstation\n\n\nengl. to dock: andocken, koppeln\nverwendet, um mobile Geräte (Notebooks, PDAs) mit festem Netz zu verbinden\nDockingstation als Portreplikator:\n\nvorhandene Ports werden an die Dockingstation “durchgereicht”\nzusätzliche Schnittstellen, z. B. PS/2, Seriell- und Parallelport, DVI, DisplayPort, HDMI, Sound, Firewire\ndiese Schnittstellen fehlen in mobilen Geräten oft aus Platzgründen\noft 2x HDMI, 2x DVI oder 2x Displayport\n\n\n\n\nLernkarte AP1 2025 Nr. 54"
+    "text": "Notebooks: Dockingstation\n\n\nengl. to dock: andocken, koppeln\nverwendet, um mobile Geräte (Notebooks, PDAs) mit festem Netz zu verbinden\nDockingstation als Portreplikator:\n\nvorhandene Ports werden an die Dockingstation “durchgereicht”\nzusätzliche Schnittstellen, z. B. PS/2, Seriell- und Parallelport, DVI, DisplayPort, HDMI, Sound, Firewire\ndiese Schnittstellen fehlen in mobilen Geräten oft aus Platzgründen\noft 2x HDMI, 2x DVI oder 2x Displayport\n\n\n\n\nLernkarte AP1 2025 Nr. 54",
+    "crumbs": [
+      "Hardware"
+    ]
   },
   {
     "objectID": "02a_Hardware.html#tablets",
     "href": "02a_Hardware.html#tablets",
     "title": "IT Hardware",
     "section": "Tablets",
-    "text": "Tablets\n\n\nVorteile\n\nleichte Handhabung\nlange Akkulaufzeit\nTouchbedienung oder mit Stift\nWLAN oder WWAN Verbindung\nplatzsparend\ngeringes Gewicht\n\n\nNachteile\n\nSchreiben auf der virtuellen Tastatur mit der Zeit anstrengend\ngeringere Speicherkapazität gegenüber Notebooks\nwenige Anschluss- und Verbindungsmöglichkeiten\nin der Regel nicht aufrüstbar\n\n\n\nLernkarte AP1 2025 Nr. 151"
+    "text": "Tablets\n\n\nVorteile\n\nleichte Handhabung\nlange Akkulaufzeit\nTouchbedienung oder mit Stift\nWLAN oder WWAN Verbindung\nplatzsparend\ngeringes Gewicht\n\n\nNachteile\n\nSchreiben auf der virtuellen Tastatur mit der Zeit anstrengend\ngeringere Speicherkapazität gegenüber Notebooks\nwenige Anschluss- und Verbindungsmöglichkeiten\nin der Regel nicht aufrüstbar\n\n\n\nLernkarte AP1 2025 Nr. 151",
+    "crumbs": [
+      "Hardware"
+    ]
   },
   {
     "objectID": "02a_Hardware.html#convertible",
     "href": "02a_Hardware.html#convertible",
     "title": "IT Hardware",
     "section": "Convertible",
-    "text": "Convertible\n\n\nengl. convertible = verwandelbar\nConvertible = Hybrid-PC, Two-in-One;  wenn Display abnehmbar: Detachable\nNotebook mit Klapp-, Dreh-, Schiebe- oder Klickmechanismus\nbesonders auf Mobilität ausgelegt\nkann in zwei Modi betrieben werden: als Notebook oder Tablet\nLaptop-Modus: Bedienung über Tastatur, Touchpad, Track Point\nTablet: Bedienung über Touchscreen, Digitizer, Eingabestift\n\n\n\nLernkarte AP1 2025 Nr. 150"
+    "text": "Convertible\n\n\nengl. convertible = verwandelbar\nConvertible = Hybrid-PC, Two-in-One;  wenn Display abnehmbar: Detachable\nNotebook mit Klapp-, Dreh-, Schiebe- oder Klickmechanismus\nbesonders auf Mobilität ausgelegt\nkann in zwei Modi betrieben werden: als Notebook oder Tablet\nLaptop-Modus: Bedienung über Tastatur, Touchpad, Track Point\nTablet: Bedienung über Touchscreen, Digitizer, Eingabestift\n\n\n\nLernkarte AP1 2025 Nr. 150",
+    "crumbs": [
+      "Hardware"
+    ]
   },
   {
     "objectID": "02a_Hardware.html#vorteile-usb-c-vs.-usb-a-usb-b",
     "href": "02a_Hardware.html#vorteile-usb-c-vs.-usb-a-usb-b",
     "title": "IT Hardware",
     "section": "Vorteile USB-C vs.  USB-A, USB-B",
-    "text": "Vorteile USB-C vs.  USB-A, USB-B\n\n\nreversible Steckrichtung\nhöhere Leistungsfähigkeit\nkompaktes Design\nschnellere Ladezeiten\nbidirektionale Stromversorgung\nZukunftssicherheit"
+    "text": "Vorteile USB-C vs.  USB-A, USB-B\n\n\nreversible Steckrichtung\nhöhere Leistungsfähigkeit\nkompaktes Design\nschnellere Ladezeiten\nbidirektionale Stromversorgung\nZukunftssicherheit",
+    "crumbs": [
+      "Hardware"
+    ]
   },
   {
     "objectID": "02a_Hardware.html#bildschirm-was-bedeutet-uhd-4k",
     "href": "02a_Hardware.html#bildschirm-was-bedeutet-uhd-4k",
     "title": "IT Hardware",
     "section": "Bildschirm: Was bedeutet UHD 4K?",
-    "text": "Bildschirm: Was bedeutet UHD 4K?\n\n\nUHD (Ultra High Definition) 4K bezeichnet ein digitales Videoformat der International Telecommunication Union (ITU) für Ultra High Definition Television (UHDTV oder Ultra HDTV) sowie Ultra High Definition Video (UHDV).\nUHD 4K wird heute auch als UHD-1 bezeichnet und lehnt sich am Cinema 4K (4096 x 2160 Pixel) an. Die Hersteller spezifizieren jedoch ihre Geräte mit 3840 x 2160 Pixeln heute oftmals auch als UHD 4K.\n\n\nLernkarte AP1 2025 Nr. 59"
+    "text": "Bildschirm: Was bedeutet UHD 4K?\n\n\nUHD (Ultra High Definition) 4K bezeichnet ein digitales Videoformat der International Telecommunication Union (ITU) für Ultra High Definition Television (UHDTV oder Ultra HDTV) sowie Ultra High Definition Video (UHDV).\nUHD 4K wird heute auch als UHD-1 bezeichnet und lehnt sich am Cinema 4K (4096 x 2160 Pixel) an. Die Hersteller spezifizieren jedoch ihre Geräte mit 3840 x 2160 Pixeln heute oftmals auch als UHD 4K.\n\n\nLernkarte AP1 2025 Nr. 59",
+    "crumbs": [
+      "Hardware"
+    ]
   },
   {
     "objectID": "02a_Hardware.html#grafik-schnittstellen-für-4k-8k",
     "href": "02a_Hardware.html#grafik-schnittstellen-für-4k-8k",
     "title": "IT Hardware",
     "section": "Grafik: Schnittstellen für 4K, 8K",
-    "text": "Grafik: Schnittstellen für 4K, 8K\n\n\n\n\nSchnittstelle\nmax. Übertragungsrate\nmax. Auflösung\n\n\n\n\nHDMI 1.4\n10,2 GBit/s\nFull-HD (1920x1080)\n\n\nHDMI 2.0\n18,0 GBit/s\n4K (3840 x 2160)\n\n\nHDMI 2.1\n38,4 GBit/s\n8K (7680 x 4320)\n\n\nDisplayPort 1.3\n25,9 GBit/s\n8K (7680 x 4320)\n\n\nDisplayPort 1.4\n32,4 GBit/s\n8K (7680 x 4320)\n\n\n\n\nKinostandard DCI-4K: 4096 x 2160; ca. 17:9\nKinostandard DCI-8K: 8192 x 4320; ca. 17:9"
+    "text": "Grafik: Schnittstellen für 4K, 8K\n\n\n\n\nSchnittstelle\nmax. Übertragungsrate\nmax. Auflösung\n\n\n\n\nHDMI 1.4\n10,2 GBit/s\nFull-HD (1920x1080)\n\n\nHDMI 2.0\n18,0 GBit/s\n4K (3840 x 2160)\n\n\nHDMI 2.1\n38,4 GBit/s\n8K (7680 x 4320)\n\n\nDisplayPort 1.3\n25,9 GBit/s\n8K (7680 x 4320)\n\n\nDisplayPort 1.4\n32,4 GBit/s\n8K (7680 x 4320)\n\n\n\n\nKinostandard DCI-4K: 4096 x 2160; ca. 17:9\nKinostandard DCI-8K: 8192 x 4320; ca. 17:9",
+    "crumbs": [
+      "Hardware"
+    ]
   },
   {
     "objectID": "02a_Hardware.html#eingabe--vs.-ausgabegeräte",
     "href": "02a_Hardware.html#eingabe--vs.-ausgabegeräte",
     "title": "IT Hardware",
     "section": "Eingabe- vs. Ausgabegeräte",
-    "text": "Eingabe- vs. Ausgabegeräte\n\n\nWelche IT-Komponenten sind Ein- oder Ausgabegeräte?\n\nDrucker\nScanner\nMaus\nDisplay\nTouchpad\n\n\nEingabe\n\nScanner\nMaus\nTouchpad\n\nAusgabe\n\nDrucker\nDisplay\n\n\n\nLernkarte AP1 2025 Nr. 61"
+    "text": "Eingabe- vs. Ausgabegeräte\n\n\nWelche IT-Komponenten sind Ein- oder Ausgabegeräte?\n\nDrucker\nScanner\nMaus\nDisplay\nTouchpad\n\n\nEingabe\n\nScanner\nMaus\nTouchpad\n\nAusgabe\n\nDrucker\nDisplay\n\n\n\nLernkarte AP1 2025 Nr. 61",
+    "crumbs": [
+      "Hardware"
+    ]
   },
   {
     "objectID": "02a_Hardware.html#section",
     "href": "02a_Hardware.html#section",
     "title": "IT Hardware",
     "section": "",
-    "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!"
+    "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!",
+    "crumbs": [
+      "Hardware"
+    ]
   },
   {
     "objectID": "01_Willkommen_Struktur.html#willkommen-in-lf2",
@@ -874,7 +949,7 @@
     "href": "05_Elektrik-Grundlagen.html#elektrische-leistung",
     "title": "Elektrik Grundlagen",
     "section": "Elektrische Leistung",
-    "text": "Elektrische Leistung"
+    "text": "Elektrische Leistung\n\nWie berechnet man die Wirkleistung von elektrischen Geräten?\n\nDie elektrische Leistungsberechnung von IT-Komponenten unterliegt den allgemeinen Gesetzen der Elektrotechnik.\nDie elektrische Wirkleistung P ist das Produkt von Spannung U und Stromstärke I:\nP = U x I\nDie Berechnung wird in der Maßeinheit Watt angegeben.\nDie Leistungsangaben von elektrischen Geräten gelten immer für die Dauer von 60 Minuten bzw. 1 Stunde.\n\n\n\nLernkarte AP1 2025 Nr. 117"
   },
   {
     "objectID": "05_Elektrik-Grundlagen.html#section",
