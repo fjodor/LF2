@@ -110,7 +110,7 @@ Wie berechnet man die Wirkleistung von elektrischen Geräten?
 - Die **elektrische Leistungsberechnung von IT-Komponenten** unterliegt den allgemeinen Gesetzen der Elektrotechnik.
 - Die elektrische Wirkleistung **P** ist das Produkt von Spannung **U** und Stromstärke **I**:  
   [***P = U x I***]{style="font-size: 2.5rem"}
-- Die Berechnung wird in der Maßeinheit **Watt** angegeben.
+- Die Berechnung wird in der Maßeinheit **Watt** angegeben (= Volt * Ampere!).
 - Die Leistungsangaben von elektrischen Geräten **gelten** immer **für** die Dauer von 60 Minuten bzw. **1 Stunde**.
 ::::
 
