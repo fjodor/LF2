@@ -97,6 +97,48 @@ Lernkarte AP1 2025 Nr. 147
 ::::
 
 
+## Projektstrukturplan: Top-Down
+
+:::: {.incremental style="font-size: 1.8rem"}
+
+- Ziel **Top-Down-Ansatz:** Weg vom Ganzen zum Detail
+- dazu Zerlegung des Gesamtprojekts in mehrere Teilaufgaben
+- Schritte zur Erreichung dieses Ziels:
+  + Benennung des Gesamtprojekts
+  + Zerlegung des Gesamtprojekts in Arbeitspakete oder Teilaufgaben
+  + Benennung der Teilaufgaben
+  + weitere Zerlegung in Teilschritte, bis Arbeitspakete vorliegen
+- Wann ist Top-Down-Ansatz geeignet?
+  + wenn bereits Erfahrungen mit ähnlichen Projekten vorliegen 
+  + wenn Inhalte des zu planenden Projekts aus vorherigen Projekten bekannt sind
+
+::::
+
+::: notes
+Lernkarte AP1 2025 Nr. 5
+:::
+
+
+## Projektstrukturplan: Bottom-Up
+
+:::: {.incremental style="font-size: 1.8rem"}
+
+- Ziel **Bottom-up-Ansatz:** Weg vom Detail zum Ganzen
+- Grundidee: abgegrenzte, detaillierte Teilprobleme lösen -> dann damit größere, darüber liegende Probleme lösen
+- kommt bei innovativen Lösungen zum Einsatz
+- Vorgehen:
+  + Festlegung der auszuführenden Aufgaben
+  + Klärung der Beziehungen der Teilaufgaben in der Baumstruktur
+  + Errichtung einer Baumstruktur, um Aufbau und Zusammensetzung zu erkennen
+  + Überprüfung auf Vollständigkeit und Einmaligkeit aller Teilaufgaben
+
+::::
+
+::: notes
+Lernkarte AP1 2025 Nr. 6
+:::
+
+
 ## Gantt-Diagramm
 
 ```{mermaid}
@@ -123,6 +165,29 @@ gantt
 - erste oder letzte Zeile stellt Zeitachse dar
 - Aktivitäten können sich überschneiden (siehe Entwicklung und Tests)
 :::
+
+
+## Gantt-Diagramm detaillierter
+
+:::: {.incremental style="font-size: 1.7rem"}
+
+- zeigt alle Aktivitäten eines Projektes mit Hilfe einer Zeitachse
+- Zeitachse horizontal in erster (letzter) Zeile des Diagramms
+- Aktivitäten in Zeilen der ersten Spalte benannt, zeitlich mit waagerechtem Balken dargestellt
+- Länge des Balkens zeigt Dauer, Beginn und Ende der Aktivität
+- überlappende Balken bedeuten sich überschneidende Aktivitäten
+- Visualisierung des kritischen Pfades ist möglich [aber im Netzplan einfacher zu erkennen]
+- Pfeile können Abhängigkeiten zwischen Aktivitäten verdeutlichen
+- Vorteil: sehr übersichtlich für kleine und mittlere Projekte
+- Nachteil: bei großer Anzahl Aktivitäten wird die Darstellung schnell unübersichtlich
+
+::::
+
+::: notes
+Lernkarte AP1 2025 Nr. 4
+:::
+
+
 
 
 ## Gantt-Diagramm: Mermaid
