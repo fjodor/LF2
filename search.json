@@ -28,11 +28,32 @@
     "text": "Projektstrukturplan\n\n\n\nWerkzeug zur Projektleitung\nengl. Work Break Down Structure\ndeutsch auch Arbeitsstrukturplan\nenthält gesamten Leistungsumfang\nhierarchisch aufgebaut\n\n\n\n\n\noberste Hierarchiestufe: Projekt als Ganzes\nzweite Ebene: Teilprojekte / Teilaufgaben\ndritte Ebene: Arbeitspakete (AP)"
   },
   {
+    "objectID": "06_Projektorganisation.html#projektstrukturplan-top-down",
+    "href": "06_Projektorganisation.html#projektstrukturplan-top-down",
+    "title": "Projektorganisation",
+    "section": "Projektstrukturplan: Top-Down",
+    "text": "Projektstrukturplan: Top-Down\n\n\nZiel Top-Down-Ansatz: Weg vom Ganzen zum Detail\ndazu Zerlegung des Gesamtprojekts in mehrere Teilaufgaben\nSchritte zur Erreichung dieses Ziels:\n\nBenennung des Gesamtprojekts\nZerlegung des Gesamtprojekts in Arbeitspakete oder Teilaufgaben\nBenennung der Teilaufgaben\nweitere Zerlegung in Teilschritte, bis Arbeitspakete vorliegen\n\nWann ist Top-Down-Ansatz geeignet?\n\nwenn bereits Erfahrungen mit ähnlichen Projekten vorliegen\nwenn Inhalte des zu planenden Projekts aus vorherigen Projekten bekannt sind\n\n\n\n\nLernkarte AP1 2025 Nr. 5"
+  },
+  {
+    "objectID": "06_Projektorganisation.html#projektstrukturplan-bottom-up",
+    "href": "06_Projektorganisation.html#projektstrukturplan-bottom-up",
+    "title": "Projektorganisation",
+    "section": "Projektstrukturplan: Bottom-Up",
+    "text": "Projektstrukturplan: Bottom-Up\n\n\nZiel Bottom-up-Ansatz: Weg vom Detail zum Ganzen\nGrundidee: abgegrenzte, detaillierte Teilprobleme lösen -&gt; dann damit größere, darüber liegende Probleme lösen\nkommt bei innovativen Lösungen zum Einsatz\nVorgehen:\n\nFestlegung der auszuführenden Aufgaben\nKlärung der Beziehungen der Teilaufgaben in der Baumstruktur\nErrichtung einer Baumstruktur, um Aufbau und Zusammensetzung zu erkennen\nÜberprüfung auf Vollständigkeit und Einmaligkeit aller Teilaufgaben\n\n\n\n\nLernkarte AP1 2025 Nr. 6"
+  },
+  {
     "objectID": "06_Projektorganisation.html#gantt-diagramm",
     "href": "06_Projektorganisation.html#gantt-diagramm",
     "title": "Projektorganisation",
     "section": "Gantt-Diagramm",
     "text": "Gantt-Diagramm\n\n\n\n\n\n%%{init: {'themeVariables': { 'fontSize': '18px' }}}%%\ngantt\n    title Einfaches Gantt-Diagramm\n    dateFormat  YYYY-MM-DD\n    axisFormat  %d.%m.\n\n    section Planung\n    Konzeptphase        :done,    des1, 2024-01-01, 2024-01-10\n    Design              :active,  des2, 2024-01-11, 2024-01-20\n\n    section Umsetzung\n    Entwicklung         :crit,    dev1, 2024-01-21, 2024-02-15\n    Tests               :         dev2, 2024-02-11, 2024-02-20\n\n\n\n\n\n\n\n\n\nBalkendiagramm zur Terminplanung\nstellt zeitliche Abfolge von Aktivitäten grafisch als Balken auf einer Zeitachse dar\nerste Spalte enthält Aktivitäten\nerste oder letzte Zeile stellt Zeitachse dar\nAktivitäten können sich überschneiden (siehe Entwicklung und Tests)"
+  },
+  {
+    "objectID": "06_Projektorganisation.html#gantt-diagramm-detaillierter",
+    "href": "06_Projektorganisation.html#gantt-diagramm-detaillierter",
+    "title": "Projektorganisation",
+    "section": "Gantt-Diagramm detaillierter",
+    "text": "Gantt-Diagramm detaillierter\n\n\nzeigt alle Aktivitäten eines Projektes mit Hilfe einer Zeitachse\nZeitachse horizontal in erster (letzter) Zeile des Diagramms\nAktivitäten in Zeilen der ersten Spalte benannt, zeitlich mit waagerechtem Balken dargestellt\nLänge des Balkens zeigt Dauer, Beginn und Ende der Aktivität\nüberlappende Balken bedeuten sich überschneidende Aktivitäten\nVisualisierung des kritischen Pfades ist möglich [aber im Netzplan einfacher zu erkennen]\nPfeile können Abhängigkeiten zwischen Aktivitäten verdeutlichen\nVorteil: sehr übersichtlich für kleine und mittlere Projekte\nNachteil: bei großer Anzahl Aktivitäten wird die Darstellung schnell unübersichtlich\n\n\n\nLernkarte AP1 2025 Nr. 4"
   },
   {
     "objectID": "06_Projektorganisation.html#gantt-diagramm-mermaid",
