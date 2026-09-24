@@ -18,7 +18,7 @@
     "href": "06_Projektorganisation.html#pflichtenheft",
     "title": "Projektorganisation",
     "section": "Pflichtenheft",
-    "text": "Pflichtenheft\n\n\nbeschreibt in detaillierter Form, wie der Auftragnehmer die Anforderungen des Auftraggebers umsetzen möchte\n“Wie und Womit” der Auftrag erfüllt werden soll\nIhalt des Pflichtenheftes für beide Parteien rechtlich bindend, solange nicht beide Parteien Änderungen / Ergänzungen zulassen\nUmsetzung durch Auftragnehmer beginnt erst, wenn Auftraggeber das Pflichtenheft akzeptiert!\nAgile Entwicklungsmodelle: Änderungen können in diesen Prozess einfließen\n\n\n\nLernkarte AP1 2025 Nr. 147"
+    "text": "Pflichtenheft\n\n\nbeschreibt in detaillierter Form, wie der Auftragnehmer die Anforderungen des Auftraggebers umsetzen möchte\n“Wie und Womit” der Auftrag erfüllt werden soll\nInhalt des Pflichtenheftes für beide Parteien rechtlich bindend, solange nicht beide Parteien Änderungen / Ergänzungen zulassen\nUmsetzung durch Auftragnehmer beginnt erst, wenn Auftraggeber das Pflichtenheft akzeptiert!\nAgile Entwicklungsmodelle: Änderungen können in diesen Prozess einfließen\n\n\n\nLernkarte AP1 2025 Nr. 147"
   },
   {
     "objectID": "06_Projektorganisation.html#projektstrukturplan",
@@ -154,6 +154,711 @@
     "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!"
   },
   {
+    "objectID": "05_Elektrik-Grundlagen.html#elektrische-größen-spannung",
+    "href": "05_Elektrik-Grundlagen.html#elektrische-größen-spannung",
+    "title": "Elektrik Grundlagen",
+    "section": "Elektrische Größen: Spannung",
+    "text": "Elektrische Größen: Spannung\n\n\nTreibende Kraft, “Druck”, der die elektrischen Ladungen antreibt\nEinheit: Volt (V)\nFormelzeichen: U\nTypische Spannungen:\n\nSteckdose: 230V Wechselspannung\nIn Computern: Niedrigere Gleichspannungen\n\nLeistungshungrige PC-Komponenten wie Grafikkarten (GPU), Prozessor-Spannungswandler, Lüfter: 12V\nFestplatten / SSD, USB-Anschlüsse, Standby-Funktionen: 5V\nArbeitsspeicher (RAM), PCIe-Steckplätze, Chipsatz auf Mainboard: 3,3V\nCPUs und GPUs arbeiten intern mit noch geringeren Spannungen"
+  },
+  {
+    "objectID": "05_Elektrik-Grundlagen.html#elektrische-größen-strom",
+    "href": "05_Elektrik-Grundlagen.html#elektrische-größen-strom",
+    "title": "Elektrik Grundlagen",
+    "section": "Elektrische Größen: Strom",
+    "text": "Elektrische Größen: Strom\n\n\nBernstein zieht leichte Körper an, wenn er vorher mit Tüchern gerieben wird\nElektrizität abgeleitet von griech. elektron für Bernstein\nStromstärke: Menge an Ladung, die pro Zeit durch den Leiter fließt\nEinheit: Ampere (A)\nFormelzeichen: I\nTypische Stromstärken im PC (erstaunlich hoch: hohe Leistung bei niedrigen Spannungen)\n\nauf 12V-Schiene: Größenordnung 30 bis &gt;70 Ampere\nauf 5V-Schiene: Größenordnung 15 bis 20 Ampere\nauf 3,3V-Schiene: Größenordnung 15 bis 20 Ampere"
+  },
+  {
+    "objectID": "05_Elektrik-Grundlagen.html#elektrische-größen-widerstand",
+    "href": "05_Elektrik-Grundlagen.html#elektrische-größen-widerstand",
+    "title": "Elektrik Grundlagen",
+    "section": "Elektrische Größen: Widerstand",
+    "text": "Elektrische Größen: Widerstand\n\n\nHindernis, das dem Stromfluss entgegengesetzt wird\nEinheit: Ohm (Ω)\nFormelzeichen: R\nIm PC: Innenwiderstand von CPU und GPU dynamisch\n\nunter Last extrem niedrig für hohe Ströme\nim Leerlauf werden Transistoren geschlossen, Widerstand steigt massiv, es fließt kaum noch Strom"
+  },
+  {
+    "objectID": "05_Elektrik-Grundlagen.html#ohmsches-gesetz",
+    "href": "05_Elektrik-Grundlagen.html#ohmsches-gesetz",
+    "title": "Elektrik Grundlagen",
+    "section": "Ohmsches Gesetz",
+    "text": "Ohmsches Gesetz\n\nEs betrachtet den Widerstand als konstant. Dann gilt:\nDie Stärke des durch ein Objekt fließenden elektrischen Stroms ist proportional der elektrischen Spannung.\nFormel, aufgelöst nach Spannung\n\n\\[\nU = R \\cdot I\n\\]\n\nFormel, aufgelöst nach Strom\n\n\\[\nI = \\frac{U}{R}\n\\]\n\nFormel, aufgelöst nach Widerstand\n\n\\[\nR = \\frac{U}{I}\n\\]"
+  },
+  {
+    "objectID": "05_Elektrik-Grundlagen.html#elektrische-leistung",
+    "href": "05_Elektrik-Grundlagen.html#elektrische-leistung",
+    "title": "Elektrik Grundlagen",
+    "section": "Elektrische Leistung",
+    "text": "Elektrische Leistung\n\nWie berechnet man die Wirkleistung von elektrischen Geräten?\n\nDie elektrische Leistungsberechnung von IT-Komponenten unterliegt den allgemeinen Gesetzen der Elektrotechnik.\nDie elektrische Wirkleistung P ist das Produkt von Spannung U und Stromstärke I:\nP = U x I\nDie Berechnung wird in der Maßeinheit Watt angegeben (= Volt * Ampere!).\nDie Leistungsangaben von elektrischen Geräten gelten immer für die Dauer von 60 Minuten bzw. 1 Stunde.\n\n\n\nLernkarte AP1 2025 Nr. 117"
+  },
+  {
+    "objectID": "05_Elektrik-Grundlagen.html#section",
+    "href": "05_Elektrik-Grundlagen.html#section",
+    "title": "Elektrik Grundlagen",
+    "section": "",
+    "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!"
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#ist-zustand-erfassen",
+    "href": "03b_Istzustand-erfassen.html#ist-zustand-erfassen",
+    "title": "Istzustand erfassen",
+    "section": "Ist-Zustand erfassen",
+    "text": "Ist-Zustand erfassen\nZiele\n\nVorteile und Nachteile der Methoden verstehen:\n\nInterview\nFragebogen\nBeobachtung\n\nEntscheiden, welche Methode eingesetzt wird",
+    "crumbs": [
+      "03b Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+    ]
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#interview",
+    "href": "03b_Istzustand-erfassen.html#interview",
+    "title": "Istzustand erfassen",
+    "section": "Interview",
+    "text": "Interview\n\nDirekte Befragung der Beteiligten zu einem oder mehreren Themenkomplexen.\n\n\nVorteile\n\npersönlicher Kontakt fördert Bereitschaft zur Auskunft\nUnklarheiten können sofort geklärt werden\n\n\nNachteile\n\nhoher Zeitaufwand\nAntworten oft subjektiv geprägt\nFakten schwerer zu erfassen",
+    "crumbs": [
+      "03b Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+    ]
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#fragebogen",
+    "href": "03b_Istzustand-erfassen.html#fragebogen",
+    "title": "Istzustand erfassen",
+    "section": "Fragebogen",
+    "text": "Fragebogen\n\n\nKann geschlossene oder offene Fragen enthalten\nGeschlossen: Single Choice (Radiobuttons) oder Multiple Choice (Checkboxes)\n\n\n\nVorteile\n\nmehr Personen befragbar als beim Interview\ngeringerer Zeitaufwand\nkeine zusätzliche Dokumentation der Antworten\nautomatische Auswertung möglich\n\n\nNachteile\n\nhöherer Vorbereitungsaufwand\noft geringer Rücklauf\nVerzerrungen bei Nicht-Teilnahme möglich!\nUnklarheiten schwerer zu klären",
+    "crumbs": [
+      "03b Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+    ]
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#fragebogen-1",
+    "href": "03b_Istzustand-erfassen.html#fragebogen-1",
+    "title": "Istzustand erfassen",
+    "section": "Fragebogen",
+    "text": "Fragebogen",
+    "crumbs": [
+      "03b Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+    ]
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#beobachtung",
+    "href": "03b_Istzustand-erfassen.html#beobachtung",
+    "title": "Istzustand erfassen",
+    "section": "Beobachtung",
+    "text": "Beobachtung\n\nProzesse werden vor Ort direkt begleitet und analysiert.\n\n\nVorteile\n\nProzesse weitgehend objektiv beobachtbar\neffektive Erfassung möglich\nfür zeitliche und quantitative Informationen über den Prozess geeignet\n\n\nNachteile\n\nhoher Zeitaufwand\nmanchmal können nur kleine Ausschnitte eines Prozesses beobachtet werden\nBeobachtungen werden meist als unangenehm empfunden",
+    "crumbs": [
+      "03b Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+    ]
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#auswahl-einer-methode",
+    "href": "03b_Istzustand-erfassen.html#auswahl-einer-methode",
+    "title": "Istzustand erfassen",
+    "section": "Auswahl einer Methode",
+    "text": "Auswahl einer Methode\n\nAufgabe: Entscheiden Sie sich jeweils für eine Methode der Informationserfassung. Begründen Sie Ihre Entscheidung.\nInterview? Fragebogen? Beobachtung?\n\nVerbesserung des Webauftritts eines Unternehmens\nErstellung eines Softwaremoduls für Einkauf, Lagerung und Verkauf von Waren\nEntwicklung einer Softwaresimulation für ein Ampelkreuzungssystem",
+    "crumbs": [
+      "03b Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+    ]
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#webauftritt-verbessern",
+    "href": "03b_Istzustand-erfassen.html#webauftritt-verbessern",
+    "title": "Istzustand erfassen",
+    "section": "Webauftritt verbessern",
+    "text": "Webauftritt verbessern\nVorschlag: Fragebogen\n\n\nEs geht darum, die Bedürfnisse und Präferenzen der Nutzer zu verstehen\nFragebogen gut geeignet, um Feedback von größerer Personengruppe zu erhalten: verschiedene Nutzergruppen\nFragen z. B. zu Benutzerfreundlichkeit, gewünschte Funktionen, Design",
+    "crumbs": [
+      "03b Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+    ]
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#softwaremodul-für-waren",
+    "href": "03b_Istzustand-erfassen.html#softwaremodul-für-waren",
+    "title": "Istzustand erfassen",
+    "section": "Softwaremodul für Waren",
+    "text": "Softwaremodul für Waren\nVorschlag: Interview\n\n\nSoftwaremodul für Geschäftsprozesse: erfordert detaillierte Erfassung der Anforderungen von Personen, die direkt mit den Prozessen arbeiten\nInterviews mit Einkaufs-, Lager- und Verkaufspersonal: präzise Erfassung der Abläufe, Anforderungen an die Datenverarbeitung, erforderliche Funktionen\nermöglicht genaue Ausrichtung des Softwaremoduls auf die tatsächlichen Geschäftsbedürfnisse",
+    "crumbs": [
+      "03b Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+    ]
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#softwaresimulation-für-ampelkreuzungssystem",
+    "href": "03b_Istzustand-erfassen.html#softwaresimulation-für-ampelkreuzungssystem",
+    "title": "Istzustand erfassen",
+    "section": "Softwaresimulation für Ampelkreuzungssystem",
+    "text": "Softwaresimulation für Ampelkreuzungssystem\nVorschlag: Beobachtung\n\n\nhier wichtig: reales Verhalten und Interaktionen im Verkehrsumfeld zu verstehen\nBeobachtung vor Ort: Informationen über Verkehrsfluss, Verhaltensmuster der Fahrer, Verkehrsprobleme\nSo kann eine realistische, effektive Simulation entwickelt werden, die den tatsächlichen Bedingungen entspricht",
+    "crumbs": [
+      "03b Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+    ]
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#kundenbefragungen-allgemein",
+    "href": "03b_Istzustand-erfassen.html#kundenbefragungen-allgemein",
+    "title": "Istzustand erfassen",
+    "section": "Kundenbefragungen allgemein",
+    "text": "Kundenbefragungen allgemein\n\nDurch Kundenbefragungen können zentrale Punkte beantwortet werden:\n\nKundenzufriedenheit\nTrends\ndas Image des Unternehmens\ndie Marktposition des Unternehmens\nKundenbindung\nErfolg von Werbemaßnahmen\n\n\n\nLernkarte AP1 2025 Nr. 39",
+    "crumbs": [
+      "03b Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+    ]
+  },
+  {
+    "objectID": "03b_Istzustand-erfassen.html#section",
+    "href": "03b_Istzustand-erfassen.html#section",
+    "title": "Istzustand erfassen",
+    "section": "",
+    "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!",
+    "crumbs": [
+      "03b Istzustand erfassen - Interview, Fragebogen, Beobachtung"
+    ]
+  },
+  {
+    "objectID": "02b_Software.html#ziele",
+    "href": "02b_Software.html#ziele",
+    "title": "Marktgängige IT-Systeme: Software",
+    "section": "Ziele",
+    "text": "Ziele\nGrundlegende Software-Systeme kennen und beurteilen können\n\nUnternehmensanwendungen\nDatenhaltungssysteme\nKommunikationssysteme\nBIOS und UEFI\n\nGrundverständnis für Benutzeroberflächen"
+  },
+  {
+    "objectID": "02b_Software.html#unternehmensanwendungen-erp-system",
+    "href": "02b_Software.html#unternehmensanwendungen-erp-system",
+    "title": "Marktgängige IT-Systeme: Software",
+    "section": "Unternehmensanwendungen: ERP-System",
+    "text": "Unternehmensanwendungen: ERP-System\n\nERP: Enterprise Resource Planning System\nUmfangreiches Werkzeug zur Unterstützung der Ressourcenplanung aller Prozesse eines Unternehmens, z. B. Produktion, Materialwirtschaft und Vertrieb.\nBeispiele\n\nSAP ERP / SAP S/4HANA: global führend; extrem umfangreich, modular, in großen Unternehmen Standard\nMicrosoft Dynamics 365 (ehemals NAV/AX): v. a. im Mittelstand; stark in Microsoft-Ökosystem integriert (Azure, Office, Power Platform)\nOracle ERP Cloud / Oracle NetSuite:: ERP für große Unternehmen, NetSuite für Mittelstand; stark in Finanzmodulen\nSage (Sage 100 / SageX3): beliebt bei KMU (Kleinen und Mittleren Unternehmen); Europa, v. a. DACH\nOdoo: Open Source, modular, flexibel, wächst; v. a. KMU und Startups\n\n\nWeitere: Infor ERP (Produktion, Logistik), IFS (Industrie, Service), Epicor (Fertigung, Supply Chain), Workday (HR), ProAlpha (deutsch, Mittelstand)\n\n\n\nKurz erwähnt auf Lernkarte AP1 2025 Nr. 110"
+  },
+  {
+    "objectID": "02b_Software.html#datenhaltungssysteme",
+    "href": "02b_Software.html#datenhaltungssysteme",
+    "title": "Marktgängige IT-Systeme: Software",
+    "section": "Datenhaltungssysteme",
+    "text": "Datenhaltungssysteme\n\n\nRelationale Datenbanksysteme (RDBMS)\nSpeichern Daten in Tabellen, die durch Beziehungen miteinander verbunden sind\nBeispiele:\n\nMySQL: Open Source, populär\nOracle Database: leistungsfähig, oft in großen Unternehmen\nMicrosoft SQL Server: Integration mit MS-Produkten\n\n\nNoSQL Datenbanksysteme\n\nspeichern unstrukturierte / semi-strukturierte Daten\nskalierbarer, flexibler als relationale Datenbanken\n\nAnwendungsfelder:\n\nContent Management\nSoziale Netzwerke\n\nBeispiele:\n\nMongoDB: Dokumentorientiert\nCassandra: graphenorientiert"
+  },
+  {
+    "objectID": "02b_Software.html#datenhaltungssysteme-oodbms",
+    "href": "02b_Software.html#datenhaltungssysteme-oodbms",
+    "title": "Marktgängige IT-Systeme: Software",
+    "section": "Datenhaltungssysteme: OODBMS",
+    "text": "Datenhaltungssysteme: OODBMS\n\nObjektorientierte Datenbank-Managementsysteme\n\nspeichern Daten direkt als Objekte\nObjekte bleiben als Ganzes erhalten, inkl. Attribute und Methoden\nAnwendungsbereiche: Simulationen, CAD/CAM, Telekommunikation, Echtzeit-Systeme\n\nBeispiele\n\n\ndb4o: Database for Objekts, direkt in Java und .NET integrierbar\nObjectDB: java-basiert, oft in Enterprise-Java-Projekten genutzt\nVersant Object Database: kommerziell, für große, komplexe Systeme\n\n\nAbgrenzung zu NoSQL: OODMBS speichern Methoden, unterstützen Vererbung, bieten vollständige Objekt-Persistenz"
+  },
+  {
+    "objectID": "02b_Software.html#kommunikationssysteme",
+    "href": "02b_Software.html#kommunikationssysteme",
+    "title": "Marktgängige IT-Systeme: Software",
+    "section": "Kommunikationssysteme",
+    "text": "Kommunikationssysteme"
+  },
+  {
+    "objectID": "02b_Software.html#benutzeroberflächen",
+    "href": "02b_Software.html#benutzeroberflächen",
+    "title": "Marktgängige IT-Systeme: Software",
+    "section": "Benutzeroberflächen",
+    "text": "Benutzeroberflächen"
+  },
+  {
+    "objectID": "02b_Software.html#bios-und-uefi",
+    "href": "02b_Software.html#bios-und-uefi",
+    "title": "Marktgängige IT-Systeme: Software",
+    "section": "BIOS und UEFI",
+    "text": "BIOS und UEFI\nZum Starten eines PC-Systems setzte man lange Zeit auf das BIOS (Basic Input Output System). Der Nachfolger des lange bewährten BIOS ist das UEFI (Unified Extensible Firmware Interface).\nBitte vergleiche BIOS mit UEFI.\n\nLernkarte AP1 2025 Nr. 139"
+  },
+  {
+    "objectID": "02b_Software.html#bios-und-uefi-1",
+    "href": "02b_Software.html#bios-und-uefi-1",
+    "title": "Marktgängige IT-Systeme: Software",
+    "section": "BIOS und UEFI",
+    "text": "BIOS und UEFI\n\n\nBIOS (Basic Input Output System)\n\nkeine Mausbedienung möglich\nkann nur vom Master-Boot-Record starten\nkann nur von Laufwerken bis 2 TB booten\n\n\nUEFI (Unified Extensible Firmware Interface)\n\nkann auch von Laufwerken mit 2,2 TB oder mehr booten\ngrafische Benutzeroberfläche mit Mausbedienung\nunterstützt 64-Bit-Prozessoren nativ ab Werk\nTreiber lassen sich als Modul nachladen\nnutzt GPT-Partitionierungsschema (GUID Partition Table)\nkann von VM-Container starten\n\n\n\nLernkarte AP1 2025 Nr. 139"
+  },
+  {
+    "objectID": "02b_Software.html#section",
+    "href": "02b_Software.html#section",
+    "title": "Marktgängige IT-Systeme: Software",
+    "section": "",
+    "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!"
+  },
+  {
+    "objectID": "01_Willkommen_Struktur.html#willkommen-in-lf2",
+    "href": "01_Willkommen_Struktur.html#willkommen-in-lf2",
+    "title": "Willkommen in LF2!",
+    "section": "Willkommen in LF2!",
+    "text": "Willkommen in LF2!\nArbeitsplätze nach Kundenwunsch ausstatten\n\nQuelle: Superintelligence Newsletter",
+    "crumbs": [
+      "01 Willkommen zu LF2 - Themen und Zeitplan"
+    ]
+  },
+  {
+    "objectID": "01_Willkommen_Struktur.html#willkommen-in-lf2-1",
+    "href": "01_Willkommen_Struktur.html#willkommen-in-lf2-1",
+    "title": "Willkommen in LF2!",
+    "section": "Willkommen in LF2!",
+    "text": "Willkommen in LF2!\nArbeitsplätze nach Kundenwunsch ausstatten\nThemenübersicht\n\n\nGrundlagen moderner IT-Arbeitsplätze\nAnforderungsanalyse und Konzeption\nHardware-, Software- und Lizenzmanagement\nProjektmanagement, Service & Qualitätssicherung\nProjektbewertung, Dokumentation, Nachfolgeprozesse",
+    "crumbs": [
+      "01 Willkommen zu LF2 - Themen und Zeitplan"
+    ]
+  },
+  {
+    "objectID": "01_Willkommen_Struktur.html#zeitplan-und-noten",
+    "href": "01_Willkommen_Struktur.html#zeitplan-und-noten",
+    "title": "Willkommen in LF2!",
+    "section": "Zeitplan und Noten",
+    "text": "Zeitplan und Noten\n\n80 Unterrichtseinheiten (UE) vom 14. September 2026 bis 4. März 2027\nKlassenarbeit am 17. November\nKlassenarbeit am 26. Februar",
+    "crumbs": [
+      "01 Willkommen zu LF2 - Themen und Zeitplan"
+    ]
+  },
+  {
+    "objectID": "01_Willkommen_Struktur.html#gemeinsame-notizen-hedgedoc",
+    "href": "01_Willkommen_Struktur.html#gemeinsame-notizen-hedgedoc",
+    "title": "Willkommen in LF2!",
+    "section": "Gemeinsame Notizen: Hedgedoc",
+    "text": "Gemeinsame Notizen: Hedgedoc\nIn Hedgedoc können wir gemeinsame Notizen zum Unterricht erstellen:\nhttps://hedgedoc.c3d2.de/FI26_LF2",
+    "crumbs": [
+      "01 Willkommen zu LF2 - Themen und Zeitplan"
+    ]
+  },
+  {
+    "objectID": "01_Willkommen_Struktur.html#sus-vorträge",
+    "href": "01_Willkommen_Struktur.html#sus-vorträge",
+    "title": "Willkommen in LF2!",
+    "section": "SuS Vorträge",
+    "text": "SuS Vorträge\nVorgaben\n\nca. 10 Minuten; mit Präsentation\nTeamarbeit zu zweit möglich: dann tragen beide je einen Teil vor\n\nThemen\n\n\nFreitag, 18.09.2026 / Montag, 21.09:  Hardware - Aufbau, Bewertungs-Kriterien\n\nCPUs\nMotherboards\nRAM\nDatenspeicher\nNetzteile\nGrafikkarten\nTablets\nDrucker\n\n\nMontag, 21.09.2026\n\nLastenheft: Zweck, Urheber, Inhalt, kurze Beispiele für gelungene Lastenheft-Einträge\nPflichtenheft: Zweck, Urheber, Inhalt, kurze Beispiele für gelungene Pflichtenheft-Einträge",
+    "crumbs": [
+      "01 Willkommen zu LF2 - Themen und Zeitplan"
+    ]
+  },
+  {
+    "objectID": "01_Willkommen_Struktur.html#weitere-vortragsthemen",
+    "href": "01_Willkommen_Struktur.html#weitere-vortragsthemen",
+    "title": "Willkommen in LF2!",
+    "section": "Weitere Vortragsthemen",
+    "text": "Weitere Vortragsthemen\n\nDienstag, 22.09.2026\n\nDesktop-PCs: Thick Client / Thin Client / Zero Client\nLeistungsmerkmale, Einsatzbereiche, Vor- und Nachteile\nNotebooks:\n\nVor- und Nachteile im Vergleich zu Desktop-PCs und Tablets\nLeistungsmerkmale, Einsatzbereiche, typische Anschlüsse\n\nVideokonferenzsysteme\n\nWelche gibt es? (Beispiele)\nNach welchen Kriterien kann man die Qualität bewerten und sich für eine Lösung entscheiden?\n\nBildschirme: Anschlüsse, Auflösungen, Kennzahlen, Entscheidungskriterien",
+    "crumbs": [
+      "01 Willkommen zu LF2 - Themen und Zeitplan"
+    ]
+  },
+  {
+    "objectID": "01_Willkommen_Struktur.html#section",
+    "href": "01_Willkommen_Struktur.html#section",
+    "title": "Willkommen in LF2!",
+    "section": "",
+    "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!",
+    "crumbs": [
+      "01 Willkommen zu LF2 - Themen und Zeitplan"
+    ]
+  },
+  {
+    "objectID": "02a_Hardware.html#büroarbeitsplatz-ergonomie-bildschirm",
+    "href": "02a_Hardware.html#büroarbeitsplatz-ergonomie-bildschirm",
+    "title": "IT Hardware",
+    "section": "Büroarbeitsplatz: Ergonomie Bildschirm",
+    "text": "Büroarbeitsplatz: Ergonomie Bildschirm\n\nWelche Anforderungen muss ein ergonomischer PC-Arbeitsplatz erfüllen?\n\nAllgemeine Ergonomie in Richtlinie 90/270/EWG geregelt\nenthält Mindestvorschriften bzgl. Arbei an Bildschirmgeräten:\nOberste Bildschirmzeile des Monitors leicht unterhalb der Sehachse des Mitarbeitenden\nMindestabstand von 50cm zum Bildschirm ist zu gewährleisten\nBildschirm so einrichten, dass er frei von störenden Reflexionen und Blendungen ist\nBildschirm muss frei stehen und leicht drehbar sowie neigbar sein\nArbeitshöhe und Sitzhöhe müssen sich an die Körperhöhe anpassen lassen\nWinkel von 90° zwischen Ober- und Unterarm sowie Ober- und Unterschenkel ist optimal\nGenug Bewegungsspielraum für die Beine\nNatürliche Körperhaltung muss möglich sein\n\nWeiteres: Arbeitsstättenverordnung (ArbStättV)\n\n\nLernkarte AP1 2025 Nr. 223",
+    "crumbs": [
+      "02 Hardware"
+    ]
+  },
+  {
+    "objectID": "02a_Hardware.html#arbeitsstättenverordnung-arbstättv",
+    "href": "02a_Hardware.html#arbeitsstättenverordnung-arbstättv",
+    "title": "IT Hardware",
+    "section": "Arbeitsstättenverordnung (ArbStättV)",
+    "text": "Arbeitsstättenverordnung (ArbStättV)\n\nRegelungen zum Einrichten eines Bildschirmarbeitsplatzes:\n\nZeichen auf dem Bildschirm müssen scharf, deutlich, ausreichend groß dargestellt sein\nBild muss stabil, flimmerfrei, ohne Verzerrungen dargestellt werden\nHelligkeit und Kontrast des Bildschirms müssen einstellbar sein\nBildschirm so einrichten, dass er frei von störenden Reflexionen und Blendungen ist\nBildschirm muss frei stehen und leicht drehbar sowie neigbar sein\nTastatur muss vom Bildschirmgerät getrennt und neigbar sein, damit eine ergonomische Arbeitshaltung eingenommen werden kann\nTastatur muss eine Auflagemöglichkeit für die Hände bieten\nPC-Tastatur muss eine reflexionsarme Oberfläche besitzen\nTastaturbeschriftung muss sich vom Untergrund deutlich abheben und bei normaler Arbeitshaltung lesbar sein\n\n\n\nLernkarte AP1 2025 Nr. 224",
+    "crumbs": [
+      "02 Hardware"
+    ]
+  },
+  {
+    "objectID": "02a_Hardware.html#cpu-cache",
+    "href": "02a_Hardware.html#cpu-cache",
+    "title": "IT Hardware",
+    "section": "CPU: Cache",
+    "text": "CPU: Cache\n\n\nCPU-Cache: Zusätzlicher Speicher auf dem Prozessor (“Zwischenspeicher”)\nsoll Zugriffszeiten auf Daten verkürzen\nL1-Cache: First-Level-Cache\n\nschnellster und kleinster Zwischenspeicher\n\nL2-Cache: Second-Level-Cache\n\netwas langsamer, etwas größer\n\nL3-Cache: Third-Level-Cache\n\nlangsamster, größter Zwischenspeicher\n\nAlle drei:\n\nArbeitsspeicher entlasten\nder CPU schnellen Zugriff auf Daten und Befehle ermöglichen\n\n\n\n\nLernkarte AP1 2025 Nr. 114",
+    "crumbs": [
+      "02 Hardware"
+    ]
+  },
+  {
+    "objectID": "02a_Hardware.html#cpu-logische-prozessoren",
+    "href": "02a_Hardware.html#cpu-logische-prozessoren",
+    "title": "IT Hardware",
+    "section": "CPU: Logische Prozessoren",
+    "text": "CPU: Logische Prozessoren\n\n\nvirtuelle Prozessoren, die durch Hyper-Threading-Technologie (HTT) oder Simultaneous Multithreading (SMT) unterstützt werden\nProzessor “tut so”, als habe er mehr Kerne, als physisch vorhanden sind\ndadurch werden ineffiziente Wartezeiten reduziert, Performance steigt\nHT: Intel Markenname, seit Pentium 4 (2002);  SMT: generischer Begriff (AMD, IBM, ARM)\nsicherheitskritisch; manche Cloudanbieter deaktivieren zeitweise Hyperthreading / Simultaneous Multithreading\nAnwendungen müssen HTT / SMT unterstützen, um es nutzbar zu machen\nSiehe Taskmanager\n\n\n\nLernkarte AP1 2025 Nr. 57, ergänzt, anders formuliert (Karte schlecht geschrieben!)",
+    "crumbs": [
+      "02 Hardware"
+    ]
+  },
+  {
+    "objectID": "02a_Hardware.html#cpu-wärmeleitpaste",
+    "href": "02a_Hardware.html#cpu-wärmeleitpaste",
+    "title": "IT Hardware",
+    "section": "CPU: Wärmeleitpaste",
+    "text": "CPU: Wärmeleitpaste\n\n\nWärmeleitpaste sorgt dafür, dass Wäre von der CPU effizient zum Kühler abgeleitet wird\nKontaktflächen zwischen CPU und Kühler haben bauweisenbedingt nicht überall perfekten Übergang\nWärmeleitpaste gleicht solche Unebenheiten aus\nverhindert Leistungseinbußen, Systemabstürze, dauerhafte Schäden an CPU\nMontage: als Wärmepad oder als erbsengroßer Klecks zwischen CPU und Kühler\n\n\n\nLernkarte AP1 2025 Nr. 115",
+    "crumbs": [
+      "02 Hardware"
+    ]
+  },
+  {
+    "objectID": "02a_Hardware.html#ram-dual-channel-mode",
+    "href": "02a_Hardware.html#ram-dual-channel-mode",
+    "title": "IT Hardware",
+    "section": "RAM: Dual Channel Mode",
+    "text": "RAM: Dual Channel Mode\n\nWelchen Vorteil bringt der Einsatz von Dual-Channel-Technik bei Speichermodulen?\n\nMithilfe der Dual-Channel-Technik kann der Speicherkontroller des Prozessors die Daten auf zwei Arbeitsspeichermodule gleichzeitig aufteilen und somit parallel schreiben und lesen. Dadurch verdoppelt sich die Datenrate.\n\n\nVoraussetzung ist, dass die eingebauten Speichermodule baugleich sind, eine identische Modulkapazität besitzen sowie paarweise verteilt werden.\n\n\n\nLernkarte AP1 2025 Nr. 58",
+    "crumbs": [
+      "02 Hardware"
+    ]
+  },
+  {
+    "objectID": "02a_Hardware.html#ram-dual-channel-mode-1",
+    "href": "02a_Hardware.html#ram-dual-channel-mode-1",
+    "title": "IT Hardware",
+    "section": "RAM: Dual Channel Mode",
+    "text": "RAM: Dual Channel Mode\n\nWelche Bedingungen müssen beim Einsatz von Arbeitsspeichern im Dual Channel Mode erfüllt sein?\n\nSpeichermodule müssen baugleich sein\nSpeichermodule müssen die gleiche Speicherkapazität besitzen\nSpeichermodule sollten vom Hersteller für den Einsatz auf dem Motherboard bzw. Prozessor zertifiziert sein\nSpeichermodule müssen immer paarweise ergänzt bzw. entfernt werden\n\n\n\nLernkarte AP1 2025 Nr. 183",
+    "crumbs": [
+      "02 Hardware"
+    ]
+  },
+  {
+    "objectID": "02a_Hardware.html#speicher-smart",
+    "href": "02a_Hardware.html#speicher-smart",
+    "title": "IT Hardware",
+    "section": "Speicher: SMART",
+    "text": "Speicher: SMART\n\nDie Abkürzung SMART begegnet Euch in der IT-Ausbildung (mindestens) 2x.\nIm Projektmanagement: Ziele sollen Spezifisch, Messbar, Aktivierend / Attraktiv, Realistisch und Terminiert sein.\n\nBei Festplatten steht SMART für Self-Monitoring, Analysis and Reporting Technology.\n\n\nSystem zur Selbstüberwachung, Analyse und Statusmeldung\nStandardisiertes Überwachungswerkzeug von Datenträgern (HDD, SSD)\nZiel: frühzeitige Vorhersagen über möglichen Ausfall des gesamten Datenträgers oder einzelner Speicherblöcke\nSMART-Attribute:\n\nInfos wie Temperatur, Einschaltzeit, Laufzeit, Bad Blocks können ausgelesen werden\nnicht standardisiert!\n\n\n\n\nLernkarte AP2 2025 Nr. 179",
+    "crumbs": [
+      "02 Hardware"
+    ]
+  },
+  {
+    "objectID": "02a_Hardware.html#speicher-sata-ssd",
+    "href": "02a_Hardware.html#speicher-sata-ssd",
+    "title": "IT Hardware",
+    "section": "Speicher: SATA-SSD",
+    "text": "Speicher: SATA-SSD\n\n\nVorteile\n\nKostengünstig: SATA-SSDs meist preiswerter als M.2-SSDs\nKompatibilität: Standard-SATA-Anschlüsse auf den meisten Mainboards vorhanden\nZuverlässigkeit: Breit einsetzbar, sowohl im 24/7-Betrieb als auch im Notebook-Bereich\n\n\nNachteile\n\nGeringe Geschwindigkeit gegenüber NVMe-SSDs (Non Volatile Memory express)\nBegrenzte Bandbreite durch die maximale Datenübertragungsrate der SATA-Schnittstelle (SATA III: 6 Gb/s, max. 600 MB/s)\nUngeeignet für High-End-Anwendungen wie Foto- und Videobearbeitung\n\n\n\nLernkarte AP1 2025 Nr. 113",
+    "crumbs": [
+      "02 Hardware"
+    ]
+  },
+  {
+    "objectID": "02a_Hardware.html#speicher-m.2-ssd",
+    "href": "02a_Hardware.html#speicher-m.2-ssd",
+    "title": "IT Hardware",
+    "section": "Speicher: M.2-SSD",
+    "text": "Speicher: M.2-SSD\n\n\nVorteile\n\nLesegeschwindigkeiten von bis zu 7.450 MB/s\nkleines kompaktes Design, das keinen zusätzlichen Platz benötigt\nkeine Verkabelung notwendig, wird direkt auf das Motherboard gesteckt\nNVMe-Unterstützung (Non Volatile Memory express)\n\n\nNachteile\n\nPreis: teurer als SATA-SSDs\nKompatibilität: noch nicht alle Motherboards unterstützen M.2-SSDs\nWärmeentwicklung: M.2-SSDs können bei intensiver Nutzung heiß werden\nSpeicherkapazität: M.2-SSDs bieten geringere Kapazitäten als SATA-SSDs\n\n\n\nLernkarte AP1 2025 Nr. 112",
+    "crumbs": [
+      "02 Hardware"
+    ]
+  },
+  {
+    "objectID": "02a_Hardware.html#speicher-nas",
+    "href": "02a_Hardware.html#speicher-nas",
+    "title": "IT Hardware",
+    "section": "Speicher: NAS",
+    "text": "Speicher: NAS\n\n\nNAS = Network Attached Storage; netzgebundener Speicher\neinfach zu verwaltender Dateiserver mit eigenem Dateisystem (Ext4 / Btrfs) und Management-Oberfläche\nEinsatz: Heimbereich und KMU (kleine und mittlere Unternehmen)\nbietet unabhängige Speicherkapazität in lokalem Rechnernetz\nManagementoberfläche: Einstellungen via HTTPS, z. B. Benutzerverwaltung, Integration Active Directory, Aktivierung von Services und Sync-Funktionen\nNAS hat einen oder mehrere Netzwerkanschlüsse (Ethernet / Fibre Channel) und oft 2 Netzteile\n\n\n\nLernkarte AP1 2025 Nr. 78",
+    "crumbs": [
+      "02 Hardware"
+    ]
+  },
+  {
+    "objectID": "02a_Hardware.html#speicher-san",
+    "href": "02a_Hardware.html#speicher-san",
+    "title": "IT Hardware",
+    "section": "Speicher: SAN",
+    "text": "Speicher: SAN\n\n\nSAN = Storage Area Network\nbietet blockbasierten Speicher, der das vom Server bereitgestellte Dateisystem über logische Festplatteneinheiten (LUNs, Logical Unit Number) verbindet\nohne eigenes Betriebssystem\nmehrfache Zugriffe von verschiedenen Servern möglich, abhängig vom bereitgestellten Dateisystem (z. B. VMFS)\nverschiedene Implementierungen, um auf SANs zuzugreifen, z. B. ISCSI, Fibre-Channel, ATA over Ethernet, InfiniBand\nRAID-Systeme (Redundant Array of Independent Discs) für Desaster-Toleranz bzw. Datenredundanz\n\n\n\nLernkarte AP1 2025 Nr. 79",
+    "crumbs": [
+      "02 Hardware"
+    ]
+  },
+  {
+    "objectID": "02a_Hardware.html#thin-clients",
+    "href": "02a_Hardware.html#thin-clients",
+    "title": "IT Hardware",
+    "section": "Thin Clients",
+    "text": "Thin Clients\n\nUnternehmen, die ein Rechenzentrum betreiben, setzen vermehrt auf die Vorteile der Virtualisierung. In diesem Zusammenhang wird oftmals der Begriff Thin Client benutzt. Was versteht man darunter?\n\nThin Client = dünner, schlanker bzw. magerer Client\nComputer, der über ein Netzwerk Ressourcen nutzt, die ihm ein Server bereitstellt\nVDI: virtuelle Desktop-Infrastruktur setzt auf Thin Clients -&gt; Vorteile der Virtualisierung des kompletten Rechenzentrums\nThin Client, manchmal Zero-Clients genannt: lüfterlose Geräte\nAnschlüsse: USB, Netzwerk, Audio und Display\nVom Server: persönliche Benutzeroberfläche, Konfiguration, Zugriffe auf Verzeichnisse, installierte Programme\numwelt- und ressourcenschonend, geringe Leistungsaufnahme\n\n\n\nLernkarte AP1 2025 Nr. 60",
+    "crumbs": [
+      "02 Hardware"
+    ]
+  },
+  {
+    "objectID": "02a_Hardware.html#thin-clients-vorteile",
+    "href": "02a_Hardware.html#thin-clients-vorteile",
+    "title": "IT Hardware",
+    "section": "Thin Clients: Vorteile",
+    "text": "Thin Clients: Vorteile\n\n\nschlanker Arbeitsplatz-Computer fast ohne eigene Rechenleistung\nAnwendungen laufen auf Server; Thin Client dient als Eingabe- / Ausgabe-Terminal\nVorteile:\n\ngeringerer Stromverbrauch, geringes Gewicht, geringer Platzbedarf\ngeräuschloser Arbeitsplatzcomputer\nleicht austauschbar\numweltfreundlich: weniger Materialeinsatz, weniger Abwärme\nflexibel einsetzbar: es muss kein Betriebssystem installiert werden\nkeine Chance für Viren, Würmer, Trojaner: Read-Only-Betriebssystem\n\n\n\n\nLernkarte AP1 2025 Nr. 146",
+    "crumbs": [
+      "02 Hardware"
+    ]
+  },
+  {
+    "objectID": "02a_Hardware.html#pc-verarbeitungsgeschwindigkeit-verbessern",
+    "href": "02a_Hardware.html#pc-verarbeitungsgeschwindigkeit-verbessern",
+    "title": "IT Hardware",
+    "section": "PC: Verarbeitungsgeschwindigkeit verbessern",
+    "text": "PC: Verarbeitungsgeschwindigkeit verbessern\n\n\nAustausch von SATA HDDs mit geringer Umdrehungszahl gegen HDDs mit 10K/rpm\nEinsatz von SSD/M.2 gegenüber SATA HDDs\nAufteilung des Betriebssystems und der Anwendungsprogramme auf unterschiedlichen Datenträgern (OS auf M.2, Daten auf SSD)\nAustausch 100 Mbit/s Netzwerkkarte gegen 1 Gbit/s Netzwerkkarte\n\n\n\nLernkarte AP1 2025 Nr. 111",
+    "crumbs": [
+      "02 Hardware"
+    ]
+  },
+  {
+    "objectID": "02a_Hardware.html#notebooks-technische-merkmale",
+    "href": "02a_Hardware.html#notebooks-technische-merkmale",
+    "title": "IT Hardware",
+    "section": "Notebooks: Technische Merkmale",
+    "text": "Notebooks: Technische Merkmale\n\n\nteilweise Anschluss für Dockingstation\nteilweise Mini-PCI-Express-Slot\nteilweise 4-in-1 Kartenlesegerät\nteilweise integriertes Bluetooth, WLAN und WWAN\ninterne Netzwerkkarte\neigenes Display, teilweise Videokamera\nexterne Schnittstellen wie USB, HDMI, DisplayPort (mini), VGA, Firewire\nintegrierte Lautsprecher und Mikrofone\nAkku, externes Netzteil\n\n\n\nLernkarte AP1 2025 Nr. 56",
+    "crumbs": [
+      "02 Hardware"
+    ]
+  },
+  {
+    "objectID": "02a_Hardware.html#notebooks-vor--und-nachteile",
+    "href": "02a_Hardware.html#notebooks-vor--und-nachteile",
+    "title": "IT Hardware",
+    "section": "Notebooks: Vor- und Nachteile",
+    "text": "Notebooks: Vor- und Nachteile\n\n\nVorteile\n\nnetzunabhängiges Arbeiten möglich durch Akku\nNetzwerkzugriff mithilfe von WWAN / WLAN Modulen (WWAN = Wireless Wide Area Network / L = Local)\nintegrierte Tastatur, Touchpad (Maus)\nbei stationärer Nutzung wenig Stellfläche notwendig\ngeringerer Stromverbrauch als Desktop PCs\narbeitet in der Regel leiser als ein PC\ndurch Dockingstation erweiterbar\n\n\nNachteile\n\nhohes Gewicht gegenüber Tablet oder Netbook\nproprietäres Netzteil\ngeringe Festplattenspeicherkapazitäten\ntechnische Aufrüstung oft umständlich oder gar nicht möglich\nDisplay oft kleiner als beim Desktop-Gerät\noftmals kein separater Ziffernblock auf der Tastatur verfügbar\n\n\n\nLernkarte AP1 2025 Nr. 152",
+    "crumbs": [
+      "02 Hardware"
+    ]
+  },
+  {
+    "objectID": "02a_Hardware.html#notebooks-dockingstation",
+    "href": "02a_Hardware.html#notebooks-dockingstation",
+    "title": "IT Hardware",
+    "section": "Notebooks: Dockingstation",
+    "text": "Notebooks: Dockingstation\n\n\nengl. to dock: andocken, koppeln\nverwendet, um mobile Geräte (Notebooks, PDAs) mit festem Netz zu verbinden\nDockingstation als Portreplikator:\n\nvorhandene Ports werden an die Dockingstation “durchgereicht”\nzusätzliche Schnittstellen, z. B. PS/2, Seriell- und Parallelport, DVI, DisplayPort, HDMI, Sound, Firewire\ndiese Schnittstellen fehlen in mobilen Geräten oft aus Platzgründen\noft 2x HDMI, 2x DVI oder 2x Displayport\n\n\n\n\nLernkarte AP1 2025 Nr. 54",
+    "crumbs": [
+      "02 Hardware"
+    ]
+  },
+  {
+    "objectID": "02a_Hardware.html#tablets",
+    "href": "02a_Hardware.html#tablets",
+    "title": "IT Hardware",
+    "section": "Tablets",
+    "text": "Tablets\n\n\nVorteile\n\nleichte Handhabung\nlange Akkulaufzeit\nTouchbedienung oder mit Stift\nWLAN oder WWAN Verbindung\nplatzsparend\ngeringes Gewicht\n\n\nNachteile\n\nSchreiben auf der virtuellen Tastatur mit der Zeit anstrengend\ngeringere Speicherkapazität gegenüber Notebooks\nwenige Anschluss- und Verbindungsmöglichkeiten\nin der Regel nicht aufrüstbar\n\n\n\nLernkarte AP1 2025 Nr. 151",
+    "crumbs": [
+      "02 Hardware"
+    ]
+  },
+  {
+    "objectID": "02a_Hardware.html#convertible",
+    "href": "02a_Hardware.html#convertible",
+    "title": "IT Hardware",
+    "section": "Convertible",
+    "text": "Convertible\n\n\nengl. convertible = verwandelbar\nConvertible = Hybrid-PC, Two-in-One;  wenn Display abnehmbar: Detachable\nNotebook mit Klapp-, Dreh-, Schiebe- oder Klickmechanismus\nbesonders auf Mobilität ausgelegt\nkann in zwei Modi betrieben werden: als Notebook oder Tablet\nLaptop-Modus: Bedienung über Tastatur, Touchpad, Track Point\nTablet: Bedienung über Touchscreen, Digitizer, Eingabestift\n\n\n\nLernkarte AP1 2025 Nr. 150",
+    "crumbs": [
+      "02 Hardware"
+    ]
+  },
+  {
+    "objectID": "02a_Hardware.html#vorteile-usb-c-vs.-usb-a-usb-b",
+    "href": "02a_Hardware.html#vorteile-usb-c-vs.-usb-a-usb-b",
+    "title": "IT Hardware",
+    "section": "Vorteile USB-C vs.  USB-A, USB-B",
+    "text": "Vorteile USB-C vs.  USB-A, USB-B\n\n\nreversible Steckrichtung\nhöhere Leistungsfähigkeit\nkompaktes Design\nschnellere Ladezeiten\nbidirektionale Stromversorgung\nZukunftssicherheit",
+    "crumbs": [
+      "02 Hardware"
+    ]
+  },
+  {
+    "objectID": "02a_Hardware.html#bildschirm-was-bedeutet-uhd-4k",
+    "href": "02a_Hardware.html#bildschirm-was-bedeutet-uhd-4k",
+    "title": "IT Hardware",
+    "section": "Bildschirm: Was bedeutet UHD 4K?",
+    "text": "Bildschirm: Was bedeutet UHD 4K?\n\n\nUHD (Ultra High Definition) 4K bezeichnet ein digitales Videoformat der International Telecommunication Union (ITU) für Ultra High Definition Television (UHDTV oder Ultra HDTV) sowie Ultra High Definition Video (UHDV).\nUHD 4K wird heute auch als UHD-1 bezeichnet und lehnt sich am Cinema 4K (4096 x 2160 Pixel) an. Die Hersteller spezifizieren jedoch ihre Geräte mit 3840 x 2160 Pixeln heute oftmals auch als UHD 4K.\n\n\nLernkarte AP1 2025 Nr. 59",
+    "crumbs": [
+      "02 Hardware"
+    ]
+  },
+  {
+    "objectID": "02a_Hardware.html#grafik-schnittstellen-für-4k-8k",
+    "href": "02a_Hardware.html#grafik-schnittstellen-für-4k-8k",
+    "title": "IT Hardware",
+    "section": "Grafik: Schnittstellen für 4K, 8K",
+    "text": "Grafik: Schnittstellen für 4K, 8K\n\n\n\n\nSchnittstelle\nmax. Übertragungsrate\nmax. Auflösung\n\n\n\n\nHDMI 1.4\n10,2 GBit/s\nFull-HD (1920x1080)\n\n\nHDMI 2.0\n18,0 GBit/s\n4K (3840 x 2160)\n\n\nHDMI 2.1\n38,4 GBit/s\n8K (7680 x 4320)\n\n\nDisplayPort 1.3\n25,9 GBit/s\n8K (7680 x 4320)\n\n\nDisplayPort 1.4\n32,4 GBit/s\n8K (7680 x 4320)\n\n\n\n\nKinostandard DCI-4K: 4096 x 2160; ca. 17:9\nKinostandard DCI-8K: 8192 x 4320; ca. 17:9",
+    "crumbs": [
+      "02 Hardware"
+    ]
+  },
+  {
+    "objectID": "02a_Hardware.html#eingabe--vs.-ausgabegeräte",
+    "href": "02a_Hardware.html#eingabe--vs.-ausgabegeräte",
+    "title": "IT Hardware",
+    "section": "Eingabe- vs. Ausgabegeräte",
+    "text": "Eingabe- vs. Ausgabegeräte\n\n\nWelche IT-Komponenten sind Ein- oder Ausgabegeräte?\n\nDrucker\nScanner\nMaus\nDisplay\nTouchpad\n\n\nEingabe\n\nScanner\nMaus\nTouchpad\n\nAusgabe\n\nDrucker\nDisplay\n\n\n\nLernkarte AP1 2025 Nr. 61",
+    "crumbs": [
+      "02 Hardware"
+    ]
+  },
+  {
+    "objectID": "02a_Hardware.html#section",
+    "href": "02a_Hardware.html#section",
+    "title": "IT Hardware",
+    "section": "",
+    "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!",
+    "crumbs": [
+      "02 Hardware"
+    ]
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#bedarfs--und-anforderungsanalyse",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#bedarfs--und-anforderungsanalyse",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Bedarfs- und Anforderungsanalyse",
+    "text": "Bedarfs- und Anforderungsanalyse\n\nZiele\n\nBedarfsanalyse verstehen\nProjektziele ermitteln\nStakeholder erkennen\nArten von Anforderungen unterscheiden:\n\nim Projektverlauf\naus der Perspektive verschiedener Stakeholder\n\nKommunikation im Projekt verbessern",
+    "crumbs": [
+      "03a Bedarfs- und Anforderungsanalyse"
+    ]
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#bedarfsanalyse",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#bedarfsanalyse",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Bedarfsanalyse",
+    "text": "Bedarfsanalyse\n\nGehört zum Projektmanagement\nTypische Fragen:\n\nWelches Problem soll gelöst werden?\nWer hat welchen Bedarf?\nWarum lohnt sich das Projekt?\nWelche Ziele sollen erreicht werden?",
+    "crumbs": [
+      "03a Bedarfs- und Anforderungsanalyse"
+    ]
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#bedarfsanalyse-1",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#bedarfsanalyse-1",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Bedarfsanalyse",
+    "text": "Bedarfsanalyse\n\nDefinition:\n\nAnalyseart zur Feststellung des Bedarfs an Waren, Dienstleistungen, Gütern oder Personal\nfür eine bestimmte Region / Land und / oder\nfür bestimmte Personengruppen und / oder\nfür einen bestimmten Zeitraum\n\nZweck: Künftige Beschaffungsprozesse oder Projekte besser zu planen\n\n\nLernkarte AP1 2025 Nr. 137",
+    "crumbs": [
+      "03a Bedarfs- und Anforderungsanalyse"
+    ]
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#bedarfsanalyse-vorteile",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#bedarfsanalyse-vorteile",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Bedarfsanalyse: Vorteile",
+    "text": "Bedarfsanalyse: Vorteile\n\n\nDer Vertrieb kann Wünsche, Motive und Ziele des Kunden ermitteln\nEntscheider und Kundentypen können ermittelt werden\nDas Vertrauen des Kunden wird gestärkt\nDem Kunden können individuelle Lösungen angeboten werden\nDas Unternehmen hebt sich von der Konkurrenz ab\nUmsatz des Unternehmens kann gesteigert werden\nLangfristige Kundenbindung wird unterstützt\n\n\n\nLernkarte AP1 2025 Nr. 138",
+    "crumbs": [
+      "03a Bedarfs- und Anforderungsanalyse"
+    ]
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#was-sind-stakeholder-in-software-projekten",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#was-sind-stakeholder-in-software-projekten",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Was sind Stakeholder in Software-Projekten?",
+    "text": "Was sind Stakeholder in Software-Projekten?\n\nAlle, die an einem Projekt beteiligt sind oder von den Ergebnissen betroffen sind!\n\nAuftraggeber (intern und / oder extern)\nNutzer / User\nMitarbeiter am Projekt\n\nSoftware-Entwickler, Software-Architekten, Software-Tester, …\nProjektleiter, Systemadministratoren\nDatenschutzbeauftragte\n\nKunden\nPartnerunternehmen\nLieferanten",
+    "crumbs": [
+      "03a Bedarfs- und Anforderungsanalyse"
+    ]
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#bedarfsanalyse-beispiel",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#bedarfsanalyse-beispiel",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Bedarfsanalyse: Beispiel",
+    "text": "Bedarfsanalyse: Beispiel\n\n\nEin Unternehmen erhält täglich 300 Kundenanfragen per E-Mail.\nDie Bearbeitung dauert zu lange, Kunden sind unzufrieden.\n\n\n\n\n\n\nKriterium\n\n\n\n\nProblem\n\n\nZiel\n\n\nStakeholder\n\n\nNutzen\n\n\n\n\n\n\n\nErgebnis\n\n\n\n\nlange Bearbeitungszeit\n\n\n30% schneller\n\n\nKunden, Support-Team\n\n\nhöhere Zufriedenheit, geringere Kosten\n\n\n\n\nProblem erkannt, Ziel ermittelt - nun zur Umsetzung!",
+    "crumbs": [
+      "03a Bedarfs- und Anforderungsanalyse"
+    ]
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#arten-von-anforderungen-an-software",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#arten-von-anforderungen-an-software",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Arten von Anforderungen an Software",
+    "text": "Arten von Anforderungen an Software\n\nGeschäftsanforderungen\nBenutzeranforderungen\nFunktionale Anforderungen\nProjektanforderungen\n\n\nLernkarte AP1 2025 Nr. 133",
+    "crumbs": [
+      "03a Bedarfs- und Anforderungsanalyse"
+    ]
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#geschäftsanforderungen",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#geschäftsanforderungen",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Geschäftsanforderungen",
+    "text": "Geschäftsanforderungen\n\n\nAnforderungen, die sich aus der Geschäftstätigkeit des Kunden und den Marktanforderungen ergeben\nFestlegung durch Management und Marketing\n\n\nKernfrage: Warum existiert das Projekt?\n\nZiele, Nutzen, strategische Motivation\n\nBeispiele:\n\n“Das Unternehmen möchte die Bearbeitungszeit von Kundenanfragen um 30% reduzieren.”\n“Die neue Plattform soll den Online-Umsatz steigern, indem Bestellungen auch mobil möglich sind.”\n“Wir müssen gesetzliche Vorgaben zur Dokumentation erfüllen.”",
+    "crumbs": [
+      "03a Bedarfs- und Anforderungsanalyse"
+    ]
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#benutzeranforderungen",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#benutzeranforderungen",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Benutzeranforderungen",
+    "text": "Benutzeranforderungen\n\n\nfür die Benutzer des Softwaresystems erforderliche Anforderungen, um die Geschäftsanforderungen zu erfüllen\nFestlegung durch Geschäftsanalysten, Benutzer, Vertreter der Benutzer, Produktmanager\n\n\nKernfrage: Was braucht ein bestimmter Nutzer, um sein Ziel zu erreichen?\nBeispiele:\n\n„Als Sachbearbeiter möchte ich Kundenanfragen durchsuchen können, damit ich schnell die passende Historie finde.“\n„Als Kunde möchte ich meine Bestellung verfolgen können, damit ich weiß, wann sie ankommt.“\n„Als Administrator möchte ich Benutzerrollen verwalten können, damit ich Zugriffe steuern kann.“",
+    "crumbs": [
+      "03a Bedarfs- und Anforderungsanalyse"
+    ]
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#funktionale-anforderungen",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#funktionale-anforderungen",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Funktionale Anforderungen",
+    "text": "Funktionale Anforderungen\n\n\nerfassen das Verhalten, welches eine Software erfüllen muss, um die Benutzeranforderungen zu gewährleisten\nFestlegung durch Geschäftsanalysten und Produktmanager in Absprache mit Softwareentwicklung und Testabteilung\n\n\nKernfrage: Was soll das System können?\n\nkonkrete Funktionen\n\nBeispiele:\n\n„Das System soll Berichte exportieren können.“\n„Das System soll Bestellungen automatisch per E‑Mail bestätigen.“\n„Das System soll Rollen und Berechtigungen verwalten können.“",
+    "crumbs": [
+      "03a Bedarfs- und Anforderungsanalyse"
+    ]
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#projektanforderungen",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#projektanforderungen",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Projektanforderungen",
+    "text": "Projektanforderungen\n\n\nAnforderungen, die erfüllt sein müssen, um den Erfolg des Projekts zu sichern und das Produkt im Zuge des Application Lifecycle Managements (ALM) zu betreuen\n\n\nKernfrage: Unter welchen Bedingungen?\nBeispiele:\n\n„Die Lösung muss in der bestehenden Azure‑Cloud betrieben werden.“\n„Die Software muss bis Q4 fertiggestellt sein.“\n„Es dürfen nur Open‑Source‑Bibliotheken mit MIT‑Lizenz verwendet werden.“",
+    "crumbs": [
+      "03a Bedarfs- und Anforderungsanalyse"
+    ]
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#anforderungen-an-software",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#anforderungen-an-software",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Anforderungen an Software",
+    "text": "Anforderungen an Software\nSpielerisch lernen:\nhttps://learningapps.org/watch?v=pu2tvbzj526",
+    "crumbs": [
+      "03a Bedarfs- und Anforderungsanalyse"
+    ]
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#vom-bedarf-zur-anforderung",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#vom-bedarf-zur-anforderung",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Vom Bedarf zur Anforderung",
+    "text": "Vom Bedarf zur Anforderung\n\nAufgabe: Ermitteln Sie zu jedem Bedarf mindestens eine\n\nGeschäftsanforderung\nBenutzeranforderung\nfunktionale Anforderung\nProjektanforderung\n\n\nBedarf 1: Kundenservice digitalisieren: Der Kundenservice soll schneller und transparenter werden.\nBedarf 2: Außendienst effizienter machen: Außendienstmitarbeiter sollen Kundendaten mobil erfassen können.\nBedarf 3: Sicherheit erhöhen: Die IT-Security verlangt höhere Zugriffssicherheit.",
+    "crumbs": [
+      "03a Bedarfs- und Anforderungsanalyse"
+    ]
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#kundenservice-digitalisieren",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#kundenservice-digitalisieren",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Kundenservice digitalisieren",
+    "text": "Kundenservice digitalisieren\nBedarf: Der Kundenservice soll schneller und transparenter werden.\n\n\n\n\n\n\n\n\n\nAnforderung\nFrage\nBeispiel\n\n\n\n\nGeschäftsanforderung\nWarum das Projekt?\nDas Unternehmen möchte die Bearbeitungszeit von Kundenanfragen um 30% reduzieren.\n\n\nBenutzeranforderung\nWas braucht …?\nAls Kunde möchte ich den Status meiner Anfrage online einsehen können.\n\n\nFunktionale Anforderung\nWas soll das System tun?\nDas System muss den aktuellen Bearbeitungsstatus einer Anfrage anzeigen.\n\n\nProjektanforderung\nUnter welchen Bedingungen?\nDie Lösung muss in der bestehenden AWS‑Cloud betrieben werden.",
+    "crumbs": [
+      "03a Bedarfs- und Anforderungsanalyse"
+    ]
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#außendienst-effizienter-machen",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#außendienst-effizienter-machen",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Außendienst effizienter machen",
+    "text": "Außendienst effizienter machen\nBedarf: Außendienstmitarbeiter sollen Kundendaten mobil erfassen können.\n\n\n\n\n\n\n\n\n\nAnforderung\nFrage\nBeispiel\n\n\n\n\nGeschäftsanforderung\nWarum das Projekt?\nDie Erfassung von Kundendaten soll vor Ort möglich sein, um Nachbearbeitungszeit im Büro zu reduzieren.\n\n\nBenutzeranforderung\nWas braucht …?\nAls Außendienstmitarbeiter möchte ich Kundendaten offline erfassen können.\n\n\nFunktionale Anforderung\nWas soll das System tun?\nDie App muss Eingaben lokal speichern und später automatisch synchronisieren.\n\n\nProjektanforderung\nUnter welchen Bedingungen?\nDie mobile App muss auf iOS und Android lauffähig sein.",
+    "crumbs": [
+      "03a Bedarfs- und Anforderungsanalyse"
+    ]
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#sicherheit-erhöhen",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#sicherheit-erhöhen",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "Sicherheit erhöhen",
+    "text": "Sicherheit erhöhen\nBedarf: Die IT‑Security verlangt höhere Zugriffssicherheit.\n\n\n\n\n\n\n\n\n\nAnforderung\nFrage\nBeispiel\n\n\n\n\nGeschäftsanforderung\nWarum das Projekt?\nDie Sicherheit sensibler Kundendaten muss verbessert werden, um Compliance‑Risiken zu reduzieren.\n\n\nBenutzeranforderung\nWas braucht …?\nAls Administrator möchte ich Benutzerrollen verwalten können, um Zugriffe gezielt zu steuern.\n\n\nFunktionale Anforderung\nWas soll das System tun?\nDas System muss eine Zwei‑Faktor‑Authentifizierung anbieten.\n\n\nProjektanforderung\nUnter welchen Bedingungen?\nDie Lösung muss DSGVO‑konform sein.",
+    "crumbs": [
+      "03a Bedarfs- und Anforderungsanalyse"
+    ]
+  },
+  {
+    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#section",
+    "href": "03a_Bedarfs-Anforderungsanalyse.html#section",
+    "title": "Bedarfs- und Anforderungsanalyse",
+    "section": "",
+    "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!",
+    "crumbs": [
+      "03a Bedarfs- und Anforderungsanalyse"
+    ]
+  },
+  {
     "objectID": "04_Nutzwertanalyse.html#aufgabe-kaufberatung",
     "href": "04_Nutzwertanalyse.html#aufgabe-kaufberatung",
     "title": "Nutzwertanalyse",
@@ -254,709 +959,54 @@
     ]
   },
   {
-    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#bedarfs--und-anforderungsanalyse",
-    "href": "03a_Bedarfs-Anforderungsanalyse.html#bedarfs--und-anforderungsanalyse",
-    "title": "Bedarfs- und Anforderungsanalyse",
-    "section": "Bedarfs- und Anforderungsanalyse",
-    "text": "Bedarfs- und Anforderungsanalyse\n\nZiele\n\nBedarfsanalyse verstehen\nProjektziele ermitteln\nStakeholder erkennen\nArten von Anforderungen unterscheiden:\n\nim Projektverlauf\naus der Perspektive verschiedener Stakeholder\n\nKommunikation im Projekt verbessern",
+    "objectID": "06a_Projektorga-Block1.html#was-ist-ein-projekt-merkmale",
+    "href": "06a_Projektorga-Block1.html#was-ist-ein-projekt-merkmale",
+    "title": "Projektorganisation",
+    "section": "Was ist ein Projekt? Merkmale",
+    "text": "Was ist ein Projekt? Merkmale\n\n\nEinmaligkeit: Ein Projekt wird in der Regel nur einmal ausgeführt und ist kein Prozess, der sich regelmäßig wiederholt.\nKlares Ziel: In jedem Projekt wird ein bestimmtes Ergebnis oder Ziel verfolgt.\nZeitliche Befristung: Projekte haben einen festgelegten Start- und Endzeitpunkt.\nInterdisziplinär: Eine Notwendigkeit ist oft die Zusammenarbeit mit verschiedenen Fachbereichen.\nRisikobehaftet: Projekte sind mit Unsicherheiten und Risiken verbunden.\nRahmenbedingungen: Ein Projekt hat begrenzte Ressourcen, wie Geld, Personal, Zeit und hat klare Abgrenzungen zu anderen Projekten.\n\n\n\nLernkarte AP1 2025 Nr. 1",
     "crumbs": [
-      "Bedarfs- und Anforderungsanalyse"
+      "05 Projektorganisation"
     ]
   },
   {
-    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#bedarfsanalyse",
-    "href": "03a_Bedarfs-Anforderungsanalyse.html#bedarfsanalyse",
-    "title": "Bedarfs- und Anforderungsanalyse",
-    "section": "Bedarfsanalyse",
-    "text": "Bedarfsanalyse\n\nGehört zum Projektmanagement\nTypische Fragen:\n\nWelches Problem soll gelöst werden?\nWer hat welchen Bedarf?\nWarum lohnt sich das Projekt?\nWelche Ziele sollen erreicht werden?",
+    "objectID": "06a_Projektorga-Block1.html#lastenheft",
+    "href": "06a_Projektorga-Block1.html#lastenheft",
+    "title": "Projektorganisation",
+    "section": "Lastenheft",
+    "text": "Lastenheft\n\n\nLastenheft: Anforderungs- oder Kundenspezifikation\nbeschreibt Gesamtheit der Anforderungen bzw. Spezifikationen des Auftraggebers an die Lieferungen und Leistungen seines Auftragnehmers\nenthält die an das zu entwickelnde Produkt gestellten funktionalen sowie nicht-funktionalen Anforderungen (Gesetze / Vorschriften)\ndient als Basis für die Ausschreibung sowie Vertragsgestaltung\ntypische Angaben: Lieferzeit, Lieferumfang, Kosten\nDas akzeptierte Lastenheft ist für beide Parteien rechtlich bindend.\n\n\n\nLernkarte AP1 2025 Nr. 149",
     "crumbs": [
-      "Bedarfs- und Anforderungsanalyse"
+      "05 Projektorganisation"
     ]
   },
   {
-    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#bedarfsanalyse-1",
-    "href": "03a_Bedarfs-Anforderungsanalyse.html#bedarfsanalyse-1",
-    "title": "Bedarfs- und Anforderungsanalyse",
-    "section": "Bedarfsanalyse",
-    "text": "Bedarfsanalyse\n\nDefinition:\n\nAnalyseart zur Feststellung des Bedarfs an Waren, Dienstleistungen, Gütern oder Personal\nfür eine bestimmte Region / Land und / oder\nfür bestimmte Personengruppen und / oder\nfür einen bestimmten Zeitraum\n\nZweck: Künftige Beschaffungsprozesse oder Projekte besser zu planen\n\n\nLernkarte AP1 2025 Nr. 137",
+    "objectID": "06a_Projektorga-Block1.html#pflichtenheft",
+    "href": "06a_Projektorga-Block1.html#pflichtenheft",
+    "title": "Projektorganisation",
+    "section": "Pflichtenheft",
+    "text": "Pflichtenheft\n\n\nbeschreibt in detaillierter Form, wie der Auftragnehmer die Anforderungen des Auftraggebers umsetzen möchte\n“Wie und Womit” der Auftrag erfüllt werden soll\nInhalt des Pflichtenheftes für beide Parteien rechtlich bindend, solange nicht beide Parteien Änderungen / Ergänzungen zulassen\nUmsetzung durch Auftragnehmer beginnt erst, wenn Auftraggeber das Pflichtenheft akzeptiert!\nAgile Entwicklungsmodelle: Änderungen können in diesen Prozess einfließen\n\n\n\nLernkarte AP1 2025 Nr. 147",
     "crumbs": [
-      "Bedarfs- und Anforderungsanalyse"
+      "05 Projektorganisation"
     ]
   },
   {
-    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#bedarfsanalyse-vorteile",
-    "href": "03a_Bedarfs-Anforderungsanalyse.html#bedarfsanalyse-vorteile",
-    "title": "Bedarfs- und Anforderungsanalyse",
-    "section": "Bedarfsanalyse: Vorteile",
-    "text": "Bedarfsanalyse: Vorteile\n\n\nDer Vertrieb kann Wünsche, Motive und Ziele des Kunden ermitteln\nEntscheider und Kundentypen können ermittelt werden\nDas Vertrauen des Kunden wird gestärkt\nDem Kunden können individuelle Lösungen angeboten werden\nDas Unternehmen hebt sich von der Konkurrenz ab\nUmsatz des Unternehmens kann gesteigert werden\nLangfristige Kundenbindung wird unterstützt\n\n\n\nLernkarte AP1 2025 Nr. 138",
+    "objectID": "06a_Projektorga-Block1.html#projektmanagement-smart",
+    "href": "06a_Projektorga-Block1.html#projektmanagement-smart",
+    "title": "Projektorganisation",
+    "section": "Projektmanagement: SMART",
+    "text": "Projektmanagement: SMART\n\nBeschreibe die fünf Punkte der SMART-Methode im Projektmanagement.\n\nS Spezifisch: Die Projektziele sind so konkret wie möglich zu formulieren.\nM Messbar: Die Projektziele müssen messbar sein.\nA Aktivierend / Attraktiv: Die Projektziele müssen Motivation zur Umsetzung geben.\nR Realistisch: Die Projektziele müssen innerhalb des gesetzten Zeitrahmens umsetzbar sein.\nT Terminiert: Die Projektziele müssen zeitlich bindend sein. Welche Aufgaben sind bis wann zu erledigen?\n\n\n\nLernkarte AP1 2025 Nr. 226",
     "crumbs": [
-      "Bedarfs- und Anforderungsanalyse"
+      "05 Projektorganisation"
     ]
   },
   {
-    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#was-sind-stakeholder-in-software-projekten",
-    "href": "03a_Bedarfs-Anforderungsanalyse.html#was-sind-stakeholder-in-software-projekten",
-    "title": "Bedarfs- und Anforderungsanalyse",
-    "section": "Was sind Stakeholder in Software-Projekten?",
-    "text": "Was sind Stakeholder in Software-Projekten?\n\nAlle, die an einem Projekt beteiligt sind oder von den Ergebnissen betroffen sind!\n\nAuftraggeber (intern und / oder extern)\nNutzer / User\nMitarbeiter am Projekt\n\nSoftware-Entwickler, Software-Architekten, Software-Tester, …\nProjektleiter, Systemadministratoren\nDatenschutzbeauftragte\n\nKunden\nPartnerunternehmen\nLieferanten",
-    "crumbs": [
-      "Bedarfs- und Anforderungsanalyse"
-    ]
-  },
-  {
-    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#bedarfsanalyse-beispiel",
-    "href": "03a_Bedarfs-Anforderungsanalyse.html#bedarfsanalyse-beispiel",
-    "title": "Bedarfs- und Anforderungsanalyse",
-    "section": "Bedarfsanalyse: Beispiel",
-    "text": "Bedarfsanalyse: Beispiel\n\n\nEin Unternehmen erhält täglich 300 Kundenanfragen per E-Mail.\nDie Bearbeitung dauert zu lange, Kunden sind unzufrieden.\n\n\n\n\n\n\nKriterium\n\n\n\n\nProblem\n\n\nZiel\n\n\nStakeholder\n\n\nNutzen\n\n\n\n\n\n\n\nErgebnis\n\n\n\n\nlange Bearbeitungszeit\n\n\n30% schneller\n\n\nKunden, Support-Team\n\n\nhöhere Zufriedenheit, geringere Kosten\n\n\n\n\nProblem erkannt, Ziel ermittelt - nun zur Umsetzung!",
-    "crumbs": [
-      "Bedarfs- und Anforderungsanalyse"
-    ]
-  },
-  {
-    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#arten-von-anforderungen-an-software",
-    "href": "03a_Bedarfs-Anforderungsanalyse.html#arten-von-anforderungen-an-software",
-    "title": "Bedarfs- und Anforderungsanalyse",
-    "section": "Arten von Anforderungen an Software",
-    "text": "Arten von Anforderungen an Software\n\nGeschäftsanforderungen\nBenutzeranforderungen\nFunktionale Anforderungen\nProjektanforderungen\n\n\nLernkarte AP1 2025 Nr. 133",
-    "crumbs": [
-      "Bedarfs- und Anforderungsanalyse"
-    ]
-  },
-  {
-    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#geschäftsanforderungen",
-    "href": "03a_Bedarfs-Anforderungsanalyse.html#geschäftsanforderungen",
-    "title": "Bedarfs- und Anforderungsanalyse",
-    "section": "Geschäftsanforderungen",
-    "text": "Geschäftsanforderungen\n\n\nAnforderungen, die sich aus der Geschäftstätigkeit des Kunden und den Marktanforderungen ergeben\nFestlegung durch Management und Marketing\n\n\nKernfrage: Warum existiert das Projekt?\n\nZiele, Nutzen, strategische Motivation\n\nBeispiele:\n\n“Das Unternehmen möchte die Bearbeitungszeit von Kundenanfragen um 30% reduzieren.”\n“Die neue Plattform soll den Online-Umsatz steigern, indem Bestellungen auch mobil möglich sind.”\n“Wir müssen gesetzliche Vorgaben zur Dokumentation erfüllen.”",
-    "crumbs": [
-      "Bedarfs- und Anforderungsanalyse"
-    ]
-  },
-  {
-    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#benutzeranforderungen",
-    "href": "03a_Bedarfs-Anforderungsanalyse.html#benutzeranforderungen",
-    "title": "Bedarfs- und Anforderungsanalyse",
-    "section": "Benutzeranforderungen",
-    "text": "Benutzeranforderungen\n\n\nfür die Benutzer des Softwaresystems erforderliche Anforderungen, um die Geschäftsanforderungen zu erfüllen\nFestlegung durch Geschäftsanalysten, Benutzer, Vertreter der Benutzer, Produktmanager\n\n\nKernfrage: Was braucht ein bestimmter Nutzer, um sein Ziel zu erreichen?\nBeispiele:\n\n„Als Sachbearbeiter möchte ich Kundenanfragen durchsuchen können, damit ich schnell die passende Historie finde.“\n„Als Kunde möchte ich meine Bestellung verfolgen können, damit ich weiß, wann sie ankommt.“\n„Als Administrator möchte ich Benutzerrollen verwalten können, damit ich Zugriffe steuern kann.“",
-    "crumbs": [
-      "Bedarfs- und Anforderungsanalyse"
-    ]
-  },
-  {
-    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#funktionale-anforderungen",
-    "href": "03a_Bedarfs-Anforderungsanalyse.html#funktionale-anforderungen",
-    "title": "Bedarfs- und Anforderungsanalyse",
-    "section": "Funktionale Anforderungen",
-    "text": "Funktionale Anforderungen\n\n\nerfassen das Verhalten, welches eine Software erfüllen muss, um die Benutzeranforderungen zu gewährleisten\nFestlegung durch Geschäftsanalysten und Produktmanager in Absprache mit Softwareentwicklung und Testabteilung\n\n\nKernfrage: Was soll das System können?\n\nkonkrete Funktionen\n\nBeispiele:\n\n„Das System soll Berichte exportieren können.“\n„Das System soll Bestellungen automatisch per E‑Mail bestätigen.“\n„Das System soll Rollen und Berechtigungen verwalten können.“",
-    "crumbs": [
-      "Bedarfs- und Anforderungsanalyse"
-    ]
-  },
-  {
-    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#projektanforderungen",
-    "href": "03a_Bedarfs-Anforderungsanalyse.html#projektanforderungen",
-    "title": "Bedarfs- und Anforderungsanalyse",
-    "section": "Projektanforderungen",
-    "text": "Projektanforderungen\n\n\nAnforderungen, die erfüllt sein müssen, um den Erfolg des Projekts zu sichern und das Produkt im Zuge des Application Lifecycle Managements (ALM) zu betreuen\n\n\nKernfrage: Unter welchen Bedingungen?\nBeispiele:\n\n„Die Lösung muss in der bestehenden Azure‑Cloud betrieben werden.“\n„Die Software muss bis Q4 fertiggestellt sein.“\n„Es dürfen nur Open‑Source‑Bibliotheken mit MIT‑Lizenz verwendet werden.“",
-    "crumbs": [
-      "Bedarfs- und Anforderungsanalyse"
-    ]
-  },
-  {
-    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#anforderungen-an-software",
-    "href": "03a_Bedarfs-Anforderungsanalyse.html#anforderungen-an-software",
-    "title": "Bedarfs- und Anforderungsanalyse",
-    "section": "Anforderungen an Software",
-    "text": "Anforderungen an Software\nSpielerisch lernen:\nhttps://learningapps.org/watch?v=pu2tvbzj526",
-    "crumbs": [
-      "Bedarfs- und Anforderungsanalyse"
-    ]
-  },
-  {
-    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#vom-bedarf-zur-anforderung",
-    "href": "03a_Bedarfs-Anforderungsanalyse.html#vom-bedarf-zur-anforderung",
-    "title": "Bedarfs- und Anforderungsanalyse",
-    "section": "Vom Bedarf zur Anforderung",
-    "text": "Vom Bedarf zur Anforderung\n\nAufgabe: Ermitteln Sie zu jedem Bedarf mindestens eine\n\nGeschäftsanforderung\nBenutzeranforderung\nfunktionale Anforderung\nProjektanforderung\n\n\nBedarf 1: Kundenservice digitalisieren: Der Kundenservice soll schneller und transparenter werden.\nBedarf 2: Außendienst effizienter machen: Außendienstmitarbeiter sollen Kundendaten mobil erfassen können.\nBedarf 3: Sicherheit erhöhen: Die IT-Security verlangt höhere Zugriffssicherheit.",
-    "crumbs": [
-      "Bedarfs- und Anforderungsanalyse"
-    ]
-  },
-  {
-    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#kundenservice-digitalisieren",
-    "href": "03a_Bedarfs-Anforderungsanalyse.html#kundenservice-digitalisieren",
-    "title": "Bedarfs- und Anforderungsanalyse",
-    "section": "Kundenservice digitalisieren",
-    "text": "Kundenservice digitalisieren\nBedarf: Der Kundenservice soll schneller und transparenter werden.\n\n\n\n\n\n\n\n\n\nAnforderung\nFrage\nBeispiel\n\n\n\n\nGeschäftsanforderung\nWarum das Projekt?\nDas Unternehmen möchte die Bearbeitungszeit von Kundenanfragen um 30% reduzieren.\n\n\nBenutzeranforderung\nWas braucht …?\nAls Kunde möchte ich den Status meiner Anfrage online einsehen können.\n\n\nFunktionale Anforderung\nWas soll das System tun?\nDas System muss den aktuellen Bearbeitungsstatus einer Anfrage anzeigen.\n\n\nProjektanforderung\nUnter welchen Bedingungen?\nDie Lösung muss in der bestehenden AWS‑Cloud betrieben werden.",
-    "crumbs": [
-      "Bedarfs- und Anforderungsanalyse"
-    ]
-  },
-  {
-    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#außendienst-effizienter-machen",
-    "href": "03a_Bedarfs-Anforderungsanalyse.html#außendienst-effizienter-machen",
-    "title": "Bedarfs- und Anforderungsanalyse",
-    "section": "Außendienst effizienter machen",
-    "text": "Außendienst effizienter machen\nBedarf: Außendienstmitarbeiter sollen Kundendaten mobil erfassen können.\n\n\n\n\n\n\n\n\n\nAnforderung\nFrage\nBeispiel\n\n\n\n\nGeschäftsanforderung\nWarum das Projekt?\nDie Erfassung von Kundendaten soll vor Ort möglich sein, um Nachbearbeitungszeit im Büro zu reduzieren.\n\n\nBenutzeranforderung\nWas braucht …?\nAls Außendienstmitarbeiter möchte ich Kundendaten offline erfassen können.\n\n\nFunktionale Anforderung\nWas soll das System tun?\nDie App muss Eingaben lokal speichern und später automatisch synchronisieren.\n\n\nProjektanforderung\nUnter welchen Bedingungen?\nDie mobile App muss auf iOS und Android lauffähig sein.",
-    "crumbs": [
-      "Bedarfs- und Anforderungsanalyse"
-    ]
-  },
-  {
-    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#sicherheit-erhöhen",
-    "href": "03a_Bedarfs-Anforderungsanalyse.html#sicherheit-erhöhen",
-    "title": "Bedarfs- und Anforderungsanalyse",
-    "section": "Sicherheit erhöhen",
-    "text": "Sicherheit erhöhen\nBedarf: Die IT‑Security verlangt höhere Zugriffssicherheit.\n\n\n\n\n\n\n\n\n\nAnforderung\nFrage\nBeispiel\n\n\n\n\nGeschäftsanforderung\nWarum das Projekt?\nDie Sicherheit sensibler Kundendaten muss verbessert werden, um Compliance‑Risiken zu reduzieren.\n\n\nBenutzeranforderung\nWas braucht …?\nAls Administrator möchte ich Benutzerrollen verwalten können, um Zugriffe gezielt zu steuern.\n\n\nFunktionale Anforderung\nWas soll das System tun?\nDas System muss eine Zwei‑Faktor‑Authentifizierung anbieten.\n\n\nProjektanforderung\nUnter welchen Bedingungen?\nDie Lösung muss DSGVO‑konform sein.",
-    "crumbs": [
-      "Bedarfs- und Anforderungsanalyse"
-    ]
-  },
-  {
-    "objectID": "03a_Bedarfs-Anforderungsanalyse.html#section",
-    "href": "03a_Bedarfs-Anforderungsanalyse.html#section",
-    "title": "Bedarfs- und Anforderungsanalyse",
+    "objectID": "06a_Projektorga-Block1.html#section",
+    "href": "06a_Projektorga-Block1.html#section",
+    "title": "Projektorganisation",
     "section": "",
     "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!",
     "crumbs": [
-      "Bedarfs- und Anforderungsanalyse"
+      "05 Projektorganisation"
     ]
-  },
-  {
-    "objectID": "02a_Hardware.html#büroarbeitsplatz-ergonomie-bildschirm",
-    "href": "02a_Hardware.html#büroarbeitsplatz-ergonomie-bildschirm",
-    "title": "IT Hardware",
-    "section": "Büroarbeitsplatz: Ergonomie Bildschirm",
-    "text": "Büroarbeitsplatz: Ergonomie Bildschirm\n\nWelche Anforderungen muss ein ergonomischer PC-Arbeitsplatz erfüllen?\n\nAllgemeine Ergonomie in Richtlinie 90/270/EWG geregelt\nenthält Mindestvorschriften bzgl. Arbei an Bildschirmgeräten:\nOberste Bildschirmzeile des Monitors leicht unterhalb der Sehachse des Mitarbeitenden\nMindestabstand von 50cm zum Bildschirm ist zu gewährleisten\nBildschirm so einrichten, dass er frei von störenden Reflexionen und Blendungen ist\nBildschirm muss frei stehen und leicht drehbar sowie neigbar sein\nArbeitshöhe und Sitzhöhe müssen sich an die Körperhöhe anpassen lassen\nWinkel von 90° zwischen Ober- und Unterarm sowie Ober- und Unterschenkel ist optimal\nGenug Bewegungsspielraum für die Beine\nNatürliche Körperhaltung muss möglich sein\n\nWeiteres: Arbeitsstättenverordnung (ArbStättV)\n\n\nLernkarte AP1 2025 Nr. 223",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "02a_Hardware.html#arbeitsstättenverordnung-arbstättv",
-    "href": "02a_Hardware.html#arbeitsstättenverordnung-arbstättv",
-    "title": "IT Hardware",
-    "section": "Arbeitsstättenverordnung (ArbStättV)",
-    "text": "Arbeitsstättenverordnung (ArbStättV)\n\nRegelungen zum Einrichten eines Bildschirmarbeitsplatzes:\n\nZeichen auf dem Bildschirm müssen scharf, deutlich, ausreichend groß dargestellt sein\nBild muss stabil, flimmerfrei, ohne Verzerrungen dargestellt werden\nHelligkeit und Kontrast des Bildschirms müssen einstellbar sein\nBildschirm so einrichten, dass er frei von störenden Reflexionen und Blendungen ist\nBildschirm muss frei stehen und leicht drehbar sowie neigbar sein\nTastatur muss vom Bildschirmgerät getrennt und neigbar sein, damit eine ergonomische Arbeitshaltung eingenommen werden kann\nTastatur muss eine Auflagemöglichkeit für die Hände bieten\nPC-Tastatur muss eine reflexionsarme Oberfläche besitzen\nTastaturbeschriftung muss sich vom Untergrund deutlich abheben und bei normaler Arbeitshaltung lesbar sein\n\n\n\nLernkarte AP1 2025 Nr. 224",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "02a_Hardware.html#cpu-cache",
-    "href": "02a_Hardware.html#cpu-cache",
-    "title": "IT Hardware",
-    "section": "CPU: Cache",
-    "text": "CPU: Cache\n\n\nCPU-Cache: Zusätzlicher Speicher auf dem Prozessor (“Zwischenspeicher”)\nsoll Zugriffszeiten auf Daten verkürzen\nL1-Cache: First-Level-Cache\n\nschnellster und kleinster Zwischenspeicher\n\nL2-Cache: Second-Level-Cache\n\netwas langsamer, etwas größer\n\nL3-Cache: Third-Level-Cache\n\nlangsamster, größter Zwischenspeicher\n\nAlle drei:\n\nArbeitsspeicher entlasten\nder CPU schnellen Zugriff auf Daten und Befehle ermöglichen\n\n\n\n\nLernkarte AP1 2025 Nr. 114",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "02a_Hardware.html#cpu-logische-prozessoren",
-    "href": "02a_Hardware.html#cpu-logische-prozessoren",
-    "title": "IT Hardware",
-    "section": "CPU: Logische Prozessoren",
-    "text": "CPU: Logische Prozessoren\n\n\nvirtuelle Prozessoren, die durch Hyper-Threading-Technologie (HTT) oder Simultaneous Multithreading (SMT) unterstützt werden\nProzessor “tut so”, als habe er mehr Kerne, als physisch vorhanden sind\ndadurch werden ineffiziente Wartezeiten reduziert, Performance steigt\nHT: Intel Markenname, seit Pentium 4 (2002);  SMT: generischer Begriff (AMD, IBM, ARM)\nsicherheitskritisch; manche Cloudanbieter deaktivieren zeitweise Hyperthreading / Simultaneous Multithreading\nAnwendungen müssen HTT / SMT unterstützen, um es nutzbar zu machen\nSiehe Taskmanager\n\n\n\nLernkarte AP1 2025 Nr. 57, ergänzt, anders formuliert (Karte schlecht geschrieben!)",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "02a_Hardware.html#cpu-wärmeleitpaste",
-    "href": "02a_Hardware.html#cpu-wärmeleitpaste",
-    "title": "IT Hardware",
-    "section": "CPU: Wärmeleitpaste",
-    "text": "CPU: Wärmeleitpaste\n\n\nWärmeleitpaste sorgt dafür, dass Wäre von der CPU effizient zum Kühler abgeleitet wird\nKontaktflächen zwischen CPU und Kühler haben bauweisenbedingt nicht überall perfekten Übergang\nWärmeleitpaste gleicht solche Unebenheiten aus\nverhindert Leistungseinbußen, Systemabstürze, dauerhafte Schäden an CPU\nMontage: als Wärmepad oder als erbsengroßer Klecks zwischen CPU und Kühler\n\n\n\nLernkarte AP1 2025 Nr. 115",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "02a_Hardware.html#ram-dual-channel-mode",
-    "href": "02a_Hardware.html#ram-dual-channel-mode",
-    "title": "IT Hardware",
-    "section": "RAM: Dual Channel Mode",
-    "text": "RAM: Dual Channel Mode\n\nWelchen Vorteil bringt der Einsatz von Dual-Channel-Technik bei Speichermodulen?\n\nMithilfe der Dual-Channel-Technik kann der Speicherkontroller des Prozessors die Daten auf zwei Arbeitsspeichermodule gleichzeitig aufteilen und somit parallel schreiben und lesen. Dadurch verdoppelt sich die Datenrate.\n\n\nVoraussetzung ist, dass die eingebauten Speichermodule baugleich sind, eine identische Modulkapazität besitzen sowie paarweise verteilt werden.\n\n\n\nLernkarte AP1 2025 Nr. 58",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "02a_Hardware.html#ram-dual-channel-mode-1",
-    "href": "02a_Hardware.html#ram-dual-channel-mode-1",
-    "title": "IT Hardware",
-    "section": "RAM: Dual Channel Mode",
-    "text": "RAM: Dual Channel Mode\n\nWelche Bedingungen müssen beim Einsatz von Arbeitsspeichern im Dual Channel Mode erfüllt sein?\n\nSpeichermodule müssen baugleich sein\nSpeichermodule müssen die gleiche Speicherkapazität besitzen\nSpeichermodule sollten vom Hersteller für den Einsatz auf dem Motherboard bzw. Prozessor zertifiziert sein\nSpeichermodule müssen immer paarweise ergänzt bzw. entfernt werden\n\n\n\nLernkarte AP1 2025 Nr. 183",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "02a_Hardware.html#speicher-smart",
-    "href": "02a_Hardware.html#speicher-smart",
-    "title": "IT Hardware",
-    "section": "Speicher: SMART",
-    "text": "Speicher: SMART\n\nDie Abkürzung SMART begegnet Euch in der IT-Ausbildung (mindestens) 2x.\nIm Projektmanagement: Ziele sollen Spezifisch, Messbar, Aktivierend / Attraktiv, Realistisch und Terminiert sein.\n\nBei Festplatten steht SMART für Self-Monitoring, Analysis and Reporting Technology.\n\n\nSystem zur Selbstüberwachung, Analyse und Statusmeldung\nStandardisiertes Überwachungswerkzeug von Datenträgern (HDD, SSD)\nZiel: frühzeitige Vorhersagen über möglichen Ausfall des gesamten Datenträgers oder einzelner Speicherblöcke\nSMART-Attribute:\n\nInfos wie Temperatur, Einschaltzeit, Laufzeit, Bad Blocks können ausgelesen werden\nnicht standardisiert!\n\n\n\n\nLernkarte AP2 2025 Nr. 179",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "02a_Hardware.html#speicher-sata-ssd",
-    "href": "02a_Hardware.html#speicher-sata-ssd",
-    "title": "IT Hardware",
-    "section": "Speicher: SATA-SSD",
-    "text": "Speicher: SATA-SSD\n\n\nVorteile\n\nKostengünstig: SATA-SSDs meist preiswerter als M.2-SSDs\nKompatibilität: Standard-SATA-Anschlüsse auf den meisten Mainboards vorhanden\nZuverlässigkeit: Breit einsetzbar, sowohl im 24/7-Betrieb als auch im Notebook-Bereich\n\n\nNachteile\n\nGeringe Geschwindigkeit gegenüber NVMe-SSDs (Non Volatile Memory express)\nBegrenzte Bandbreite durch die maximale Datenübertragungsrate der SATA-Schnittstelle (SATA III: 6 Gb/s, max. 600 MB/s)\nUngeeignet für High-End-Anwendungen wie Foto- und Videobearbeitung\n\n\n\nLernkarte AP1 2025 Nr. 113",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "02a_Hardware.html#speicher-m.2-ssd",
-    "href": "02a_Hardware.html#speicher-m.2-ssd",
-    "title": "IT Hardware",
-    "section": "Speicher: M.2-SSD",
-    "text": "Speicher: M.2-SSD\n\n\nVorteile\n\nLesegeschwindigkeiten von bis zu 7.450 MB/s\nkleines kompaktes Design, das keinen zusätzlichen Platz benötigt\nkeine Verkabelung notwendig, wird direkt auf das Motherboard gesteckt\nNVMe-Unterstützung (Non Volatile Memory express)\n\n\nNachteile\n\nPreis: teurer als SATA-SSDs\nKompatibilität: noch nicht alle Motherboards unterstützen M.2-SSDs\nWärmeentwicklung: M.2-SSDs können bei intensiver Nutzung heiß werden\nSpeicherkapazität: M.2-SSDs bieten geringere Kapazitäten als SATA-SSDs\n\n\n\nLernkarte AP1 2025 Nr. 112",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "02a_Hardware.html#speicher-nas",
-    "href": "02a_Hardware.html#speicher-nas",
-    "title": "IT Hardware",
-    "section": "Speicher: NAS",
-    "text": "Speicher: NAS\n\n\nNAS = Network Attached Storage; netzgebundener Speicher\neinfach zu verwaltender Dateiserver mit eigenem Dateisystem (Ext4 / Btrfs) und Management-Oberfläche\nEinsatz: Heimbereich und KMU (kleine und mittlere Unternehmen)\nbietet unabhängige Speicherkapazität in lokalem Rechnernetz\nManagementoberfläche: Einstellungen via HTTPS, z. B. Benutzerverwaltung, Integration Active Directory, Aktivierung von Services und Sync-Funktionen\nNAS hat einen oder mehrere Netzwerkanschlüsse (Ethernet / Fibre Channel) und oft 2 Netzteile\n\n\n\nLernkarte AP1 2025 Nr. 78",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "02a_Hardware.html#speicher-san",
-    "href": "02a_Hardware.html#speicher-san",
-    "title": "IT Hardware",
-    "section": "Speicher: SAN",
-    "text": "Speicher: SAN\n\n\nSAN = Storage Area Network\nbietet blockbasierten Speicher, der das vom Server bereitgestellte Dateisystem über logische Festplatteneinheiten (LUNs, Logical Unit Number) verbindet\nohne eigenes Betriebssystem\nmehrfache Zugriffe von verschiedenen Servern möglich, abhängig vom bereitgestellten Dateisystem (z. B. VMFS)\nverschiedene Implementierungen, um auf SANs zuzugreifen, z. B. ISCSI, Fibre-Channel, ATA over Ethernet, InfiniBand\nRAID-Systeme (Redundant Array of Independent Discs) für Desaster-Toleranz bzw. Datenredundanz\n\n\n\nLernkarte AP1 2025 Nr. 79",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "02a_Hardware.html#thin-clients",
-    "href": "02a_Hardware.html#thin-clients",
-    "title": "IT Hardware",
-    "section": "Thin Clients",
-    "text": "Thin Clients\n\nUnternehmen, die ein Rechenzentrum betreiben, setzen vermehrt auf die Vorteile der Virtualisierung. In diesem Zusammenhang wird oftmals der Begriff Thin Client benutzt. Was versteht man darunter?\n\nThin Client = dünner, schlanker bzw. magerer Client\nComputer, der über ein Netzwerk Ressourcen nutzt, die ihm ein Server bereitstellt\nVDI: virtuelle Desktop-Infrastruktur setzt auf Thin Clients -&gt; Vorteile der Virtualisierung des kompletten Rechenzentrums\nThin Client, manchmal Zero-Clients genannt: lüfterlose Geräte\nAnschlüsse: USB, Netzwerk, Audio und Display\nVom Server: persönliche Benutzeroberfläche, Konfiguration, Zugriffe auf Verzeichnisse, installierte Programme\numwelt- und ressourcenschonend, geringe Leistungsaufnahme\n\n\n\nLernkarte AP1 2025 Nr. 60",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "02a_Hardware.html#thin-clients-vorteile",
-    "href": "02a_Hardware.html#thin-clients-vorteile",
-    "title": "IT Hardware",
-    "section": "Thin Clients: Vorteile",
-    "text": "Thin Clients: Vorteile\n\n\nschlanker Arbeitsplatz-Computer fast ohne eigene Rechenleistung\nAnwendungen laufen auf Server; Thin Client dient als Eingabe- / Ausgabe-Terminal\nVorteile:\n\ngeringerer Stromverbrauch, geringes Gewicht, geringer Platzbedarf\ngeräuschloser Arbeitsplatzcomputer\nleicht austauschbar\numweltfreundlich: weniger Materialeinsatz, weniger Abwärme\nflexibel einsetzbar: es muss kein Betriebssystem installiert werden\nkeine Chance für Viren, Würmer, Trojaner: Read-Only-Betriebssystem\n\n\n\n\nLernkarte AP1 2025 Nr. 146",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "02a_Hardware.html#pc-verarbeitungsgeschwindigkeit-verbessern",
-    "href": "02a_Hardware.html#pc-verarbeitungsgeschwindigkeit-verbessern",
-    "title": "IT Hardware",
-    "section": "PC: Verarbeitungsgeschwindigkeit verbessern",
-    "text": "PC: Verarbeitungsgeschwindigkeit verbessern\n\n\nAustausch von SATA HDDs mit geringer Umdrehungszahl gegen HDDs mit 10K/rpm\nEinsatz von SSD/M.2 gegenüber SATA HDDs\nAufteilung des Betriebssystems und der Anwendungsprogramme auf unterschiedlichen Datenträgern (OS auf M.2, Daten auf SSD)\nAustausch 100 Mbit/s Netzwerkkarte gegen 1 Gbit/s Netzwerkkarte\n\n\n\nLernkarte AP1 2025 Nr. 111",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "02a_Hardware.html#notebooks-technische-merkmale",
-    "href": "02a_Hardware.html#notebooks-technische-merkmale",
-    "title": "IT Hardware",
-    "section": "Notebooks: Technische Merkmale",
-    "text": "Notebooks: Technische Merkmale\n\n\nteilweise Anschluss für Dockingstation\nteilweise Mini-PCI-Express-Slot\nteilweise 4-in-1 Kartenlesegerät\nteilweise integriertes Bluetooth, WLAN und WWAN\ninterne Netzwerkkarte\neigenes Display, teilweise Videokamera\nexterne Schnittstellen wie USB, HDMI, DisplayPort (mini), VGA, Firewire\nintegrierte Lautsprecher und Mikrofone\nAkku, externes Netzteil\n\n\n\nLernkarte AP1 2025 Nr. 56",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "02a_Hardware.html#notebooks-vor--und-nachteile",
-    "href": "02a_Hardware.html#notebooks-vor--und-nachteile",
-    "title": "IT Hardware",
-    "section": "Notebooks: Vor- und Nachteile",
-    "text": "Notebooks: Vor- und Nachteile\n\n\nVorteile\n\nnetzunabhängiges Arbeiten möglich durch Akku\nNetzwerkzugriff mithilfe von WWAN / WLAN Modulen (WWAN = Wireless Wide Area Network / L = Local)\nintegrierte Tastatur, Touchpad (Maus)\nbei stationärer Nutzung wenig Stellfläche notwendig\ngeringerer Stromverbrauch als Desktop PCs\narbeitet in der Regel leiser als ein PC\ndurch Dockingstation erweiterbar\n\n\nNachteile\n\nhohes Gewicht gegenüber Tablet oder Netbook\nproprietäres Netzteil\ngeringe Festplattenspeicherkapazitäten\ntechnische Aufrüstung oft umständlich oder gar nicht möglich\nDisplay oft kleiner als beim Desktop-Gerät\noftmals kein separater Ziffernblock auf der Tastatur verfügbar\n\n\n\nLernkarte AP1 2025 Nr. 152",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "02a_Hardware.html#notebooks-dockingstation",
-    "href": "02a_Hardware.html#notebooks-dockingstation",
-    "title": "IT Hardware",
-    "section": "Notebooks: Dockingstation",
-    "text": "Notebooks: Dockingstation\n\n\nengl. to dock: andocken, koppeln\nverwendet, um mobile Geräte (Notebooks, PDAs) mit festem Netz zu verbinden\nDockingstation als Portreplikator:\n\nvorhandene Ports werden an die Dockingstation “durchgereicht”\nzusätzliche Schnittstellen, z. B. PS/2, Seriell- und Parallelport, DVI, DisplayPort, HDMI, Sound, Firewire\ndiese Schnittstellen fehlen in mobilen Geräten oft aus Platzgründen\noft 2x HDMI, 2x DVI oder 2x Displayport\n\n\n\n\nLernkarte AP1 2025 Nr. 54",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "02a_Hardware.html#tablets",
-    "href": "02a_Hardware.html#tablets",
-    "title": "IT Hardware",
-    "section": "Tablets",
-    "text": "Tablets\n\n\nVorteile\n\nleichte Handhabung\nlange Akkulaufzeit\nTouchbedienung oder mit Stift\nWLAN oder WWAN Verbindung\nplatzsparend\ngeringes Gewicht\n\n\nNachteile\n\nSchreiben auf der virtuellen Tastatur mit der Zeit anstrengend\ngeringere Speicherkapazität gegenüber Notebooks\nwenige Anschluss- und Verbindungsmöglichkeiten\nin der Regel nicht aufrüstbar\n\n\n\nLernkarte AP1 2025 Nr. 151",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "02a_Hardware.html#convertible",
-    "href": "02a_Hardware.html#convertible",
-    "title": "IT Hardware",
-    "section": "Convertible",
-    "text": "Convertible\n\n\nengl. convertible = verwandelbar\nConvertible = Hybrid-PC, Two-in-One;  wenn Display abnehmbar: Detachable\nNotebook mit Klapp-, Dreh-, Schiebe- oder Klickmechanismus\nbesonders auf Mobilität ausgelegt\nkann in zwei Modi betrieben werden: als Notebook oder Tablet\nLaptop-Modus: Bedienung über Tastatur, Touchpad, Track Point\nTablet: Bedienung über Touchscreen, Digitizer, Eingabestift\n\n\n\nLernkarte AP1 2025 Nr. 150",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "02a_Hardware.html#vorteile-usb-c-vs.-usb-a-usb-b",
-    "href": "02a_Hardware.html#vorteile-usb-c-vs.-usb-a-usb-b",
-    "title": "IT Hardware",
-    "section": "Vorteile USB-C vs.  USB-A, USB-B",
-    "text": "Vorteile USB-C vs.  USB-A, USB-B\n\n\nreversible Steckrichtung\nhöhere Leistungsfähigkeit\nkompaktes Design\nschnellere Ladezeiten\nbidirektionale Stromversorgung\nZukunftssicherheit",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "02a_Hardware.html#bildschirm-was-bedeutet-uhd-4k",
-    "href": "02a_Hardware.html#bildschirm-was-bedeutet-uhd-4k",
-    "title": "IT Hardware",
-    "section": "Bildschirm: Was bedeutet UHD 4K?",
-    "text": "Bildschirm: Was bedeutet UHD 4K?\n\n\nUHD (Ultra High Definition) 4K bezeichnet ein digitales Videoformat der International Telecommunication Union (ITU) für Ultra High Definition Television (UHDTV oder Ultra HDTV) sowie Ultra High Definition Video (UHDV).\nUHD 4K wird heute auch als UHD-1 bezeichnet und lehnt sich am Cinema 4K (4096 x 2160 Pixel) an. Die Hersteller spezifizieren jedoch ihre Geräte mit 3840 x 2160 Pixeln heute oftmals auch als UHD 4K.\n\n\nLernkarte AP1 2025 Nr. 59",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "02a_Hardware.html#grafik-schnittstellen-für-4k-8k",
-    "href": "02a_Hardware.html#grafik-schnittstellen-für-4k-8k",
-    "title": "IT Hardware",
-    "section": "Grafik: Schnittstellen für 4K, 8K",
-    "text": "Grafik: Schnittstellen für 4K, 8K\n\n\n\n\nSchnittstelle\nmax. Übertragungsrate\nmax. Auflösung\n\n\n\n\nHDMI 1.4\n10,2 GBit/s\nFull-HD (1920x1080)\n\n\nHDMI 2.0\n18,0 GBit/s\n4K (3840 x 2160)\n\n\nHDMI 2.1\n38,4 GBit/s\n8K (7680 x 4320)\n\n\nDisplayPort 1.3\n25,9 GBit/s\n8K (7680 x 4320)\n\n\nDisplayPort 1.4\n32,4 GBit/s\n8K (7680 x 4320)\n\n\n\n\nKinostandard DCI-4K: 4096 x 2160; ca. 17:9\nKinostandard DCI-8K: 8192 x 4320; ca. 17:9",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "02a_Hardware.html#eingabe--vs.-ausgabegeräte",
-    "href": "02a_Hardware.html#eingabe--vs.-ausgabegeräte",
-    "title": "IT Hardware",
-    "section": "Eingabe- vs. Ausgabegeräte",
-    "text": "Eingabe- vs. Ausgabegeräte\n\n\nWelche IT-Komponenten sind Ein- oder Ausgabegeräte?\n\nDrucker\nScanner\nMaus\nDisplay\nTouchpad\n\n\nEingabe\n\nScanner\nMaus\nTouchpad\n\nAusgabe\n\nDrucker\nDisplay\n\n\n\nLernkarte AP1 2025 Nr. 61",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "02a_Hardware.html#section",
-    "href": "02a_Hardware.html#section",
-    "title": "IT Hardware",
-    "section": "",
-    "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "01_Willkommen_Struktur.html#willkommen-in-lf2",
-    "href": "01_Willkommen_Struktur.html#willkommen-in-lf2",
-    "title": "Willkommen in LF2!",
-    "section": "Willkommen in LF2!",
-    "text": "Willkommen in LF2!\nArbeitsplätze nach Kundenwunsch ausstatten\n\nQuelle: Superintelligence Newsletter",
-    "crumbs": [
-      "Willkommen zu LF2 - Themen und Zeitplan"
-    ]
-  },
-  {
-    "objectID": "01_Willkommen_Struktur.html#willkommen-in-lf2-1",
-    "href": "01_Willkommen_Struktur.html#willkommen-in-lf2-1",
-    "title": "Willkommen in LF2!",
-    "section": "Willkommen in LF2!",
-    "text": "Willkommen in LF2!\nArbeitsplätze nach Kundenwunsch ausstatten\nThemenübersicht\n\n\nGrundlagen moderner IT-Arbeitsplätze\nAnforderungsanalyse und Konzeption\nHardware-, Software- und Lizenzmanagement\nProjektmanagement, Service & Qualitätssicherung\nProjektbewertung, Dokumentation, Nachfolgeprozesse",
-    "crumbs": [
-      "Willkommen zu LF2 - Themen und Zeitplan"
-    ]
-  },
-  {
-    "objectID": "01_Willkommen_Struktur.html#zeitplan-und-noten",
-    "href": "01_Willkommen_Struktur.html#zeitplan-und-noten",
-    "title": "Willkommen in LF2!",
-    "section": "Zeitplan und Noten",
-    "text": "Zeitplan und Noten\n\n80 Unterrichtseinheiten (UE) vom 14. September 2026 bis 4. März 2027\nKlassenarbeit am 17. November\nKlassenarbeit am 26. Februar",
-    "crumbs": [
-      "Willkommen zu LF2 - Themen und Zeitplan"
-    ]
-  },
-  {
-    "objectID": "01_Willkommen_Struktur.html#gemeinsame-notizen-hedgedoc",
-    "href": "01_Willkommen_Struktur.html#gemeinsame-notizen-hedgedoc",
-    "title": "Willkommen in LF2!",
-    "section": "Gemeinsame Notizen: Hedgedoc",
-    "text": "Gemeinsame Notizen: Hedgedoc\nIn Hedgedoc können wir gemeinsame Notizen zum Unterricht erstellen:\nhttps://hedgedoc.c3d2.de/FI26_LF2",
-    "crumbs": [
-      "Willkommen zu LF2 - Themen und Zeitplan"
-    ]
-  },
-  {
-    "objectID": "01_Willkommen_Struktur.html#sus-vorträge",
-    "href": "01_Willkommen_Struktur.html#sus-vorträge",
-    "title": "Willkommen in LF2!",
-    "section": "SuS Vorträge",
-    "text": "SuS Vorträge\nVorgaben\n\nca. 10 Minuten; mit Präsentation\nTeamarbeit zu zweit möglich: dann tragen beide je einen Teil vor\n\nThemen\n\n\nFreitag, 18.09.2026 / Montag, 21.09:  Hardware - Aufbau, Bewertungs-Kriterien\n\nCPUs\nMotherboards\nRAM\nDatenspeicher\nNetzteile\nGrafikkarten\nTablets\nDrucker\n\n\nMontag, 21.09.2026\n\nLastenheft: Zweck, Urheber, Inhalt, kurze Beispiele für gelungene Lastenheft-Einträge\nPflichtenheft: Zweck, Urheber, Inhalt, kurze Beispiele für gelungene Pflichtenheft-Einträge",
-    "crumbs": [
-      "Willkommen zu LF2 - Themen und Zeitplan"
-    ]
-  },
-  {
-    "objectID": "01_Willkommen_Struktur.html#weitere-vortragsthemen",
-    "href": "01_Willkommen_Struktur.html#weitere-vortragsthemen",
-    "title": "Willkommen in LF2!",
-    "section": "Weitere Vortragsthemen",
-    "text": "Weitere Vortragsthemen\n\nDienstag, 22.09.2026\n\nDesktop-PCs: Thick Client / Thin Client / Zero Client\nLeistungsmerkmale, Einsatzbereiche, Vor- und Nachteile\nNotebooks:\n\nVor- und Nachteile im Vergleich zu Desktop-PCs und Tablets\nLeistungsmerkmale, Einsatzbereiche, typische Anschlüsse\n\nVideokonferenzsysteme\n\nWelche gibt es? (Beispiele)\nNach welchen Kriterien kann man die Qualität bewerten und sich für eine Lösung entscheiden?\n\nBildschirme: Anschlüsse, Auflösungen, Kennzahlen, Entscheidungskriterien",
-    "crumbs": [
-      "Willkommen zu LF2 - Themen und Zeitplan"
-    ]
-  },
-  {
-    "objectID": "01_Willkommen_Struktur.html#section",
-    "href": "01_Willkommen_Struktur.html#section",
-    "title": "Willkommen in LF2!",
-    "section": "",
-    "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!",
-    "crumbs": [
-      "Willkommen zu LF2 - Themen und Zeitplan"
-    ]
-  },
-  {
-    "objectID": "02b_Software.html#ziele",
-    "href": "02b_Software.html#ziele",
-    "title": "Marktgängige IT-Systeme: Software",
-    "section": "Ziele",
-    "text": "Ziele\nGrundlegende Software-Systeme kennen und beurteilen können\n\nUnternehmensanwendungen\nDatenhaltungssysteme\nKommunikationssysteme\nBIOS und UEFI\n\nGrundverständnis für Benutzeroberflächen"
-  },
-  {
-    "objectID": "02b_Software.html#unternehmensanwendungen-erp-system",
-    "href": "02b_Software.html#unternehmensanwendungen-erp-system",
-    "title": "Marktgängige IT-Systeme: Software",
-    "section": "Unternehmensanwendungen: ERP-System",
-    "text": "Unternehmensanwendungen: ERP-System\n\nERP: Enterprise Resource Planning System\nUmfangreiches Werkzeug zur Unterstützung der Ressourcenplanung aller Prozesse eines Unternehmens, z. B. Produktion, Materialwirtschaft und Vertrieb.\nBeispiele\n\nSAP ERP / SAP S/4HANA: global führend; extrem umfangreich, modular, in großen Unternehmen Standard\nMicrosoft Dynamics 365 (ehemals NAV/AX): v. a. im Mittelstand; stark in Microsoft-Ökosystem integriert (Azure, Office, Power Platform)\nOracle ERP Cloud / Oracle NetSuite:: ERP für große Unternehmen, NetSuite für Mittelstand; stark in Finanzmodulen\nSage (Sage 100 / SageX3): beliebt bei KMU (Kleinen und Mittleren Unternehmen); Europa, v. a. DACH\nOdoo: Open Source, modular, flexibel, wächst; v. a. KMU und Startups\n\n\nWeitere: Infor ERP (Produktion, Logistik), IFS (Industrie, Service), Epicor (Fertigung, Supply Chain), Workday (HR), ProAlpha (deutsch, Mittelstand)\n\n\n\nKurz erwähnt auf Lernkarte AP1 2025 Nr. 110"
-  },
-  {
-    "objectID": "02b_Software.html#datenhaltungssysteme",
-    "href": "02b_Software.html#datenhaltungssysteme",
-    "title": "Marktgängige IT-Systeme: Software",
-    "section": "Datenhaltungssysteme",
-    "text": "Datenhaltungssysteme\n\n\nRelationale Datenbanksysteme (RDBMS)\nSpeichern Daten in Tabellen, die durch Beziehungen miteinander verbunden sind\nBeispiele:\n\nMySQL: Open Source, populär\nOracle Database: leistungsfähig, oft in großen Unternehmen\nMicrosoft SQL Server: Integration mit MS-Produkten\n\n\nNoSQL Datenbanksysteme\n\nspeichern unstrukturierte / semi-strukturierte Daten\nskalierbarer, flexibler als relationale Datenbanken\n\nAnwendungsfelder:\n\nContent Management\nSoziale Netzwerke\n\nBeispiele:\n\nMongoDB: Dokumentorientiert\nCassandra: graphenorientiert"
-  },
-  {
-    "objectID": "02b_Software.html#datenhaltungssysteme-oodbms",
-    "href": "02b_Software.html#datenhaltungssysteme-oodbms",
-    "title": "Marktgängige IT-Systeme: Software",
-    "section": "Datenhaltungssysteme: OODBMS",
-    "text": "Datenhaltungssysteme: OODBMS\n\nObjektorientierte Datenbank-Managementsysteme\n\nspeichern Daten direkt als Objekte\nObjekte bleiben als Ganzes erhalten, inkl. Attribute und Methoden\nAnwendungsbereiche: Simulationen, CAD/CAM, Telekommunikation, Echtzeit-Systeme\n\nBeispiele\n\n\ndb4o: Database for Objekts, direkt in Java und .NET integrierbar\nObjectDB: java-basiert, oft in Enterprise-Java-Projekten genutzt\nVersant Object Database: kommerziell, für große, komplexe Systeme\n\n\nAbgrenzung zu NoSQL: OODMBS speichern Methoden, unterstützen Vererbung, bieten vollständige Objekt-Persistenz"
-  },
-  {
-    "objectID": "02b_Software.html#kommunikationssysteme",
-    "href": "02b_Software.html#kommunikationssysteme",
-    "title": "Marktgängige IT-Systeme: Software",
-    "section": "Kommunikationssysteme",
-    "text": "Kommunikationssysteme"
-  },
-  {
-    "objectID": "02b_Software.html#benutzeroberflächen",
-    "href": "02b_Software.html#benutzeroberflächen",
-    "title": "Marktgängige IT-Systeme: Software",
-    "section": "Benutzeroberflächen",
-    "text": "Benutzeroberflächen"
-  },
-  {
-    "objectID": "02b_Software.html#bios-und-uefi",
-    "href": "02b_Software.html#bios-und-uefi",
-    "title": "Marktgängige IT-Systeme: Software",
-    "section": "BIOS und UEFI",
-    "text": "BIOS und UEFI\nZum Starten eines PC-Systems setzte man lange Zeit auf das BIOS (Basic Input Output System). Der Nachfolger des lange bewährten BIOS ist das UEFI (Unified Extensible Firmware Interface).\nBitte vergleiche BIOS mit UEFI.\n\nLernkarte AP1 2025 Nr. 139"
-  },
-  {
-    "objectID": "02b_Software.html#bios-und-uefi-1",
-    "href": "02b_Software.html#bios-und-uefi-1",
-    "title": "Marktgängige IT-Systeme: Software",
-    "section": "BIOS und UEFI",
-    "text": "BIOS und UEFI\n\n\nBIOS (Basic Input Output System)\n\nkeine Mausbedienung möglich\nkann nur vom Master-Boot-Record starten\nkann nur von Laufwerken bis 2 TB booten\n\n\nUEFI (Unified Extensible Firmware Interface)\n\nkann auch von Laufwerken mit 2,2 TB oder mehr booten\ngrafische Benutzeroberfläche mit Mausbedienung\nunterstützt 64-Bit-Prozessoren nativ ab Werk\nTreiber lassen sich als Modul nachladen\nnutzt GPT-Partitionierungsschema (GUID Partition Table)\nkann von VM-Container starten\n\n\n\nLernkarte AP1 2025 Nr. 139"
-  },
-  {
-    "objectID": "02b_Software.html#section",
-    "href": "02b_Software.html#section",
-    "title": "Marktgängige IT-Systeme: Software",
-    "section": "",
-    "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!"
-  },
-  {
-    "objectID": "03b_Istzustand-erfassen.html#ist-zustand-erfassen",
-    "href": "03b_Istzustand-erfassen.html#ist-zustand-erfassen",
-    "title": "Istzustand erfassen",
-    "section": "Ist-Zustand erfassen",
-    "text": "Ist-Zustand erfassen\nZiele\n\nVorteile und Nachteile der Methoden verstehen:\n\nInterview\nFragebogen\nBeobachtung\n\nEntscheiden, welche Methode eingesetzt wird",
-    "crumbs": [
-      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
-    ]
-  },
-  {
-    "objectID": "03b_Istzustand-erfassen.html#interview",
-    "href": "03b_Istzustand-erfassen.html#interview",
-    "title": "Istzustand erfassen",
-    "section": "Interview",
-    "text": "Interview\n\nDirekte Befragung der Beteiligten zu einem oder mehreren Themenkomplexen.\n\n\nVorteile\n\npersönlicher Kontakt fördert Bereitschaft zur Auskunft\nUnklarheiten können sofort geklärt werden\n\n\nNachteile\n\nhoher Zeitaufwand\nAntworten oft subjektiv geprägt\nFakten schwerer zu erfassen",
-    "crumbs": [
-      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
-    ]
-  },
-  {
-    "objectID": "03b_Istzustand-erfassen.html#fragebogen",
-    "href": "03b_Istzustand-erfassen.html#fragebogen",
-    "title": "Istzustand erfassen",
-    "section": "Fragebogen",
-    "text": "Fragebogen\n\n\nKann geschlossene oder offene Fragen enthalten\nGeschlossen: Single Choice (Radiobuttons) oder Multiple Choice (Checkboxes)\n\n\n\nVorteile\n\nmehr Personen befragbar als beim Interview\ngeringerer Zeitaufwand\nkeine zusätzliche Dokumentation der Antworten\nautomatische Auswertung möglich\n\n\nNachteile\n\nhöherer Vorbereitungsaufwand\noft geringer Rücklauf\nVerzerrungen bei Nicht-Teilnahme möglich!\nUnklarheiten schwerer zu klären",
-    "crumbs": [
-      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
-    ]
-  },
-  {
-    "objectID": "03b_Istzustand-erfassen.html#fragebogen-1",
-    "href": "03b_Istzustand-erfassen.html#fragebogen-1",
-    "title": "Istzustand erfassen",
-    "section": "Fragebogen",
-    "text": "Fragebogen",
-    "crumbs": [
-      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
-    ]
-  },
-  {
-    "objectID": "03b_Istzustand-erfassen.html#beobachtung",
-    "href": "03b_Istzustand-erfassen.html#beobachtung",
-    "title": "Istzustand erfassen",
-    "section": "Beobachtung",
-    "text": "Beobachtung\n\nProzesse werden vor Ort direkt begleitet und analysiert.\n\n\nVorteile\n\nProzesse weitgehend objektiv beobachtbar\neffektive Erfassung möglich\nfür zeitliche und quantitative Informationen über den Prozess geeignet\n\n\nNachteile\n\nhoher Zeitaufwand\nmanchmal können nur kleine Ausschnitte eines Prozesses beobachtet werden\nBeobachtungen werden meist als unangenehm empfunden",
-    "crumbs": [
-      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
-    ]
-  },
-  {
-    "objectID": "03b_Istzustand-erfassen.html#auswahl-einer-methode",
-    "href": "03b_Istzustand-erfassen.html#auswahl-einer-methode",
-    "title": "Istzustand erfassen",
-    "section": "Auswahl einer Methode",
-    "text": "Auswahl einer Methode\n\nAufgabe: Entscheiden Sie sich jeweils für eine Methode der Informationserfassung. Begründen Sie Ihre Entscheidung.\nInterview? Fragebogen? Beobachtung?\n\nVerbesserung des Webauftritts eines Unternehmens\nErstellung eines Softwaremoduls für Einkauf, Lagerung und Verkauf von Waren\nEntwicklung einer Softwaresimulation für ein Ampelkreuzungssystem",
-    "crumbs": [
-      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
-    ]
-  },
-  {
-    "objectID": "03b_Istzustand-erfassen.html#webauftritt-verbessern",
-    "href": "03b_Istzustand-erfassen.html#webauftritt-verbessern",
-    "title": "Istzustand erfassen",
-    "section": "Webauftritt verbessern",
-    "text": "Webauftritt verbessern\nVorschlag: Fragebogen\n\n\nEs geht darum, die Bedürfnisse und Präferenzen der Nutzer zu verstehen\nFragebogen gut geeignet, um Feedback von größerer Personengruppe zu erhalten: verschiedene Nutzergruppen\nFragen z. B. zu Benutzerfreundlichkeit, gewünschte Funktionen, Design",
-    "crumbs": [
-      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
-    ]
-  },
-  {
-    "objectID": "03b_Istzustand-erfassen.html#softwaremodul-für-waren",
-    "href": "03b_Istzustand-erfassen.html#softwaremodul-für-waren",
-    "title": "Istzustand erfassen",
-    "section": "Softwaremodul für Waren",
-    "text": "Softwaremodul für Waren\nVorschlag: Interview\n\n\nSoftwaremodul für Geschäftsprozesse: erfordert detaillierte Erfassung der Anforderungen von Personen, die direkt mit den Prozessen arbeiten\nInterviews mit Einkaufs-, Lager- und Verkaufspersonal: präzise Erfassung der Abläufe, Anforderungen an die Datenverarbeitung, erforderliche Funktionen\nermöglicht genaue Ausrichtung des Softwaremoduls auf die tatsächlichen Geschäftsbedürfnisse",
-    "crumbs": [
-      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
-    ]
-  },
-  {
-    "objectID": "03b_Istzustand-erfassen.html#softwaresimulation-für-ampelkreuzungssystem",
-    "href": "03b_Istzustand-erfassen.html#softwaresimulation-für-ampelkreuzungssystem",
-    "title": "Istzustand erfassen",
-    "section": "Softwaresimulation für Ampelkreuzungssystem",
-    "text": "Softwaresimulation für Ampelkreuzungssystem\nVorschlag: Beobachtung\n\n\nhier wichtig: reales Verhalten und Interaktionen im Verkehrsumfeld zu verstehen\nBeobachtung vor Ort: Informationen über Verkehrsfluss, Verhaltensmuster der Fahrer, Verkehrsprobleme\nSo kann eine realistische, effektive Simulation entwickelt werden, die den tatsächlichen Bedingungen entspricht",
-    "crumbs": [
-      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
-    ]
-  },
-  {
-    "objectID": "03b_Istzustand-erfassen.html#kundenbefragungen-allgemein",
-    "href": "03b_Istzustand-erfassen.html#kundenbefragungen-allgemein",
-    "title": "Istzustand erfassen",
-    "section": "Kundenbefragungen allgemein",
-    "text": "Kundenbefragungen allgemein\n\nDurch Kundenbefragungen können zentrale Punkte beantwortet werden:\n\nKundenzufriedenheit\nTrends\ndas Image des Unternehmens\ndie Marktposition des Unternehmens\nKundenbindung\nErfolg von Werbemaßnahmen\n\n\n\nLernkarte AP1 2025 Nr. 39",
-    "crumbs": [
-      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
-    ]
-  },
-  {
-    "objectID": "03b_Istzustand-erfassen.html#section",
-    "href": "03b_Istzustand-erfassen.html#section",
-    "title": "Istzustand erfassen",
-    "section": "",
-    "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!",
-    "crumbs": [
-      "Istzustand erfassen - Interview, Fragebogen, Beobachtung"
-    ]
-  },
-  {
-    "objectID": "05_Elektrik-Grundlagen.html#elektrische-größen-spannung",
-    "href": "05_Elektrik-Grundlagen.html#elektrische-größen-spannung",
-    "title": "Elektrik Grundlagen",
-    "section": "Elektrische Größen: Spannung",
-    "text": "Elektrische Größen: Spannung\n\n\nTreibende Kraft, “Druck”, der die elektrischen Ladungen antreibt\nEinheit: Volt (V)\nFormelzeichen: U\nTypische Spannungen:\n\nSteckdose: 230V Wechselspannung\nIn Computern: Niedrigere Gleichspannungen\n\nLeistungshungrige PC-Komponenten wie Grafikkarten (GPU), Prozessor-Spannungswandler, Lüfter: 12V\nFestplatten / SSD, USB-Anschlüsse, Standby-Funktionen: 5V\nArbeitsspeicher (RAM), PCIe-Steckplätze, Chipsatz auf Mainboard: 3,3V\nCPUs und GPUs arbeiten intern mit noch geringeren Spannungen"
-  },
-  {
-    "objectID": "05_Elektrik-Grundlagen.html#elektrische-größen-strom",
-    "href": "05_Elektrik-Grundlagen.html#elektrische-größen-strom",
-    "title": "Elektrik Grundlagen",
-    "section": "Elektrische Größen: Strom",
-    "text": "Elektrische Größen: Strom\n\n\nBernstein zieht leichte Körper an, wenn er vorher mit Tüchern gerieben wird\nElektrizität abgeleitet von griech. elektron für Bernstein\nStromstärke: Menge an Ladung, die pro Zeit durch den Leiter fließt\nEinheit: Ampere (A)\nFormelzeichen: I\nTypische Stromstärken im PC (erstaunlich hoch: hohe Leistung bei niedrigen Spannungen)\n\nauf 12V-Schiene: Größenordnung 30 bis &gt;70 Ampere\nauf 5V-Schiene: Größenordnung 15 bis 20 Ampere\nauf 3,3V-Schiene: Größenordnung 15 bis 20 Ampere"
-  },
-  {
-    "objectID": "05_Elektrik-Grundlagen.html#elektrische-größen-widerstand",
-    "href": "05_Elektrik-Grundlagen.html#elektrische-größen-widerstand",
-    "title": "Elektrik Grundlagen",
-    "section": "Elektrische Größen: Widerstand",
-    "text": "Elektrische Größen: Widerstand\n\n\nHindernis, das dem Stromfluss entgegengesetzt wird\nEinheit: Ohm (Ω)\nFormelzeichen: R\nIm PC: Innenwiderstand von CPU und GPU dynamisch\n\nunter Last extrem niedrig für hohe Ströme\nim Leerlauf werden Transistoren geschlossen, Widerstand steigt massiv, es fließt kaum noch Strom"
-  },
-  {
-    "objectID": "05_Elektrik-Grundlagen.html#ohmsches-gesetz",
-    "href": "05_Elektrik-Grundlagen.html#ohmsches-gesetz",
-    "title": "Elektrik Grundlagen",
-    "section": "Ohmsches Gesetz",
-    "text": "Ohmsches Gesetz\n\nEs betrachtet den Widerstand als konstant. Dann gilt:\nDie Stärke des durch ein Objekt fließenden elektrischen Stroms ist proportional der elektrischen Spannung.\nFormel, aufgelöst nach Spannung\n\n\\[\nU = R \\cdot I\n\\]\n\nFormel, aufgelöst nach Strom\n\n\\[\nI = \\frac{U}{R}\n\\]\n\nFormel, aufgelöst nach Widerstand\n\n\\[\nR = \\frac{U}{I}\n\\]"
-  },
-  {
-    "objectID": "05_Elektrik-Grundlagen.html#elektrische-leistung",
-    "href": "05_Elektrik-Grundlagen.html#elektrische-leistung",
-    "title": "Elektrik Grundlagen",
-    "section": "Elektrische Leistung",
-    "text": "Elektrische Leistung\n\nWie berechnet man die Wirkleistung von elektrischen Geräten?\n\nDie elektrische Leistungsberechnung von IT-Komponenten unterliegt den allgemeinen Gesetzen der Elektrotechnik.\nDie elektrische Wirkleistung P ist das Produkt von Spannung U und Stromstärke I:\nP = U x I\nDie Berechnung wird in der Maßeinheit Watt angegeben.\nDie Leistungsangaben von elektrischen Geräten gelten immer für die Dauer von 60 Minuten bzw. 1 Stunde.\n\n\n\nLernkarte AP1 2025 Nr. 117"
-  },
-  {
-    "objectID": "05_Elektrik-Grundlagen.html#section",
-    "href": "05_Elektrik-Grundlagen.html#section",
-    "title": "Elektrik Grundlagen",
-    "section": "",
-    "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!"
   },
   {
     "objectID": "index.html",
