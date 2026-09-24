@@ -1,0 +1,104 @@
+---
+title: "Projektorganisation"
+title-slide-attributes:
+  data-background-color: "#D7E6F4"
+subtitle: " "
+format:
+  revealjs:
+    theme: simple
+    mermaid: {}
+execute:
+  echo: false
+  eval: true
+  freeze: auto
+  warning: false
+  message: false
+callout-appearance: simple
+---
+
+## Was ist ein Projekt? Merkmale
+
+:::: {.incremental style="font-size: 1.9rem"}
+
+- **Einmaligkeit:** Ein Projekt wird in der Regel nur einmal ausgeführt und ist kein Prozess, der sich regelmäßig wiederholt.
+- **Klares Ziel:** In jedem Projekt wird ein bestimmtes Ergebnis oder Ziel verfolgt.
+- **Zeitliche Befristung:** Projekte haben einen festgelegten Start- und Endzeitpunkt.
+- **Interdisziplinär:** Eine Notwendigkeit ist oft die Zusammenarbeit mit verschiedenen Fachbereichen.
+- **Risikobehaftet:** Projekte sind mit Unsicherheiten und Risiken verbunden.
+- **Rahmenbedingungen:** Ein Projekt hat begrenzte Ressourcen, wie Geld, Personal, Zeit und hat klare Abgrenzungen zu anderen Projekten.
+
+::::
+
+::: notes
+Lernkarte AP1 2025 Nr. 1
+:::
+
+
+## Lastenheft
+
+:::: {.incremental style="font-size: 2rem"}
+
+- Lastenheft: Anforderungs- oder Kundenspezifikation
+- beschreibt Gesamtheit der Anforderungen bzw. Spezifikationen des **Auftraggebers** an die Lieferungen und Leistungen seines Auftragnehmers
+- enthält die an das zu entwickelnde Produkt gestellten **funktionalen** sowie **nicht-funktionalen** Anforderungen (Gesetze / Vorschriften)
+- dient als Basis für die Ausschreibung sowie Vertragsgestaltung
+- typische Angaben: Lieferzeit, Lieferumfang, Kosten
+- Das akzeptierte Lastenheft ist für beide Parteien **rechtlich bindend**.
+
+::::
+
+::: notes
+Lernkarte AP1 2025 Nr. 149
+:::
+
+
+## Pflichtenheft
+
+:::: {.incremental style="font-size: 2rem"}
+
+- beschreibt in detaillierter Form, **wie** der **Auftragnehmer** die Anforderungen des Auftraggebers umsetzen möchte
+- ***"Wie und Womit"*** der Auftrag erfüllt werden soll
+- Inhalt des Pflichtenheftes für beide Parteien rechtlich bindend, *solange nicht beide Parteien Änderungen / Ergänzungen zulassen*
+- Umsetzung durch Auftragnehmer beginnt erst, wenn Auftraggeber das Pflichtenheft akzeptiert!
+- **Agile Entwicklungsmodelle:** Änderungen können in diesen Prozess einfließen
+
+::::
+
+::: notes
+Lernkarte AP1 2025 Nr. 147
+:::
+
+
+## Projektmanagement: SMART
+
+:::: {style="font-size: 1.8rem"}
+
+**Beschreibe die fünf Punkte der SMART-Methode im Projektmanagement.**
+
+::: incremental
+
+- **S** ***Spezifisch:*** Die Projektziele sind so konkret wie möglich zu formulieren.
+- **M** ***Messbar:*** Die Projektziele müssen messbar sein.
+- **A** ***Aktivierend / Attraktiv:*** Die Projektziele müssen Motivation zur Umsetzung geben.
+- **R** ***Realistisch:*** Die Projektziele müssen innerhalb des gesetzten Zeitrahmens umsetzbar sein.
+- **T** ***Terminiert:*** Die Projektziele müssen zeitlich bindend sein. <br>Welche Aufgaben sind bis wann zu erledigen?
+
+:::
+::::
+
+::: notes
+Lernkarte AP1 2025 Nr. 226
+:::
+
+
+## <!-- -->
+
+![](libs/_Images/coffee.jpg){fig-align="center" width="50%"}
+
+::: {style="text-align: center; font-size: 1rem;"}
+[©torange.biz](https://torange.biz/cup-coffee-30851) CC-BY 4.0
+:::
+
+::: {style="color: green; text-align: center; font-size: 2.8rem"}
+**Viel Erfolg!**
+:::

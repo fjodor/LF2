@@ -58,7 +58,7 @@ Lernkarte AP1 2025 Nr. 149
 
 - beschreibt in detaillierter Form, **wie** der **Auftragnehmer** die Anforderungen des Auftraggebers umsetzen möchte
 - ***"Wie und Womit"*** der Auftrag erfüllt werden soll
-- Ihalt des Pflichtenheftes für beide Parteien rechtlich bindend, *solange nicht beide Parteien Änderungen / Ergänzungen zulassen*
+- Inhalt des Pflichtenheftes für beide Parteien rechtlich bindend, *solange nicht beide Parteien Änderungen / Ergänzungen zulassen*
 - Umsetzung durch Auftragnehmer beginnt erst, wenn Auftraggeber das Pflichtenheft akzeptiert!
 - **Agile Entwicklungsmodelle:** Änderungen können in diesen Prozess einfließen
 
