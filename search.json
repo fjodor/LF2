@@ -865,7 +865,7 @@
     "section": "Aufgabe: Kaufberatung",
     "text": "Aufgabe: Kaufberatung\n\n\n\n\n\n\n\n\n\n\nMerkmal\nPC A – Office Basic\nPC B – Allround Pro\nPC C – Performance Plus\n\n\n\n\nCPU\nIntel Core i5‑12400 (6 Cores, 4.4 GHz Boost)\nAMD Ryzen 5 5600X (6 Cores, 4.6 GHz Boost)\nIntel Core i7‑13700 (16 Cores, 5.2 GHz Boost)\n\n\nRAM\n16 GB DDR4‑3200\n32 GB DDR4‑3600\n32 GB DDR5‑5200\n\n\nSSD\n512 GB NVMe\n1 TB NVMe\n1 TB NVMe Gen4\n\n\nGrafik\nIntel UHD 730 (iGPU)\nNVIDIA GTX 1660 Super\nNVIDIA RTX 4070\n\n\nEnergieeffizienz\n65 W TDP CPU\n65 W CPU + 125 W GPU\n125 W CPU + 200 W GPU\n\n\nPreis\nca. 750 €\nca. 1.200 €\nca. 2.000 €\n\n\n\n\nWie kommen Sie zu einer Kaufempfehlung für den Kunden?",
     "crumbs": [
-      "Nutzwertanalyse"
+      "04 Nutzwertanalyse"
     ]
   },
   {
@@ -875,7 +875,7 @@
     "section": "Nutzwertanalyse",
     "text": "Nutzwertanalyse\n\nEntscheidungshilfe für komplexe Handlungsalternativen\nZiel: Produkte oder Services mit einem zahlenbasierten Bewertungssystem vergleichen\nNützlich, wenn mehrere Kriterien berücksichtigt werden sollen, nicht nur z. B. der Preis\n\n\nLernkarte AP1 2025 Nr. 48",
     "crumbs": [
-      "Nutzwertanalyse"
+      "04 Nutzwertanalyse"
     ]
   },
   {
@@ -885,7 +885,7 @@
     "section": "Vorgehen",
     "text": "Vorgehen\n\n\nBewertungskriterien auswählen\nKriterien gewichten\nProdukte nach diesen Kriterien bewerten\nGesamtnutzen berechnen: Summe von (Bewertung mal Gewichtung)\nGesamtnutzen vergleichen, Entscheidung treffen",
     "crumbs": [
-      "Nutzwertanalyse"
+      "04 Nutzwertanalyse"
     ]
   },
   {
@@ -895,7 +895,7 @@
     "section": "Drei PC-Systeme vergleichen",
     "text": "Drei PC-Systeme vergleichen\n\nKunde Max Mustermann erstellt technische Handbücher und arbeitet dazu unter anderem mit Grafik-Tools und CAD-Software (Computer Aided Design, für 3D-Modelle).\n\n\n\n\n\n\n\n\n\n\nMerkmal\nPC A – Office Basic\nPC B – Allround Pro\nPC C – Performance Plus\n\n\n\n\nCPU\nIntel Core i5‑12400 (6 Cores, 4.4 GHz Boost)\nAMD Ryzen 5 5600X (6 Cores, 4.6 GHz Boost)\nIntel Core i7‑13700 (16 Cores, 5.2 GHz Boost)\n\n\nRAM\n16 GB DDR4‑3200\n32 GB DDR4‑3600\n32 GB DDR5‑5200\n\n\nSSD\n512 GB NVMe\n1 TB NVMe\n1 TB NVMe Gen4\n\n\nGrafik\nIntel UHD 730 (iGPU)\nNVIDIA GTX 1660 Super\nNVIDIA RTX 4070\n\n\nEnergieeffizienz\n65 W TDP CPU\n65 W CPU + 125 W GPU\n125 W CPU + 200 W GPU\n\n\nPreis\nca. 750 €\nca. 1.200 €\nca. 2.000 €",
     "crumbs": [
-      "Nutzwertanalyse"
+      "04 Nutzwertanalyse"
     ]
   },
   {
@@ -905,7 +905,7 @@
     "section": "Kriterien für den Vergleich",
     "text": "Kriterien für den Vergleich\nWir vergleichen drei Systeme anhand von fünf Kriterien:\n\nLeistung CPU - Gewichtung: 20%\nRAM – Gewichtung: 20%\nGrafik - Gewichtung: 10%\nSpeicher (SSD‑Größe) – Gewichtung: 10%\nEnergieeffizienz – Gewichtung: 10%\nPreis – Gewichtung: 30%\n\nBewertungsskala: 1 = sehr schlecht, 5 = sehr gut\nDie Gewichte sollen in Summe 100% ergeben!",
     "crumbs": [
-      "Nutzwertanalyse"
+      "04 Nutzwertanalyse"
     ]
   },
   {
@@ -915,7 +915,7 @@
     "section": "Bewertung: PC A",
     "text": "Bewertung: PC A\n\n\n\n\nMerkmal\nGewicht\nPC A – Office Basic\nBewertung\n\n\n\n\nCPU\n20%\nIntel Core i5‑12400 (6 Cores, 4.4 GHz Boost)\n3\n\n\nRAM\n20%\n16 GB DDR4‑3200\n2\n\n\nSSD\n10%\n512 GB NVMe\n3\n\n\nGrafik\n10%\nIntel UHD 730 (iGPU)\n3\n\n\nEnergieeffizienz\n10%\n65 W TDP CPU\n5\n\n\nPreis\n30%\nca. 750 €\n5\n\n\n\n\nNutzwert = 0.2 * 3 + 0.2 * 2 + 0.1 * 3 + 0.1 * 3 + 0.1 * 5 + 0.3 * 5\nNutzwert = 0.6 + 0.4 + 0.3 + 0.3 + 0.5 + 1.5\nNutzwert = 3.6",
     "crumbs": [
-      "Nutzwertanalyse"
+      "04 Nutzwertanalyse"
     ]
   },
   {
@@ -925,7 +925,7 @@
     "section": "Bewertung: PC B",
     "text": "Bewertung: PC B\n\n\n\n\nMerkmal\nGewicht\nPC B – Allround Pro\nBewertung\n\n\n\n\nCPU\n20%\nAMD Ryzen 5 5600X (6 Cores, 4.6 GHz Boost)\n4\n\n\nRAM\n20%\n32 GB DDR4‑3600\n4\n\n\nSSD\n10%\n1 TB NVMe\n4\n\n\nGrafik\n10%\nNVIDIA GTX 1660 Super\n4\n\n\nEnergieeffizienz\n10%\n65 W CPU + 125 W GPU\n3\n\n\nPreis\n30%\nca. 1.200 €\n4\n\n\n\n\nNutzwert = 0.2 * 4 + 0.2 * 4 + 0.1 * 4 + 0.1 * 4 + 0.1 * 3 + 0.3 * 4\nNutzwert = 0.8 + 0.8 + 0.4 + 0.4 + 0.3 + 1.2\nNutzwert = 3.9",
     "crumbs": [
-      "Nutzwertanalyse"
+      "04 Nutzwertanalyse"
     ]
   },
   {
@@ -935,7 +935,7 @@
     "section": "Bewertung: PC C",
     "text": "Bewertung: PC C\n\n\n\n\n\n\n\n\n\n\nMerkmal\nGewicht\nPC C – Performance Plus\nBewertung\n\n\n\n\nCPU\n20%\nIntel Core i7‑13700 (16 Cores, 5.2 GHz Boost)\n5\n\n\nRAM\n20%\n32 GB DDR5‑5200\n5\n\n\nSSD\n10%\n1 TB NVMe Gen4\n5\n\n\nGrafik\n10%\nNVIDIA RTX 4070\n5\n\n\nEnergieeffizienz\n10%\n125 W CPU + 200 W GPU\n2\n\n\nPreis\n30%\nca. 2.000 €\n2\n\n\n\n\nNutzwert = 0.2 * 5 + 0.2 * 5 + 0.1 * 5 + 0.1 * 5 + 0.1 * 2 + 0.3 * 2\nNutzwert = 1 + 1 + 0.5 + 0.5 + 0.2 + 0.6\nNutzwert = 3.8",
     "crumbs": [
-      "Nutzwertanalyse"
+      "04 Nutzwertanalyse"
     ]
   },
   {
@@ -945,7 +945,7 @@
     "section": "Ergebnis",
     "text": "Ergebnis\n\n\n\n\n\n\n\n\n\n\nMerkmal\nPC A – Office Basic\nPC B – Allround Pro\nPC C – Performance Plus\n\n\n\n\nCPU\nIntel Core i5‑12400 (6 Cores, 4.4 GHz Boost)\nAMD Ryzen 5 5600X (6 Cores, 4.6 GHz Boost)\nIntel Core i7‑13700 (16 Cores, 5.2 GHz Boost)\n\n\nRAM\n16 GB DDR4‑3200\n32 GB DDR4‑3600\n32 GB DDR5‑5200\n\n\nSSD\n512 GB NVMe\n1 TB NVMe\n1 TB NVMe Gen4\n\n\nGrafik\nIntel UHD 730 (iGPU)\nNVIDIA GTX 1660 Super\nNVIDIA RTX 4070\n\n\nEnergieeffizienz\n65 W TDP CPU\n65 W CPU + 125 W GPU\n125 W CPU + 200 W GPU\n\n\nPreis\nca. 750 €\nca. 1.200 €\nca. 2.000 €\n\n\nNutzen\n3.6\n3.9\n3.8\n\n\n\nNach den vorgegeben Kriterien gewinnt PC B - Allround Pro.",
     "crumbs": [
-      "Nutzwertanalyse"
+      "04 Nutzwertanalyse"
     ]
   },
   {
@@ -955,7 +955,7 @@
     "section": "",
     "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!",
     "crumbs": [
-      "Nutzwertanalyse"
+      "04 Nutzwertanalyse"
     ]
   },
   {
