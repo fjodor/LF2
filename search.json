@@ -306,64 +306,64 @@
     ]
   },
   {
-    "objectID": "02b_Software.html#ziele",
-    "href": "02b_Software.html#ziele",
+    "objectID": "02c_Software.html#ziele",
+    "href": "02c_Software.html#ziele",
     "title": "Marktgängige IT-Systeme: Software",
     "section": "Ziele",
     "text": "Ziele\nGrundlegende Software-Systeme kennen und beurteilen können\n\nUnternehmensanwendungen\nDatenhaltungssysteme\nKommunikationssysteme\nBIOS und UEFI\n\nGrundverständnis für Benutzeroberflächen"
   },
   {
-    "objectID": "02b_Software.html#unternehmensanwendungen-erp-system",
-    "href": "02b_Software.html#unternehmensanwendungen-erp-system",
+    "objectID": "02c_Software.html#unternehmensanwendungen-erp-system",
+    "href": "02c_Software.html#unternehmensanwendungen-erp-system",
     "title": "Marktgängige IT-Systeme: Software",
     "section": "Unternehmensanwendungen: ERP-System",
     "text": "Unternehmensanwendungen: ERP-System\n\nERP: Enterprise Resource Planning System\nUmfangreiches Werkzeug zur Unterstützung der Ressourcenplanung aller Prozesse eines Unternehmens, z. B. Produktion, Materialwirtschaft und Vertrieb.\nBeispiele\n\nSAP ERP / SAP S/4HANA: global führend; extrem umfangreich, modular, in großen Unternehmen Standard\nMicrosoft Dynamics 365 (ehemals NAV/AX): v. a. im Mittelstand; stark in Microsoft-Ökosystem integriert (Azure, Office, Power Platform)\nOracle ERP Cloud / Oracle NetSuite:: ERP für große Unternehmen, NetSuite für Mittelstand; stark in Finanzmodulen\nSage (Sage 100 / SageX3): beliebt bei KMU (Kleinen und Mittleren Unternehmen); Europa, v. a. DACH\nOdoo: Open Source, modular, flexibel, wächst; v. a. KMU und Startups\n\n\nWeitere: Infor ERP (Produktion, Logistik), IFS (Industrie, Service), Epicor (Fertigung, Supply Chain), Workday (HR), ProAlpha (deutsch, Mittelstand)\n\n\n\nKurz erwähnt auf Lernkarte AP1 2025 Nr. 110"
   },
   {
-    "objectID": "02b_Software.html#datenhaltungssysteme",
-    "href": "02b_Software.html#datenhaltungssysteme",
+    "objectID": "02c_Software.html#datenhaltungssysteme",
+    "href": "02c_Software.html#datenhaltungssysteme",
     "title": "Marktgängige IT-Systeme: Software",
     "section": "Datenhaltungssysteme",
     "text": "Datenhaltungssysteme\n\n\nRelationale Datenbanksysteme (RDBMS)\nSpeichern Daten in Tabellen, die durch Beziehungen miteinander verbunden sind\nBeispiele:\n\nMySQL: Open Source, populär\nOracle Database: leistungsfähig, oft in großen Unternehmen\nMicrosoft SQL Server: Integration mit MS-Produkten\n\n\nNoSQL Datenbanksysteme\n\nspeichern unstrukturierte / semi-strukturierte Daten\nskalierbarer, flexibler als relationale Datenbanken\n\nAnwendungsfelder:\n\nContent Management\nSoziale Netzwerke\n\nBeispiele:\n\nMongoDB: Dokumentorientiert\nCassandra: graphenorientiert"
   },
   {
-    "objectID": "02b_Software.html#datenhaltungssysteme-oodbms",
-    "href": "02b_Software.html#datenhaltungssysteme-oodbms",
+    "objectID": "02c_Software.html#datenhaltungssysteme-oodbms",
+    "href": "02c_Software.html#datenhaltungssysteme-oodbms",
     "title": "Marktgängige IT-Systeme: Software",
     "section": "Datenhaltungssysteme: OODBMS",
     "text": "Datenhaltungssysteme: OODBMS\n\nObjektorientierte Datenbank-Managementsysteme\n\nspeichern Daten direkt als Objekte\nObjekte bleiben als Ganzes erhalten, inkl. Attribute und Methoden\nAnwendungsbereiche: Simulationen, CAD/CAM, Telekommunikation, Echtzeit-Systeme\n\nBeispiele\n\n\ndb4o: Database for Objekts, direkt in Java und .NET integrierbar\nObjectDB: java-basiert, oft in Enterprise-Java-Projekten genutzt\nVersant Object Database: kommerziell, für große, komplexe Systeme\n\n\nAbgrenzung zu NoSQL: OODMBS speichern Methoden, unterstützen Vererbung, bieten vollständige Objekt-Persistenz"
   },
   {
-    "objectID": "02b_Software.html#kommunikationssysteme",
-    "href": "02b_Software.html#kommunikationssysteme",
+    "objectID": "02c_Software.html#kommunikationssysteme",
+    "href": "02c_Software.html#kommunikationssysteme",
     "title": "Marktgängige IT-Systeme: Software",
     "section": "Kommunikationssysteme",
     "text": "Kommunikationssysteme"
   },
   {
-    "objectID": "02b_Software.html#benutzeroberflächen",
-    "href": "02b_Software.html#benutzeroberflächen",
+    "objectID": "02c_Software.html#benutzeroberflächen",
+    "href": "02c_Software.html#benutzeroberflächen",
     "title": "Marktgängige IT-Systeme: Software",
     "section": "Benutzeroberflächen",
     "text": "Benutzeroberflächen"
   },
   {
-    "objectID": "02b_Software.html#bios-und-uefi",
-    "href": "02b_Software.html#bios-und-uefi",
+    "objectID": "02c_Software.html#bios-und-uefi",
+    "href": "02c_Software.html#bios-und-uefi",
     "title": "Marktgängige IT-Systeme: Software",
     "section": "BIOS und UEFI",
     "text": "BIOS und UEFI\nZum Starten eines PC-Systems setzte man lange Zeit auf das BIOS (Basic Input Output System). Der Nachfolger des lange bewährten BIOS ist das UEFI (Unified Extensible Firmware Interface).\nBitte vergleiche BIOS mit UEFI.\n\nLernkarte AP1 2025 Nr. 139"
   },
   {
-    "objectID": "02b_Software.html#bios-und-uefi-1",
-    "href": "02b_Software.html#bios-und-uefi-1",
+    "objectID": "02c_Software.html#bios-und-uefi-1",
+    "href": "02c_Software.html#bios-und-uefi-1",
     "title": "Marktgängige IT-Systeme: Software",
     "section": "BIOS und UEFI",
     "text": "BIOS und UEFI\n\n\nBIOS (Basic Input Output System)\n\nkeine Mausbedienung möglich\nkann nur vom Master-Boot-Record starten\nkann nur von Laufwerken bis 2 TB booten\n\n\nUEFI (Unified Extensible Firmware Interface)\n\nkann auch von Laufwerken mit 2,2 TB oder mehr booten\ngrafische Benutzeroberfläche mit Mausbedienung\nunterstützt 64-Bit-Prozessoren nativ ab Werk\nTreiber lassen sich als Modul nachladen\nnutzt GPT-Partitionierungsschema (GUID Partition Table)\nkann von VM-Container starten\n\n\n\nLernkarte AP1 2025 Nr. 139"
   },
   {
-    "objectID": "02b_Software.html#section",
-    "href": "02b_Software.html#section",
+    "objectID": "02c_Software.html#section",
+    "href": "02c_Software.html#section",
     "title": "Marktgängige IT-Systeme: Software",
     "section": "",
     "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!"
@@ -903,7 +903,7 @@
     "href": "04_Nutzwertanalyse.html#kriterien-für-den-vergleich",
     "title": "Nutzwertanalyse",
     "section": "Kriterien für den Vergleich",
-    "text": "Kriterien für den Vergleich\nWir vergleichen drei Systeme anhand von fünf Kriterien:\n\nLeistung CPU - Gewichtung: 20%\nRAM – Gewichtung: 20%\nGrafik - Gewichtung: 10%\nSpeicher (SSD‑Größe) – Gewichtung: 10%\nEnergieeffizienz – Gewichtung: 10%\nPreis – Gewichtung: 30%\n\nBewertungsskala: 1 = sehr schlecht, 5 = sehr gut\nDie Gewichte sollen in Summe 100% ergeben!",
+    "text": "Kriterien für den Vergleich\nWir vergleichen drei Systeme anhand von sechs Kriterien:\n\nLeistung CPU - Gewichtung: 20%\nRAM – Gewichtung: 20%\nGrafik - Gewichtung: 10%\nSpeicher (SSD‑Größe) – Gewichtung: 10%\nEnergieeffizienz – Gewichtung: 10%\nPreis – Gewichtung: 30%\n\nBewertungsskala: 1 = sehr schlecht, 5 = sehr gut\nDie Gewichte sollen in Summe 100% ergeben!",
     "crumbs": [
       "04 Nutzwertanalyse"
     ]
