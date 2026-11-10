@@ -80,7 +80,7 @@ Kunde Max Mustermann erstellt technische Handbücher und arbeitet dazu unter and
 
 ## Kriterien für den Vergleich
 
-Wir vergleichen drei Systeme anhand von fünf Kriterien:
+Wir vergleichen drei Systeme anhand von sechs Kriterien:
 
 - Leistung CPU - Gewichtung: 20%
 - RAM – Gewichtung: 20%
