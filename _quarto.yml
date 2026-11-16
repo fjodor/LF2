@@ -20,7 +20,7 @@ website:
         text: 03b Istzustand erfassen - Interview, Fragebogen, Beobachtung
       - href: 04_Nutzwertanalyse.qmd
         text: 04 Nutzwertanalyse
-      - href: 06a_Projektorga-Block1.qmd
+      - href: 07a_Projektorga-Block1.qmd
         text: 05 Projektorganisation
 
 format:
