@@ -191,13 +191,6 @@ Abgrenzung zu NoSQL: OODMBS speichern Methoden, unterstützen Vererbung, bieten 
 ::::
 
 
-## Kommunikationssysteme
-
-
-
-## Benutzeroberflächen
-
-
 ## BIOS und UEFI
 
 Zum Starten eines PC-Systems setzte man lange Zeit auf das **BIOS** *(Basic Input Output System)*. Der Nachfolger des lange bewährten BIOS ist das **UEFI** *(Unified Extensible Firmware Interface)*.
@@ -238,6 +231,186 @@ Lernkarte AP1 2025 Nr. 139
 ::: notes
 Lernkarte AP1 2025 Nr. 139
 :::
+
+
+::: notes
+
+## Kommunikationssysteme
+
+:::
+
+
+
+## Benutzeroberflächen
+
+### Ziele
+
+- Unterschiede zwischen Usability und UX (User Experience) kennen
+- Prinzipien des nutzerzentrierten Designs anwenden können
+- Gestaltungsentscheidungen fuer Benutzeroberflächen begründen können
+
+
+::: notes
+Quelle: 3.4.14 Benutzeroberfläche
+https://github.com/KyokoSpl/IHK-pr-fung-lernmaterial
+:::
+
+
+## Usability vs. User Experience (UX)
+
+:::: {style="font-size: 1.7rem"}
+
+| Aspekt | Usability | User Experience (UX) |
+|--------|-----------|---------------------|
+| Definition | Gebrauchstauglichkeit (ISO 9241-11) | Gesamterlebnis des Benutzers |
+| Fokus | Aufgabe effektiv, effizient, zufrieden erledigen | Emotionen, Erwartungen, Ästhetik |
+| Umfang | Teilaspekt von UX | Umfasst Usability + Gesamteindruck |
+| Messbar durch | Aufgabenerfüllung, Fehlerquote, Zeit | Befragung, Emotionsmessung, Net Promoter Score |
+| Beispiel | "Ich konnte die Bestellung in 3 Klicks aufgeben" | "Die App fühlt sich modern an und macht Spaß" |
+
+::: fragment
+
+**Merke:** Gute UX setzt gute Usability voraus, aber gute Usability allein reicht fuer gute UX nicht aus.
+
+:::
+::::
+
+
+## User-Centered Design (UCD) – Nutzerzentrierter Entwurf
+
+:::: {style="font-size: 1.6rem"}
+
+**Definition:** Ein Designprozess, bei dem die Bedürfnisse, Wünsche und Einschränkungen der Benutzer in jeder Phase berücksichtigt werden.
+
+**Ablauf (nach DIN EN ISO 9241-210):**
+
+```
++---------------------+      +---------------------+
+| 1. Nutzungskontext  |  ->  |  2. Anforderungen   |
+|    verstehen        |      |    spezifizieren    |
++--------+------------+      +--------+------------+
+                                      |
+                                      v
+                             +--------+------------+
+                             | 3. Gestaltungs-     |
+                    +------->|    lösungen         | 
+                    |        |    entwerfen        |
+                    |        +--------+------------+
+                    |                     |
+                    |                     v
+                    |         +--------+-----------+
+                    +--------| 4. Evaluation       |
+                    Iteration|    (Testen mit      | 
+                             |     Benutzern)      |
+                             +---------------------+
+```
+
+::::
+
+
+## User-Centered Design (UCD)
+
+### Phasen im Detail
+
+1. **Nutzungskontext verstehen:** Wer sind die Benutzer? Welche Aufgaben erledigen sie? In welcher Umgebung?
+
+2. **Anforderungen spezifizieren:** Welche Funktionen benoetigen die Benutzer? Welche Einschränkungen gibt es?
+
+3. **Gestaltungsloesungen entwerfen:** Wireframes, Mockups, Prototypen erstellen
+
+4. **Evaluation:** Testen mit echten Benutzern, Ergebnisse auswerten, zurück zu Schritt 3
+
+
+### Heuristische Evaluation nach Nielsen
+
+:::: {style="font-size: 1.6rem"}
+
+**Jakob Nielsen** definierte 10 Usability-Heuristiken zur Bewertung von Benutzeroberflaechen:
+
+| Nr. | Heuristik | Erklaerung |
+|-----|-----------|------------|
+| 1 | Sichtbarkeit des Systemstatus | System informiert über aktuellen Zustand (z.B. Ladebalken) |
+| 2 | Übereinstimmung System / reale Welt | Begriffe und Symbole aus der Nutzerwelt verwenden |
+| 3 | Nutzerkontrolle und Freiheit | Undo / Redo, Abbrechen-Button |
+| 4 | Konsistenz und Standards | Einheitliche Begriffe und Layouts |
+| 5 | Fehlervermeidung | Validierung vor Absenden, Bestätigungsdialoge |
+| 6 | Erkennen statt Erinnern | Sichtbare Optionen statt versteckter Befehle |
+| 7 | Flexibilität und Effizienz | Shortcuts für Experten, Standard für Einsteiger |
+| 8 | Ästhetisches und minimalistisches Design | Nur relevante Informationen anzeigen |
+| 9 | Fehler erkennen und beheben | Klare Fehlermeldungen mit Lösungsvorschlag |
+| 10 | Hilfe und Dokumentation | Kontextsensitive Hilfe, FAQ, Suchfunktion |
+
+::::
+
+
+## Responsive Design: Techniken
+
+:::: {style="font-size: 1.8rem"}
+
+**Definition:** Webdesign, bei dem sich das Layout automatisch an verschiedene Bildschirmgrößen anpasst (Desktop, Tablet, Smartphone).
+
+**Techniken:**
+
+| Technik | Beschreibung |
+|---------|-------------|
+| Media Queries | CSS-Regeln für verschiedene Bildschirmbreiten |
+| Flexibles Grid | Spalten passen sich prozentual an |
+| Flexible Bilder | Bilder skalieren mit `max-width: 100%` |
+| Mobile First | Design beginnt mit der kleinsten Ansicht |
+| Breakpoints | Definierte Punkte, an denen das Layout wechselt |
+
+::::
+
+
+## Responsive Design: Breakpoints
+
+**Typische Breakpoints:**
+
+```
+Smartphone:  < 576px   (1 Spalte)
+Tablet:      576-992px (2 Spalten)
+Desktop:     > 992px   (3+ Spalten)
+```
+
+
+### Gestaltungsgesetze (Gestaltpsychologie)
+
+:::: {style="font-size: 1.8rem"}
+
+| Gesetz | Bedeutung | Beispiel |
+|--------|-----------|----------|
+| Nähe | Elemente nah beieinander werden als zusammengehörig wahrgenommen | Formularfeld + Label |
+| Ähnlichkeit | Gleichartige Elemente werden als Gruppe wahrgenommen | Gleiche Farbe für Aktions-Buttons |
+| Geschlossenheit | Unvollständige Formen werden im Kopf ergänzt | Logo mit Lücken |
+| Kontinuität | Das Auge folgt Linien und Kurven | Navigation in einer Reihe |
+
+::::
+
+
+## UX: Evaluationsmethoden
+
+:::: {style="font-size: 1.8rem"}
+
+| Methode | Durchfuehrung | Aufwand | Ergebnis |
+|---------|--------------|---------|----------|
+| Heuristische Evaluation | Experten prüfen anhand Heuristiken | Mittel | Liste von Usability-Problemen |
+| Usability-Test | 5-8 Benutzer führen Aufgaben aus | Hoch | Konkrete Nutzungsprobleme |
+| A/B-Test | Zwei Varianten werden verglichen | Mittel | Statistisch bessere Variante |
+| Eye-Tracking | Blickbewegungen werden aufgezeichnet | Sehr hoch | Visuelle Aufmerksamkeitsmuster |
+
+::::
+
+
+## UX: Häufige Fehler
+
+:::: {.incremental style="font-size: 2rem"}
+
+- UX wird auf "schön aussehen" reduziert → UX umfasst das gesamte Nutzungserlebnis
+- Responsive Design wird mit "mobilfreundlich" gleichgesetzt → es umfasst ALLE Bildschirmgrößen
+- Heuristische Evaluation wird mit Usability-Test verwechselt: Heuristik = Experten, Usability-Test = echte Benutzer
+- Gestaltungsgesetze werden ignoriert → fuehrt zu unübersichtlichen Oberflächen
+
+::::
 
 
 ## <!-- -->
