@@ -1,157 +1,74 @@
 [
   {
-    "objectID": "06_Projektorganisation.html#was-ist-ein-projekt-merkmale",
-    "href": "06_Projektorganisation.html#was-ist-ein-projekt-merkmale",
-    "title": "Projektorganisation",
-    "section": "Was ist ein Projekt? Merkmale",
-    "text": "Was ist ein Projekt? Merkmale\n\n\nEinmaligkeit: Ein Projekt wird in der Regel nur einmal ausgeführt und ist kein Prozess, der sich regelmäßig wiederholt.\nKlares Ziel: In jedem Projekt wird ein bestimmtes Ergebnis oder Ziel verfolgt.\nZeitliche Befristung: Projekte haben einen festgelegten Start- und Endzeitpunkt.\nInterdisziplinär: Eine Notwendigkeit ist oft die Zusammenarbeit mit verschiedenen Fachbereichen.\nRisikobehaftet: Projekte sind mit Unsicherheiten und Risiken verbunden.\nRahmenbedingungen: Ein Projekt hat begrenzte Ressourcen, wie Geld, Personal, Zeit und hat klare Abgrenzungen zu anderen Projekten.\n\n\n\nLernkarte AP1 2025 Nr. 1"
+    "objectID": "08_Qualitätssicherung.html#qm-methoden-zur-zielerreichung",
+    "href": "08_Qualitätssicherung.html#qm-methoden-zur-zielerreichung",
+    "title": "Qualitätssicherung",
+    "section": "QM-Methoden zur Zielerreichung",
+    "text": "QM-Methoden zur Zielerreichung"
   },
   {
-    "objectID": "06_Projektorganisation.html#lastenheft",
-    "href": "06_Projektorganisation.html#lastenheft",
-    "title": "Projektorganisation",
-    "section": "Lastenheft",
-    "text": "Lastenheft\n\n\nLastenheft: Anforderungs- oder Kundenspezifikation\nbeschreibt Gesamtheit der Anforderungen bzw. Spezifikationen des Auftraggebers an die Lieferungen und Leistungen seines Auftragnehmers\nenthält die an das zu entwickelnde Produkt gestellten funktionalen sowie nicht-funktionalen Anforderungen (Gesetze / Vorschriften)\ndient als Basis für die Ausschreibung sowie Vertragsgestaltung\ntypische Angaben: Lieferzeit, Lieferumfang, Kosten\nDas akzeptierte Lastenheft ist für beide Parteien rechtlich bindend.\n\n\n\nLernkarte AP1 2025 Nr. 149"
+    "objectID": "08_Qualitätssicherung.html#abnahmeprotokoll",
+    "href": "08_Qualitätssicherung.html#abnahmeprotokoll",
+    "title": "Qualitätssicherung",
+    "section": "Abnahmeprotokoll",
+    "text": "Abnahmeprotokoll"
   },
   {
-    "objectID": "06_Projektorganisation.html#pflichtenheft",
-    "href": "06_Projektorganisation.html#pflichtenheft",
-    "title": "Projektorganisation",
-    "section": "Pflichtenheft",
-    "text": "Pflichtenheft\n\n\nbeschreibt in detaillierter Form, wie der Auftragnehmer die Anforderungen des Auftraggebers umsetzen möchte\n“Wie und Womit” der Auftrag erfüllt werden soll\nInhalt des Pflichtenheftes für beide Parteien rechtlich bindend, solange nicht beide Parteien Änderungen / Ergänzungen zulassen\nUmsetzung durch Auftragnehmer beginnt erst, wenn Auftraggeber das Pflichtenheft akzeptiert!\nAgile Entwicklungsmodelle: Änderungen können in diesen Prozess einfließen\n\n\n\nLernkarte AP1 2025 Nr. 147"
-  },
-  {
-    "objectID": "06_Projektorganisation.html#projektstrukturplan",
-    "href": "06_Projektorganisation.html#projektstrukturplan",
-    "title": "Projektorganisation",
-    "section": "Projektstrukturplan",
-    "text": "Projektstrukturplan\n\n\n\nWerkzeug zur Projektleitung\nengl. Work Break Down Structure\ndeutsch auch Arbeitsstrukturplan\nenthält gesamten Leistungsumfang\nhierarchisch aufgebaut\n\n\n\n\n\noberste Hierarchiestufe: Projekt als Ganzes\nzweite Ebene: Teilprojekte / Teilaufgaben\ndritte Ebene: Arbeitspakete (AP)"
-  },
-  {
-    "objectID": "06_Projektorganisation.html#projektstrukturplan-top-down",
-    "href": "06_Projektorganisation.html#projektstrukturplan-top-down",
-    "title": "Projektorganisation",
-    "section": "Projektstrukturplan: Top-Down",
-    "text": "Projektstrukturplan: Top-Down\n\n\nZiel Top-Down-Ansatz: Weg vom Ganzen zum Detail\ndazu Zerlegung des Gesamtprojekts in mehrere Teilaufgaben\nSchritte zur Erreichung dieses Ziels:\n\nBenennung des Gesamtprojekts\nZerlegung des Gesamtprojekts in Arbeitspakete oder Teilaufgaben\nBenennung der Teilaufgaben\nweitere Zerlegung in Teilschritte, bis Arbeitspakete vorliegen\n\nWann ist Top-Down-Ansatz geeignet?\n\nwenn bereits Erfahrungen mit ähnlichen Projekten vorliegen\nwenn Inhalte des zu planenden Projekts aus vorherigen Projekten bekannt sind\n\n\n\n\nLernkarte AP1 2025 Nr. 5"
-  },
-  {
-    "objectID": "06_Projektorganisation.html#projektstrukturplan-bottom-up",
-    "href": "06_Projektorganisation.html#projektstrukturplan-bottom-up",
-    "title": "Projektorganisation",
-    "section": "Projektstrukturplan: Bottom-Up",
-    "text": "Projektstrukturplan: Bottom-Up\n\n\nZiel Bottom-up-Ansatz: Weg vom Detail zum Ganzen\nGrundidee: abgegrenzte, detaillierte Teilprobleme lösen -&gt; dann damit größere, darüber liegende Probleme lösen\nkommt bei innovativen Lösungen zum Einsatz\nVorgehen:\n\nFestlegung der auszuführenden Aufgaben\nKlärung der Beziehungen der Teilaufgaben in der Baumstruktur\nErrichtung einer Baumstruktur, um Aufbau und Zusammensetzung zu erkennen\nÜberprüfung auf Vollständigkeit und Einmaligkeit aller Teilaufgaben\n\n\n\n\nLernkarte AP1 2025 Nr. 6"
-  },
-  {
-    "objectID": "06_Projektorganisation.html#gantt-diagramm",
-    "href": "06_Projektorganisation.html#gantt-diagramm",
-    "title": "Projektorganisation",
-    "section": "Gantt-Diagramm",
-    "text": "Gantt-Diagramm\n\n\n\n\n\n%%{init: {'themeVariables': { 'fontSize': '18px' }}}%%\ngantt\n    title Einfaches Gantt-Diagramm\n    dateFormat  YYYY-MM-DD\n    axisFormat  %d.%m.\n\n    section Planung\n    Konzeptphase        :done,    des1, 2024-01-01, 2024-01-10\n    Design              :active,  des2, 2024-01-11, 2024-01-20\n\n    section Umsetzung\n    Entwicklung         :crit,    dev1, 2024-01-21, 2024-02-15\n    Tests               :         dev2, 2024-02-11, 2024-02-20\n\n\n\n\n\n\n\n\n\nBalkendiagramm zur Terminplanung\nstellt zeitliche Abfolge von Aktivitäten grafisch als Balken auf einer Zeitachse dar\nerste Spalte enthält Aktivitäten\nerste oder letzte Zeile stellt Zeitachse dar\nAktivitäten können sich überschneiden (siehe Entwicklung und Tests)"
-  },
-  {
-    "objectID": "06_Projektorganisation.html#gantt-diagramm-detaillierter",
-    "href": "06_Projektorganisation.html#gantt-diagramm-detaillierter",
-    "title": "Projektorganisation",
-    "section": "Gantt-Diagramm detaillierter",
-    "text": "Gantt-Diagramm detaillierter\n\n\nzeigt alle Aktivitäten eines Projektes mit Hilfe einer Zeitachse\nZeitachse horizontal in erster (letzter) Zeile des Diagramms\nAktivitäten in Zeilen der ersten Spalte benannt, zeitlich mit waagerechtem Balken dargestellt\nLänge des Balkens zeigt Dauer, Beginn und Ende der Aktivität\nüberlappende Balken bedeuten sich überschneidende Aktivitäten\nVisualisierung des kritischen Pfades ist möglich [aber im Netzplan einfacher zu erkennen]\nPfeile können Abhängigkeiten zwischen Aktivitäten verdeutlichen\nVorteil: sehr übersichtlich für kleine und mittlere Projekte\nNachteil: bei großer Anzahl Aktivitäten wird die Darstellung schnell unübersichtlich\n\n\n\nLernkarte AP1 2025 Nr. 4"
-  },
-  {
-    "objectID": "06_Projektorganisation.html#gantt-diagramm-mermaid",
-    "href": "06_Projektorganisation.html#gantt-diagramm-mermaid",
-    "title": "Projektorganisation",
-    "section": "Gantt-Diagramm: Mermaid",
-    "text": "Gantt-Diagramm: Mermaid\n\n\n\nMermaid (“Meerjungfrau”) ist eine vereinfachte Auszeichnungssprache und ein JavaScript-basiertes Open Source-Tool zur Diagrammerstellung\ninspiriert von Markdown\nkann mit einem Renderer komplexe Diagramme erstellen und verändern\n\n\ngantt\n    title Einfaches Gantt-Diagramm\n    dateFormat  YYYY-MM-DD\n    axisFormat  %d.%m.\n\n    section Planung\n    Konzeptphase    :done,    des1, 2024-01-01, 2024-01-10\n    Design          :active,  des2, 2024-01-11, 2024-01-20\n\n    section Umsetzung\n    Entwicklung     :crit,    dev1, 2024-01-21, 2024-02-15\n    Tests           :         dev2, 2024-02-11, 2024-02-20\n\n\n\n\n\n\n%%{init: {'themeVariables': { 'fontSize': '18px' }}}%%\ngantt\n    title Einfaches Gantt-Diagramm\n    dateFormat  YYYY-MM-DD\n    axisFormat  %d.%m.\n\n    section Planung\n    Konzeptphase       :done,   des1, 2024-01-01, 2024-01-10\n    Design             :active, des2, 2024-01-11, 2024-01-20\n\n    section Umsetzung\n    Entwicklung        :crit,   dev1, 2024-01-21, 2024-02-15\n    Tests              :        dev2, 2024-02-11, 2024-02-20"
-  },
-  {
-    "objectID": "06_Projektorganisation.html#netzplan",
-    "href": "06_Projektorganisation.html#netzplan",
-    "title": "Projektorganisation",
-    "section": "Netzplan",
-    "text": "Netzplan\n\n\n\n\n\nFAZ frühester Anfangszeitpunkt\nFEZ frühester Endzeitpunkt\nSAZ spätestens Anfangszeitpunkt\nSEZ spätester Endzeitpunkt\nD Dauer\nGP Gesamtpuffer\nFP freier Puffer\n\n\n\n\nhilft bei Terminplanung von Projekten\nstellt Dauer von Vorgängen im Gesamtprojekt grafisch dar\nRechtecke für zeitliche Anordnung und logische Abhängigkeiten zwischen Vorgängen\nVerbindung der Vorgänge als Pfad mit Pfeilen\nKritische Pfade und Pufferzeiten der einzelnen Vorgänge sowie Gesamtpufferzeiten sind jeweils gekennzeichnet\n\n\nLernkarte AP1 2025 Nr. 3"
-  },
-  {
-    "objectID": "06_Projektorganisation.html#netzplan-aufbau-eines-knotens",
-    "href": "06_Projektorganisation.html#netzplan-aufbau-eines-knotens",
-    "title": "Projektorganisation",
-    "section": "Netzplan: Aufbau eines Knotens",
-    "text": "Netzplan: Aufbau eines Knotens\n\n\n\n\n\n\n\n\n\n\nAbkürzung\nName\nErklärung\nBerechnung\n\n\n\n\nFAZ\nFrühester Anfangszeitpunkt\nWann kann die Aufgabe frühestens starten?\nMaximum der FEZ aller Vorgänger\n\n\nFEZ\nFrühester Endzeitpunkt\nWann ist die Aufgabe frühestens fertig?\nFAZ + Dauer\n\n\nSAZ\nSpätester Anfangszeitpunkt\nWann muss die Aufgabe spätestens starten?\nSEZ - Dauer\n\n\nSEZ\nSpätester Endzeitpunkt\nWann muss die Aufgabe spätestens fertig sein?\nMinimum der SAZ aller Nachfolger\n\n\nGP\nGesamtpuffer\nWie viel Verzögerung ist möglich, ohne das Projektende zu gefährden?\nSAZ - FAZ oder SEZ - FEZ\n\n\nFP\nFreier Puffer\nWie viel Verzögerung ist möglich, ohne den Nachfolger zu gefährden?\nFAZ(Nachfolger) - FEZ(Vorgang)\n\n\nD\nDauer\nWie lange dauert die Aufgabe?\nVorgegeben\n\n\n\n\n\nQuelle: https://it-lernapp.de/courses/7"
-  },
-  {
-    "objectID": "06_Projektorganisation.html#netzplan-beispiel",
-    "href": "06_Projektorganisation.html#netzplan-beispiel",
-    "title": "Projektorganisation",
-    "section": "Netzplan: Beispiel",
-    "text": "Netzplan: Beispiel\n\n\n\nQuelle: https://t2informatik.de/wissen-kompakt/netzplan/"
-  },
-  {
-    "objectID": "06_Projektorganisation.html#netzplan-kritischer-pfad",
-    "href": "06_Projektorganisation.html#netzplan-kritischer-pfad",
-    "title": "Projektorganisation",
-    "section": "Netzplan: Kritischer Pfad",
-    "text": "Netzplan: Kritischer Pfad\n\n\nDer Kritische Pfad (=kritischer Weg) ist der Weg von Anfang bis Ende aller Aktivitäten eines Netzplans, auf dem die Summe aller Pufferzeit (minimal oder) Null wird.\nDie Gesamtprojektdauer wird somit durch den kritischen Pfad bestimmt.\nDIN 69900:2009-01 Projektmanagement - Netzplantechnik\nEinzelne Aktivitäten innerhalb des Projekts können im Rahmen ihrer Pufferzeit zeitlich verschoben oder verlängert werden, ohne dabei die Gesamtprojektdauer zu gefährden.\nMerke: Beim kritischen Pfad ist der Gesamtpuffer gleich Null.\n\n\n\nLernkarte AP1 2025 Nr. 8\nhttps://it-lernapp.de/courses/7\nAP1 Frühjahr 2025 S. 8 Vorwärtsberechnung, Rückwärtsberechnung ist drin!"
-  },
-  {
-    "objectID": "06_Projektorganisation.html#netzplan-kritischer-pfad-1",
-    "href": "06_Projektorganisation.html#netzplan-kritischer-pfad-1",
-    "title": "Projektorganisation",
-    "section": "Netzplan: Kritischer Pfad",
-    "text": "Netzplan: Kritischer Pfad\n\n\nBestimmt die Mindestprojektdauer\nAlle Vorgänge auf dem kritischen Pfad haben GP = 0 (Gesamtpuffer = 0)\nEine Verzögerung eines einzigen kritischen Vorgangs verzögert das gesamte Projekt\nEs gibt mindestens einen kritischen Pfad - manchmal auch mehrere\n\n\n\nQuelle: https://it-lernapp.de/courses/7"
-  },
-  {
-    "objectID": "06_Projektorganisation.html#netzplan-berechnen",
-    "href": "06_Projektorganisation.html#netzplan-berechnen",
-    "title": "Projektorganisation",
-    "section": "Netzplan berechnen",
-    "text": "Netzplan berechnen\n\nGegeben sind nur die Vorgangsnummern und die Dauer.\nAufgabe: FAZ, SAZ, FEZ, SEZ sowie GP und FP berechnen."
-  },
-  {
-    "objectID": "06_Projektorganisation.html#netzplan-vorwärtsrechnung---faz-fez",
-    "href": "06_Projektorganisation.html#netzplan-vorwärtsrechnung---faz-fez",
-    "title": "Projektorganisation",
-    "section": "Netzplan: Vorwärtsrechnung - FAZ, FEZ",
-    "text": "Netzplan: Vorwärtsrechnung - FAZ, FEZ\n\n\nPhase 1: FAZ und FEZ berechnen\nVorgehen: von links nach rechts\nStartknoten: FAZ = 0, FEZ = 0 + Dauer\nJeder weitere Knoten: FAZ = Maximum aller FEZ der Vorgänger\nFEZ = FAZ + Dauer\nWarum Maximum?\nWenn Aufgabe zwei Vorgänger hat, kann sie erst starten, wenn beide fertig sind. -&gt; Späteren Zeitpunkt auswählen"
-  },
-  {
-    "objectID": "06_Projektorganisation.html#netzplan-rückwärtsrechnung---saz-sez",
-    "href": "06_Projektorganisation.html#netzplan-rückwärtsrechnung---saz-sez",
-    "title": "Projektorganisation",
-    "section": "Netzplan: Rückwärtsrechnung - SAZ, SEZ",
-    "text": "Netzplan: Rückwärtsrechnung - SAZ, SEZ\n\n\nPhase 2: SAZ und SEZ berechnen\nVorgehen: von rechts nach links, zurück\nEndknoten: SEZ = FEZ, SAZ = SEZ - Dauer\nJeder weitere Knoten: SEZ = Minimum aller SAZ der Nachfolger\nSAZ = SEZ - Dauer\nWarum Minimum?\nWenn Aufgabe mehrere Nachfolger hat, muss sie so früh fertig sein, dass der früheste Nachfolger noch pünktlich starten kann."
-  },
-  {
-    "objectID": "06_Projektorganisation.html#netzplan-puffer-berechnen",
-    "href": "06_Projektorganisation.html#netzplan-puffer-berechnen",
-    "title": "Projektorganisation",
-    "section": "Netzplan: Puffer berechnen",
-    "text": "Netzplan: Puffer berechnen\n\nGesamtpuffer (GP) = SAZ - FAZ = SEZ - FEZ\nFreier Puffer (FP) = FAZ(Nachfolger) - FEZ(Vorgang)\n\n\nAchtung: FP ist immer &lt;= GP!\nDer freie Puffer kann nie größer als der Gesamtpuffer sein.\nVorgang auf dem kritischen Pfad: GP = FP = 0\n\n\nBeispiel für Netzplan, Schritt für Schritt: https://www.modu-learn.de/verstehen/management/netzplantechnik/"
-  },
-  {
-    "objectID": "06_Projektorganisation.html#netzplan-prüfungstipps",
-    "href": "06_Projektorganisation.html#netzplan-prüfungstipps",
-    "title": "Projektorganisation",
-    "section": "Netzplan: Prüfungstipps",
-    "text": "Netzplan: Prüfungstipps\n\nVorgehen für Netzplan-Aufgaben in der IHK-Prüfung:\n\nPlan abzeichnen, Dauern eintragen\nVorwärtsrechnung: FAZ und FEZ von links nach rechts - immer das Maximum der Vorgänger nehmen\nRückwärtsrechnung: SEZ und SAZ von rechts nach links - immer das Minimum der Nachfolger nehmen\nPuffer berechnen: GP = SAZ - FAZ\nKritischen Pfad markieren: Alle Vorgänge mit GP = 0\nKontrolle: Projektdauer ist der FEZ des letzten Knotens"
-  },
-  {
-    "objectID": "06_Projektorganisation.html#netzplan-typische-fallen",
-    "href": "06_Projektorganisation.html#netzplan-typische-fallen",
-    "title": "Projektorganisation",
-    "section": "Netzplan: Typische Fallen",
-    "text": "Netzplan: Typische Fallen\n\n\nVergessen, das Maximum bei mehreren Vorgängern zu nehmen (Vorwärtsrechnung)\nGP und FP verwechseln: GP bezieht sich auf Projektende, FP auf den Nachfolger\nDen kritischen Pfad nur am Anfang und Ende ablesen, statt alle Vorgänge mit GP = 0 zu prüfen\n\nNetzpläne üben: https://it-lernapp.de/courses/7 (kostenloses Login erstellen)\n\n\nQuelle: https://it-lernapp.de/courses/7"
-  },
-  {
-    "objectID": "06_Projektorganisation.html#projektmanagement-smart",
-    "href": "06_Projektorganisation.html#projektmanagement-smart",
-    "title": "Projektorganisation",
-    "section": "Projektmanagement: SMART",
-    "text": "Projektmanagement: SMART\n\nBeschreibe die fünf Punkte der SMART-Methode im Projektmanagement.\n\nS Spezifisch: Die Projektziele sind so konkret wie möglich zu formulieren.\nM Messbar: Die Projektziele müssen messbar sein.\nA Aktivierend / Attraktiv: Die Projektziele müssen Motivation zur Umsetzung geben.\nR Realistisch: Die Projektziele müssen innerhalb des gesetzten Zeitrahmens umsetzbar sein.\nT Terminiert: Die Projektziele müssen zeitlich bindend sein. Welche Aufgaben sind bis wann zu erledigen?\n\n\n\nLernkarte AP1 2025 Nr. 226"
-  },
-  {
-    "objectID": "06_Projektorganisation.html#section",
-    "href": "06_Projektorganisation.html#section",
-    "title": "Projektorganisation",
+    "objectID": "08_Qualitätssicherung.html#section",
+    "href": "08_Qualitätssicherung.html#section",
+    "title": "Qualitätssicherung",
     "section": "",
     "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!"
+  },
+  {
+    "objectID": "07a_Projektorga-Block1.html#was-ist-ein-projekt-merkmale",
+    "href": "07a_Projektorga-Block1.html#was-ist-ein-projekt-merkmale",
+    "title": "Projektorganisation",
+    "section": "Was ist ein Projekt? Merkmale",
+    "text": "Was ist ein Projekt? Merkmale\n\n\nEinmaligkeit: Ein Projekt wird in der Regel nur einmal ausgeführt und ist kein Prozess, der sich regelmäßig wiederholt.\nKlares Ziel: In jedem Projekt wird ein bestimmtes Ergebnis oder Ziel verfolgt.\nZeitliche Befristung: Projekte haben einen festgelegten Start- und Endzeitpunkt.\nInterdisziplinär: Eine Notwendigkeit ist oft die Zusammenarbeit mit verschiedenen Fachbereichen.\nRisikobehaftet: Projekte sind mit Unsicherheiten und Risiken verbunden.\nRahmenbedingungen: Ein Projekt hat begrenzte Ressourcen, wie Geld, Personal, Zeit und hat klare Abgrenzungen zu anderen Projekten.\n\n\n\nLernkarte AP1 2025 Nr. 1",
+    "crumbs": [
+      "05 Projektorganisation"
+    ]
+  },
+  {
+    "objectID": "07a_Projektorga-Block1.html#lastenheft",
+    "href": "07a_Projektorga-Block1.html#lastenheft",
+    "title": "Projektorganisation",
+    "section": "Lastenheft",
+    "text": "Lastenheft\n\n\nLastenheft: Anforderungs- oder Kundenspezifikation\nbeschreibt Gesamtheit der Anforderungen bzw. Spezifikationen des Auftraggebers an die Lieferungen und Leistungen seines Auftragnehmers\nenthält die an das zu entwickelnde Produkt gestellten funktionalen sowie nicht-funktionalen Anforderungen (Gesetze / Vorschriften)\ndient als Basis für die Ausschreibung sowie Vertragsgestaltung\ntypische Angaben: Lieferzeit, Lieferumfang, Kosten\nDas akzeptierte Lastenheft ist für beide Parteien rechtlich bindend.\n\n\n\nLernkarte AP1 2025 Nr. 149",
+    "crumbs": [
+      "05 Projektorganisation"
+    ]
+  },
+  {
+    "objectID": "07a_Projektorga-Block1.html#pflichtenheft",
+    "href": "07a_Projektorga-Block1.html#pflichtenheft",
+    "title": "Projektorganisation",
+    "section": "Pflichtenheft",
+    "text": "Pflichtenheft\n\n\nbeschreibt in detaillierter Form, wie der Auftragnehmer die Anforderungen des Auftraggebers umsetzen möchte\n“Wie und Womit” der Auftrag erfüllt werden soll\nInhalt des Pflichtenheftes für beide Parteien rechtlich bindend, solange nicht beide Parteien Änderungen / Ergänzungen zulassen\nUmsetzung durch Auftragnehmer beginnt erst, wenn Auftraggeber das Pflichtenheft akzeptiert!\nAgile Entwicklungsmodelle: Änderungen können in diesen Prozess einfließen\n\n\n\nLernkarte AP1 2025 Nr. 147",
+    "crumbs": [
+      "05 Projektorganisation"
+    ]
+  },
+  {
+    "objectID": "07a_Projektorga-Block1.html#projektmanagement-smart",
+    "href": "07a_Projektorga-Block1.html#projektmanagement-smart",
+    "title": "Projektorganisation",
+    "section": "Projektmanagement: SMART",
+    "text": "Projektmanagement: SMART\n\nBeschreibe die fünf Punkte der SMART-Methode im Projektmanagement.\n\nS Spezifisch: Die Projektziele sind so konkret wie möglich zu formulieren.\nM Messbar: Die Projektziele müssen messbar sein.\nA Aktivierend / Attraktiv: Die Projektziele müssen Motivation zur Umsetzung geben.\nR Realistisch: Die Projektziele müssen innerhalb des gesetzten Zeitrahmens umsetzbar sein.\nT Terminiert: Die Projektziele müssen zeitlich bindend sein. Welche Aufgaben sind bis wann zu erledigen?\n\n\n\nLernkarte AP1 2025 Nr. 226",
+    "crumbs": [
+      "05 Projektorganisation"
+    ]
+  },
+  {
+    "objectID": "07a_Projektorga-Block1.html#section",
+    "href": "07a_Projektorga-Block1.html#section",
+    "title": "Projektorganisation",
+    "section": "",
+    "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!",
+    "crumbs": [
+      "05 Projektorganisation"
+    ]
   },
   {
     "objectID": "05_Elektrik-Grundlagen.html#elektrische-größen-spannung",
@@ -306,64 +223,113 @@
     ]
   },
   {
-    "objectID": "02c_Software.html#ziele",
-    "href": "02c_Software.html#ziele",
+    "objectID": "02b_Software.html#ziele",
+    "href": "02b_Software.html#ziele",
     "title": "Marktgängige IT-Systeme: Software",
     "section": "Ziele",
     "text": "Ziele\nGrundlegende Software-Systeme kennen und beurteilen können\n\nUnternehmensanwendungen\nDatenhaltungssysteme\nKommunikationssysteme\nBIOS und UEFI\n\nGrundverständnis für Benutzeroberflächen"
   },
   {
-    "objectID": "02c_Software.html#unternehmensanwendungen-erp-system",
-    "href": "02c_Software.html#unternehmensanwendungen-erp-system",
+    "objectID": "02b_Software.html#unternehmensanwendungen-erp-system",
+    "href": "02b_Software.html#unternehmensanwendungen-erp-system",
     "title": "Marktgängige IT-Systeme: Software",
     "section": "Unternehmensanwendungen: ERP-System",
     "text": "Unternehmensanwendungen: ERP-System\n\nERP: Enterprise Resource Planning System\nUmfangreiches Werkzeug zur Unterstützung der Ressourcenplanung aller Prozesse eines Unternehmens, z. B. Produktion, Materialwirtschaft und Vertrieb.\nBeispiele\n\nSAP ERP / SAP S/4HANA: global führend; extrem umfangreich, modular, in großen Unternehmen Standard\nMicrosoft Dynamics 365 (ehemals NAV/AX): v. a. im Mittelstand; stark in Microsoft-Ökosystem integriert (Azure, Office, Power Platform)\nOracle ERP Cloud / Oracle NetSuite:: ERP für große Unternehmen, NetSuite für Mittelstand; stark in Finanzmodulen\nSage (Sage 100 / SageX3): beliebt bei KMU (Kleinen und Mittleren Unternehmen); Europa, v. a. DACH\nOdoo: Open Source, modular, flexibel, wächst; v. a. KMU und Startups\n\n\nWeitere: Infor ERP (Produktion, Logistik), IFS (Industrie, Service), Epicor (Fertigung, Supply Chain), Workday (HR), ProAlpha (deutsch, Mittelstand)\n\n\n\nKurz erwähnt auf Lernkarte AP1 2025 Nr. 110"
   },
   {
-    "objectID": "02c_Software.html#datenhaltungssysteme",
-    "href": "02c_Software.html#datenhaltungssysteme",
+    "objectID": "02b_Software.html#datenhaltungssysteme",
+    "href": "02b_Software.html#datenhaltungssysteme",
     "title": "Marktgängige IT-Systeme: Software",
     "section": "Datenhaltungssysteme",
     "text": "Datenhaltungssysteme\n\n\nRelationale Datenbanksysteme (RDBMS)\nSpeichern Daten in Tabellen, die durch Beziehungen miteinander verbunden sind\nBeispiele:\n\nMySQL: Open Source, populär\nOracle Database: leistungsfähig, oft in großen Unternehmen\nMicrosoft SQL Server: Integration mit MS-Produkten\n\n\nNoSQL Datenbanksysteme\n\nspeichern unstrukturierte / semi-strukturierte Daten\nskalierbarer, flexibler als relationale Datenbanken\n\nAnwendungsfelder:\n\nContent Management\nSoziale Netzwerke\n\nBeispiele:\n\nMongoDB: Dokumentorientiert\nCassandra: graphenorientiert"
   },
   {
-    "objectID": "02c_Software.html#datenhaltungssysteme-oodbms",
-    "href": "02c_Software.html#datenhaltungssysteme-oodbms",
+    "objectID": "02b_Software.html#datenhaltungssysteme-oodbms",
+    "href": "02b_Software.html#datenhaltungssysteme-oodbms",
     "title": "Marktgängige IT-Systeme: Software",
     "section": "Datenhaltungssysteme: OODBMS",
     "text": "Datenhaltungssysteme: OODBMS\n\nObjektorientierte Datenbank-Managementsysteme\n\nspeichern Daten direkt als Objekte\nObjekte bleiben als Ganzes erhalten, inkl. Attribute und Methoden\nAnwendungsbereiche: Simulationen, CAD/CAM, Telekommunikation, Echtzeit-Systeme\n\nBeispiele\n\n\ndb4o: Database for Objekts, direkt in Java und .NET integrierbar\nObjectDB: java-basiert, oft in Enterprise-Java-Projekten genutzt\nVersant Object Database: kommerziell, für große, komplexe Systeme\n\n\nAbgrenzung zu NoSQL: OODMBS speichern Methoden, unterstützen Vererbung, bieten vollständige Objekt-Persistenz"
   },
   {
-    "objectID": "02c_Software.html#kommunikationssysteme",
-    "href": "02c_Software.html#kommunikationssysteme",
-    "title": "Marktgängige IT-Systeme: Software",
-    "section": "Kommunikationssysteme",
-    "text": "Kommunikationssysteme"
-  },
-  {
-    "objectID": "02c_Software.html#benutzeroberflächen",
-    "href": "02c_Software.html#benutzeroberflächen",
-    "title": "Marktgängige IT-Systeme: Software",
-    "section": "Benutzeroberflächen",
-    "text": "Benutzeroberflächen"
-  },
-  {
-    "objectID": "02c_Software.html#bios-und-uefi",
-    "href": "02c_Software.html#bios-und-uefi",
+    "objectID": "02b_Software.html#bios-und-uefi",
+    "href": "02b_Software.html#bios-und-uefi",
     "title": "Marktgängige IT-Systeme: Software",
     "section": "BIOS und UEFI",
     "text": "BIOS und UEFI\nZum Starten eines PC-Systems setzte man lange Zeit auf das BIOS (Basic Input Output System). Der Nachfolger des lange bewährten BIOS ist das UEFI (Unified Extensible Firmware Interface).\nBitte vergleiche BIOS mit UEFI.\n\nLernkarte AP1 2025 Nr. 139"
   },
   {
-    "objectID": "02c_Software.html#bios-und-uefi-1",
-    "href": "02c_Software.html#bios-und-uefi-1",
+    "objectID": "02b_Software.html#bios-und-uefi-1",
+    "href": "02b_Software.html#bios-und-uefi-1",
     "title": "Marktgängige IT-Systeme: Software",
     "section": "BIOS und UEFI",
     "text": "BIOS und UEFI\n\n\nBIOS (Basic Input Output System)\n\nkeine Mausbedienung möglich\nkann nur vom Master-Boot-Record starten\nkann nur von Laufwerken bis 2 TB booten\n\n\nUEFI (Unified Extensible Firmware Interface)\n\nkann auch von Laufwerken mit 2,2 TB oder mehr booten\ngrafische Benutzeroberfläche mit Mausbedienung\nunterstützt 64-Bit-Prozessoren nativ ab Werk\nTreiber lassen sich als Modul nachladen\nnutzt GPT-Partitionierungsschema (GUID Partition Table)\nkann von VM-Container starten\n\n\n\nLernkarte AP1 2025 Nr. 139"
   },
   {
-    "objectID": "02c_Software.html#section",
-    "href": "02c_Software.html#section",
+    "objectID": "02b_Software.html#kommunikationssysteme",
+    "href": "02b_Software.html#kommunikationssysteme",
+    "title": "Marktgängige IT-Systeme: Software",
+    "section": "Kommunikationssysteme",
+    "text": "Kommunikationssysteme"
+  },
+  {
+    "objectID": "02b_Software.html#benutzeroberflächen",
+    "href": "02b_Software.html#benutzeroberflächen",
+    "title": "Marktgängige IT-Systeme: Software",
+    "section": "Benutzeroberflächen",
+    "text": "Benutzeroberflächen\nZiele\n\nUnterschiede zwischen Usability und UX (User Experience) kennen\nPrinzipien des nutzerzentrierten Designs anwenden können\nGestaltungsentscheidungen fuer Benutzeroberflächen begründen können\n\n\nQuelle: 3.4.14 Benutzeroberfläche https://github.com/KyokoSpl/IHK-pr-fung-lernmaterial"
+  },
+  {
+    "objectID": "02b_Software.html#usability-vs.-user-experience-ux",
+    "href": "02b_Software.html#usability-vs.-user-experience-ux",
+    "title": "Marktgängige IT-Systeme: Software",
+    "section": "Usability vs. User Experience (UX)",
+    "text": "Usability vs. User Experience (UX)\n\n\n\n\n\n\n\n\n\nAspekt\nUsability\nUser Experience (UX)\n\n\n\n\nDefinition\nGebrauchstauglichkeit (ISO 9241-11)\nGesamterlebnis des Benutzers\n\n\nFokus\nAufgabe effektiv, effizient, zufrieden erledigen\nEmotionen, Erwartungen, Ästhetik\n\n\nUmfang\nTeilaspekt von UX\nUmfasst Usability + Gesamteindruck\n\n\nMessbar durch\nAufgabenerfüllung, Fehlerquote, Zeit\nBefragung, Emotionsmessung, Net Promoter Score\n\n\nBeispiel\n“Ich konnte die Bestellung in 3 Klicks aufgeben”\n“Die App fühlt sich modern an und macht Spaß”\n\n\n\n\nMerke: Gute UX setzt gute Usability voraus, aber gute Usability allein reicht fuer gute UX nicht aus."
+  },
+  {
+    "objectID": "02b_Software.html#user-centered-design-ucd-nutzerzentrierter-entwurf",
+    "href": "02b_Software.html#user-centered-design-ucd-nutzerzentrierter-entwurf",
+    "title": "Marktgängige IT-Systeme: Software",
+    "section": "User-Centered Design (UCD) – Nutzerzentrierter Entwurf",
+    "text": "User-Centered Design (UCD) – Nutzerzentrierter Entwurf\n\nDefinition: Ein Designprozess, bei dem die Bedürfnisse, Wünsche und Einschränkungen der Benutzer in jeder Phase berücksichtigt werden.\nAblauf (nach DIN EN ISO 9241-210):\n+---------------------+      +---------------------+\n| 1. Nutzungskontext  |  -&gt;  |  2. Anforderungen   |\n|    verstehen        |      |    spezifizieren    |\n+--------+------------+      +--------+------------+\n                                      |\n                                      v\n                             +--------+------------+\n                             | 3. Gestaltungs-     |\n                    +-------&gt;|    lösungen         | \n                    |        |    entwerfen        |\n                    |        +--------+------------+\n                    |                     |\n                    |                     v\n                    |         +--------+-----------+\n                    +--------| 4. Evaluation       |\n                    Iteration|    (Testen mit      | \n                             |     Benutzern)      |\n                             +---------------------+"
+  },
+  {
+    "objectID": "02b_Software.html#user-centered-design-ucd",
+    "href": "02b_Software.html#user-centered-design-ucd",
+    "title": "Marktgängige IT-Systeme: Software",
+    "section": "User-Centered Design (UCD)",
+    "text": "User-Centered Design (UCD)\nPhasen im Detail\n\nNutzungskontext verstehen: Wer sind die Benutzer? Welche Aufgaben erledigen sie? In welcher Umgebung?\nAnforderungen spezifizieren: Welche Funktionen benoetigen die Benutzer? Welche Einschränkungen gibt es?\nGestaltungsloesungen entwerfen: Wireframes, Mockups, Prototypen erstellen\nEvaluation: Testen mit echten Benutzern, Ergebnisse auswerten, zurück zu Schritt 3\n\nHeuristische Evaluation nach Nielsen\n\nJakob Nielsen definierte 10 Usability-Heuristiken zur Bewertung von Benutzeroberflaechen:\n\n\n\n\n\n\n\n\nNr.\nHeuristik\nErklaerung\n\n\n\n\n1\nSichtbarkeit des Systemstatus\nSystem informiert über aktuellen Zustand (z.B. Ladebalken)\n\n\n2\nÜbereinstimmung System / reale Welt\nBegriffe und Symbole aus der Nutzerwelt verwenden\n\n\n3\nNutzerkontrolle und Freiheit\nUndo / Redo, Abbrechen-Button\n\n\n4\nKonsistenz und Standards\nEinheitliche Begriffe und Layouts\n\n\n5\nFehlervermeidung\nValidierung vor Absenden, Bestätigungsdialoge\n\n\n6\nErkennen statt Erinnern\nSichtbare Optionen statt versteckter Befehle\n\n\n7\nFlexibilität und Effizienz\nShortcuts für Experten, Standard für Einsteiger\n\n\n8\nÄsthetisches und minimalistisches Design\nNur relevante Informationen anzeigen\n\n\n9\nFehler erkennen und beheben\nKlare Fehlermeldungen mit Lösungsvorschlag\n\n\n10\nHilfe und Dokumentation\nKontextsensitive Hilfe, FAQ, Suchfunktion"
+  },
+  {
+    "objectID": "02b_Software.html#responsive-design-techniken",
+    "href": "02b_Software.html#responsive-design-techniken",
+    "title": "Marktgängige IT-Systeme: Software",
+    "section": "Responsive Design: Techniken",
+    "text": "Responsive Design: Techniken\n\nDefinition: Webdesign, bei dem sich das Layout automatisch an verschiedene Bildschirmgrößen anpasst (Desktop, Tablet, Smartphone).\nTechniken:\n\n\n\nTechnik\nBeschreibung\n\n\n\n\nMedia Queries\nCSS-Regeln für verschiedene Bildschirmbreiten\n\n\nFlexibles Grid\nSpalten passen sich prozentual an\n\n\nFlexible Bilder\nBilder skalieren mit max-width: 100%\n\n\nMobile First\nDesign beginnt mit der kleinsten Ansicht\n\n\nBreakpoints\nDefinierte Punkte, an denen das Layout wechselt"
+  },
+  {
+    "objectID": "02b_Software.html#responsive-design-breakpoints",
+    "href": "02b_Software.html#responsive-design-breakpoints",
+    "title": "Marktgängige IT-Systeme: Software",
+    "section": "Responsive Design: Breakpoints",
+    "text": "Responsive Design: Breakpoints\nTypische Breakpoints:\nSmartphone:  &lt; 576px   (1 Spalte)\nTablet:      576-992px (2 Spalten)\nDesktop:     &gt; 992px   (3+ Spalten)\nGestaltungsgesetze (Gestaltpsychologie)\n\n\n\n\n\n\n\n\n\nGesetz\nBedeutung\nBeispiel\n\n\n\n\nNähe\nElemente nah beieinander werden als zusammengehörig wahrgenommen\nFormularfeld + Label\n\n\nÄhnlichkeit\nGleichartige Elemente werden als Gruppe wahrgenommen\nGleiche Farbe für Aktions-Buttons\n\n\nGeschlossenheit\nUnvollständige Formen werden im Kopf ergänzt\nLogo mit Lücken\n\n\nKontinuität\nDas Auge folgt Linien und Kurven\nNavigation in einer Reihe"
+  },
+  {
+    "objectID": "02b_Software.html#ux-evaluationsmethoden",
+    "href": "02b_Software.html#ux-evaluationsmethoden",
+    "title": "Marktgängige IT-Systeme: Software",
+    "section": "UX: Evaluationsmethoden",
+    "text": "UX: Evaluationsmethoden\n\n\n\n\n\n\n\n\n\n\nMethode\nDurchfuehrung\nAufwand\nErgebnis\n\n\n\n\nHeuristische Evaluation\nExperten prüfen anhand Heuristiken\nMittel\nListe von Usability-Problemen\n\n\nUsability-Test\n5-8 Benutzer führen Aufgaben aus\nHoch\nKonkrete Nutzungsprobleme\n\n\nA/B-Test\nZwei Varianten werden verglichen\nMittel\nStatistisch bessere Variante\n\n\nEye-Tracking\nBlickbewegungen werden aufgezeichnet\nSehr hoch\nVisuelle Aufmerksamkeitsmuster"
+  },
+  {
+    "objectID": "02b_Software.html#ux-häufige-fehler",
+    "href": "02b_Software.html#ux-häufige-fehler",
+    "title": "Marktgängige IT-Systeme: Software",
+    "section": "UX: Häufige Fehler",
+    "text": "UX: Häufige Fehler\n\n\nUX wird auf “schön aussehen” reduziert → UX umfasst das gesamte Nutzungserlebnis\nResponsive Design wird mit “mobilfreundlich” gleichgesetzt → es umfasst ALLE Bildschirmgrößen\nHeuristische Evaluation wird mit Usability-Test verwechselt: Heuristik = Experten, Usability-Test = echte Benutzer\nGestaltungsgesetze werden ignoriert → fuehrt zu unübersichtlichen Oberflächen"
+  },
+  {
+    "objectID": "02b_Software.html#section",
+    "href": "02b_Software.html#section",
     "title": "Marktgängige IT-Systeme: Software",
     "section": "",
     "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!"
@@ -959,54 +925,179 @@
     ]
   },
   {
-    "objectID": "06a_Projektorga-Block1.html#was-ist-ein-projekt-merkmale",
-    "href": "06a_Projektorga-Block1.html#was-ist-ein-projekt-merkmale",
+    "objectID": "06_Lizenzmanagement.html#lizenzarten",
+    "href": "06_Lizenzmanagement.html#lizenzarten",
+    "title": "Hardware-, Software- und Lizenzmanagement",
+    "section": "Lizenzarten",
+    "text": "Lizenzarten"
+  },
+  {
+    "objectID": "06_Lizenzmanagement.html#saas-iaas-paas",
+    "href": "06_Lizenzmanagement.html#saas-iaas-paas",
+    "title": "Hardware-, Software- und Lizenzmanagement",
+    "section": "SaaS, IaaS, PaaS",
+    "text": "SaaS, IaaS, PaaS"
+  },
+  {
+    "objectID": "06_Lizenzmanagement.html#section",
+    "href": "06_Lizenzmanagement.html#section",
+    "title": "Hardware-, Software- und Lizenzmanagement",
+    "section": "",
+    "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!"
+  },
+  {
+    "objectID": "07_Projektorganisation.html#was-ist-ein-projekt-merkmale",
+    "href": "07_Projektorganisation.html#was-ist-ein-projekt-merkmale",
     "title": "Projektorganisation",
     "section": "Was ist ein Projekt? Merkmale",
-    "text": "Was ist ein Projekt? Merkmale\n\n\nEinmaligkeit: Ein Projekt wird in der Regel nur einmal ausgeführt und ist kein Prozess, der sich regelmäßig wiederholt.\nKlares Ziel: In jedem Projekt wird ein bestimmtes Ergebnis oder Ziel verfolgt.\nZeitliche Befristung: Projekte haben einen festgelegten Start- und Endzeitpunkt.\nInterdisziplinär: Eine Notwendigkeit ist oft die Zusammenarbeit mit verschiedenen Fachbereichen.\nRisikobehaftet: Projekte sind mit Unsicherheiten und Risiken verbunden.\nRahmenbedingungen: Ein Projekt hat begrenzte Ressourcen, wie Geld, Personal, Zeit und hat klare Abgrenzungen zu anderen Projekten.\n\n\n\nLernkarte AP1 2025 Nr. 1",
-    "crumbs": [
-      "05 Projektorganisation"
-    ]
+    "text": "Was ist ein Projekt? Merkmale\n\n\nEinmaligkeit: Ein Projekt wird in der Regel nur einmal ausgeführt und ist kein Prozess, der sich regelmäßig wiederholt.\nKlares Ziel: In jedem Projekt wird ein bestimmtes Ergebnis oder Ziel verfolgt.\nZeitliche Befristung: Projekte haben einen festgelegten Start- und Endzeitpunkt.\nInterdisziplinär: Eine Notwendigkeit ist oft die Zusammenarbeit mit verschiedenen Fachbereichen.\nRisikobehaftet: Projekte sind mit Unsicherheiten und Risiken verbunden.\nRahmenbedingungen: Ein Projekt hat begrenzte Ressourcen, wie Geld, Personal, Zeit und hat klare Abgrenzungen zu anderen Projekten.\n\n\n\nLernkarte AP1 2025 Nr. 1"
   },
   {
-    "objectID": "06a_Projektorga-Block1.html#lastenheft",
-    "href": "06a_Projektorga-Block1.html#lastenheft",
+    "objectID": "07_Projektorganisation.html#lastenheft",
+    "href": "07_Projektorganisation.html#lastenheft",
     "title": "Projektorganisation",
     "section": "Lastenheft",
-    "text": "Lastenheft\n\n\nLastenheft: Anforderungs- oder Kundenspezifikation\nbeschreibt Gesamtheit der Anforderungen bzw. Spezifikationen des Auftraggebers an die Lieferungen und Leistungen seines Auftragnehmers\nenthält die an das zu entwickelnde Produkt gestellten funktionalen sowie nicht-funktionalen Anforderungen (Gesetze / Vorschriften)\ndient als Basis für die Ausschreibung sowie Vertragsgestaltung\ntypische Angaben: Lieferzeit, Lieferumfang, Kosten\nDas akzeptierte Lastenheft ist für beide Parteien rechtlich bindend.\n\n\n\nLernkarte AP1 2025 Nr. 149",
-    "crumbs": [
-      "05 Projektorganisation"
-    ]
+    "text": "Lastenheft\n\n\nLastenheft: Anforderungs- oder Kundenspezifikation\nbeschreibt Gesamtheit der Anforderungen bzw. Spezifikationen des Auftraggebers an die Lieferungen und Leistungen seines Auftragnehmers\nenthält die an das zu entwickelnde Produkt gestellten funktionalen sowie nicht-funktionalen Anforderungen (Gesetze / Vorschriften)\ndient als Basis für die Ausschreibung sowie Vertragsgestaltung\ntypische Angaben: Lieferzeit, Lieferumfang, Kosten\nDas akzeptierte Lastenheft ist für beide Parteien rechtlich bindend.\n\n\n\nLernkarte AP1 2025 Nr. 149"
   },
   {
-    "objectID": "06a_Projektorga-Block1.html#pflichtenheft",
-    "href": "06a_Projektorga-Block1.html#pflichtenheft",
+    "objectID": "07_Projektorganisation.html#pflichtenheft",
+    "href": "07_Projektorganisation.html#pflichtenheft",
     "title": "Projektorganisation",
     "section": "Pflichtenheft",
-    "text": "Pflichtenheft\n\n\nbeschreibt in detaillierter Form, wie der Auftragnehmer die Anforderungen des Auftraggebers umsetzen möchte\n“Wie und Womit” der Auftrag erfüllt werden soll\nInhalt des Pflichtenheftes für beide Parteien rechtlich bindend, solange nicht beide Parteien Änderungen / Ergänzungen zulassen\nUmsetzung durch Auftragnehmer beginnt erst, wenn Auftraggeber das Pflichtenheft akzeptiert!\nAgile Entwicklungsmodelle: Änderungen können in diesen Prozess einfließen\n\n\n\nLernkarte AP1 2025 Nr. 147",
-    "crumbs": [
-      "05 Projektorganisation"
-    ]
+    "text": "Pflichtenheft\n\n\nbeschreibt in detaillierter Form, wie der Auftragnehmer die Anforderungen des Auftraggebers umsetzen möchte\n“Wie und Womit” der Auftrag erfüllt werden soll\nInhalt des Pflichtenheftes für beide Parteien rechtlich bindend, solange nicht beide Parteien Änderungen / Ergänzungen zulassen\nUmsetzung durch Auftragnehmer beginnt erst, wenn Auftraggeber das Pflichtenheft akzeptiert!\nAgile Entwicklungsmodelle: Änderungen können in diesen Prozess einfließen\n\n\n\nLernkarte AP1 2025 Nr. 147"
   },
   {
-    "objectID": "06a_Projektorga-Block1.html#projektmanagement-smart",
-    "href": "06a_Projektorga-Block1.html#projektmanagement-smart",
+    "objectID": "07_Projektorganisation.html#projektstrukturplan",
+    "href": "07_Projektorganisation.html#projektstrukturplan",
+    "title": "Projektorganisation",
+    "section": "Projektstrukturplan",
+    "text": "Projektstrukturplan\n\n\n\nWerkzeug zur Projektleitung\nengl. Work Break Down Structure\ndeutsch auch Arbeitsstrukturplan\nenthält gesamten Leistungsumfang\nhierarchisch aufgebaut\n\n\n\n\n\noberste Hierarchiestufe: Projekt als Ganzes\nzweite Ebene: Teilprojekte / Teilaufgaben\ndritte Ebene: Arbeitspakete (AP)"
+  },
+  {
+    "objectID": "07_Projektorganisation.html#projektstrukturplan-top-down",
+    "href": "07_Projektorganisation.html#projektstrukturplan-top-down",
+    "title": "Projektorganisation",
+    "section": "Projektstrukturplan: Top-Down",
+    "text": "Projektstrukturplan: Top-Down\n\n\nZiel Top-Down-Ansatz: Weg vom Ganzen zum Detail\ndazu Zerlegung des Gesamtprojekts in mehrere Teilaufgaben\nSchritte zur Erreichung dieses Ziels:\n\nBenennung des Gesamtprojekts\nZerlegung des Gesamtprojekts in Arbeitspakete oder Teilaufgaben\nBenennung der Teilaufgaben\nweitere Zerlegung in Teilschritte, bis Arbeitspakete vorliegen\n\nWann ist Top-Down-Ansatz geeignet?\n\nwenn bereits Erfahrungen mit ähnlichen Projekten vorliegen\nwenn Inhalte des zu planenden Projekts aus vorherigen Projekten bekannt sind\n\n\n\n\nLernkarte AP1 2025 Nr. 5"
+  },
+  {
+    "objectID": "07_Projektorganisation.html#projektstrukturplan-bottom-up",
+    "href": "07_Projektorganisation.html#projektstrukturplan-bottom-up",
+    "title": "Projektorganisation",
+    "section": "Projektstrukturplan: Bottom-Up",
+    "text": "Projektstrukturplan: Bottom-Up\n\n\nZiel Bottom-up-Ansatz: Weg vom Detail zum Ganzen\nGrundidee: abgegrenzte, detaillierte Teilprobleme lösen -&gt; dann damit größere, darüber liegende Probleme lösen\nkommt bei innovativen Lösungen zum Einsatz\nVorgehen:\n\nFestlegung der auszuführenden Aufgaben\nKlärung der Beziehungen der Teilaufgaben in der Baumstruktur\nErrichtung einer Baumstruktur, um Aufbau und Zusammensetzung zu erkennen\nÜberprüfung auf Vollständigkeit und Einmaligkeit aller Teilaufgaben\n\n\n\n\nLernkarte AP1 2025 Nr. 6"
+  },
+  {
+    "objectID": "07_Projektorganisation.html#gantt-diagramm",
+    "href": "07_Projektorganisation.html#gantt-diagramm",
+    "title": "Projektorganisation",
+    "section": "Gantt-Diagramm",
+    "text": "Gantt-Diagramm\n\n\n\n\n\n%%{init: {'themeVariables': { 'fontSize': '18px' }}}%%\ngantt\n    title Einfaches Gantt-Diagramm\n    dateFormat  YYYY-MM-DD\n    axisFormat  %d.%m.\n\n    section Planung\n    Konzeptphase        :done,    des1, 2024-01-01, 2024-01-10\n    Design              :active,  des2, 2024-01-11, 2024-01-20\n\n    section Umsetzung\n    Entwicklung         :crit,    dev1, 2024-01-21, 2024-02-15\n    Tests               :         dev2, 2024-02-11, 2024-02-20\n\n\n\n\n\n\n\n\n\nBalkendiagramm zur Terminplanung\nstellt zeitliche Abfolge von Aktivitäten grafisch als Balken auf einer Zeitachse dar\nerste Spalte enthält Aktivitäten\nerste oder letzte Zeile stellt Zeitachse dar\nAktivitäten können sich überschneiden (siehe Entwicklung und Tests)"
+  },
+  {
+    "objectID": "07_Projektorganisation.html#gantt-diagramm-detaillierter",
+    "href": "07_Projektorganisation.html#gantt-diagramm-detaillierter",
+    "title": "Projektorganisation",
+    "section": "Gantt-Diagramm detaillierter",
+    "text": "Gantt-Diagramm detaillierter\n\n\nzeigt alle Aktivitäten eines Projektes mit Hilfe einer Zeitachse\nZeitachse horizontal in erster (letzter) Zeile des Diagramms\nAktivitäten in Zeilen der ersten Spalte benannt, zeitlich mit waagerechtem Balken dargestellt\nLänge des Balkens zeigt Dauer, Beginn und Ende der Aktivität\nüberlappende Balken bedeuten sich überschneidende Aktivitäten\nVisualisierung des kritischen Pfades ist möglich [aber im Netzplan einfacher zu erkennen]\nPfeile können Abhängigkeiten zwischen Aktivitäten verdeutlichen\nVorteil: sehr übersichtlich für kleine und mittlere Projekte\nNachteil: bei großer Anzahl Aktivitäten wird die Darstellung schnell unübersichtlich\n\n\n\nLernkarte AP1 2025 Nr. 4"
+  },
+  {
+    "objectID": "07_Projektorganisation.html#gantt-diagramm-mermaid",
+    "href": "07_Projektorganisation.html#gantt-diagramm-mermaid",
+    "title": "Projektorganisation",
+    "section": "Gantt-Diagramm: Mermaid",
+    "text": "Gantt-Diagramm: Mermaid\n\n\n\nMermaid (“Meerjungfrau”) ist eine vereinfachte Auszeichnungssprache und ein JavaScript-basiertes Open Source-Tool zur Diagrammerstellung\ninspiriert von Markdown\nkann mit einem Renderer komplexe Diagramme erstellen und verändern\n\n\ngantt\n    title Einfaches Gantt-Diagramm\n    dateFormat  YYYY-MM-DD\n    axisFormat  %d.%m.\n\n    section Planung\n    Konzeptphase    :done,    des1, 2024-01-01, 2024-01-10\n    Design          :active,  des2, 2024-01-11, 2024-01-20\n\n    section Umsetzung\n    Entwicklung     :crit,    dev1, 2024-01-21, 2024-02-15\n    Tests           :         dev2, 2024-02-11, 2024-02-20\n\n\n\n\n\n\n%%{init: {'themeVariables': { 'fontSize': '18px' }}}%%\ngantt\n    title Einfaches Gantt-Diagramm\n    dateFormat  YYYY-MM-DD\n    axisFormat  %d.%m.\n\n    section Planung\n    Konzeptphase       :done,   des1, 2024-01-01, 2024-01-10\n    Design             :active, des2, 2024-01-11, 2024-01-20\n\n    section Umsetzung\n    Entwicklung        :crit,   dev1, 2024-01-21, 2024-02-15\n    Tests              :        dev2, 2024-02-11, 2024-02-20"
+  },
+  {
+    "objectID": "07_Projektorganisation.html#netzplan",
+    "href": "07_Projektorganisation.html#netzplan",
+    "title": "Projektorganisation",
+    "section": "Netzplan",
+    "text": "Netzplan\n\n\n\n\n\nFAZ frühester Anfangszeitpunkt\nFEZ frühester Endzeitpunkt\nSAZ spätestens Anfangszeitpunkt\nSEZ spätester Endzeitpunkt\nD Dauer\nGP Gesamtpuffer\nFP freier Puffer\n\n\n\n\nhilft bei Terminplanung von Projekten\nstellt Dauer von Vorgängen im Gesamtprojekt grafisch dar\nRechtecke für zeitliche Anordnung und logische Abhängigkeiten zwischen Vorgängen\nVerbindung der Vorgänge als Pfad mit Pfeilen\nKritische Pfade und Pufferzeiten der einzelnen Vorgänge sowie Gesamtpufferzeiten sind jeweils gekennzeichnet\n\n\nLernkarte AP1 2025 Nr. 3"
+  },
+  {
+    "objectID": "07_Projektorganisation.html#netzplan-aufbau-eines-knotens",
+    "href": "07_Projektorganisation.html#netzplan-aufbau-eines-knotens",
+    "title": "Projektorganisation",
+    "section": "Netzplan: Aufbau eines Knotens",
+    "text": "Netzplan: Aufbau eines Knotens\n\n\n\n\n\n\n\n\n\n\nAbkürzung\nName\nErklärung\nBerechnung\n\n\n\n\nFAZ\nFrühester Anfangszeitpunkt\nWann kann die Aufgabe frühestens starten?\nMaximum der FEZ aller Vorgänger\n\n\nFEZ\nFrühester Endzeitpunkt\nWann ist die Aufgabe frühestens fertig?\nFAZ + Dauer\n\n\nSAZ\nSpätester Anfangszeitpunkt\nWann muss die Aufgabe spätestens starten?\nSEZ - Dauer\n\n\nSEZ\nSpätester Endzeitpunkt\nWann muss die Aufgabe spätestens fertig sein?\nMinimum der SAZ aller Nachfolger\n\n\nGP\nGesamtpuffer\nWie viel Verzögerung ist möglich, ohne das Projektende zu gefährden?\nSAZ - FAZ oder SEZ - FEZ\n\n\nFP\nFreier Puffer\nWie viel Verzögerung ist möglich, ohne den Nachfolger zu gefährden?\nFAZ(Nachfolger) - FEZ(Vorgang)\n\n\nD\nDauer\nWie lange dauert die Aufgabe?\nVorgegeben\n\n\n\n\n\nQuelle: https://it-lernapp.de/courses/7"
+  },
+  {
+    "objectID": "07_Projektorganisation.html#netzplan-beispiel",
+    "href": "07_Projektorganisation.html#netzplan-beispiel",
+    "title": "Projektorganisation",
+    "section": "Netzplan: Beispiel",
+    "text": "Netzplan: Beispiel\n\n\n\nQuelle: https://t2informatik.de/wissen-kompakt/netzplan/"
+  },
+  {
+    "objectID": "07_Projektorganisation.html#netzplan-kritischer-pfad",
+    "href": "07_Projektorganisation.html#netzplan-kritischer-pfad",
+    "title": "Projektorganisation",
+    "section": "Netzplan: Kritischer Pfad",
+    "text": "Netzplan: Kritischer Pfad\n\n\nDer Kritische Pfad (=kritischer Weg) ist der Weg von Anfang bis Ende aller Aktivitäten eines Netzplans, auf dem die Summe aller Pufferzeit (minimal oder) Null wird.\nDie Gesamtprojektdauer wird somit durch den kritischen Pfad bestimmt.\nDIN 69900:2009-01 Projektmanagement - Netzplantechnik\nEinzelne Aktivitäten innerhalb des Projekts können im Rahmen ihrer Pufferzeit zeitlich verschoben oder verlängert werden, ohne dabei die Gesamtprojektdauer zu gefährden.\nMerke: Beim kritischen Pfad ist der Gesamtpuffer gleich Null.\n\n\n\nLernkarte AP1 2025 Nr. 8\nhttps://it-lernapp.de/courses/7\nAP1 Frühjahr 2025 S. 8 Vorwärtsberechnung, Rückwärtsberechnung ist drin!"
+  },
+  {
+    "objectID": "07_Projektorganisation.html#netzplan-kritischer-pfad-1",
+    "href": "07_Projektorganisation.html#netzplan-kritischer-pfad-1",
+    "title": "Projektorganisation",
+    "section": "Netzplan: Kritischer Pfad",
+    "text": "Netzplan: Kritischer Pfad\n\n\nBestimmt die Mindestprojektdauer\nAlle Vorgänge auf dem kritischen Pfad haben GP = 0 (Gesamtpuffer = 0)\nEine Verzögerung eines einzigen kritischen Vorgangs verzögert das gesamte Projekt\nEs gibt mindestens einen kritischen Pfad - manchmal auch mehrere\n\n\n\nQuelle: https://it-lernapp.de/courses/7"
+  },
+  {
+    "objectID": "07_Projektorganisation.html#netzplan-berechnen",
+    "href": "07_Projektorganisation.html#netzplan-berechnen",
+    "title": "Projektorganisation",
+    "section": "Netzplan berechnen",
+    "text": "Netzplan berechnen\n\nGegeben sind nur die Vorgangsnummern und die Dauer.\nAufgabe: FAZ, SAZ, FEZ, SEZ sowie GP und FP berechnen."
+  },
+  {
+    "objectID": "07_Projektorganisation.html#netzplan-vorwärtsrechnung---faz-fez",
+    "href": "07_Projektorganisation.html#netzplan-vorwärtsrechnung---faz-fez",
+    "title": "Projektorganisation",
+    "section": "Netzplan: Vorwärtsrechnung - FAZ, FEZ",
+    "text": "Netzplan: Vorwärtsrechnung - FAZ, FEZ\n\n\nPhase 1: FAZ und FEZ berechnen\nVorgehen: von links nach rechts\nStartknoten: FAZ = 0, FEZ = 0 + Dauer\nJeder weitere Knoten: FAZ = Maximum aller FEZ der Vorgänger\nFEZ = FAZ + Dauer\nWarum Maximum?\nWenn Aufgabe zwei Vorgänger hat, kann sie erst starten, wenn beide fertig sind. -&gt; Späteren Zeitpunkt auswählen"
+  },
+  {
+    "objectID": "07_Projektorganisation.html#netzplan-rückwärtsrechnung---saz-sez",
+    "href": "07_Projektorganisation.html#netzplan-rückwärtsrechnung---saz-sez",
+    "title": "Projektorganisation",
+    "section": "Netzplan: Rückwärtsrechnung - SAZ, SEZ",
+    "text": "Netzplan: Rückwärtsrechnung - SAZ, SEZ\n\n\nPhase 2: SAZ und SEZ berechnen\nVorgehen: von rechts nach links, zurück\nEndknoten: SEZ = FEZ, SAZ = SEZ - Dauer\nJeder weitere Knoten: SEZ = Minimum aller SAZ der Nachfolger\nSAZ = SEZ - Dauer\nWarum Minimum?\nWenn Aufgabe mehrere Nachfolger hat, muss sie so früh fertig sein, dass der früheste Nachfolger noch pünktlich starten kann."
+  },
+  {
+    "objectID": "07_Projektorganisation.html#netzplan-puffer-berechnen",
+    "href": "07_Projektorganisation.html#netzplan-puffer-berechnen",
+    "title": "Projektorganisation",
+    "section": "Netzplan: Puffer berechnen",
+    "text": "Netzplan: Puffer berechnen\n\nGesamtpuffer (GP) = SAZ - FAZ = SEZ - FEZ\nFreier Puffer (FP) = FAZ(Nachfolger) - FEZ(Vorgang)\n\n\nAchtung: FP ist immer &lt;= GP!\nDer freie Puffer kann nie größer als der Gesamtpuffer sein.\nVorgang auf dem kritischen Pfad: GP = FP = 0\n\n\nBeispiel für Netzplan, Schritt für Schritt: https://www.modu-learn.de/verstehen/management/netzplantechnik/"
+  },
+  {
+    "objectID": "07_Projektorganisation.html#netzplan-prüfungstipps",
+    "href": "07_Projektorganisation.html#netzplan-prüfungstipps",
+    "title": "Projektorganisation",
+    "section": "Netzplan: Prüfungstipps",
+    "text": "Netzplan: Prüfungstipps\n\nVorgehen für Netzplan-Aufgaben in der IHK-Prüfung:\n\nPlan abzeichnen, Dauern eintragen\nVorwärtsrechnung: FAZ und FEZ von links nach rechts - immer das Maximum der Vorgänger nehmen\nRückwärtsrechnung: SEZ und SAZ von rechts nach links - immer das Minimum der Nachfolger nehmen\nPuffer berechnen: GP = SAZ - FAZ\nKritischen Pfad markieren: Alle Vorgänge mit GP = 0\nKontrolle: Projektdauer ist der FEZ des letzten Knotens"
+  },
+  {
+    "objectID": "07_Projektorganisation.html#netzplan-typische-fallen",
+    "href": "07_Projektorganisation.html#netzplan-typische-fallen",
+    "title": "Projektorganisation",
+    "section": "Netzplan: Typische Fallen",
+    "text": "Netzplan: Typische Fallen\n\n\nVergessen, das Maximum bei mehreren Vorgängern zu nehmen (Vorwärtsrechnung)\nGP und FP verwechseln: GP bezieht sich auf Projektende, FP auf den Nachfolger\nDen kritischen Pfad nur am Anfang und Ende ablesen, statt alle Vorgänge mit GP = 0 zu prüfen\n\nNetzpläne üben: https://it-lernapp.de/courses/7 (kostenloses Login erstellen)\n\n\nQuelle: https://it-lernapp.de/courses/7"
+  },
+  {
+    "objectID": "07_Projektorganisation.html#projektmanagement-smart",
+    "href": "07_Projektorganisation.html#projektmanagement-smart",
     "title": "Projektorganisation",
     "section": "Projektmanagement: SMART",
-    "text": "Projektmanagement: SMART\n\nBeschreibe die fünf Punkte der SMART-Methode im Projektmanagement.\n\nS Spezifisch: Die Projektziele sind so konkret wie möglich zu formulieren.\nM Messbar: Die Projektziele müssen messbar sein.\nA Aktivierend / Attraktiv: Die Projektziele müssen Motivation zur Umsetzung geben.\nR Realistisch: Die Projektziele müssen innerhalb des gesetzten Zeitrahmens umsetzbar sein.\nT Terminiert: Die Projektziele müssen zeitlich bindend sein. Welche Aufgaben sind bis wann zu erledigen?\n\n\n\nLernkarte AP1 2025 Nr. 226",
-    "crumbs": [
-      "05 Projektorganisation"
-    ]
+    "text": "Projektmanagement: SMART\n\nBeschreibe die fünf Punkte der SMART-Methode im Projektmanagement.\n\nS Spezifisch: Die Projektziele sind so konkret wie möglich zu formulieren.\nM Messbar: Die Projektziele müssen messbar sein.\nA Aktivierend / Attraktiv: Die Projektziele müssen Motivation zur Umsetzung geben.\nR Realistisch: Die Projektziele müssen innerhalb des gesetzten Zeitrahmens umsetzbar sein.\nT Terminiert: Die Projektziele müssen zeitlich bindend sein. Welche Aufgaben sind bis wann zu erledigen?\n\n\n\nLernkarte AP1 2025 Nr. 226"
   },
   {
-    "objectID": "06a_Projektorga-Block1.html#section",
-    "href": "06a_Projektorga-Block1.html#section",
+    "objectID": "07_Projektorganisation.html#section",
+    "href": "07_Projektorganisation.html#section",
     "title": "Projektorganisation",
     "section": "",
-    "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!",
-    "crumbs": [
-      "05 Projektorganisation"
-    ]
+    "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!"
   },
   {
     "objectID": "index.html",

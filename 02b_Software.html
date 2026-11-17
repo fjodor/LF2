@@ -1153,12 +1153,6 @@ display:block!important;
 <p>Abgrenzung zu NoSQL: OODMBS speichern Methoden, unterstützen Vererbung, bieten vollständige Objekt-Persistenz</p>
 </section>
 </section>
-<section id="kommunikationssysteme" class="slide level2">
-<h2>Kommunikationssysteme</h2>
-</section>
-<section id="benutzeroberflächen" class="slide level2">
-<h2>Benutzeroberflächen</h2>
-</section>
 <section id="bios-und-uefi" class="slide level2">
 <h2>BIOS und UEFI</h2>
 <p>Zum Starten eines PC-Systems setzte man lange Zeit auf das <strong>BIOS</strong> <em>(Basic Input Output System)</em>. Der Nachfolger des lange bewährten BIOS ist das <strong>UEFI</strong> <em>(Unified Extensible Firmware Interface)</em>.</p>
@@ -1211,6 +1205,326 @@ width: 1px!important;
 overflow: hidden!important;
 display:block!important;
 }</style></aside>
+</section>
+<section id="kommunikationssysteme" class="slide level2 notes">
+<h2>Kommunikationssysteme</h2>
+</section>
+<section id="benutzeroberflächen" class="slide level2">
+<h2>Benutzeroberflächen</h2>
+<h3 id="ziele-1">Ziele</h3>
+<ul>
+<li>Unterschiede zwischen Usability und UX (User Experience) kennen</li>
+<li>Prinzipien des nutzerzentrierten Designs anwenden können</li>
+<li>Gestaltungsentscheidungen fuer Benutzeroberflächen begründen können</li>
+</ul>
+<aside class="notes">
+<p>Quelle: 3.4.14 Benutzeroberfläche https://github.com/KyokoSpl/IHK-pr-fung-lernmaterial</p>
+<style type="text/css">
+span.MJX_Assistive_MathML {
+position:absolute!important;
+clip: rect(1px, 1px, 1px, 1px);
+padding: 1px 0 0 0!important;
+border: 0!important;
+height: 1px!important;
+width: 1px!important;
+overflow: hidden!important;
+display:block!important;
+}</style></aside>
+</section>
+<section id="usability-vs.-user-experience-ux" class="slide level2">
+<h2>Usability vs. User Experience (UX)</h2>
+<div style="font-size: 1.7rem">
+<table class="caption-top">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 27%">
+<col style="width: 52%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Aspekt</th>
+<th>Usability</th>
+<th>User Experience (UX)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Definition</td>
+<td>Gebrauchstauglichkeit (ISO 9241-11)</td>
+<td>Gesamterlebnis des Benutzers</td>
+</tr>
+<tr class="even">
+<td>Fokus</td>
+<td>Aufgabe effektiv, effizient, zufrieden erledigen</td>
+<td>Emotionen, Erwartungen, Ästhetik</td>
+</tr>
+<tr class="odd">
+<td>Umfang</td>
+<td>Teilaspekt von UX</td>
+<td>Umfasst Usability + Gesamteindruck</td>
+</tr>
+<tr class="even">
+<td>Messbar durch</td>
+<td>Aufgabenerfüllung, Fehlerquote, Zeit</td>
+<td>Befragung, Emotionsmessung, Net Promoter Score</td>
+</tr>
+<tr class="odd">
+<td>Beispiel</td>
+<td>“Ich konnte die Bestellung in 3 Klicks aufgeben”</td>
+<td>“Die App fühlt sich modern an und macht Spaß”</td>
+</tr>
+</tbody>
+</table>
+<div class="fragment">
+<p><strong>Merke:</strong> Gute UX setzt gute Usability voraus, aber gute Usability allein reicht fuer gute UX nicht aus.</p>
+</div>
+</div>
+</section>
+<section id="user-centered-design-ucd-nutzerzentrierter-entwurf" class="slide level2">
+<h2>User-Centered Design (UCD) – Nutzerzentrierter Entwurf</h2>
+<div style="font-size: 1.6rem">
+<p><strong>Definition:</strong> Ein Designprozess, bei dem die Bedürfnisse, Wünsche und Einschränkungen der Benutzer in jeder Phase berücksichtigt werden.</p>
+<p><strong>Ablauf (nach DIN EN ISO 9241-210):</strong></p>
+<pre><code>+---------------------+      +---------------------+
+| 1. Nutzungskontext  |  -&gt;  |  2. Anforderungen   |
+|    verstehen        |      |    spezifizieren    |
++--------+------------+      +--------+------------+
+                                      |
+                                      v
+                             +--------+------------+
+                             | 3. Gestaltungs-     |
+                    +-------&gt;|    lösungen         | 
+                    |        |    entwerfen        |
+                    |        +--------+------------+
+                    |                     |
+                    |                     v
+                    |         +--------+-----------+
+                    +--------| 4. Evaluation       |
+                    Iteration|    (Testen mit      | 
+                             |     Benutzern)      |
+                             +---------------------+</code></pre>
+</div>
+</section>
+<section id="user-centered-design-ucd" class="slide level2">
+<h2>User-Centered Design (UCD)</h2>
+<h3 id="phasen-im-detail">Phasen im Detail</h3>
+<ol type="1">
+<li><p><strong>Nutzungskontext verstehen:</strong> Wer sind die Benutzer? Welche Aufgaben erledigen sie? In welcher Umgebung?</p></li>
+<li><p><strong>Anforderungen spezifizieren:</strong> Welche Funktionen benoetigen die Benutzer? Welche Einschränkungen gibt es?</p></li>
+<li><p><strong>Gestaltungsloesungen entwerfen:</strong> Wireframes, Mockups, Prototypen erstellen</p></li>
+<li><p><strong>Evaluation:</strong> Testen mit echten Benutzern, Ergebnisse auswerten, zurück zu Schritt 3</p></li>
+</ol>
+<h3 id="heuristische-evaluation-nach-nielsen">Heuristische Evaluation nach Nielsen</h3>
+<div style="font-size: 1.6rem">
+<p><strong>Jakob Nielsen</strong> definierte 10 Usability-Heuristiken zur Bewertung von Benutzeroberflaechen:</p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 17%">
+<col style="width: 39%">
+<col style="width: 42%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Nr.</th>
+<th>Heuristik</th>
+<th>Erklaerung</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Sichtbarkeit des Systemstatus</td>
+<td>System informiert über aktuellen Zustand (z.B. Ladebalken)</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Übereinstimmung System / reale Welt</td>
+<td>Begriffe und Symbole aus der Nutzerwelt verwenden</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Nutzerkontrolle und Freiheit</td>
+<td>Undo / Redo, Abbrechen-Button</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Konsistenz und Standards</td>
+<td>Einheitliche Begriffe und Layouts</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Fehlervermeidung</td>
+<td>Validierung vor Absenden, Bestätigungsdialoge</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>Erkennen statt Erinnern</td>
+<td>Sichtbare Optionen statt versteckter Befehle</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>Flexibilität und Effizienz</td>
+<td>Shortcuts für Experten, Standard für Einsteiger</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>Ästhetisches und minimalistisches Design</td>
+<td>Nur relevante Informationen anzeigen</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td>Fehler erkennen und beheben</td>
+<td>Klare Fehlermeldungen mit Lösungsvorschlag</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td>Hilfe und Dokumentation</td>
+<td>Kontextsensitive Hilfe, FAQ, Suchfunktion</td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<section id="responsive-design-techniken" class="slide level2">
+<h2>Responsive Design: Techniken</h2>
+<div style="font-size: 1.8rem">
+<p><strong>Definition:</strong> Webdesign, bei dem sich das Layout automatisch an verschiedene Bildschirmgrößen anpasst (Desktop, Tablet, Smartphone).</p>
+<p><strong>Techniken:</strong></p>
+<table class="caption-top">
+<thead>
+<tr class="header">
+<th>Technik</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Media Queries</td>
+<td>CSS-Regeln für verschiedene Bildschirmbreiten</td>
+</tr>
+<tr class="even">
+<td>Flexibles Grid</td>
+<td>Spalten passen sich prozentual an</td>
+</tr>
+<tr class="odd">
+<td>Flexible Bilder</td>
+<td>Bilder skalieren mit <code>max-width: 100%</code></td>
+</tr>
+<tr class="even">
+<td>Mobile First</td>
+<td>Design beginnt mit der kleinsten Ansicht</td>
+</tr>
+<tr class="odd">
+<td>Breakpoints</td>
+<td>Definierte Punkte, an denen das Layout wechselt</td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<section id="responsive-design-breakpoints" class="slide level2">
+<h2>Responsive Design: Breakpoints</h2>
+<p><strong>Typische Breakpoints:</strong></p>
+<pre><code>Smartphone:  &lt; 576px   (1 Spalte)
+Tablet:      576-992px (2 Spalten)
+Desktop:     &gt; 992px   (3+ Spalten)</code></pre>
+<h3 id="gestaltungsgesetze-gestaltpsychologie">Gestaltungsgesetze (Gestaltpsychologie)</h3>
+<div style="font-size: 1.8rem">
+<table class="caption-top">
+<colgroup>
+<col style="width: 27%">
+<col style="width: 37%">
+<col style="width: 34%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Gesetz</th>
+<th>Bedeutung</th>
+<th>Beispiel</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Nähe</td>
+<td>Elemente nah beieinander werden als zusammengehörig wahrgenommen</td>
+<td>Formularfeld + Label</td>
+</tr>
+<tr class="even">
+<td>Ähnlichkeit</td>
+<td>Gleichartige Elemente werden als Gruppe wahrgenommen</td>
+<td>Gleiche Farbe für Aktions-Buttons</td>
+</tr>
+<tr class="odd">
+<td>Geschlossenheit</td>
+<td>Unvollständige Formen werden im Kopf ergänzt</td>
+<td>Logo mit Lücken</td>
+</tr>
+<tr class="even">
+<td>Kontinuität</td>
+<td>Das Auge folgt Linien und Kurven</td>
+<td>Navigation in einer Reihe</td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<section id="ux-evaluationsmethoden" class="slide level2">
+<h2>UX: Evaluationsmethoden</h2>
+<div style="font-size: 1.8rem">
+<table class="caption-top">
+<colgroup>
+<col style="width: 21%">
+<col style="width: 33%">
+<col style="width: 21%">
+<col style="width: 23%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Methode</th>
+<th>Durchfuehrung</th>
+<th>Aufwand</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Heuristische Evaluation</td>
+<td>Experten prüfen anhand Heuristiken</td>
+<td>Mittel</td>
+<td>Liste von Usability-Problemen</td>
+</tr>
+<tr class="even">
+<td>Usability-Test</td>
+<td>5-8 Benutzer führen Aufgaben aus</td>
+<td>Hoch</td>
+<td>Konkrete Nutzungsprobleme</td>
+</tr>
+<tr class="odd">
+<td>A/B-Test</td>
+<td>Zwei Varianten werden verglichen</td>
+<td>Mittel</td>
+<td>Statistisch bessere Variante</td>
+</tr>
+<tr class="even">
+<td>Eye-Tracking</td>
+<td>Blickbewegungen werden aufgezeichnet</td>
+<td>Sehr hoch</td>
+<td>Visuelle Aufmerksamkeitsmuster</td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<section id="ux-häufige-fehler" class="slide level2">
+<h2>UX: Häufige Fehler</h2>
+<div style="font-size: 2rem">
+<ul>
+<li class="fragment">UX wird auf “schön aussehen” reduziert → UX umfasst das gesamte Nutzungserlebnis</li>
+<li class="fragment">Responsive Design wird mit “mobilfreundlich” gleichgesetzt → es umfasst ALLE Bildschirmgrößen</li>
+<li class="fragment">Heuristische Evaluation wird mit Usability-Test verwechselt: Heuristik = Experten, Usability-Test = echte Benutzer</li>
+<li class="fragment">Gestaltungsgesetze werden ignoriert → fuehrt zu unübersichtlichen Oberflächen</li>
+</ul>
+</div>
 </section>
 <section id="section" class="slide level2">
 <h2><!-- --></h2>
