@@ -15,9 +15,66 @@ execute:
 callout-appearance: simple
 ---
 
+## EULA
+
+:::: {style="font-size: 2rem"}
+
+**Was beschreibt eine EULA *(End User License Agreement)* während des Installationsprozesses von Software?**
+
+::: incremental
+
+- EULA = Endbenutzer-Lizenzvereinbarung *(End User License Agreement)*
+- enthält Regelungen, ewlche bei der allgemeinen Benutzung einer Software eingehalten werden sollen
+- EULA wird häufig zu Beginn des Installationsprozesses angezeigt
+- Nutzer muss der EULA zustimmen, sonst kann der Installationsprozess nicht weitergeführt werden
+
+:::
+::::
+
+::: notes
+Lernkarte AP1 2025 Nr. 165
+:::
+
+
 ## Lizenzarten
 
 ## SaaS, IaaS, PaaS
+
+
+## Per-Per-Use
+
+::::: {.incremental style="font-size: 2rem"}
+
+**Erläutere die Vor- und Nachteile beim Lizenzmodell Pay-per-Use.**
+
+- Allgemein kann man sagen, dass beim **Per-per-use Lizenzmodell** nur für Dienstleistungen bezahlt wird, die man genutzt hat.
+
+:::: columns
+::: column
+
+### Vorteile
+
+- man bindet keine finanziellen Mittel
+- man kan individuelle Leistungen skalieren, je nach Bedarf
+- Unternehmen geht kein finanzielles Risiko ein
+
+:::
+
+::: column
+
+### Nachteile
+
+- ist für den 24/7-Einsatz nicht immer die kostengünstigste Variante
+- Risiko bei Ausfall der Dienstleistung, da Service nicht selbst betrieben wird
+- keine Spezialdienstleistungen möglich oder sehr teuer
+
+:::
+::::
+:::::
+
+::: notes
+Lernkarte AP1 2025 Nr. 148
+:::
 
 
 ## <!-- -->
