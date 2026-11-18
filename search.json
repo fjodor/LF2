@@ -960,13 +960,6 @@
     "text": "EULA\n\nWas beschreibt eine EULA (End User License Agreement) während des Installationsprozesses von Software?\n\nEULA = Endbenutzer-Lizenzvereinbarung (End User License Agreement)\nenthält Regelungen, ewlche bei der allgemeinen Benutzung einer Software eingehalten werden sollen\nEULA wird häufig zu Beginn des Installationsprozesses angezeigt\nNutzer muss der EULA zustimmen, sonst kann der Installationsprozess nicht weitergeführt werden\n\n\n\nLernkarte AP1 2025 Nr. 165"
   },
   {
-    "objectID": "06_Lizenzmanagement.html#lizenzarten",
-    "href": "06_Lizenzmanagement.html#lizenzarten",
-    "title": "Hardware-, Software- und Lizenzmanagement",
-    "section": "Lizenzarten",
-    "text": "Lizenzarten"
-  },
-  {
     "objectID": "06_Lizenzmanagement.html#saas-iaas-paas",
     "href": "06_Lizenzmanagement.html#saas-iaas-paas",
     "title": "Hardware-, Software- und Lizenzmanagement",
@@ -974,18 +967,25 @@
     "text": "SaaS, IaaS, PaaS"
   },
   {
-    "objectID": "06_Lizenzmanagement.html#per-per-use",
-    "href": "06_Lizenzmanagement.html#per-per-use",
+    "objectID": "06_Lizenzmanagement.html#per-per-use-vor--und-nachteile",
+    "href": "06_Lizenzmanagement.html#per-per-use-vor--und-nachteile",
     "title": "Hardware-, Software- und Lizenzmanagement",
-    "section": "Per-Per-Use",
-    "text": "Per-Per-Use\n\nErläutere die Vor- und Nachteile beim Lizenzmodell Pay-per-Use.\n\nAllgemein kann man sagen, dass beim Per-per-use Lizenzmodell nur für Dienstleistungen bezahlt wird, die man genutzt hat.\n\n\n\nVorteile\n\nman bindet keine finanziellen Mittel\nman kan individuelle Leistungen skalieren, je nach Bedarf\nUnternehmen geht kein finanzielles Risiko ein\n\n\nNachteile\n\nist für den 24/7-Einsatz nicht immer die kostengünstigste Variante\nRisiko bei Ausfall der Dienstleistung, da Service nicht selbst betrieben wird\nkeine Spezialdienstleistungen möglich oder sehr teuer\n\n\n\n\nLernkarte AP1 2025 Nr. 148"
+    "section": "Per-Per-Use: Vor- und Nachteile",
+    "text": "Per-Per-Use: Vor- und Nachteile\n\nErläutere die Vor- und Nachteile beim Lizenzmodell Pay-per-Use.\n\nAllgemein kann man sagen, dass beim Per-per-use Lizenzmodell nur für Dienstleistungen bezahlt wird, die man genutzt hat.\n\n\n\nVorteile\n\nman bindet keine finanziellen Mittel\nman kann individuelle Leistungen skalieren, je nach Bedarf\nUnternehmen geht kein finanzielles Risiko ein\n\n\nNachteile\n\nist für den 24/7-Einsatz nicht immer die kostengünstigste Variante\nRisiko bei Ausfall der Dienstleistung, da Service nicht selbst betrieben wird\nkeine Spezialdienstleistungen möglich oder sehr teuer\n\n\n\n\nLernkarte AP1 2025 Nr. 148"
+  },
+  {
+    "objectID": "06_Lizenzmanagement.html#service-level-agreement-sla",
+    "href": "06_Lizenzmanagement.html#service-level-agreement-sla",
+    "title": "Hardware-, Software- und Lizenzmanagement",
+    "section": "Service Level Agreement (SLA)",
+    "text": "Service Level Agreement (SLA)\n\nWas versteht man in der IT unter dem Begriff Service Level Agreement (SLA)?\n\nMit SLAs werden Prioritäten bei der Bearbeitung von Service-Fällen zwischen Kunden und Anbieter definiert\nSLAs dienen der Qualitätssicherung und werden in einer Vereinbarung anhand von Leistungseigenschaften und Gütestufen der Dienstleistung oder der Produkte vertraglich festgelegt\nZu diesen Vereinbarungen zählen beispielsweise:\n\nVertragslaufzeit\nVertragsziel, z. B. Gewährleistung minimaler Ausfallzeiten\nServicezeiten, z. B. Mo-Fr von 07:00 bis 18:00 Uhr\nVerantwortlichkeiten von Auftraggeber und -nehmer, z. B. Meldepflichten\nKommunikation zw. Auftraggeber und Auftragnehmer, z. B. Mail, Fax, vor-Ort-Einsatz\nSupportlevel nach Kategorien\nReaktionszeit, z. B. Fallbearbeitung innerhalb von 24h\nSanktionen bei Nichterfüllung des Vertrages\n\n\n\n\nLernkarte AP1 2025 Nr. 239"
   },
   {
     "objectID": "06_Lizenzmanagement.html#section",
     "href": "06_Lizenzmanagement.html#section",
     "title": "Hardware-, Software- und Lizenzmanagement",
     "section": "",
-    "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!"
+    "text": "©torange.biz CC-BY 4.0\n\n\nViel Erfolg!\n\n\nto do: Lizenzarten"
   },
   {
     "objectID": "07_Projektorganisation.html#was-ist-ein-projekt-merkmale",
