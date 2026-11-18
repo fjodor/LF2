@@ -124,14 +124,14 @@ Gelöscht, weil falsch: Die Leistungsangaben von elektrischen Geräten **gelten*
 
 :::: {.incremental style="font-size: 1.8rem"}
 
-Wie berechnet man den Energieverbrauch von elektrischen Geräten?
+Wie berechnet man den Energieverbrauch (genauer: Energieaufnahme) von elektrischen Geräten?
 
 - Die elektrische Energie **E** ist das Produkt aus Leistung **P** und Zeit **t**:
 
   [***E = P \* t***]{style="font-size: 2.5rem"}
 
 - Die Berechnung wird häufig in der Maßeinheit **Wattstunden (Wh)** oder **Kilowattstunden (kWh)** angegeben.
-- Die elektrische Energie beschreibt, **wie viel Leistung über einen bestimmten Zeitraum verbraucht wird**.
+- Die elektrische Energie beschreibt, **wie viel Leistung über einen bestimmten Zeitraum "verbraucht" (aufgenommen) wird**.
 - Beispiel: Ein Gerät mit einer Leistung von **100 W**, das **10 Stunden** betrieben wird, verbraucht:  
 
   [***E = 100 W \* 10 h = 1000 Wh = 1 kWh***]{style="font-size: 2.2rem"}
