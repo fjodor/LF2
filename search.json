@@ -103,7 +103,14 @@
     "href": "05_Elektrik-Grundlagen.html#elektrische-leistung",
     "title": "Elektrik Grundlagen",
     "section": "Elektrische Leistung",
-    "text": "Elektrische Leistung\n\nWie berechnet man die Wirkleistung von elektrischen Geräten?\n\nDie elektrische Leistungsberechnung von IT-Komponenten unterliegt den allgemeinen Gesetzen der Elektrotechnik.\nDie elektrische Wirkleistung P ist das Produkt von Spannung U und Stromstärke I:\nP = U x I\nDie Berechnung wird in der Maßeinheit Watt angegeben (= Volt * Ampere!).\nDie Leistungsangaben von elektrischen Geräten gelten immer für die Dauer von 60 Minuten bzw. 1 Stunde.\n\n\n\nLernkarte AP1 2025 Nr. 117"
+    "text": "Elektrische Leistung\n\nWie berechnet man die Wirkleistung von elektrischen Geräten?\n\nDie elektrische Leistungsberechnung von IT-Komponenten unterliegt den allgemeinen Gesetzen der Elektrotechnik.\nDie elektrische Wirkleistung P ist das Produkt von Spannung U und Stromstärke I:\nP = U * I\nDie Berechnung wird in der Maßeinheit Watt angegeben (Watt = Volt * Ampere).\n\n\n\nLernkarte AP1 2025 Nr. 117\nGelöscht, weil falsch: Die Leistungsangaben von elektrischen Geräten gelten immer für die Dauer von 60 Minuten bzw. 1 Stunde."
+  },
+  {
+    "objectID": "05_Elektrik-Grundlagen.html#elektrische-energie",
+    "href": "05_Elektrik-Grundlagen.html#elektrische-energie",
+    "title": "Elektrik Grundlagen",
+    "section": "Elektrische Energie",
+    "text": "Elektrische Energie\n\nWie berechnet man den Energieverbrauch von elektrischen Geräten?\n\nDie elektrische Energie E ist das Produkt aus Leistung P und Zeit t:\nE = P * t\nDie Berechnung wird häufig in der Maßeinheit Wattstunden (Wh) oder Kilowattstunden (kWh) angegeben.\nDie elektrische Energie beschreibt, wie viel Leistung über einen bestimmten Zeitraum verbraucht wird.\nBeispiel: Ein Gerät mit einer Leistung von 100 W, das 10 Stunden betrieben wird, verbraucht:\nE = 100 W * 10 h = 1000 Wh = 1 kWh"
   },
   {
     "objectID": "05_Elektrik-Grundlagen.html#section",
@@ -925,6 +932,13 @@
     ]
   },
   {
+    "objectID": "06_Lizenzmanagement.html#eula",
+    "href": "06_Lizenzmanagement.html#eula",
+    "title": "Hardware-, Software- und Lizenzmanagement",
+    "section": "EULA",
+    "text": "EULA\n\nWas beschreibt eine EULA (End User License Agreement) während des Installationsprozesses von Software?\n\nEULA = Endbenutzer-Lizenzvereinbarung (End User License Agreement)\nenthält Regelungen, ewlche bei der allgemeinen Benutzung einer Software eingehalten werden sollen\nEULA wird häufig zu Beginn des Installationsprozesses angezeigt\nNutzer muss der EULA zustimmen, sonst kann der Installationsprozess nicht weitergeführt werden\n\n\n\nLernkarte AP1 2025 Nr. 165"
+  },
+  {
     "objectID": "06_Lizenzmanagement.html#lizenzarten",
     "href": "06_Lizenzmanagement.html#lizenzarten",
     "title": "Hardware-, Software- und Lizenzmanagement",
@@ -937,6 +951,13 @@
     "title": "Hardware-, Software- und Lizenzmanagement",
     "section": "SaaS, IaaS, PaaS",
     "text": "SaaS, IaaS, PaaS"
+  },
+  {
+    "objectID": "06_Lizenzmanagement.html#per-per-use",
+    "href": "06_Lizenzmanagement.html#per-per-use",
+    "title": "Hardware-, Software- und Lizenzmanagement",
+    "section": "Per-Per-Use",
+    "text": "Per-Per-Use\n\nErläutere die Vor- und Nachteile beim Lizenzmodell Pay-per-Use.\n\nAllgemein kann man sagen, dass beim Per-per-use Lizenzmodell nur für Dienstleistungen bezahlt wird, die man genutzt hat.\n\n\n\nVorteile\n\nman bindet keine finanziellen Mittel\nman kan individuelle Leistungen skalieren, je nach Bedarf\nUnternehmen geht kein finanzielles Risiko ein\n\n\nNachteile\n\nist für den 24/7-Einsatz nicht immer die kostengünstigste Variante\nRisiko bei Ausfall der Dienstleistung, da Service nicht selbst betrieben wird\nkeine Spezialdienstleistungen möglich oder sehr teuer\n\n\n\n\nLernkarte AP1 2025 Nr. 148"
   },
   {
     "objectID": "06_Lizenzmanagement.html#section",
