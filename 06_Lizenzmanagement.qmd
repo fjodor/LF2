@@ -15,9 +15,112 @@ execute:
 callout-appearance: simple
 ---
 
-## Lizenzarten
+## EULA
+
+:::: {style="font-size: 2rem"}
+
+**Was beschreibt eine EULA *(End User License Agreement)* während des Installationsprozesses von Software?**
+
+::: incremental
+
+- EULA = Endbenutzer-Lizenzvereinbarung *(End User License Agreement)*
+- enthält Regelungen, ewlche bei der allgemeinen Benutzung einer Software eingehalten werden sollen
+- EULA wird häufig zu Beginn des Installationsprozesses angezeigt
+- Nutzer muss der EULA zustimmen, sonst kann der Installationsprozess nicht weitergeführt werden
+
+:::
+::::
+
+::: notes
+Lernkarte AP1 2025 Nr. 165
+:::
+
 
 ## SaaS, IaaS, PaaS
+
+
+---
+
+### Per-Per-Use: Beschreibung
+
+:::: {.incremental style="font-size: 1.8rem"}
+
+**Beschreibe das Modell Pay-per-use in der Informationstechnologie.**
+
+- Finanzierungsmodell für die Nutzung von Hard- und Software
+- Man bezahlt nur für tatsächliche Nutzung
+- Keine Anschaffungskosten, keine Softwarepflege, keine Lizenzierungskosten
+- Immer aktuelle Version
+- Bei Cloudanbietern: Skalierbarkeit, Flexibilität, hohe Ausfallsicherheit
+- Schwankungen bei der Nutzung eigener Rechenleistungen durch Pay-per-Use-Modell kurzfristig ausgleichbar
+- Nutzung der Ressourcen wird auf Basis der Nutzungsdauer stunden- oder minutengenau abgerechnet
+
+::::
+
+::: notes
+Lernkarte AP1 2025 Nr. 166
+:::
+
+
+## Per-Per-Use: Vor- und Nachteile
+
+::::: {.incremental style="font-size: 2rem"}
+
+**Erläutere die Vor- und Nachteile beim Lizenzmodell Pay-per-Use.**
+
+- Allgemein kann man sagen, dass beim **Per-per-use Lizenzmodell** nur für Dienstleistungen bezahlt wird, die man genutzt hat.
+
+:::: columns
+::: column
+
+### Vorteile
+
+- man bindet keine finanziellen Mittel
+- man kann individuelle Leistungen skalieren, je nach Bedarf
+- Unternehmen geht kein finanzielles Risiko ein
+
+:::
+
+::: column
+
+### Nachteile
+
+- ist für den 24/7-Einsatz nicht immer die kostengünstigste Variante
+- Risiko bei Ausfall der Dienstleistung, da Service nicht selbst betrieben wird
+- keine Spezialdienstleistungen möglich oder sehr teuer
+
+:::
+::::
+:::::
+
+::: notes
+Lernkarte AP1 2025 Nr. 148
+:::
+
+
+## Service Level Agreement (SLA)
+
+:::: {.incremental style="font-size: 1.6rem"}
+
+**Was versteht man in der IT unter dem Begriff *Service Level Agreement (SLA)*?**
+
+- Mit SLAs werden **Prioritäten bei der Bearbeitung von Service-Fällen** zwischen Kunden und Anbieter definiert
+- SLAs dienen der Qualitätssicherung und werden in einer Vereinbarung anhand von Leistungseigenschaften und Gütestufen der Dienstleistung oder der Produkte vertraglich festgelegt
+- Zu diesen Vereinbarungen zählen beispielsweise:
+  + Vertragslaufzeit
+  + Vertragsziel, z. B. Gewährleistung minimaler Ausfallzeiten
+  + Servicezeiten, z. B. Mo-Fr von 07:00 bis 18:00 Uhr
+  + Verantwortlichkeiten von Auftraggeber und -nehmer, z. B. Meldepflichten
+  + Kommunikation zw. Auftraggeber und Auftragnehmer, z. B. Mail, Fax, vor-Ort-Einsatz
+  + Supportlevel nach Kategorien
+  + Reaktionszeit, z. B. Fallbearbeitung innerhalb von 24h
+  + Sanktionen bei Nichterfüllung des Vertrages
+
+::::
+
+::: notes
+Lernkarte AP1 2025 Nr. 239
+:::
 
 
 ## <!-- -->
@@ -31,3 +134,9 @@ callout-appearance: simple
 ::: {style="color: green; text-align: center; font-size: 2.8rem"}
 **Viel Erfolg!**
 :::
+
+::: notes
+to do:
+Lizenzarten
+:::
+
