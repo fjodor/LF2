@@ -38,7 +38,20 @@ Lernkarte AP1 2025 Nr. 165
 
 ## On Premises
 
-:::: {.incremental style="font-size: 2.1rem"}
+:::: {.incremental style="font-size: 1.9rem"}
+
+**Welche Kosten entstehen für ein Rechenzentrum *(on-Premises)* mit einer Server-Client-Struktur?**
+
+- Kauf / Miete für Gebäude / Raum
+- Anschaffungskosten (IT-Hardware, Software, Kühlung)
+- evtl. Miet-/ Leasinggebühren (Hardware, Software)
+- Lizenzgebühren (Betriebssystem, Anwendersoftware)
+- Energiekosten (Hardware, Kühlung, Sicherheitstechnik)
+- Wartung / Instandhaltung
+- Brandschutz
+- Sicherheitstechnik
+- Versicherungen
+- ...
 
 ::::
 
@@ -89,9 +102,7 @@ Lernkarte AP1 2025 Nr. 66
 
 **Nenne die Vorteile des Servicemodells *PaaS (Platform as a Service)***.
 
-Folgende Vorteile ergeben sich bei der Nutzung des Servicemodells **PaaS**:
-
-- **Reduzierter Programmieraufwand**, da mit den Paas-Entwicklungstools sich der Zeitaufwand für das Schreiben von Code für neue Apps reduziert
+- **Reduzierter Programmieraufwand**, da mit den PaaS-Entwicklungstools sich der Zeitaufwand für das Schreiben von Code für neue Apps reduziert
 - **Zusätzliche Entwicklungsmöglichkeiten**, ohne dass neue Mitarbeitende eingestellt werden müssen. Entwicklungsteams können neue Funktionen mit Hilfe der PaaS-Komponenten nutzen, ohne diese selbst entwickeln zu müssen.
 - **Einfachere Entwicklung für mehrere Plattformen**: teilweise werden Entwicklungsoptionen für mehrere Plattformen wie Computer, Mobilgeräte und Browser vom Provider angeboten.
 - **Kostengünstige Nutzung** der Tools
@@ -148,6 +159,26 @@ Hardware | Kunde | Anbieter	| Anbieter | Anbieter
 Eigene Ergänzung, da Pyramidensystem unklar
 :::
 
+
+## Cloud-Formen im Cloud Computing
+
+:::: {.incremental style="font-size: 1.7rem"}
+
+**Nenne die verschiedenen Cloud-Formen, die durch Cloud Computing angeboten werden.**
+
+- **Public Cloud** - die öffentliche Rechnerwolke: Stellt Zugang zu abstrahierten IT-Infrastrukturen für die breite Öffentlichkeit über das Internet bereit.
+- **Private Cloud** - die private Rechnerwolke: Stellt ausschließlich für eine Organisation oder ein Unternehmen den Zugang in eine Cloud-Umgebung bereit.
+- **Hybrid Cloud** - die hybride Rechnerwolke: Kombination aus *Public* und *Private Cloud*
+- **Community Cloud** - die geminschaftliche Rechnerwolke: Stellt Zugang zu abstrahierten IT-Infrastrukturen wie bei der Public Cloud bereit, jedoch **nur für bestimmte Nutzergruppen**, z. B. städtische Behörden, Universitäten, Firmen mit ähnlichen Interessen, Forschungsgemeinschaften, Genossenschaften usw.
+- Weiterhin gibt es **Mischformen** der genannten Cloud-Typen:
+  + **Virtual Private Cloud** - eine private Rechnerwolke auf öffentlich zugänglichen IT-Infrastrukturen
+  + **Multi Cloud** - bündelt die verschiedenen Cloud-Computing-Dienste
+
+::::
+
+::: notes
+Lernkarte AP1 2025 Nr. 64
+:::
 
 ---
 
