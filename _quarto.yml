@@ -22,8 +22,10 @@ website:
         text: 04 Nutzwertanalyse
       - href: 05_Elektrik-Grundlagen.qmd
         text: 05 Elektrik Grundlagen
-      - href: 07a_Projektorga-Block2.qmd
-        text: 06 Projektorganisation
+      - href: 06_Lizenzmanagement_Block2.qmd
+        text: 06 Hardware-, Software- und Lizenzmanagement
+      - href: 07b_Projektorga-Block2.qmd
+        text: 07 Projektorganisation
 
 format:
   revealjs:

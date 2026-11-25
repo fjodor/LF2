@@ -182,7 +182,7 @@ Lernkarte AP1 2025 Nr. 64
 
 ---
 
-### Per-Per-Use: Beschreibung
+### Pay-Per-Use: Beschreibung
 
 :::: {.incremental style="font-size: 1.8rem"}
 
@@ -203,13 +203,13 @@ Lernkarte AP1 2025 Nr. 166
 :::
 
 
-## Per-Per-Use: Vor- und Nachteile
+## Pay-Per-Use: Vor- und Nachteile
 
 ::::: {.incremental style="font-size: 2rem"}
 
 **Erläutere die Vor- und Nachteile beim Lizenzmodell Pay-per-Use.**
 
-- Allgemein kann man sagen, dass beim **Per-per-use Lizenzmodell** nur für Dienstleistungen bezahlt wird, die man genutzt hat.
+- Allgemein kann man sagen, dass beim **Pay-per-use Lizenzmodell** nur für Dienstleistungen bezahlt wird, die man genutzt hat.
 
 :::: columns
 ::: column
