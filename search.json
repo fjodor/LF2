@@ -231,6 +231,16 @@
     ]
   },
   {
+    "objectID": "06_Lizenzmanagement_Block2.html#caas",
+    "href": "06_Lizenzmanagement_Block2.html#caas",
+    "title": "Hardware-, Software- und Lizenzmanagement",
+    "section": "CaaS",
+    "text": "CaaS\nNot-so-Fun-Fact: Crime as a Service (CaaS)\n\n\nCaaS bietet kriminelle Dienstleistungen, die online bereitgestellt werden\nNutzer greifen über Darknet-Plattformen oder andere Kanäle darauf zu\nBeispiele:\n\nFake Shops: Bereitstellung von fertigen Webseiten, die Kunden täuschen und Daten sowie Geld stehlen\nPhising Kits: Komplettpakete für das Erstellen von Phishing-Webseiten\nDDoS-for-Hire: Distributed Denial of Service: Mieten von Bot-Diensten, um gezielte Angriffe durchzuführen\n\n\n\n\nQuelle: FI25 Skript",
+    "crumbs": [
+      "06 Hardware-, Software- und Lizenzmanagement"
+    ]
+  },
+  {
     "objectID": "06_Lizenzmanagement_Block2.html#pay-per-use-vor--und-nachteile",
     "href": "06_Lizenzmanagement_Block2.html#pay-per-use-vor--und-nachteile",
     "title": "Hardware-, Software- und Lizenzmanagement",
@@ -1173,6 +1183,13 @@
     "title": "Hardware-, Software- und Lizenzmanagement",
     "section": "IaaS, PaaS und SaaS im Vergleich",
     "text": "IaaS, PaaS und SaaS im Vergleich\n\nUnterscheide die 3 Cloud-Computing-Begriffe IaaS, SaaS und PaaS.\nBeim Cloud-Computing unterscheidet man drei Cloud-Service-Ebenen, die wie bei einer Pyramide aufeinander aufbauen:\n\nInfrastructure as a Service (IaaS) ist im Wesentlichen der Ersatz für traditionelle Rechenzentren.\nPlatform as a Service (PaaS) beschreibt eine Architektur, in der die Entwicklungs- und Laufzeitumgebungen für Software bereitgestellt werden.\nSoftware as a Service (SaaS) beschreibt ein Konzept, bei dem Software nicht länger als Lizenz an einen Benutzer verkauft wird, sondern ihm gleich als Service zur Verfügung gestellt wird.\n\n\n\nLernkarte AP1 2025 Nr. 246"
+  },
+  {
+    "objectID": "06_Lizenzmanagement.html#caas",
+    "href": "06_Lizenzmanagement.html#caas",
+    "title": "Hardware-, Software- und Lizenzmanagement",
+    "section": "CaaS",
+    "text": "CaaS\nNot-so-Fun-Fact: Crime as a Service (CaaS)\n\n\nCaaS bietet kriminelle Dienstleistungen, die online bereitgestellt werden\nNutzer greifen über Darknet-Plattformen oder andere Kanäle darauf zu\nBeispiele:\n\nFake Shops: Bereitstellung von fertigen Webseiten, die Kunden täuschen und Daten sowie Geld stehlen\nPhising Kits: Komplettpakete für das Erstellen von Phishing-Webseiten\nDDoS-for-Hire: Distributed Denial of Service: Mieten von Bot-Diensten, um gezielte Angriffe durchzuführen\n\n\n\n\nQuelle: FI25 Skript"
   },
   {
     "objectID": "06_Lizenzmanagement.html#cloud-formen-im-cloud-computing",
