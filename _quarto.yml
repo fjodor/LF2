@@ -22,7 +22,7 @@ website:
         text: 04 Nutzwertanalyse
       - href: 05_Elektrik-Grundlagen.qmd
         text: 05 Elektrik Grundlagen
-      - href: 07a_Projektorga-Block1.qmd
+      - href: 07a_Projektorga-Block2.qmd
         text: 06 Projektorganisation
 
 format:
