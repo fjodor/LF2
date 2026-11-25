@@ -139,6 +139,26 @@ Eigene Ergänzung, da Pyramidensystem unklar
 :::
 
 
+## CaaS
+
+#### Not-so-Fun-Fact: *Crime as a Service* (CaaS)
+
+:::: {style="font-size: 2rem"}
+
+- CaaS bietet **kriminelle Dienstleistungen**, die online bereitgestellt werden
+- Nutzer greifen über **Darknet-Plattformen** oder andere Kanäle darauf zu
+- Beispiele:
+  + **Fake Shops:** Bereitstellung von fertigen Webseiten, die Kunden täuschen und Daten sowie Geld stehlen
+  + **Phising Kits:** Komplettpakete für das Erstellen von Phishing-Webseiten
+  + **DDoS-for-Hire:** *Distributed Denial of Service:* Mieten von Bot-Diensten, um gezielte Angriffe durchzuführen
+
+::::
+
+::: notes
+Quelle: FI25 Skript
+:::
+
+
 ---
 
 ### Pay-Per-Use: Beschreibung
