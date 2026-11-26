@@ -490,6 +490,50 @@ Lernkarte AP1 2025 Nr. 226
 :::
 
 
+## Abnahmeprotokoll
+
+:::: {.incremental style="font-size: 1.8rem"}
+
+**Nenne die wesentlichen Bestandteile eines Abnahmeprotokolls für ein IT-Projekt.**
+
+- Gegenstand der Abnahme
+- beteiligte Personen / Firmen
+- Ort, Datum und Uhrzeit der Abnahme des Produkts
+- Abnahmekriterien, wie **Vollständigkeit** der vereinbarten Liefergegenstände und Leistungen sowie **Qualität** der Liefergegenstände und Leistungen
+- Erfüllung der technischen Anforderungen, wie der Nachweis der funktionellen und nicht-funktionellen Anforderungen
+- Unterschriften von je einem autorisierten Vertreter des Auftraggebers und des Auftragnehmers
+- Umgang mit offenen Punkten
+
+::::
+
+::: notes
+Lernkarte AP1 2025 Nr. 261
+:::
+
+
+## Schritte nach Leistungserbringung
+
+:::: {.incremental style="font-size: 1.8rem"}
+
+**Welche Schritte sind notwendig nach Abschluss erfolgter Leistungserbringung?**
+
+- Auftraggeber muss mit Auftragnehmer eine **Teil- oder Vollabnahme** vereinbaren
+- Auftraggeber überprüft alle Positionen des Auftrags auf korrekte und funktionelle Umsetzung
+- Beide Parteien fertigen gemeinsame ein **Abnahmeprotokoll** an:
+  + Ort, Datum und Uhrzeit der Abnahme
+  + Namen der autorisierten Personen des Auftraggebers sowie Auftragnehmers
+  + qualitative sowie quantitative Mängelfreiheit
+  + bei Mängeln die Fristen für deren Beseitigung bzw. Ersatzlieferungen
+  + Unterschriften des Auftraggebers sowie des Auftragnehmers
+  + Hinweis auf Gewährleistung und Garantien
+
+::::
+
+::: notes
+Lernkarte AP1 2025 Nr. 262
+:::
+
+
 ## <!-- -->
 
 ![](libs/_Images/coffee.jpg){fig-align="center" width="50%"}
