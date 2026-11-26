@@ -285,6 +285,62 @@ Lernkarte AP1 2025 Nr. 239
 :::
 
 
+## Zugriffslizenzen: CAL
+
+:::: {.incremental style="font-size: 1.8rem"}
+
+- **CAL = Client Access Licenses:** Zugriffslizenzen; erforderlich, um auf Dienste eines Servers zuzugreifen
+- regulieren, wie viele Benutzer oder Geräte auf einen Server zugreifen dürfen (zusätzlich zur Serverlizenz selbst)
+- Beispiele: *Windows Server CALs; SQL Server CALs; Exchange Server CALs*
+
+::: fragment
+
+Kriterium | User CAL | Device CAL
+----------|----------|-----------
+Lizenzierung | Pro Benutzer | Pro Gerät
+Vorteil | Ideal für mobile Nutzer mit vielen Geräten | Ideal für gemeinsam genutzte Geräte
+Einsatzzweck | Mitarbeiter mit Laptop, Handy, Tablet | Geräte in Schichtarbeit oder Kiosks
+Beispiel | Außendienstler mit Laptop, Smartphone | PC in der Fertigung für mehrere Nutzer
+
+:::
+::::
+
+::: notes
+FI25 Cloud Computing
+:::
+
+
+## CALs: Vorteile, Nachteile
+
+[**CAL = Client Access Licenses:** Zugriffslizenzen; erforderlich, um auf Dienste eines Servers zuzugreifen]{style="font-size: 1.8rem"}
+
+::::: {.columns style="font-size: 1.8rem"}
+:::: column
+
+### Vorteile
+
+::: fragment
+
+- **Flexibilität:** Wahl zwischen User-CALs und Device-CALs, je nach Unternehmensanforderung
+- **Skalierbarkeit:** Zusätzliche CALs können bei wachsendem Bedarf einfach hinzugefügt werden
+
+:::
+::::
+
+:::: column
+
+### Nachteile
+
+::: fragment
+
+- **Komplexe Lizenzierung:** Erfordert eine genaue Analyse der Nutzung (Benutzer vs. Gerät)
+- **Zusätzliche Kosten:** CALs sind eine zusätzliche Investition neben der Serverlizenz
+
+:::
+::::
+:::::
+
+
 ## <!-- -->
 
 ![](libs/_Images/coffee.jpg){fig-align="center" width="50%"}
