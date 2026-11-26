@@ -188,8 +188,6 @@ Lernkarte AP1 2025 Nr. 4
 :::
 
 
-
-
 ## Gantt-Diagramm: Mermaid
 
 :::: {.columns style="font-size: 1.6rem"}
@@ -532,6 +530,88 @@ Lernkarte AP1 2025 Nr. 261
 ::: notes
 Lernkarte AP1 2025 Nr. 262
 :::
+
+
+## Reflektion eines Projekts
+
+:::: {.incremental style="font-size: 2.2rem"}
+
+**Vorteile der genauen Aufarbeitung des Projektverlaufs:**
+
+- Dokumentation von Risiken -> Eindämmung künftiger Risiken
+- Thematisierung aufgetretener Fehler
+- Erarbeitung einer Strategie zur Fehlervermeidung für zukünftige Projekte
+
+::::
+
+
+::: notes
+FI25; Gratzke, Hauser, Patett, Ringhand (2020): IT-Berufe Grundstufe, Westermann
+:::
+
+
+## Lessons Learned
+
+:::: {.incremental style="font-size: 1.8rem"}
+
+- Sammeln und Analysieren von positiven und negativen Erfahrungen aus dem Projekt
+- Ziele: Projektwissen sichern; zukünftige Projekte verbessern
+- Mögliche Inhalte:
+  + Zusammenfassung der Ergebnisse
+  + Darstellung von Kommunikationsproblemen
+  + Verbesserungsvorschläge
+  + Best Practices / Worst Practices
+  + Umgang mit Budget und Ressourcen
+  + Einhaltung von Zeitplänen und Meilensteinen
+  + Feedback von Stakeholdern und Kunden
+
+::::
+
+::: notes
+FI25; Gratzke, Hauser, Patett, Ringhand (2020): IT-Berufe Grundstufe, Westermann
+:::
+
+
+## Feedback-Kultur
+
+:::: {.incremental style="font-size: 1.8rem"}
+
+- Förderung des Austauschs von Rückmeldungen über Prozesse, Kommunikation, Ziele und Zusammenarbeit zur kontinuierlichen Verbesserung
+- Mögliche Inhalte:
+  + Eindrücke zur Teamdynamik und Arbeitsatmosphäre
+  + Bewertung der Führungs- und Managementstile
+  + Qualität und Effizienz der Meetings und Besprechungen
+  + Wahrnehmung der individuellen Beiträge und Leistungen
+  + Vorschläge zur Verbesserung der Arbeitsprozesse
+  + Rückmeldungen zu Tools und Technologien
+
+::::
+
+::: notes
+FI25; Gratzke, Hauser, Patett, Ringhand (2020): IT-Berufe Grundstufe, Westermann
+:::
+
+
+## Reflektionsmethoden: Retrospektive
+
+:::: columns
+::: column
+
+![](libs/_Images/4L-Retrospektive.png)
+
+:::
+
+::: {.column .fragment}
+
+![](libs/_Images/Starfish-Retrospektive.png)
+
+:::
+::::
+
+::: notes
+FI25; Gratzke, Hauser, Patett, Ringhand (2020): IT-Berufe Grundstufe, Westermann
+:::
+
 
 
 ## <!-- -->
